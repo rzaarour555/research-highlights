@@ -13,7 +13,7 @@ from pathlib import Path
 
 # ---- Settings you can change -------------------------------------------
 AFFILIATION = "Gulf Medical University"   # the name PubMed should look for
-HOW_MANY = 30                               # number of papers to show
+HOW_MANY = 30                              # number of papers to show
 OUTPUT = Path("data/papers.json")
 
 # Subjects shown as filters on the page. A paper gets the subject whose words
@@ -35,6 +35,23 @@ TOPICS = {
     "Public health": ["public health", "prevalence", "epidemiolog", "population-based", "cross-sectional", "health policy", "ageism", "community", "survey"],
 }
 OTHER_TOPIC = "Other research"
+
+# An author counts as a GMU researcher when their affiliation contains one of these.
+GMU_NAMES = ["gulf medical university"]
+
+# Colleges shown as filters on the page. A paper is listed under a college when a
+# GMU author's affiliation contains one of that college's phrases.
+COLLEGES = {
+    "College of Medicine": ["college of medicine"],
+    "College of Dentistry": ["college of dentistry", "college of dental"],
+    "College of Pharmacy": ["college of pharmacy"],
+    "College of Health Sciences": ["college of health sciences", "college of allied health"],
+    "College of Nursing": ["college of nursing"],
+    "College of Management and AI in Healthcare": ["college of healthcare management", "college of management", "healthcare management and economics"],
+    "College of Veterinary Medicine": ["veterinary"],
+    "Research institutes": ["thumbay research institute", "institute for precision medicine", "institute of population health", "institute of health workforce"],
+}
+NO_COLLEGE = "College not stated"
 # ------------------------------------------------------------------------
 
 BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
@@ -86,11 +103,23 @@ def parse_paper(node):
         body = text_of(part)
         if body:
             abstract.append(f"{label.capitalize()}: {body}" if label else body)
-    authors = []
+    authors, gmu_authors, colleges = [], [], []
     for author in article.findall(".//AuthorList/Author"):
         last, initials = author.findtext("LastName"), author.findtext("Initials")
-        if last:
-            authors.append(f"{last} {initials}".strip() if initials else last)
+        if not last:
+            continue
+        authors.append(f"{last} {initials}".strip() if initials else last)
+        # Keep only this author's affiliations that mention GMU
+        places = [text_of(a).lower() for a in author.findall("AffiliationInfo/Affiliation")]
+        places = [place for place in places if any(name in place for name in GMU_NAMES)]
+        if not places:
+            continue
+        gmu_authors.append(f"{author.findtext('ForeName') or initials or ''} {last}".strip())
+        for college, phrases in COLLEGES.items():
+            if college not in colleges and any(ph in place for ph in phrases for place in places):
+                colleges.append(college)
+    if gmu_authors and not colleges:
+        colleges = [NO_COLLEGE]
     doi = ""
     for item in node.findall(".//ArticleIdList/ArticleId"):
         if item.get("IdType") == "doi":
@@ -107,6 +136,8 @@ def parse_paper(node):
         "journal": article.findtext(".//Journal/Title") or "",
         "date": parse_date(article),
         "authors": authors,
+        "gmu_authors": gmu_authors,
+        "colleges": colleges,
         "doi": doi,
         "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
     }
