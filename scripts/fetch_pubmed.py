@@ -15,6 +15,8 @@ from pathlib import Path
 AFFILIATION = "Gulf Medical University"   # the name PubMed should look for
 HOW_MANY = 30                              # number of papers to show
 OUTPUT = Path("data/papers.json")
+KEEP_OLD_PAPERS = True                     # True: papers stay on the page for good. False: only the newest are shown.
+MAX_PAPERS = 1000                          # safety limit on how many papers the page holds
 
 # Subjects shown as filters on the page. A paper gets the subject whose words
 # appear most often in its title, keywords and abstract. To add a subject, add
@@ -169,9 +171,12 @@ def fetch(ids):
     time.sleep(1)
     papers = [parse_paper(node) for node in root.findall("PubmedArticle")]
     # Leave out journal correction notices; they are not research papers
-    notices = ("correction", "erratum", "corrigendum", "retraction")
-    return [paper for paper in papers
-            if paper["title"] and paper["abstract"] and not paper["title"].lower().startswith(notices)]
+    return [paper for paper in papers if paper["title"] and paper["abstract"] and not is_notice(paper)]
+
+
+def is_notice(paper):
+    """Journal correction notices are not research papers."""
+    return paper["title"].lower().startswith(("correction", "erratum", "corrigendum", "retraction"))
 
 
 def main():
@@ -189,6 +194,22 @@ def main():
         papers += extra
 
     old = json.loads(OUTPUT.read_text(encoding="utf-8")) if OUTPUT.exists() else {}
+    old_papers = [paper for paper in old.get("papers", []) if not is_notice(paper)]
+
+    # Remember the day each paper was first found
+    first_seen = {paper["pmid"]: paper.get("first_seen") for paper in old_papers}
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    for paper in papers:
+        paper["first_seen"] = first_seen.get(paper["pmid"]) or today
+
+    if KEEP_OLD_PAPERS:
+        # The archive: newest GMU papers first, then every other paper ever found, newest PubMed number first
+        newest, rest = papers[:HOW_MANY], papers[HOW_MANY:]
+        have = {paper["pmid"] for paper in papers}
+        kept = [paper for paper in old_papers if paper["pmid"] not in have]
+        rest = sorted(rest + kept, key=lambda paper: int(paper["pmid"]), reverse=True)
+        print(f"Keeping {len(kept)} older papers from earlier runs")
+        papers = (newest + rest)[:MAX_PAPERS]
     if old.get("papers") == papers:
         print("Nothing new today.")
         return
