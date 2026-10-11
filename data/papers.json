@@ -1,10 +1,11 @@
 {
-  "updated": "2026-10-11 13:26 UTC",
+  "updated": "2026-10-11 13:39 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
       "pmid": "42391314",
       "title": "The association between age and mortality in men with adult-onset testosterone deficiency is altered by testosterone therapy",
+      "topic": "Diabetes and metabolism",
       "abstract": [
         "Background: Using the Gompertz-Makeham model, we describe associations between age and the probability of mortality in men with adult-onset testosterone deficiency (TD), stratified by testosterone undecanoate (TU) treatment and type 2 diabetes (T2DM).",
         "Methods: We analyzed a registry of 737 men (353 and 384 men on/not on TU, respectively) with adult-onset TD with nearly 9 years of follow-up. We compared associations between age and mortality using nonparametric and logistic regression models (estimating individual mortality probability) in men stratified by TU treatment and T2DM.",
@@ -33,6 +34,7 @@
     {
       "pmid": "42853362",
       "title": "A causal atlas for sperm DNA fragmentation: separating \"programmed\" breaks from \"acquired\" injury across the male tract",
+      "topic": "Reproductive health",
       "abstract": [
         "Sperm DNA fragmentation (SDF) is still treated as a single metric despite converging evidence that it is a composite of mechanistically distinct break classes. We argue for a 'causal atlas' that maps when and where damage is introduced, from spermiogenesis to epididymal transit to ejaculation, and partitions SDF into programmed vulnerability created by faulty chromatin remodeling/topoisomerase-associated events and abortive apoptosis, versus acquired injury from oxidative/enzymatic attack during transit. Although current assays cannot definitively assign SDF to a particular mechanism or anatomical stage, integrating complementary measures may support mechanistically informed patient stratification and guide the development of more targeted interventions."
       ],
@@ -48,6 +50,7 @@
     {
       "pmid": "42851888",
       "title": "Direct and Indirect Associations Between War-Related Nightmares, Anxiety-Depression Symptoms, and Somatization in a Sample of Displaced Lebanese Adults During the 2024-2025 Lebanese War: A Cross-Sectional Study",
+      "topic": "Mental health",
       "abstract": [
         "Background and aims: Somatization, the physical manifestation of emotional and psychological distress, is a prevalent issue in populations exposed to war and trauma. War-related nightmares are common among displaced individuals and are linked to depression, anxiety, and somatization. Yet, the indirect role of depression-anxiety in the association between war-related nightmares and somatization remains underexplored, particularly in the Lebanese context during the 2024-2025 war. This study aimed to examine whether war-related nightmares were associated with somatization both directly and indirectly through anxiety and depression considered simultaneously as parallel mediators among a sample of displaced Lebanese adults.",
         "Methods: This cross-sectional study enrolled 294 displaced Lebanese adults (mean age 25.4 years; 72.1% female) through a convenience and snowball sampling technique (October 2024-March 2025) that made this study prone to selection bias. A parallel indirect-effect analysis was conducted using SPSS version 27 and PROCESS macro version 5.0, Model 4, with anxiety and depression entered simultaneously as parallel mediators. The model was adjusted for gender, occupation, and number of bombing exposures, and indirect effects were estimated using 5000 percentile-bootstrap samples.",
@@ -72,6 +75,7 @@
     {
       "pmid": "42842184",
       "title": "Neuraxial Medication Administration Errors During Anaesthesia and Perioperative Management, Consequences, Contributing Human and Systemic Factors and Their Prevention: A Systematic Review",
+      "topic": "Surgery and anaesthesia",
       "abstract": [
         "Introduction: This systematic review aimed to investigate neuraxial administration errors, examine their contributing factors, and evaluate clinical outcomes using a novel harm scale.",
         "Methods: The author searched PubMed, Web of Science, Scopus, EBSCOhost, and Google Scholar for reports from 1981 to 2025 in any language. Exclusions were reviews, overdose incidents, and non-neuraxial administrations. Harm was classified using a novel five-level scale, and contributing factors were identified using the Human and Systemic Factors Analysis Classification System (HFACS).",
@@ -89,6 +93,7 @@
     {
       "pmid": "42841695",
       "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
+      "topic": "Heart and circulation",
       "abstract": [
         "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
         "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
@@ -117,6 +122,7 @@
     {
       "pmid": "42859675",
       "title": "Physical Activity, Myokine-Adipokine Signatures and Haemoglobin Glycation Index in Adults with Type 2 Diabetes",
+      "topic": "Diabetes and metabolism",
       "abstract": [
         "Background: The Hemoglobin Glycation Index (HGI) reflects variability in hemoglobin glycation beyond ambient glycaemia and is a marker of metabolic heterogeneity, cardiovascular risk and treatment response in type 2 diabetes mellitus (T2DM). Whether circulating myokines and adipokines are related to HGI, or whether relationships differ across exercise modalities, is unclear.",
         "Objective: To examine associations of circulating myokines (irisin, myostatin, myonectin, IL-6, IL-15) and adipokines (leptin, adiponectin) with HGI, and whether associations differ between physically active and sedentary individuals and across exercise modalities.",
@@ -140,6 +146,7 @@
     {
       "pmid": "42836380",
       "title": "Relative accuracy of intraoral photogrammetry and intraoral scanning with conventional scan-body for full-arch implants",
+      "topic": "Dentistry and oral health",
       "abstract": [
         "Purpose: To compare the relative accuracy of intraoral photogrammetry (IPG) and intraoral scan (IOS) with conventional scan bodies (IOS-CB) for complete-arch implant impressions, using the conventional splinted open-tray impression digitized with a laboratory scanner (COT-LS) as the reference standard.",
         "Materials and methods: Twenty-six edentulous maxillary arches restored with four BioHorizons Tapered Internal implants supporting multiunit abutments were included. For each patient, three impressions were obtained: (1) a conventional splinted open-tray impression poured in type IV dental stone and scanned with a laboratory extraoral scanner to generate the COT-LS dataset; (2) an IOS-CB using the Aoralscan Elite, with scan bodies present from the outset of a single continuous scanning pass; and (3) an IPG scan using the same device in photogrammetry mode with dedicated scan flags mounted on the multiunit abutments. STL files were analyzed in Geomagic Control X, with the COT-LS dataset used as the reference. Relative accuracy was quantified as centroid-based linear deviation from COT-LS following best-fit alignment. Measurement reproducibility was assessed using intraclass correlation coefficients (ICC) from two independent examiners analyzing the same datasets. The IOS-CB and IPG datasets were superimposed to calculate linear and three-dimensional positional deviations (µm). A repeated-measures two-way ANOVA with Tukey post hoc testing was performed (p < 0.05).",
@@ -160,6 +167,7 @@
     {
       "pmid": "42835369",
       "title": "Mediating Effect of Perceived Ageism Experiences Between TikTok Addiction Symptoms and Psychological Distress: A Cross-Sectional Study",
+      "topic": "Mental health",
       "abstract": [
         "Background and aims: TikTok addiction has been linked to depression and anxiety, yet mechanisms underlying this relationship remain underexplored. Based on the Social Comparison and Uses and Gratifications theories, this study examined whether perceived ageism experiences mediate the relationship between TikTok addiction and depression and anxiety among Lebanese adults. The research also explores, as a theoretical possibility, whether TikTok's algorithm may be associated with greater perceived ageism experiences, which in turn would relate to psychological distress.",
         "Methods: A cross-sectional survey was conducted among 855 participants (mean age 24.39; 76.7% females) using the TikTok Addiction Test, WHO Ageism Scale, and PHQ-4. Data were analyzed using SPSS and mediation analysis via PROCESS Macro controlling for demographic and health covariates, such as gender, education level and a history of mental health diagnosis. The mediation analysis included 735 participants with complete data for all variables entered into the model.",
