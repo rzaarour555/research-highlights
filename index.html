@@ -271,7 +271,7 @@ function renderHome(){
   $("lead").innerHTML = lead ? `
     <button class="story-link" data-id="${lead.id}">
       <div class="photo ${lead.photo}">Photo placeholder</div>
-      <div class="meta" style="margin-top:10px">${esc(lead.topic)} · ${esc(lead.date)}<span class="chip">🔊 Audio</span>${flag(lead)}</div>
+      <div class="meta" style="margin-top:10px"><b style="color:var(--accent)">${esc(lead.topic)}</b> · ${esc(lead.date)}<span class="chip">🔊 Audio</span>${flag(lead)}</div>
       <h3>${esc(lead.title)}</h3>
       <p>${esc(lead.dek)}</p>
     </button>` : "";
@@ -280,7 +280,7 @@ function renderHome(){
       <div class="photo ${s.photo}"></div>
       <button class="story-link" data-id="${s.id}">
         <h3>${esc(s.title)}</h3>
-        <div class="meta">${esc(s.topic)} · ${esc(s.date)}<span class="chip">🔊 Audio</span>${flag(s)}</div>
+        <div class="meta"><b style="color:var(--accent)">${esc(s.topic)}</b> · ${esc(s.date)}<span class="chip">🔊 Audio</span>${flag(s)}</div>
       </button>
     </div>`).join("") || `<p class="meta">No other stories in this topic yet.</p>`;
   document.querySelectorAll(".story-link").forEach(b => b.onclick = () => openStory(+b.dataset.id));
@@ -384,7 +384,7 @@ $("reset").onclick = () => {
 function paperToStory(p, i){
   const first = p.abstract[0].replace(/^[A-Za-z ]{3,30}: /, "");
   const authors = p.authors.length > 3 ? p.authors.slice(0,3).join(", ") + " et al." : p.authors.join(", ");
-  return { id: 1000 + i, topic: p.journal || "Publication", photo: "p" + (i % 4 + 1), date: p.date,
+  return { id: 1000 + i, topic: p.topic || p.journal || "Publication", photo: "p" + (i % 4 + 1), date: p.date,
     title: p.title, dek: first.length > 230 ? first.slice(0, 230).replace(/\s+\S*$/, "") + "…" : first,
     by: authors ? "By " + authors : "", body: p.abstract,
     source: "Source paper: " + [p.journal, p.date].filter(Boolean).join(", ") + ".", url: p.url };
@@ -397,7 +397,6 @@ fetch("data/papers.json", { cache: "no-store" })
     stories = d.papers.map(paperToStory); current = stories[0]; filter = "All";
     $("ribbon").textContent = "Concept demo only. Not an official university page. Papers are pulled automatically from PubMed (last update " + d.updated + "); the text shown is the authors' own abstract.";
     renderHome();
-    if (new Set(stories.map(s => s.topic)).size > 4) $("filters").style.display = "none";
   })
   .catch(() => {});
 </script>
