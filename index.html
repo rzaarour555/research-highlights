@@ -258,10 +258,10 @@ const incoming = { id:4, topic:"Infectious disease", photo:"p4", date:"Today", i
   source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." };
 
 let filter = "All", college = "All colleges", current = stories[0];
-/* photo: images/<PubMed number>.jpg if you uploaded one for that paper, otherwise
-   images/<subject>.jpg, otherwise the coloured block */
+/* photo: IMAGES/<PubMed number>.jpg if you uploaded one for that paper, otherwise
+   IMAGES/<subject>.jpg, otherwise the coloured block */
 const slug = t => t.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-const img = s => `<img alt="" src="images/${s.pmid ? esc(s.pmid) : slug(s.topic)}.jpg" data-alt="images/${slug(s.topic)}.jpg" onerror="if(this.dataset.alt&&!this.src.endsWith(this.dataset.alt)){this.src=this.dataset.alt}else{this.remove()}">`;
+const img = s => `<img alt="" src="IMAGES/${s.pmid ? esc(s.pmid) : slug(s.topic)}.jpg" data-alt="IMAGES/${slug(s.topic)}.jpg" onerror="if(this.dataset.alt&&!this.src.endsWith(this.dataset.alt)){this.src=this.dataset.alt}else{this.remove()}">`;
 const $ = id => document.getElementById(id);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const readMins = s => Math.max(1, Math.round(s.body.join(" ").split(/\s+/).length / 180 + 2));
