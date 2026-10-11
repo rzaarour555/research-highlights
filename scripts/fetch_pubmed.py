@@ -37,7 +37,7 @@ TOPICS = {
 OTHER_TOPIC = "Other research"
 
 # An author counts as a GMU researcher when their affiliation contains one of these.
-GMU_NAMES = ["gulf medical university"]
+GMU_NAMES = ["gulf medical university", "thumbay research institute", "thumbay institute"]
 
 # Colleges shown as filters on the page. A paper is listed under a college when a
 # GMU author's affiliation contains one of that college's phrases.
@@ -49,9 +49,18 @@ COLLEGES = {
     "College of Nursing": ["college of nursing"],
     "College of Management and AI in Healthcare": ["college of healthcare management", "college of management", "healthcare management and economics"],
     "College of Veterinary Medicine": ["veterinary"],
-    "Research institutes": ["thumbay research institute", "institute for precision medicine", "institute of population health", "institute of health workforce"],
+    "Thumbay Research Institute for Precision Medicine": ["thumbay research institute", "institute for precision medicine", "institute of precision medicine"],
+    "Other GMU institutes": ["institute of population health", "institute of health workforce", "institute of clinical simulation"],
 }
-NO_COLLEGE = "College not stated"
+# Papers whose GMU authors name only the university, with no college, are listed here.
+DEFAULT_COLLEGE = "College of Medicine"
+
+# Extra searches, added after the main list. Each line is a PubMed search and how
+# many of its newest papers to add. This one brings in papers from the precision
+# medicine institute even when they are not among the newest GMU papers.
+EXTRA_SEARCHES = {
+    'Thumbay[Affiliation] AND "Precision Medicine"[Affiliation]': 30,
+}
 # ------------------------------------------------------------------------
 
 BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
@@ -119,7 +128,7 @@ def parse_paper(node):
             if college not in colleges and any(ph in place for ph in phrases for place in places):
                 colleges.append(college)
     if gmu_authors and not colleges:
-        colleges = [NO_COLLEGE]
+        colleges = [DEFAULT_COLLEGE]
     doi = ""
     for item in node.findall(".//ArticleIdList/ArticleId"):
         if item.get("IdType") == "doi":
@@ -143,30 +152,38 @@ def parse_paper(node):
     }
 
 
-def main():
-    search = json.loads(get("esearch.fcgi", {
-        "db": "pubmed",
-        "term": f'"{AFFILIATION}"[Affiliation]',
-        "sort": "pub_date",
-        "retmax": HOW_MANY * 2,   # ask for extra, some have no abstract
-        "retmode": "json",
+def search(term, how_many):
+    """Ask PubMed for the newest paper numbers matching a search."""
+    result = json.loads(get("esearch.fcgi", {
+        "db": "pubmed", "term": term, "sort": "pub_date", "retmax": how_many, "retmode": "json",
     }))
-    ids = search["esearchresult"]["idlist"]
+    time.sleep(1)  # be polite to PubMed
+    return result["esearchresult"]["idlist"]
+
+
+def fetch(ids):
+    """Download the full details of the given papers, keeping those with an abstract."""
+    if not ids:
+        return []
+    root = ET.fromstring(get("efetch.fcgi", {"db": "pubmed", "id": ",".join(ids), "retmode": "xml"}))
+    time.sleep(1)
+    papers = [parse_paper(node) for node in root.findall("PubmedArticle")]
+    return [paper for paper in papers if paper["title"] and paper["abstract"]]
+
+
+def main():
+    ids = search(f'"{AFFILIATION}"[Affiliation]', HOW_MANY * 2)  # ask for extra, some have no abstract
     print(f"PubMed returned {len(ids)} paper IDs")
     if not ids:
         raise SystemExit("No papers found. Keeping the existing file.")
-
-    time.sleep(1)  # be polite to PubMed
-    xml = get("efetch.fcgi", {"db": "pubmed", "id": ",".join(ids), "retmode": "xml"})
-    root = ET.fromstring(xml)
-
-    papers = []
-    for node in root.findall("PubmedArticle"):
-        paper = parse_paper(node)
-        if paper["title"] and paper["abstract"]:
-            papers.append(paper)
-    papers = papers[:HOW_MANY]
+    papers = fetch(ids)[:HOW_MANY]
     print(f"Keeping {len(papers)} papers that have an abstract")
+
+    for term, how_many in EXTRA_SEARCHES.items():
+        have = {paper["pmid"] for paper in papers}
+        extra = [paper for paper in fetch([i for i in search(term, how_many) if i not in have]) if paper["gmu_authors"]]
+        print(f"Adding {len(extra)} more papers from the extra search: {term}")
+        papers += extra
 
     old = json.loads(OUTPUT.read_text(encoding="utf-8")) if OUTPUT.exists() else {}
     if old.get("papers") == papers:
