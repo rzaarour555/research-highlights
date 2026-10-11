@@ -1,0 +1,189 @@
+{
+  "updated": "2026-10-11 13:26 UTC",
+  "affiliation": "Gulf Medical University",
+  "papers": [
+    {
+      "pmid": "42391314",
+      "title": "The association between age and mortality in men with adult-onset testosterone deficiency is altered by testosterone therapy",
+      "abstract": [
+        "Background: Using the Gompertz-Makeham model, we describe associations between age and the probability of mortality in men with adult-onset testosterone deficiency (TD), stratified by testosterone undecanoate (TU) treatment and type 2 diabetes (T2DM).",
+        "Methods: We analyzed a registry of 737 men (353 and 384 men on/not on TU, respectively) with adult-onset TD with nearly 9 years of follow-up. We compared associations between age and mortality using nonparametric and logistic regression models (estimating individual mortality probability) in men stratified by TU treatment and T2DM.",
+        "Results: Mortality was lower (p < 0.001) in men on TU compared to men opting against TU. In the men on TU, age was associated with mortality (odds ratio (OR): 1.26, 95% confidence interval (CI): 1.13-1.40) in the nonlinear pattern expected in the Gompertz‒Makeham model. However, age was not associated with mortality in men not on TU (OR: 1.03, 95% CI: 0.98-1.08). T2DM status did not affect these associations.",
+        "Conclusion: The association between age and mortality differed between men on TU and those opting against treatment. In untreated men, features of metabolic syndrome worsened, which perhaps minimized the relationship between age and mortality. In men on TU, these metabolic risk factors improved, perhaps restoring the association between age and mortality."
+      ],
+      "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+      "date": "Dec 31, 2026",
+      "authors": [
+        "Mann A",
+        "Strange RC",
+        "König CS",
+        "Hackett G",
+        "Haider A",
+        "Haider KS",
+        "Desnerck P",
+        "Zitzmann M",
+        "Saad F",
+        "Dhebar MM",
+        "Marriott J",
+        "Ramachandran S"
+      ],
+      "doi": "10.1080/13685538.2026.2696061",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42391314/"
+    },
+    {
+      "pmid": "42853362",
+      "title": "A causal atlas for sperm DNA fragmentation: separating \"programmed\" breaks from \"acquired\" injury across the male tract",
+      "abstract": [
+        "Sperm DNA fragmentation (SDF) is still treated as a single metric despite converging evidence that it is a composite of mechanistically distinct break classes. We argue for a 'causal atlas' that maps when and where damage is introduced, from spermiogenesis to epididymal transit to ejaculation, and partitions SDF into programmed vulnerability created by faulty chromatin remodeling/topoisomerase-associated events and abortive apoptosis, versus acquired injury from oxidative/enzymatic attack during transit. Although current assays cannot definitively assign SDF to a particular mechanism or anatomical stage, integrating complementary measures may support mechanistically informed patient stratification and guide the development of more targeted interventions."
+      ],
+      "journal": "Journal of assisted reproduction and genetics",
+      "date": "Oct 09, 2026",
+      "authors": [
+        "Dutta S",
+        "Sengupta P"
+      ],
+      "doi": "10.1007/s10815-026-04046-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853362/"
+    },
+    {
+      "pmid": "42851888",
+      "title": "Direct and Indirect Associations Between War-Related Nightmares, Anxiety-Depression Symptoms, and Somatization in a Sample of Displaced Lebanese Adults During the 2024-2025 Lebanese War: A Cross-Sectional Study",
+      "abstract": [
+        "Background and aims: Somatization, the physical manifestation of emotional and psychological distress, is a prevalent issue in populations exposed to war and trauma. War-related nightmares are common among displaced individuals and are linked to depression, anxiety, and somatization. Yet, the indirect role of depression-anxiety in the association between war-related nightmares and somatization remains underexplored, particularly in the Lebanese context during the 2024-2025 war. This study aimed to examine whether war-related nightmares were associated with somatization both directly and indirectly through anxiety and depression considered simultaneously as parallel mediators among a sample of displaced Lebanese adults.",
+        "Methods: This cross-sectional study enrolled 294 displaced Lebanese adults (mean age 25.4 years; 72.1% female) through a convenience and snowball sampling technique (October 2024-March 2025) that made this study prone to selection bias. A parallel indirect-effect analysis was conducted using SPSS version 27 and PROCESS macro version 5.0, Model 4, with anxiety and depression entered simultaneously as parallel mediators. The model was adjusted for gender, occupation, and number of bombing exposures, and indirect effects were estimated using 5000 percentile-bootstrap samples.",
+        "Results: A significant total indirect association between war-related nightmares and somatization through anxiety and depression was observed (indirect effect: B = 0.14; Bootstrapped Standard Error = 0.04; Bootstrapped 95% Confidence Interval [0.07, 0.21]). The specific indirect association through depression was significant (B = 0.07; BootSE = 0.04; 95% Bootstrapped Confidence Interval [0.01; 0.15]), whereas the specific indirect association through anxiety was not significant (B = 0.06; BootSE = 0.04; 95% Bootstrapped Confidence Interval [-0.01; 0.14]). More frequent war-related nightmares were significantly associated with higher anxiety (B = 0.13; SE = 0.01, p < 0.001; 95% Confidence Interval [0.10, 0.16]) and higher depression (B = 0.12; SE = 0.01, p < 0.001; 95% Confidence Interval [0.09, 0.15]). When both mediators were entered simultaneously, depression was significantly associated with higher somatization (B = 0.58; SE = 0.28, p = 0.040; 95% Confidence Interval [0.03, 1.14]), whereas anxiety was not independently associated with somatization (B = 0.50; SE = 0.29, p = 0.088; 95% Confidence Interval [-0.07, 1.06]). War-related nightmares remained directly associated with somatization after accounting for both mediators (B = 0.42; SE = 0.06, p < 0.001; 95% Confidence Interval [0.30, 0.55]). The total association between war-related nightmares and somatization was B = 0.56 (SE = 0.06 p < 0.001; 95% Confidence Interval 0.45, 0.67).",
+        "Conclusion: War-related nightmares were associated with somatization both directly and indirectly through anxiety and depression collectively among a sample of displaced Lebanese adults. The specific indirect association through depression was significant, whereas the specific indirect association through anxiety was not. Although findings should be interpreted within the context of interrelated trauma symptoms and the cross-sectional design, which precludes temporal or causal conclusions, these results suggest a need for integrated mental health interventions addressing war-related nightmares, anxiety, depression, and somatic symptoms in war-affected populations."
+      ],
+      "journal": "Health science reports",
+      "date": "Oct 2026",
+      "authors": [
+        "Saadeh N",
+        "Atallah E",
+        "Fawaz M",
+        "Hallit R",
+        "Malaeb D",
+        "Hallit S",
+        "Fekih-Romdhane F",
+        "Obeid S"
+      ],
+      "doi": "10.1002/hsr2.73350",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42851888/"
+    },
+    {
+      "pmid": "42842184",
+      "title": "Neuraxial Medication Administration Errors During Anaesthesia and Perioperative Management, Consequences, Contributing Human and Systemic Factors and Their Prevention: A Systematic Review",
+      "abstract": [
+        "Introduction: This systematic review aimed to investigate neuraxial administration errors, examine their contributing factors, and evaluate clinical outcomes using a novel harm scale.",
+        "Methods: The author searched PubMed, Web of Science, Scopus, EBSCOhost, and Google Scholar for reports from 1981 to 2025 in any language. Exclusions were reviews, overdose incidents, and non-neuraxial administrations. Harm was classified using a novel five-level scale, and contributing factors were identified using the Human and Systemic Factors Analysis Classification System (HFACS).",
+        "Results: The search revealed 50 reports (54 patients), mainly involving the epidural route (38 vs 16 intrathecal), non-obstetric patients (35 vs 17 obstetric), and female gender (73%). Medications were grouped into nine divisions: IV fluids/total parenteral nutrition/insulin, anticholinergics, antiseptics, antiemetics, anticoagulants, non-steroidal anti-inflammatory drugs, opioids, Syntocinon, and others. Atropine (6 patients) was the most common, followed by remifentanil (4), Syntocinon (4), chlorhexidine (3), and water (3). Level 4 events (irreversible paraplegia or quadriplegia, 4 patients) and level 5 events (death, 4 patients) were mostly due to accidental antiseptic bolus administration. Inadvertent neuraxial drug administration occurred at different locations and during various stages of clinical care. The Human Factors Analysis Classification System (HFACS) identified unsafe acts related to skill-based errors and misidentification of routinely used objects. Additional deficiencies included organisational processes, resources, supervision, and task execution for neuraxial anaesthesia or analgesia.",
+        "Conclusions: Level 4 and 5 harm was mainly associated with the administration of antiseptic solutions. The HFACS framework-based analysis suggested multiple modifiable institutional and individual deficiencies. Multidisciplinary improvements of organisational safety procedures, relevant preconditions, and neuraxial clinical practices may help prevent these serious incidents."
+      ],
+      "journal": "Pain and therapy",
+      "date": "Oct 07, 2026",
+      "authors": [
+        "Patel S"
+      ],
+      "doi": "10.1007/s40122-026-00889-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/"
+    },
+    {
+      "pmid": "42841695",
+      "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
+      "abstract": [
+        "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
+        "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
+        "Results: Four randomized trials including 2,793 patients were analyzed. Indigenous stents demonstrated comparable rates of composite endpoints, myocardial infarction, repeat revascularization, and stent thrombosis across studies, with no consistent differences between groups.",
+        "Conclusion: The available RCT evidence shows no consistent signal of superiority or inferiority between indigenous and international thin-strut DES. However, heterogeneity and limited trial numbers warrant larger studies with long-term follow-up and real-world materiovigilance."
+      ],
+      "journal": "Expert review of medical devices",
+      "date": "Oct 07, 2026",
+      "authors": [
+        "Bhosale A",
+        "Pratima P",
+        "Sinha AK",
+        "Karattuthodi MS",
+        "Gangachannaiah S",
+        "Thunga G",
+        "Kumar B",
+        "Ramachandran P",
+        "Kalaiselvan V",
+        "Shelke A",
+        "Murti K",
+        "Radhakrishnan R"
+      ],
+      "doi": "10.1080/17434440.2026.2746135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/"
+    },
+    {
+      "pmid": "42859675",
+      "title": "Physical Activity, Myokine-Adipokine Signatures and Haemoglobin Glycation Index in Adults with Type 2 Diabetes",
+      "abstract": [
+        "Background: The Hemoglobin Glycation Index (HGI) reflects variability in hemoglobin glycation beyond ambient glycaemia and is a marker of metabolic heterogeneity, cardiovascular risk and treatment response in type 2 diabetes mellitus (T2DM). Whether circulating myokines and adipokines are related to HGI, or whether relationships differ across exercise modalities, is unclear.",
+        "Objective: To examine associations of circulating myokines (irisin, myostatin, myonectin, IL-6, IL-15) and adipokines (leptin, adiponectin) with HGI, and whether associations differ between physically active and sedentary individuals and across exercise modalities.",
+        "Methods: Cross-sectional study of 185 adults with T2DM recruited at Thumbay Hospital, Ajman, United Arab Emirates, classified as physically active (n=98) or sedentary (n=87), with active individuals sub-grouped by predominant modality: aerobic (70), resistance (11), combined (17). Measurements were obtained after an overnight fast. HGI was calculated as the residual of HbA1c regressed on fasting plasma glucose. Mann-Whitney U, Kruskal-Wallis, Spearman correlations with false discovery rate (FDR) correction and median regression adjusted for age, sex, BMI and fasting glucose were used.",
+        "Results: Active participants had lower HGI than sedentary participants (median -0.44 vs 0.12; p = 0.001), with lower BMI, fasting glucose and HbA1c. HGI differed by modality (p < 0.001), most favourable in the combined-training group and least favourable in the aerobic-only group. IL-6 was inversely correlated with HGI in active participants and leptin in sedentary participants (both FDR p < 0.05). Physical activity remained an independent predictor of lower HGI after adjustment for age, sex and BMI (β = -0.65;p< 0.001), and persisted after adjustment for IL-15 and leptin.",
+        "Conclusion: Precludes causal inference; if confirmed prospectively, associations may inform individualized exercise prescription and HGI-based risk stratification.Distinct myokine-adipokine signatures were associated with glycation variability beyond mean glycaemia and combined aerobic-plus-resistance training with the most favourable HGI profile. The cross-sectional design precludes causal inference; if confirmed prospectively, associations may inform individualized exercise prescription and HGI-based risk stratification."
+      ],
+      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "date": "2026",
+      "authors": [
+        "Ismail M",
+        "Ibrahim Hassan M",
+        "Shahzoda Fozilovna A",
+        "Mavlonov NX",
+        "Nuritdinov N",
+        "Abdelfatah E"
+      ],
+      "doi": "10.2147/DMSO.S621983",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42859675/"
+    },
+    {
+      "pmid": "42836380",
+      "title": "Relative accuracy of intraoral photogrammetry and intraoral scanning with conventional scan-body for full-arch implants",
+      "abstract": [
+        "Purpose: To compare the relative accuracy of intraoral photogrammetry (IPG) and intraoral scan (IOS) with conventional scan bodies (IOS-CB) for complete-arch implant impressions, using the conventional splinted open-tray impression digitized with a laboratory scanner (COT-LS) as the reference standard.",
+        "Materials and methods: Twenty-six edentulous maxillary arches restored with four BioHorizons Tapered Internal implants supporting multiunit abutments were included. For each patient, three impressions were obtained: (1) a conventional splinted open-tray impression poured in type IV dental stone and scanned with a laboratory extraoral scanner to generate the COT-LS dataset; (2) an IOS-CB using the Aoralscan Elite, with scan bodies present from the outset of a single continuous scanning pass; and (3) an IPG scan using the same device in photogrammetry mode with dedicated scan flags mounted on the multiunit abutments. STL files were analyzed in Geomagic Control X, with the COT-LS dataset used as the reference. Relative accuracy was quantified as centroid-based linear deviation from COT-LS following best-fit alignment. Measurement reproducibility was assessed using intraclass correlation coefficients (ICC) from two independent examiners analyzing the same datasets. The IOS-CB and IPG datasets were superimposed to calculate linear and three-dimensional positional deviations (µm). A repeated-measures two-way ANOVA with Tukey post hoc testing was performed (p < 0.05).",
+        "Results: IPG demonstrated significantly lower deviations than IOS-CB in the full-arch, anterior right, and anterior left regions (p < 0.001). IOS-CB showed significantly lower deviations than IPG in both posterior right and posterior left regions (p < 0.001). The full-arch mean deviation was lower for IPG (39.2 µm) than IOS-CB (45.1 µm). All deviations for both techniques remained within the clinically acceptable threshold for passive fit. ICC values for measurement reproducibility exceeded 0.95 for both techniques.",
+        "Conclusions: Within the limitations of this clinical study, IPG demonstrated a lower full-arch mean deviation than IOS-CB when evaluated against the COT-LS reference. However, as the inherent dimensional error of the COT-LS reference may approach or exceed the 5.9 µm between-technique difference, this finding should be considered hypothesis-generating rather than confirmatory evidence of a trueness advantage. Measurement reproducibility was high for both techniques (ICC >0.95)."
+      ],
+      "journal": "Journal of prosthodontics : official journal of the American College of Prosthodontists",
+      "date": "Oct 06, 2026",
+      "authors": [
+        "Sadek SA",
+        "Gaber MS",
+        "Mostafa MH",
+        "Zamzam H"
+      ],
+      "doi": "10.1111/jopr.70237",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42836380/"
+    },
+    {
+      "pmid": "42835369",
+      "title": "Mediating Effect of Perceived Ageism Experiences Between TikTok Addiction Symptoms and Psychological Distress: A Cross-Sectional Study",
+      "abstract": [
+        "Background and aims: TikTok addiction has been linked to depression and anxiety, yet mechanisms underlying this relationship remain underexplored. Based on the Social Comparison and Uses and Gratifications theories, this study examined whether perceived ageism experiences mediate the relationship between TikTok addiction and depression and anxiety among Lebanese adults. The research also explores, as a theoretical possibility, whether TikTok's algorithm may be associated with greater perceived ageism experiences, which in turn would relate to psychological distress.",
+        "Methods: A cross-sectional survey was conducted among 855 participants (mean age 24.39; 76.7% females) using the TikTok Addiction Test, WHO Ageism Scale, and PHQ-4. Data were analyzed using SPSS and mediation analysis via PROCESS Macro controlling for demographic and health covariates, such as gender, education level and a history of mental health diagnosis. The mediation analysis included 735 participants with complete data for all variables entered into the model.",
+        "Results: TikTok addiction was positively associated with psychological distress. Perceived ageism experiences partially mediated this relationship (unstandardized indirect effect: B = 0.0149, BootSE = 0.005, 95% percentile bootstrapped CI [0.0058, 0.0255]). Higher TikTok addiction symptoms were associated with greater perceived ageism experiences, which were in turn associated with higher psychological distress levels. Demographic analysis showed that females, those with lower levels of education and individuals with a history of mental health diagnosis reported higher psychological distress. Age was negatively correlated with psychological distress, showcasing higher vulnerability among younger individuals.",
+        "Conclusion: Findings highlight perceived ageism experiences as a small but statistically significant mediator between addictive digital media use and psychological distress. The study emphasizes the need for culturally sensitive mental health and digital literacy interventions, as they aim to support the deconstruction of idealized youthful standards, particularly with the Lebanese context where digital media serves as escapism."
+      ],
+      "journal": "Health science reports",
+      "date": "Oct 2026",
+      "authors": [
+        "Rizk A",
+        "Kheir N",
+        "Hallit R",
+        "Iskandar K",
+        "Malaeb D",
+        "Barakat M",
+        "Sakr F",
+        "Dabbous M",
+        "Harb F",
+        "Obeid S",
+        "Hallit S",
+        "Fekih-Romdhane F"
+      ],
+      "doi": "10.1002/hsr2.73341",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835369/"
+    }
+  ]
+}
