@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 14:30 UTC",
+  "updated": "2026-10-11 14:41 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -32,7 +32,7 @@
         "Farid Saad"
       ],
       "colleges": [
-        "College not stated"
+        "College of Medicine"
       ],
       "doi": "10.1080/13685538.2026.2696061",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42391314/"
@@ -54,7 +54,7 @@
         "Pallav Sengupta"
       ],
       "colleges": [
-        "College not stated"
+        "College of Medicine"
       ],
       "doi": "10.1007/s10815-026-04046-2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42853362/"
@@ -109,7 +109,7 @@
         "Santosh Patel"
       ],
       "colleges": [
-        "College not stated"
+        "College of Medicine"
       ],
       "doi": "10.1007/s40122-026-00889-w",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/"
@@ -391,7 +391,7 @@
         "Nouran Abdellatif"
       ],
       "colleges": [
-        "College not stated"
+        "College of Medicine"
       ],
       "doi": "10.1016/j.jjcc.2026.06.009",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42303223/"
@@ -424,7 +424,7 @@
         "Thuslim Sheik"
       ],
       "colleges": [
-        "College not stated"
+        "College of Medicine"
       ],
       "doi": "10.1016/j.jjcc.2026.06.004",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42269861/"
@@ -1832,7 +1832,7 @@
         "Farid Saad"
       ],
       "colleges": [
-        "College not stated"
+        "College of Medicine"
       ],
       "doi": "10.1111/andr.70393",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42788872/"
@@ -1898,7 +1898,7 @@
         "Salem Chouaib"
       ],
       "colleges": [
-        "Research institutes"
+        "Thumbay Research Institute for Precision Medicine"
       ],
       "doi": "10.1371/journal.pone.0358943",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42784603/"
@@ -1934,7 +1934,7 @@
       ],
       "colleges": [
         "College of Medicine",
-        "Research institutes"
+        "Thumbay Research Institute for Precision Medicine"
       ],
       "doi": "10.3389/fimmu.2026.1942424",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840142/"
@@ -2048,10 +2048,753 @@
         "Sura Ali Ahmed Fuoad Al-Bayati"
       ],
       "colleges": [
-        "College not stated"
+        "College of Medicine"
       ],
       "doi": "10.3390/antibiotics15090918",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42792068/"
+    },
+    {
+      "pmid": "42511740",
+      "title": "Hypoxia Differentially Regulates Ferroptosis Sensitivity and Tumor Cell-Intrinsic Type I Interferon Signaling in Pancreatic Ductal Adenocarcinoma Cells",
+      "topic": "Cancer research",
+      "abstract": [
+        "Ferroptosis has emerged as a promising strategy to overcome resistance to conventional cancer therapies. Pancreatic ductal adenocarcinoma (PDAC) is characterized by hypoxia, therapy resistance, and an immunosuppressive microenvironment. Although hypoxia is likely to influence ferroptosis susceptibility and the associated inflammatory pathways that regulate antitumor immunity, their impact on ferroptosis sensitivity and innate immune responses remains poorly understood. In this study, we investigated the effects of hypoxia on the induction of ferroptosis and immune-related signaling in PDAC cell lines. We examined how hypoxia affects the responses of Panc-1, BxPC3, and Capan-1 cells to the ferroptosis inducers RAS-selective lethal 3 (RSL3)/Imidazole ketone erastin (IKE) under normoxic and hypoxic (0.1% O2) conditions. Cell viability assays were used to assess ferroptosis sensitivity, and rescue experiments were performed using liproxstatin-1 (LIP). Gene expression analysis was conducted to evaluate changes in immune, interferon, inflammatory, and hypoxia-related genes following ferroptosis induction. Panc-1 cells were the most sensitive, whereas Capan-1 cells were resistant, particularly under hypoxia. Ferroptosis triggered cell line-specific responses involving interferon signaling, inflammation, and stress pathways. Panc-1 cells showed over-expression of RIG-I, MAVS, IRF3/7/9, STAT1/2, and CXCL10, particularly under hypoxia, indicating activation of Type I interferon (IFN)-associated transcriptional program. BxPC3 cells demonstrated broader cytokine induction, including IL-8, CCL2, CXCL2, GM-CSF, and IL-11, whereas Capan-1 cells were minimally responsive. Hypoxia also increased ANGPTL4 and GDF15 expression following ferroptosis induction. These findings show that hypoxia differentially affects ferroptosis sensitivity and immune responses in PDAC, revealing complex interactions among ferroptosis, innate immunity, and the tumor microenvironment."
+      ],
+      "journal": "International journal of molecular sciences",
+      "date": "Jul 18, 2026",
+      "authors": [
+        "Das S",
+        "Mahmood AS",
+        "Chouaib S"
+      ],
+      "gmu_authors": [
+        "Shubhankar Das",
+        "Ayda Shah Mahmood",
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ijms27146397",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42511740/"
+    },
+    {
+      "pmid": "42505207",
+      "title": "Major Postoperative Complications and Survival After Lung Cancer Resection in Patients Aged ≥80 Years: Risk Factor Analysis",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "This study aimed to identify risk factors for major postoperative complications (TMM) and their impact on overall survival in patients aged ≥80 years undergoing lung cancer surgery, a group at increased risk of morbidity. A total of 88 patients aged ≥80 years who underwent anatomical lung resections were retrospectively analyzed. Postoperative complications were classified into minor or no complications (TMM 0-2) and major (TMM ≥ 3) complications. Logistic regression analysis was performed to identify independent predictors of major complications. Kaplan-Meier estimates were used to measure overall survival. Major complications occurred in 24 patients (27.3%). Multivariable regression analysis identified perioperative blood transfusion as an independent risk factor for major complications (p = 0.0009). Patients with major complications exhibited significantly reduced overall survival (p = 0.0009). Subgroup analysis revealed that patients who underwent minimally invasive surgery had significantly better survival (p = 0.01). Moreover, perioperative transfusion correlated with diminished overall survival (p = 0.0027). In patients aged ≥80 years undergoing lung resections, the occurrence of major postoperative complications is associated with significantly impaired survival. Minimally invasive surgical approaches and blood conservation strategies may mitigate complications and enhance long-term outcomes in this high-risk group."
+      ],
+      "journal": "Current oncology (Toronto, Ont.)",
+      "date": "Jul 07, 2026",
+      "authors": [
+        "Damirov F",
+        "Ke J",
+        "Karimbayli J",
+        "Stoleriu MG",
+        "Dreher S",
+        "Boedeker E",
+        "Gerz S",
+        "Hatz RA",
+        "Preissler G"
+      ],
+      "gmu_authors": [
+        "Javad Karimbayli"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/curroncol33070405",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42505207/"
+    },
+    {
+      "pmid": "42375619",
+      "title": "Correction: Discovery of potent bisindole-based pyrazolopyridine derivatives as topoisomerase inhibitors: DNA damage induction and synergistic antileukemic activity",
+      "topic": "Cancer research",
+      "abstract": [
+        "[This corrects the article DOI: 10.3389/fphar.2026.1745220.]."
+      ],
+      "journal": "Frontiers in pharmacology",
+      "date": "2026",
+      "authors": [
+        "Eldehna WM",
+        "Tawfik HO",
+        "Veselá D",
+        "Peřina M",
+        "Negmeldin AT",
+        "Elsayed ZM",
+        "Majrashi TA",
+        "Vojáčková V",
+        "Elbadawi MM",
+        "Shaldam MA",
+        "Kryštof V",
+        "Abdel-Aziz HA"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3389/fphar.2026.1895851",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42375619/"
+    },
+    {
+      "pmid": "42098650",
+      "title": "ITPP in early pancreatic zebrafish xenografts mildly impacts tumor cell death without interfering with vascular normalization",
+      "topic": "Cancer research",
+      "abstract": [
+        "Background: Myo-inositol trispyrophosphate (ITPP) is an anti-hypoxic small molecule that acts as an allosteric effector of hemoglobin in erythrocytes. To capture the early and dynamic effects of ITPP on tumor vasculature and cell viability, we employed a rapid zebrafish xenograft model of pancreatic ductal adenocarcinoma (PDAC) that enables real-time, single-cell-resolution imaging.",
+        "Methods: Two PDAC cell lines were used to establish xenografts in wildtype and transgenic zebrafish lines. A double transgenic that permits the visualization of both vessels and erythrocytes was included to determine the impact of ITPP on vascular function. The effects of ITPP alone and in combination with multimodal chemotherapy (FOLFIRINOX) on PDAC tumor proliferation, apoptosis and size were investigated using whole-mount immunostaining and confocal microscopy.",
+        "Results: Within a short treatment window, ITPP produced a detectable enhancement in the number of xenografts with erythrocyte-positive tumor-associated vessels, suggesting an early trend toward vessel functionality. This mild effect, however, came with no measurable changes in vessel architecture. While ITPP did not impact the cytotoxic potency of FOLFIRINOX, ITPP-treated xenografts displayed enhanced apoptosis in vivo. This came without any cytotoxicity in vitro, indicating that its mild pro-apoptotic activity is mediated indirectly, presumably through the tumor microenvironment (TME).",
+        "Conclusions: Overall, we could not detect major effects of ITPP in the zebrafish xenograft model, possibly due to the lack of a hypoxic TME. This illustrates the model's shortcomings when investigating oxygen-modulating agents. We propose that experiments such as pre-treatment of tumor cells with hypoxic agents could overcome this, potentially expanding the utility and versatility of the zebrafish model."
+      ],
+      "journal": "BMC cancer",
+      "date": "May 07, 2026",
+      "authors": [
+        "Abou Khouzam R",
+        "Amorim F",
+        "Rifath A",
+        "Thaliffdeen L",
+        "Ragupathi P",
+        "Nawafleh H",
+        "Povoa V",
+        "Cruz-Ribeiro M",
+        "Lehn JM",
+        "Fior R",
+        "Limani P",
+        "Chouaib S"
+      ],
+      "gmu_authors": [
+        "Raefa Abou Khouzam",
+        "Ayesha Rifath",
+        "Leila Thaliffdeen",
+        "Premalatha Ragupathi",
+        "Husam Nawafleh",
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.1186/s12885-026-16107-x",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42098650/"
+    },
+    {
+      "pmid": "42067504",
+      "title": "Evaluating the Role of Advanced Age and Risk Factors in Postoperative Outcomes Following Major Lung Cancer Resection",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Background: The incidence of lung cancer increases with age. On average, patients diagnosed with lung cancer are about 70 years. It is known that older patients are more prone to complications after major lung resection due to physiological changes; however, there is still a lack of knowledge of predictive factors associated with a higher complication risk.",
+        "Aims: In this study the association of age and postoperative complication rates in lung cancer patients is analyzed. Further, predictors of postoperative complications in the era of minimally invasive surgery in older patients are identified.",
+        "Methods: We retrospectively analyzed 180 consecutive patients with pathologically proven lung adenocarcinoma and squamous cell carcinoma. Patients were categorized into septuagenarians and octogenarians. Univariate and multivariate analyses were conducted to detect risk factors of postoperative morbidity.",
+        "Results: There were 141 (78.33%) and 39 patients (21.67%) in the septuagenarian group and octogenarian group, respectively. 67 (37.2%) patients experienced postoperative complications. The thirty-day mortality rate was 1.6%. The groups did not differ in terms of postoperative complications. Upon multivariate analysis, ECOG score ≥ 1 (p = 0.032), lowered FEV1/FVC (p = 0.029), and hypoalbuminemia (p = 0.027) were significant predictors for the development of major complications after lung cancer surgery.",
+        "Conclusion: Age over 80 years was not found to be an independent risk factor for the complication rates after lung cancer surgery. However, ECOG performance status ≥ 1, reduced FEV1/FVC, and lower serum albumin levels were independently associated with major postoperative complications."
+      ],
+      "journal": "Thoracic cancer",
+      "date": "May 2026",
+      "authors": [
+        "Damirov F",
+        "Karimbayli J",
+        "Ke J",
+        "Stoleriu MG",
+        "Aghamaliyev U",
+        "Dreher S",
+        "Boedeker E",
+        "Gerz S",
+        "Hatz RA",
+        "Preissler G"
+      ],
+      "gmu_authors": [
+        "Javad Karimbayli",
+        "Gerhard Preissler"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.1111/1759-7714.70293",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42067504/"
+    },
+    {
+      "pmid": "42123455",
+      "title": "Hypoxic Tumor Microenvironment Targeting: Opportunities and Challenges for Pancreatic Cancer Immunotherapy",
+      "topic": "Cancer research",
+      "abstract": [
+        "Pancreatic ductal adenocarcinoma (PDAC) remains among the deadliest cancers, with a 5-year survival rate of 13% and broad resistance to therapy. It is driven by severe tumor hypoxia from desmoplasia, aberrant vasculature, and high interstitial pressure. Hypoxia stabilizes hypoxia-inducible factors (HIFs), reshaping the tumor microenvironment (TME) into a nutrient-poor, acidic milieu that fosters immune exclusion and suppression. While immune checkpoint inhibitors (ICIs) have revolutionized treatment, PDAC responses have been negligible. As hypoxia centrally drives PDAC's ICI-refractory TME, targeted alleviation could offer synergy with ICIs; however, no such combination is being applied in the clinic. One impediment could be the one-size-fits-all approach when investigating hypoxia-modifying therapy. Indeed, using hypoxia gene signatures, we and others have shown that PDAC tumors are not equally hypoxic, with patients having more hypoxic tumors experiencing worse survival and immunosuppressed TME. This review dissects hypoxia's mechanistic role in PDAC immune evasion and gives an update on the therapeutic advances that directly or indirectly target hypoxia, such as the inhibition of HIFs, hypoxia-activated prodrugs, and vascular and oxygen delivery approaches, with emphasis on their potential to enhance responses to ICIs. It further evaluates the need for hypoxia biomarkers and proposes gene signatures as detection tools to enable precision hypoxia modulation, potentially converting immune-cold PDAC into an ICI-responsive disease."
+      ],
+      "journal": "International journal of molecular sciences",
+      "date": "Apr 27, 2026",
+      "authors": [
+        "Abou Khouzam R",
+        "Salman S",
+        "Thiery J",
+        "Zaarour RF",
+        "Vela V",
+        "Limani P",
+        "Janji B",
+        "Chouaib S"
+      ],
+      "gmu_authors": [
+        "Raefa Abou Khouzam",
+        "Rania Faouzi Zaarour",
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ijms27093873",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42123455/"
+    },
+    {
+      "pmid": "42064067",
+      "title": "The transmembrane IL-15 isoform expressed on human melanoma cells triggers modulatory effects on tumor progression upon stimulation with the soluble IL-15Rα chain",
+      "topic": "Cancer research",
+      "abstract": [
+        "Interleukin-15 (IL-15) is expressed in various cancers, including melanoma, where it exists in distinct membrane-associated isoforms. Primary melanoma cells predominantly express the non-cleavable transmembrane form (tmbIL-15), while metastatic cells also express a cleavable membrane-bound form (mbIL-15) complexed with IL-15Rα. As tmbIL-15 is capable of reverse signaling upon IL-15Rα engagement, we investigated how this signaling axis modulates melanoma cell behavior across tumor stages. Transcriptomic analysis of melanoma patients revealed that high IL-15 expression correlates with immune activation, inflammation and epithelial-to-mesenchymal transition (EMT), along with coordinated upregulation of IL-15 receptor subunits. Proteomic profiling of melanoma cell lines stimulated with soluble IL-15Rα (sIL-15Rα) uncovered distinct, stage-specific responses. Although several proteins were commonly deregulated across cell lines, most showed opposite regulation in primary versus metastatic models, indicating that tmbIL-15 reverse signaling triggers context-dependent programs influenced by tumor progression. A stringent cross-comparison identified five proteins (PSAP, MARCKS, eEF1A1, DDX39B, and RACK1) as consistently and differentially regulated across tumor stages. Further comparison with published NK cell co-culture and EMT cytokine stimulation datasets revealed a subset of shared effectors, notably PSAP, TPM3 isoform 2 and MARCKS, suggesting that IL-15Rα-induced tmbIL-15 signaling is part of the immune editing phenomenon eliciting pro-tumoral activities complementary to the EMT process. Among these, PSAP emerged as the most robustly and consistently modulated effector, upregulated in primary melanoma cells and downregulated in metastatic ones upon sIL-15Rα stimulation. Its expression correlated positively with CD8+ T cell infiltration and negatively with NK cell infiltration, with distinct transcriptomic programs associated with high PSAP expression in primary versus metastatic settings. Altogether, these findings identify PSAP as a stage-specific mediator of tmbIL-15 reverse signaling in melanoma, integrating immune and EMT-related cues with potential implications for tumor progression and microenvironmental remodeling."
+      ],
+      "journal": "Frontiers in immunology",
+      "date": "2026",
+      "authors": [
+        "Forcelloni S",
+        "Giron-Michel J",
+        "Del Boccio P",
+        "Cufaro MC",
+        "Di Sebastiano A",
+        "Mariotti FR",
+        "Ciancaglini C",
+        "Chouaib S",
+        "Padelli M",
+        "Vespa S",
+        "Mac GD",
+        "Ebert S",
+        "Buart S",
+        "Maggi E",
+        "Moretta L",
+        "Vacca P",
+        "Tumino N",
+        "Quatrini L",
+        "Caruana I",
+        "Azzarone B",
+        "Santopolo S"
+      ],
+      "gmu_authors": [
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3389/fimmu.2026.1798481",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42064067/"
+    },
+    {
+      "pmid": "41884789",
+      "title": "Short-term surgical outcomes for patients with non-functional pancreatic neuroendocrine tumors are unaffected by chronological age",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Background: Non-functional pancreatic neuroendocrine tumors (NF-pNETs) are increasingly diagnosed, particularly in older adults, largely due to widespread cross-sectional imaging. Patients with NF-pNETs typically have a soft pancreas and a small main pancreatic duct, which puts them at high risk for postoperative pancreatic fistula B/C, significantly impacting postoperative morbidity and mortality. Given the rising incidence of NF-pNETs and ongoing uncertainty about optimal treatment in older individuals, this study evaluates postoperative outcomes and histopathological differences between older and younger patient cohorts.",
+        "Material and methods: In this study, a total of 171 patients that underwent any type of pancreatic resection for NF-pNETs between 2003 and 2023 at our institution, were investigated retrospectively upon demographic data, postoperative complications, duration of hospital stay and tumor histology. Patients were stratified into younger (< 70 years) and older (> 70 years) groups. Postoperative short-term outcomes were compared between both groups.",
+        "Results: A total of 171 patients underwent pancreatic resection for NF-pNETs, including 129 younger (<70 years) and 42 older (≥70 years) patients. Older patients exhibited a markedly higher prevalence of cardiac (62% vs. 30%) and pulmonary conditions (15% vs. 5%) compared to their younger counterparts. Surgical approaches and tumor locations were similar. Postoperative outcomes, including POPF, PPH, DGE, LOS, and 30-day mortality, did not significantly differ between groups. Ideal outcome (IO) was achieved in 45.5% of younger and 37.2% of older patients (p = NS). Oncological features such as tumor stage, lymph node involvement, grading, and Ki-67 index were comparable.",
+        "Conclusion: Surgical resection for NF-pNETs appears to be a safe option in older patients (≥70 years), as chronological age by itself does not significantly impact postoperative outcomes."
+      ],
+      "journal": "Surgery open science",
+      "date": "Apr 2026",
+      "authors": [
+        "Aghamaliyev U",
+        "Zamparas A",
+        "Seidel G",
+        "Meyer Y",
+        "Jafarova G",
+        "Koch D",
+        "Hofmann FO",
+        "Koliogiannis D",
+        "Ilmer M",
+        "Karimbayli J",
+        "Werner J",
+        "Renz BW"
+      ],
+      "gmu_authors": [
+        "Javad Karimbayli"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.1016/j.sopen.2026.03.002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41884789/"
+    },
+    {
+      "pmid": "41915668",
+      "title": "Genotypic distribution and molecular epidemiology of HPV in women in the UAE using PNA-based RT PCR",
+      "topic": "Public health",
+      "abstract": [
+        "Objectives: This study aimed to determine the genotypic distribution and molecular epidemiology of HPVs in PAP smear samples of women in the UAE using a peptide nucleic acid (PNA)-based fluorescence melting curve analysis method.",
+        "Methods: A cross-sectional retrospective study was conducted between January 2024 to January 2025 after receiving ethical approval from the Institutional Review Board of Gulf Medical University. A total of 229 liquid-based cervical cytology samples were obtained from women aged 20-55 years attending the Gynaecology out-patient department of Thumbay University Hospital and other hospitals of the UAE, processed for the routine cytological examination to identify and differentiate morphological changes of the PAP smears. HPV genotyping was performed using PNA-based fluorescence melting curve analysis by the RT-PCR method.",
+        "Results: A total of 191 HPV genotypes were detected in 96 HPV positive PAP smear samples, including 47 abnormal cytology and 49 NILM samples. 137 HR and 54 LR-HPV genotypes were identified in all 96 positive samples. The highest rate of mixed HR and LR-HPV genotypes (18%) was detected in women aged 31-40 years old. HR53, 16, 68, 66, 31, 35, and LR6 were the predominant genotypes. Mixed HR and LR-HPV infection is present in 26% cases; in that HPV53 was the primary genotype, followed by HPV35, 66, 11, 43, 81, 61, and 6.",
+        "Conclusion: The genotypes 53, 16, 68, 66, 31, 61, 35, and 6 were the most common genotypes detected in the PAP smear samples. Notably, 21% of normal epithelial cells of the PAP smear samples tested positive for different HR-HPV genotypes. These findings underscore the crucial role of HPV genotyping using RT-PCR, enhancing the effectiveness of screening surveillance and providing foundational data for future prospective studies, vaccination impact assessments, and targeted screening strategies."
+      ],
+      "journal": "PloS one",
+      "date": "2026",
+      "authors": [
+        "Finney D",
+        "Hashim ALO",
+        "Bylappa SK",
+        "Mugar AE",
+        "Nandhagopal M",
+        "Jabbar MA",
+        "Rahamathullah N"
+      ],
+      "gmu_authors": [
+        "Devapriya Finney",
+        "Ahmed Luay Osman Hashim",
+        "Sunil Kumar Bylappa",
+        "Ameena Ebrahim Mugar",
+        "Mohammed Abdulrazzaq Jabbar",
+        "Nazeerullah Rahamathullah"
+      ],
+      "colleges": [
+        "College of Health Sciences",
+        "College of Medicine",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.1371/journal.pone.0346052",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41915668/"
+    },
+    {
+      "pmid": "41908948",
+      "title": "Synthesis and Biological Evaluation of Imidazopyridine-Isatin Hybrids as Inhibitors of Leishmania major Growth",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Introduction: More than 20 different species of Leishmania cause leishmaniasis, a multifaceted disease that ranges from mild cutaneous lesions to fatal visceral forms.",
+        "Methods: Sixteen novel hybrids were designed by covalently linking an imidazo[1,2-a]pyridine core to an isatin scaffold via a hydrazide linker, and their in vitro anti-promastigote, anti-amastigote, cytotoxicity, and molecular docking profiles were evaluated, with folate-rescue assays used to assess the anti-folate mechanism.",
+        "Results: Several compounds showed potent anti-leishmanial activity compared to miltefosine, with the lead compound 5b exhibiting strong anti-promastigote (IC5 0 = 0.84 ± 0.06 μM) and anti-amastigote (IC5 0 = 1.28 ± 0.18 μM) activities, significantly surpassing miltefosine. Folic and folinic acids reversed the activity of 5b, confirming an anti-folate mechanism similar to that of the Lm-PTR1 inhibitor trimethoprim. The most active compounds showed higher selectivity indices (SI = 12.74) than miltefosine (SI = 438.03), and docking against Lm-PTR1 provided a plausible explanation for their potency, while in silico predictions indicated favorable drug-likeness and pharmacokinetic properties.",
+        "Conclusion: These findings highlight a promising new chemotype targeting the leishmanial folate pathway and expand the chemical diversity available for anti-leishmanial drug development."
+      ],
+      "journal": "Drug design, development and therapy",
+      "date": "2026",
+      "authors": [
+        "El Hassab MA",
+        "Eldehna WM",
+        "Elsayed ZM",
+        "Elbadawi MM",
+        "Negmeldin AT",
+        "Balaha M",
+        "Nasralla SN",
+        "Monir R",
+        "Ibrahim TM",
+        "Abe M",
+        "Tawfik HO",
+        "Bekhit AA",
+        "Hemeda LR"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.2147/DDDT.S570670",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41908948/"
+    },
+    {
+      "pmid": "41859341",
+      "title": "Discovery of potent bisindole-based pyrazolopyridine derivatives as topoisomerase inhibitors: DNA damage induction and synergistic antileukemic activity",
+      "topic": "Cancer research",
+      "abstract": [
+        "Introduction: The development of novel anticancer agents targeting DNA replication and repair mechanisms remains a priority in leukemia therapy. In this study, newly synthesized derivatives incorporating bis-indole and pyrazolo[3,4-b]pyridine scaffolds were evaluated for their antiproliferative potential against leukemia cell lines.",
+        "Methods: The antiproliferative activity of the synthesized compounds was assessed in four cancer cell lines, including acute myeloid leukemia (MV4-11) and chronic myeloid leukemia (K562). Growth inhibition (GI50) values were determined. DNA relaxation assays were performed to evaluate inhibition of topoisomerase I and IIα activities. Cell cycle distribution, apoptosis induction, and DNA damage response markers were analyzed using cellular and molecular assays. Combination studies were conducted using CHK1, ATR, and PARP-1 inhibitors.",
+        "Results: Compounds 7b, 7d, and 7e demonstrated the most potent antiproliferative activity, with GI50 values below 2.5 μM in leukemic cell lines. Compound 7e exhibited notable cytotoxicity, with GI50 values of 1.1 μM (MV4-11) and 2.7 μM (K562). Compounds 7b and 7e significantly inhibited topoisomerase I activity and effectively suppressed topoisomerase IIα-mediated DNA relaxation. Cellular studies revealed S-phase cell cycle arrest, activation of apoptotic pathways (caspase cleavage and PARP-1 degradation), and induction of DNA damage response markers (γH2AX, p-CHK1, p53). In MV4-11 cells, combination treatment with CHK1 or ATR inhibitors resulted in pronounced synergistic cytotoxicity, whereas co-treatment with a PARP-1 inhibitor produced minimal synergy.",
+        "Discussion: These findings identify bis-indole and pyrazolo[3,4-b]pyridine derivatives, particularly compound 7e, as potent dual topoisomerase inhibitors with significant antileukemic activity. Their ability to induce DNA damage and enhance cytotoxicity in combination with DNA damage response inhibitors highlights their potential therapeutic value, especially in combination strategies targeting replication stress pathways in leukemia."
+      ],
+      "journal": "Frontiers in pharmacology",
+      "date": "2026",
+      "authors": [
+        "Eldehna WM",
+        "Tawfik HO",
+        "Veselá D",
+        "Peřina M",
+        "Negmeldin AT",
+        "Elsayed ZM",
+        "Majrashi TA",
+        "Vojáčková V",
+        "Elbadawi MM",
+        "Shaldam MA",
+        "Kryštof V",
+        "Abdel-Aziz HA"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3389/fphar.2026.1745220",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41859341/"
+    },
+    {
+      "pmid": "41497768",
+      "title": "Discovery of enaminone-linked benzofuran derivatives as dual VEGFR-2/hCA IX inhibitors exhibiting hypoxia-mediated chemosensitization",
+      "topic": "Cancer research",
+      "abstract": [
+        "The overexpression of VEGFR-2 and carbonic anhydrase IX (hCA IX), two proven therapeutic targets in aggressive malignancies, is closely associated with hypoxia-driven tumor growth. A novel series of enaminone-linked benzofuran compounds was logically created and synthesized as possible dual inhibitors of both enzymes in order to solve this medicinal dilemma. With K I = 35.0 nM against hCA IX and IC50 = 0.058 μM against VEGFR-2, as well as better selectivity than acetazolamide, compound 4a was shown to be the most powerful member. When it came to MCF-7 cells, 4a demonstrated strong antiproliferative activity. In hypoxic settings, it outperformed doxorubicin (IC50 = 3.65 vs. 9.42 μM), and it remained highly active in both normoxia and hypoxia. G-phase cell-cycle arrest, increased apoptosis (57.36%), and changes in apoptosis-related genes, such as downregulating Bcl-2 and upregulating p53, caspase-9, and BAX, were all found by mechanistic investigations. By decreasing wound closure from 69.06% in normal cells to 64.47% and 36.12% at 0.1 and 0.5 μM, respectively, wound-healing experiments validated its significant anti-migratory potential. In silico ADMET predictions confirmed its drug-like profile, whereas molecular docking revealed advantageous interaction inside the ATP-binding site of VEGFR-2 and the zinc pocket of hCA IX. All things considered, compound 4a shows great promise as a dual-target inhibitor and potential chemosensitizer for the treatment of malignancies caused by hypoxia."
+      ],
+      "journal": "RSC medicinal chemistry",
+      "date": "Dec 18, 2025",
+      "authors": [
+        "Eldehna WM",
+        "Elsayed ZM",
+        "Elnagar MR",
+        "Ammara A",
+        "Elkotamy MS",
+        "Monir R",
+        "Nocentini A",
+        "Al-Sanea MM",
+        "Supuran CT",
+        "Tawfik HO",
+        "Abdel-Aziz HA",
+        "Negmeldin AT"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.1039/d5md01043h",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41497768/"
+    },
+    {
+      "pmid": "41471364",
+      "title": "Discovery of Novel Piperidinyl-Based Benzoxazole Derivatives as Anticancer Agents Targeting VEGFR-2 and c-Met Kinases",
+      "topic": "Cancer research",
+      "abstract": [
+        "Background/Objectives: A promising anticancer strategy is the simultaneous inhibition of the receptor tyrosine kinases VEGFR-2 and c-Met, which are essential for tumor angiogenesis, growth, and metastasis. In this study, a novel series of piperidinyl-based benzoxazole derivatives was designed and synthesized as potential dual VEGFR-2/c-Met inhibitors. Methods: The kinase inhibitory potential of the derivatives was evaluated in comparison to reference inhibitors, Sorafenib (VEGFR-2 inhibitor) and Staurosporine (c-Met inhibitor). Cytotoxicity was assessed across breast, prostate (PC-3), and lung (A549) cancer cell lines. Mechanistic studies included cell-cycle analysis, apoptosis assays, gene expression profiling of apoptosis-related markers, and molecular docking within the ATP-binding pockets of both kinases. Results: Compounds 5a, 5g, 5h, 11a, and 11b showed strong inhibition of both kinases (IC50 = 0.145-0.970 μM for VEGFR-2 and 0.181-1.885 μM for c-Met). Selective cytotoxicity was observed against breast cancer cells, with compound 11b (p-fluorophenyl derivative) exhibiting high selectivity toward MCF-7 over normal breast cells (MCF-10A) and potency comparable to or exceeding Sorafenib. Mechanistically, 11b induced G2/M cell-cycle arrest and apoptosis (total apoptosis = 48.34%), accompanied by upregulation of p53, BAX, and caspase-9 and downregulation of Bcl-2. Molecular docking confirmed stable binding within the ATP-binding sites of both kinases. Conclusions: Compound 11b was established as a novel, selective, dual VEGFR-2/c-Met inhibitor with strong potential for targeted breast cancer therapy."
+      ],
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "date": "Dec 09, 2025",
+      "authors": [
+        "Eldehna WM",
+        "Elsayed ZM",
+        "Elnagar MR",
+        "El-Said AH",
+        "Majrashi TA",
+        "Negmeldin AT",
+        "Saleh AM",
+        "Elrayess R",
+        "Elnahriry KA",
+        "Chen ZL",
+        "Elagawany M",
+        "Tawfik HO"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ph18121875",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41471364/"
+    },
+    {
+      "pmid": "41305011",
+      "title": "Development of New Pyrazolo [3,4-b]Pyridine Derivatives as Potent Anti-Leukemic Agents and Topoisomerase IIα Inhibitors with Broad-Spectrum Cytotoxicity",
+      "topic": "Cancer research",
+      "abstract": [
+        "Background/Objectives: In the current medical era, Topoisomerase II is recognized as an essential enzyme that regulates DNA topology during critical biological processes such as DNA replication, transcription, and repair. This study aimed to design, synthesize, and biologically evaluate a new series of pyrazolo[3,4-b]pyridines (8a-g, 10a-g, and 12) as potential anticancer agents and Topoisomerase II inhibitors. Methods: The synthesized compounds were subjected to in vitro anticancer screening at the National Cancer Institute (NCI, USA). Active derivatives were further evaluated through a five-dose screening to determine their antiproliferative potency. Selected compounds were examined for their effects on leukemia cell lines (K562 and MV4-11), and mechanistic studies were performed to assess DNA damage, cell cycle distribution, and apoptosis-related protein modulation. Additionally, enzyme inhibition assays were conducted to determine Topoisomerase IIα (TOPIIα) inhibition. Results: Initial single-dose screening identified several active compounds, notably 8b, 8c, 8e, 8f, 10b, 10c, 10e, and 10f. Among these, compound 8c exhibited potent and broad-spectrum antiproliferative activity across the NCI cancer cell line panel, with a GI50 MG-MID value of 1.33 µM (range: 0.54-2.08 µM). The synthesized molecules showed moderate to good anti-leukemic efficacy against K562 and MV4-11 cells. Mechanistic investigations revealed that compound 8c induced DNA damage and S-phase cell cycle arrest, leading to apoptosis as evidenced by the modulation of PARP-1, Bax, XIAP, and Caspases. Furthermore, target-based assays confirmed that compound 8c significantly inhibited the DNA relaxation activity of TOPIIα in a dose-dependent manner, comparable to etoposide. Conclusions: The study highlights compound 8c as a promising pyrazolo[3,4-b]pyridine derivative with potent antiproliferative activity and effective inhibition of Topoisomerase IIα. These findings suggest its potential as a lead scaffold for further optimization in anticancer drug development.."
+      ],
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "date": "Nov 20, 2025",
+      "authors": [
+        "Eldehna WM",
+        "Tawfik HO",
+        "Veselá D",
+        "Vojáčková V",
+        "Negmeldin AT",
+        "Elsayed ZM",
+        "Majrashi TA",
+        "Krňávková P",
+        "Elbadawi MM",
+        "Shaldam MA",
+        "Al-Ansary GH",
+        "Kryštof V",
+        "Abdel-Aziz HA"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ph18111770",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41305011/"
+    },
+    {
+      "pmid": "40871384",
+      "title": "Molecular Surveillance of ESBL and Carbapenemase Genes in Gram-Negative Bacterial Pathogens Isolated from Various Clinical Samples Collected from Northern Region of United Arab Emirates",
+      "topic": "Infectious disease",
+      "abstract": [
+        "The aim of this study was to explore the prevalence of ESBL and carbapenemase genes in Gram-negative bacteria isolated from various clinical samples collected from northern regions of UAE. In total 3670 clinical samples were obtained from patients attending various hospitals and clinics in the northern regions of the UAE. All the samples underwent routine bacterial culture examination, and their antibiotic sensitivity patterns mainly on beta-lactam and carbapenem resistance in Gram-negative bacteria. Molecular detection of ESBL and carbapenemase genes (blaCTX-M, blaTEM, blaSHV, blaNDM, blaIMP, and blaOXA-48) was performed on them. A total of 249 MDR Gram-negative bacteria (E. coli, K. pneumoniae, P. aeruginosa, P. mirabilis and A. baumannii) were isolated. The genes blaCTX-M, blaTEM, and blaSHV were detected in all the MDR isolates. Among them, the blaCTX-M was predominant especially in E. coli. The blaNDM and blaIMP were detected in a few K. pneumoniae and A. baumannii. The genes combination blaCTX-M+TEM and blaCTX-M+SHV, blaCTX-M+SHV, blaTEM+SHV, and blaTEM+NDM were detected mostly in K. pneumoniae and E. coli, and few A. baumannii. The gene combination blaCTX-M+TEM+SHV and blaCTX-M+TEM+SHV+IMP were also detected in few E. coli, P. aeruginosa, and A. baumannii. The current findings highlight the importance of molecular detection of ESBL and carbapenemase genes to emphasize monitoring and controlling the development of MDR bacterial pathogens."
+      ],
+      "journal": "Microorganisms",
+      "date": "Aug 12, 2025",
+      "authors": [
+        "Ragupathi P",
+        "Khamisani V",
+        "Sadiq AF",
+        "Mobiddo MA",
+        "Parwaiz N",
+        "Bagchi S",
+        "Rahamathullah N"
+      ],
+      "gmu_authors": [
+        "Premalatha Ragupathi",
+        "Vaneezeh Khamisani",
+        "Aisha Fadila Sadiq",
+        "Mariam Aliyu Mobiddo",
+        "Nasir Parwaiz",
+        "Sovan Bagchi",
+        "Nazeerullah Rahamathullah"
+      ],
+      "colleges": [
+        "College of Medicine",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/microorganisms13081880",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40871384/"
+    },
+    {
+      "pmid": "40852610",
+      "title": "Correction: Formulation of zein nanoparticles for augmenting the anti-inflammatory activity of dexketoprofen",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "[This corrects the article DOI: 10.3389/fphar.2025.1560585.]."
+      ],
+      "journal": "Frontiers in pharmacology",
+      "date": "2025",
+      "authors": [
+        "El Hassab MA",
+        "Ibrahim MH",
+        "Abdel Mageed SS",
+        "Mahmoud AMA",
+        "Othman Ahmed ZS",
+        "Mosallam S",
+        "Abdelbari MA",
+        "Khaleel EF",
+        "El Hasab MA",
+        "Elsayyad A",
+        "Allam S",
+        "Eltabeeb MA",
+        "Negmeldin AT",
+        "Eldehna WM",
+        "Albash R"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3389/fphar.2025.1658349",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40852610/"
+    },
+    {
+      "pmid": "40820991",
+      "title": "Citrus aurantifolia essential oil: antiaging potential through integrated in vitro and in silico studies",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Introduction: Natural skincare products and cosmetic preparations have gained popularity among consumers in recent years, prompting cosmetic companies to develop more natural offerings. These products often incorporate plant extracts known for their anti-aging, anti-wrinkle, and depigmentation properties.",
+        "Methods: Using gas chromatography-mass spectrometry, this study examined the volatile compounds in both fresh and dry Citrus aurantifolia (key lime) fruit essential oils. The oils' anti-aging and antioxidant activities were assessed through in vitro anti-collagenase and anti-elastase assays.",
+        "Results: In vitro analysis revealed good inhibition of elastase and collagenase enzymes by fresh key lime essential oil, with IC50 values of 145.02 and 63.97 μg/mL, respectively, compared to positive controls (daidzein for collagenase, piroxicam for elastase), in comparison to dry key lime oil (IC50 = 223.14 and 109.57 μg/mL, respectively). The antioxidant activity of the oils was evaluated using the ABTS (2,2'-azino-bis(3-ethylbenzothiazoline6-sulfonic acid)) radical scavenging assay. The fresh key lime oil demonstrated stronger antioxidant activity (37.76 ± 0.80 μM Trolox equivalent (TE)/g) compared to the dry key lime oil (27.76 ± 1.11 μM TE/g), suggesting that it retains more bioactive compounds essential for radical scavenging activity. Additionally, molecular docking was performed to analyze interactions between the main metabolites and the targeted enzymes active sites. Molecular docking analysis showed excellent binding scores for the three main metabolites.",
+        "Conclusion: The anti-aging potential of fresh key lime essential oil may be attributed to its major compounds. These findings suggest that key lime essential oil could be a promising natural ingredient for anti-aging skincare formulations."
+      ],
+      "journal": "Frontiers in chemistry",
+      "date": "2025",
+      "authors": [
+        "Elkhawas YA",
+        "El Hassab MA",
+        "Al Kamaly O",
+        "Negmeldin AT",
+        "Majrashi TA",
+        "Eldehna WM",
+        "Mostafa NM"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3389/fchem.2025.1577871",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40820991/"
+    },
+    {
+      "pmid": "40667500",
+      "title": "Formulation of zein nanoparticles for augmenting the anti-inflammatory activity of dexketoprofen",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Introduction: Topical delivery of anti-inflammatory drugs is an important strategy for enhancing therapeutic efficacy while minimizing systemic side effects. This study focuses on improving the anti-inflammatory activity of Dexketoprofen by developing zein nanoparticles (ZNs) as a novel topical carrier system, aiming to optimize drug delivery and patient outcomes.",
+        "Methods: Dexketoprofen-loaded ZNs were prepared using an ethanol injection technique and optimized via a 23 full factorial design. The effects of three variables-phosphatidylcholine (PC) amount (X1), type of surface-active agent (SAA, X2), and SAA amount (X3)-were evaluated on entrapment efficiency (EE%), particle size (PS), polydispersity index (PDI), and zeta potential (ZP). Design-Expert® software was employed to identify the optimal formulation. Additionally, molecular docking studies were performed to explore interactions between Dexketoprofen and formulation components. The selected formulation (F7) was further characterized for morphology using scanning electron microscopy. In vivo efficacy was assessed using a formalin-induced paw edema model in rats, and histopathological analysis was conducted to evaluate skin irritation potential.",
+        "Results: The optimal formulation (F7), prepared with 200 mg PC and 20 mg Pluronic F127, demonstrated an entrapment efficiency of 92.44 ± 7.21%, particle size of 91.88 ± 3.01 nm, PDI of 0.42 ± 0.02, and zeta potential of -24.10 ± 0.29 mV. F7 exhibited a smooth, spherical morphology. In vivo studies revealed significantly enhanced anti-inflammatory activity compared to free Dexketoprofen. Histopathological examination confirmed the non-irritant nature of the formulated ZNs on rat skin.",
+        "Discussion: These findings highlight the effectiveness of zein nanoparticles as a promising topical delivery system for Dexketoprofen. The optimized ZNs not only improved drug entrapment and stability but also provided superior anti-inflammatory efficacy and excellent skin tolerability, suggesting their potential for the treatment of inflammatory skin conditions."
+      ],
+      "journal": "Frontiers in pharmacology",
+      "date": "2025",
+      "authors": [
+        "El Hassab MA",
+        "Ibrahim MH",
+        "Abdel Mageed SS",
+        "Mahmoud AMA",
+        "Othman Ahmed ZS",
+        "Mosallam S",
+        "Abdelbari MA",
+        "Khaleel EF",
+        "El Hasab MA",
+        "Elsayyad A",
+        "Allam S",
+        "Eltabeeb MA",
+        "Negmeldin AT",
+        "Eldehna WM",
+        "Albash R"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3389/fphar.2025.1560585",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40667500/"
+    },
+    {
+      "pmid": "40661854",
+      "title": "Metabolomics, antioxidant, and enzyme inhibitory effects of Citrus aurantium fruits",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Introduction: The genus Citrus comprises a large number of economically important fruit crops. They are recognized globally as functional foods and in the food, pharmaceutical, and cosmetic industries.",
+        "Methods: We present herein the chemical composition of the hexane extracts of Citrus aurantium (bitter orange) fruits and leaves by GC-MS for the first time, in addition to their antioxidant and enzyme inhibitory activities in vitro.",
+        "Results and discussion: GC-MS revealed nootkatone (15.29%), decyl anthranilate (11.58%), neryl acetate (7.83%), and linalool acetate (6.83%) as major components of fruit extract; while the leaves extract contained mainly lupeol (24.32%), linalool (16.47%), friedelan-3-one (16.40%) and linalool acetate (12.31%). The extracts showed potential inhibitory activities against acetylcholinesterase (AChE), butyrylcholinesterase (BChE), tyrosinase, amylase, and glucosidase enzymes. Results were confirmed by in silico molecular docking studies on the respective enzymes' active sites, viz NADPH oxidase, BChE, tyrosinase, α-amylase, and α-glucosidase. Amongst the docked compounds, lupeol showed the best binding affinities to NADPH oxidase, butyrylcholinesterase BChE, and α- glucosidase; while linalool acetate and neryl acetate showed the best activities against tyrosinase and α-amylase enzymes, respectively. In conclusion, bitter orange waste products can be a potentially important source of antioxidants and useful supplements."
+      ],
+      "journal": "Frontiers in chemistry",
+      "date": "2025",
+      "authors": [
+        "Eldahshan OA",
+        "Bouabdallah S",
+        "Abd El-Khalek RM",
+        "El Hassab MA",
+        "Zengin G",
+        "Negmeldin AT",
+        "Khaleel EF",
+        "Eldehna WM",
+        "Mostafa NM"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3389/fchem.2025.1613827",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40661854/"
+    },
+    {
+      "pmid": "40563638",
+      "title": "Evofosfamide Enhances Sensitivity of Breast Cancer Cells to Apoptosis and Natural-Killer-Cell-Mediated Cytotoxicity Under Hypoxic Conditions",
+      "topic": "Cancer research",
+      "abstract": [
+        "Background/objectives: Hypoxia in the tumor microenvironment is linked to aggressiveness, epithelial-mesenchymal transition, metastasis, and therapy resistance. Targeting hypoxia to enhance antitumor immunity is crucial for overcoming therapeutic resistance. Here, we investigated the ability of Evofosfamide, a prodrug that gets activated under hypoxic conditions, to sensitize breast cancer cells to cell death. Evofosfamide is converted into bromo-isophosphoramide mustard, a potent DNA cross-linking agent that is expected to enhance the killing of cancer cells under hypoxic conditions, where these cells typically exhibit resistance. Methods: Representative breast cancer cell lines, MCF-7 and MDA-MB-231, were treated with Evofosfamide under normoxia and hypoxia. Changes in cell viability and the mechanism of cell death were measured using neutral red dye uptake, Annexin-FITC/propidium iodide staining, and Western blot analysis of markers-PARP1 and caspase 3/7. We tested Evofosfamide's ability to counteract hypoxic suppression of type I Interferon signaling genes using quantitative PCR (qPCR), as well as its capacity to trigger natural killer (NK)-cell-mediated cytotoxicity. Results: Evofosfamide enhanced cell killing in both MCF-7 and MDA-MB-231 cells under hypoxic conditions compared to normoxic conditions. Cell killing was accompanied by increased cellular reactive oxygen species (ROS), diminished mitochondrial membrane potential, and induction of apoptosis, as demonstrated by the fragmentation or laddering of genomic DNA, the activation of caspase 3/7, and the cleavage of PARP. qPCR analysis revealed that Evofosfamide was capable of restoring type I interferon signaling in hypoxic breast cancer cells, leading to the subsequent cytolytic activity of NK cells against the tumor cells. Conclusions: Thus, conditioning the breast cancer cells with Evofosfamide resulted in enhanced cell killing under hypoxia, further underscoring its potential as a sensitizer to target hypoxia-driven tumors."
+      ],
+      "journal": "Cancers",
+      "date": "Jun 14, 2025",
+      "authors": [
+        "Das S",
+        "Venkatesh GH",
+        "Elsayed WSM",
+        "Abou Khouzam R",
+        "Mahmood AS",
+        "Nawafleh HH",
+        "Zeinelabdin NA",
+        "Zaarour RF",
+        "Chouaib S"
+      ],
+      "gmu_authors": [
+        "Shubhankar Das",
+        "Goutham Hassan Venkatesh",
+        "Walid Shaaban Moustafa Elsayed",
+        "Raefa Abou Khouzam",
+        "Ayda Shah Mahmood",
+        "Husam Hussein Nawafleh",
+        "Nagwa Ahmed Zeinelabdin",
+        "Rania Faouzi Zaarour",
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine",
+        "College of Dentistry"
+      ],
+      "doi": "10.3390/cancers17121988",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40563638/"
+    },
+    {
+      "pmid": "40074018",
+      "title": "DprE1 inhibitors: An insight into the recent developments and synthetic approaches",
+      "topic": "Infectious disease",
+      "abstract": [
+        "In the current medical era, the proliferation and dissemination of drug-resistant strains of Mycobacterium tuberculosis (Mtb) continue to pose a significant worldwide health hazard, necessitating the development of new and innovative medications to combat tuberculosis. Decaprenylphosphoryl-β-D-ribose 2'-epimerase (DprE1) is a crucial enzyme for cell wall synthesis in Mtb. Its importance is due to its eminent contribution in forming lipoarabinomannan and arabinogalactan, key components of the mycobacterial cell wall. The emergence of the DprE1 enzyme as a druggable target was based on inhibitors discovered in high-throughput screening. Since then, inhibitors with different types of chemical scaffolds have been reported for their activity against it. DprE1 inhibitors can be categorized according to the formation of a covalent or non-covalent bond in the enzyme's active site, causing a loss of its catalytic activity, leading to Mtb's demise. Herein, we describe diverse DprE1 inhibitors that have had anti-tubercular activity reported over the past fifteen years and till the present time."
+      ],
+      "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+      "date": "Jun 01, 2025",
+      "authors": [
+        "Shahin MI",
+        "Elyamani MA",
+        "Elsawi AE",
+        "Negmeldin AT",
+        "Naguib S",
+        "Safwat H",
+        "Abdel-Aziz HA",
+        "Eldehna WM"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.1016/j.ejps.2025.107062",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40074018/"
+    },
+    {
+      "pmid": "39729399",
+      "title": "Integrative systems-level analysis reveals a contextual crosstalk between hypoxia and global metabolism in human breast tumors",
+      "topic": "Cancer research",
+      "abstract": [
+        "Hypoxia is known to induce reprogramming of glucose metabolism in cancer. However, the impact of hypoxia on global metabolism remains poorly understood. Here, using the systems approach, we evaluated the potential crosstalk between hypoxia and global metabolism using data from > 2000 breast tumors. Tumor samples were scored for hypoxia and 90 metabolic pathways, and these metrics were subjected to an analysis pipeline. Hypoxia showed a very strong association with metabolic aggression and an overall contextual relationship with metabolism. Out of three (M1, M2, and M3) metabolic types in breast cancer, M3 exhibited the strongest relationship with hypoxia; that is, high hypoxic tumors were also metabolically deregulated. Further, the overall correlation pattern between hypoxia and metabolic pathway scores was specific to each type, with M1 showing maximal sensitivity to hypoxia, followed by M2 and then M3. Experimental validation using metabolic inhibitors on cell lines with high or low hypoxia scores further confirmed the metabolic type-dependence of hypoxia. In addition, evaluation of the impact of hypoxia on cancer pathways other than metabolic ones revealed a potential role of hypoxia in immune evasive characteristic of M3 tumors. Overall, the results suggest a complex interplay between hypoxia and metabolism in the context of human breast tumors, with potential implications for both basic cancer biology and breast cancer therapy."
+      ],
+      "journal": "Molecular oncology",
+      "date": "Jun 2025",
+      "authors": [
+        "Abou Khouzam R",
+        "Chouaib S",
+        "Iqbal MA"
+      ],
+      "gmu_authors": [
+        "Raefa Abou Khouzam",
+        "Salem Chouaib",
+        "Mohammad Askandar Iqbal"
+      ],
+      "colleges": [
+        "College of Medicine",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.1002/1878-0261.13762",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39729399/"
     }
   ]
 }
