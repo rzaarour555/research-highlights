@@ -105,7 +105,7 @@
 </head>
 <body>
 
-<div class="ribbon"><div class="wrap">Concept demo only. Not an official university page. All stories, names and findings are sample placeholder text.</div></div>
+<div class="ribbon"><div class="wrap" id="ribbon">Concept demo only. Not an official university page. All stories, names and findings are sample placeholder text.</div></div>
 
 <header class="site">
   <div class="wrap">
@@ -200,7 +200,7 @@
 </main>
 
 <script>
-const stories = [
+let stories = [
   { id:1, topic:"Precision medicine", photo:"p1", date:"Oct 8, 2026",
     title:"Sample story: A blood marker that could flag diabetes risk earlier",
     dek:"Placeholder summary of a study exploring whether a routine blood test could identify people at risk years before diagnosis.",
@@ -295,7 +295,8 @@ function openStory(id){
   $("s-byline").textContent = `${s.date} · ${readMins(s)} min read · ${s.by}`;
   $("s-photo").className = "photo " + s.photo;
   $("s-body").innerHTML = s.body.map(p => `<p>${esc(p)}</p>`).join("");
-  $("s-source").textContent = s.source;
+  if (s.url) $("s-source").innerHTML = esc(s.source) + ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">Read the paper on PubMed</a>';
+  else $("s-source").textContent = s.source;
   $("p-title").textContent = s.title;
   $("p-time").textContent = `${s.body.length + 1} parts`;
   $("p-bar").style.width = "0";
@@ -379,7 +380,26 @@ $("reset").onclick = () => {
   $("console").textContent = 'Waiting. Select "Run the simulation".';
 };
 
+/* live data: papers saved by the daily GitHub job. Falls back to the samples above. */
+function paperToStory(p, i){
+  const first = p.abstract[0].replace(/^[A-Za-z ]{3,30}: /, "");
+  const authors = p.authors.length > 3 ? p.authors.slice(0,3).join(", ") + " et al." : p.authors.join(", ");
+  return { id: 1000 + i, topic: p.journal || "Publication", photo: "p" + (i % 4 + 1), date: p.date,
+    title: p.title, dek: first.length > 230 ? first.slice(0, 230).replace(/\s+\S*$/, "") + "…" : first,
+    by: authors ? "By " + authors : "", body: p.abstract,
+    source: "Source paper: " + [p.journal, p.date].filter(Boolean).join(", ") + ".", url: p.url };
+}
 renderHome();
+fetch("data/papers.json", { cache: "no-store" })
+  .then(r => r.ok ? r.json() : null)
+  .then(d => {
+    if (!d || !d.papers || !d.papers.length) return;
+    stories = d.papers.map(paperToStory); current = stories[0]; filter = "All";
+    $("ribbon").textContent = "Concept demo only. Not an official university page. Papers are pulled automatically from PubMed (last update " + d.updated + "); the text shown is the authors' own abstract.";
+    renderHome();
+    if (new Set(stories.map(s => s.topic)).size > 4) $("filters").style.display = "none";
+  })
+  .catch(() => {});
 </script>
 </body>
 </html>
