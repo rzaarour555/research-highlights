@@ -168,7 +168,10 @@ def fetch(ids):
     root = ET.fromstring(get("efetch.fcgi", {"db": "pubmed", "id": ",".join(ids), "retmode": "xml"}))
     time.sleep(1)
     papers = [parse_paper(node) for node in root.findall("PubmedArticle")]
-    return [paper for paper in papers if paper["title"] and paper["abstract"]]
+    # Leave out journal correction notices; they are not research papers
+    notices = ("correction", "erratum", "corrigendum", "retraction")
+    return [paper for paper in papers
+            if paper["title"] and paper["abstract"] and not paper["title"].lower().startswith(notices)]
 
 
 def main():
