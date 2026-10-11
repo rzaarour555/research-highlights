@@ -13,7 +13,7 @@ from pathlib import Path
 
 # ---- Settings you can change -------------------------------------------
 AFFILIATION = "Gulf Medical University"   # the name PubMed should look for
-HOW_MANY = 8                               # number of papers to show
+HOW_MANY = 30                               # number of papers to show
 OUTPUT = Path("data/papers.json")
 
 # Subjects shown as filters on the page. A paper gets the subject whose words
