@@ -3,6 +3,7 @@
 Runs every day on GitHub Actions. Uses only Python's standard library.
 """
 import json
+import re
 import time
 import urllib.parse
 import urllib.request
@@ -14,6 +15,26 @@ from pathlib import Path
 AFFILIATION = "Gulf Medical University"   # the name PubMed should look for
 HOW_MANY = 8                               # number of papers to show
 OUTPUT = Path("data/papers.json")
+
+# Subjects shown as filters on the page. A paper gets the subject whose words
+# appear most often in its title, keywords and abstract. To add a subject, add
+# a line. To improve the sorting, add words to a line. Words are matched from
+# their start, so "cancer" also matches "cancers" and "diabet" matches "diabetes".
+TOPICS = {
+    "Medical education": ["medical education", "medical student", "curricul", "simulation-based", "teaching", "learner", "undergraduate", "residency training", "assessment of students", "interprofessional education"],
+    "Cancer research": ["cancer", "tumor", "tumour", "carcinoma", "oncolog", "neoplas", "leukemia", "leukaemia", "lymphoma", "metasta", "chemotherap"],
+    "Diabetes and metabolism": ["diabet", "insulin", "glycemi", "glycaemi", "glycation", "obesity", "metabolic syndrome", "adipokine", "myokine", "thyroid", "testosterone"],
+    "Heart and circulation": ["cardiac", "cardio", "coronary", "stent", "heart", "hypertens", "myocardial", "stroke", "atrial", "vascular"],
+    "Mental health": ["mental health", "depress", "anxiety", "psycholog", "psychiatr", "nightmare", "addiction", "stress", "well-being", "wellbeing", "burnout"],
+    "Infectious disease": ["infect", "antibiotic", "antimicrobial", "bacteri", "virus", "viral", "covid", "sars-cov", "tubercul", "vaccin", "pathogen"],
+    "Dentistry and oral health": ["dental", "dentist", "oral health", "intraoral", "prosthodont", "periodont", "endodont", "orthodont", "tooth", "teeth", "implant"],
+    "Reproductive health": ["sperm", "fertil", "pregnan", "reproduct", "obstetric", "gynecolog", "gynaecolog", "ovarian", "neonat", "maternal"],
+    "Surgery and anaesthesia": ["surg", "anaesthe", "anesthe", "perioperative", "postoperative", "neuraxial", "operative"],
+    "Pharmacy and drug research": ["pharmac", "drug discovery", "drug delivery", "formulation", "nanoparticle", "medication adherence", "prescri"],
+    "Brain and nervous system": ["neuro", "brain", "alzheimer", "parkinson", "epilep", "cognitive", "dementia", "pain"],
+    "Public health": ["public health", "prevalence", "epidemiolog", "population-based", "cross-sectional", "health policy", "ageism", "community", "survey"],
+}
+OTHER_TOPIC = "Other research"
 # ------------------------------------------------------------------------
 
 BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
@@ -29,6 +50,21 @@ def get(endpoint, params):
 def text_of(element):
     """All the text inside an XML element, including text inside italics etc."""
     return "".join(element.itertext()).strip() if element is not None else ""
+
+
+def count_hits(words, text):
+    return sum(len(re.findall(r"\b" + re.escape(word), text)) for word in words)
+
+
+def classify(title, keywords, abstract):
+    """Pick the subject whose words appear most. The title counts most, then keywords."""
+    title, keywords, abstract = title.lower(), " ; ".join(keywords).lower(), " ".join(abstract).lower()
+    best, best_score = OTHER_TOPIC, 0
+    for topic, words in TOPICS.items():
+        score = 5 * count_hits(words, title) + 3 * count_hits(words, keywords) + count_hits(words, abstract)
+        if score > best_score:
+            best, best_score = topic, score
+    return best
 
 
 def parse_date(article):
@@ -60,9 +96,13 @@ def parse_paper(node):
         if item.get("IdType") == "doi":
             doi = (item.text or "").strip()
             break
+    title = text_of(article.find("ArticleTitle")).rstrip(".")
+    keywords = [text_of(k) for k in node.findall(".//MeshHeading/DescriptorName")]
+    keywords += [text_of(k) for k in node.findall(".//KeywordList/Keyword")]
     return {
         "pmid": pmid,
-        "title": text_of(article.find("ArticleTitle")).rstrip("."),
+        "title": title,
+        "topic": classify(title, keywords, abstract),
         "abstract": abstract,
         "journal": article.findtext(".//Journal/Title") or "",
         "date": parse_date(article),
