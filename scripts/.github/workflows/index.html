@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Research Highlights – Concept Demo</title>
+<style>
+  :root{
+    --ink:#14212b; --muted:#5b6b78; --line:#dfe5ea; --paper:#f7f5f0; --card:#ffffff;
+    --accent:#0b6e6e; --accent-soft:#e2f1f0; --warn:#8a5a00; --warn-bg:#fff4d6;
+    --serif: Georgia, "Times New Roman", serif;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.55}
+  button{font:inherit;cursor:pointer}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 16px}
+  .ribbon{background:var(--warn-bg);color:var(--warn);font-size:13px;padding:8px 0;text-align:center;border-bottom:1px solid #ecd9a0}
+  header.site{background:var(--card);border-bottom:1px solid var(--line)}
+  header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:14px;padding-bottom:14px;flex-wrap:wrap}
+  .brand{font-family:var(--serif);font-size:20px}
+  .brand small{display:block;font-family:var(--sans);font-size:12px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase}
+  nav.views{display:flex;gap:6px;flex-wrap:wrap}
+  nav.views button{border:1px solid var(--line);background:var(--card);padding:7px 12px;border-radius:999px;font-size:14px;color:var(--ink)}
+  nav.views button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+  section.view{display:none;padding:28px 0 56px}
+  section.view.on{display:block}
+  .eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:600}
+  h1,h2,h3{font-family:var(--serif);font-weight:normal;line-height:1.2;margin:0}
+  h2.sec{font-size:28px;margin:4px 0 6px}
+  p.lede{color:var(--muted);margin:0 0 20px;max-width:62ch}
+
+  /* banner */
+  .banner{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px}
+  .banner-head{display:flex;justify-content:space-between;align-items:end;gap:12px;flex-wrap:wrap;margin-bottom:16px}
+  .filters{display:flex;gap:6px;flex-wrap:wrap}
+  .filters button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:4px 10px;font-size:13px;color:var(--muted)}
+  .filters button.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
+  .grid{display:grid;grid-template-columns:1.3fr 1fr;gap:20px}
+  .lead .photo{aspect-ratio:16/9}
+  .lead h3{font-size:24px;margin:12px 0 6px}
+  .lead p{margin:0;color:var(--muted)}
+  .list{display:flex;flex-direction:column}
+  .item{padding:12px 0;border-top:1px solid var(--line);display:flex;gap:12px;align-items:flex-start}
+  .item:first-child{border-top:0;padding-top:0}
+  .item .photo{width:92px;flex:none;aspect-ratio:4/3;font-size:0}
+  .item h3{font-size:17px}
+  .story-link{background:none;border:0;padding:0;text-align:left;color:inherit;font:inherit}
+  .story-link:hover h3{text-decoration:underline}
+  .meta{font-size:13px;color:var(--muted);margin-top:4px}
+  .chip{display:inline-flex;align-items:center;gap:4px;font-size:12px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:1px 8px;margin-left:6px}
+  .new-flag{background:#d9f2df;color:#17603a}
+  .photo{border-radius:8px;display:flex;align-items:center;justify-content:center;color:#ffffffcc;font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+  .p1{background:linear-gradient(135deg,#0b6e6e,#1d3c5a)}
+  .p2{background:linear-gradient(135deg,#7a4b2a,#c08a3e)}
+  .p3{background:linear-gradient(135deg,#3d4f8a,#7a5ea8)}
+  .p4{background:linear-gradient(135deg,#2f6b3f,#8aa84a)}
+
+  /* story */
+  article{max-width:720px;margin:0 auto}
+  article h1{font-size:38px;margin:8px 0 12px}
+  article .dek{font-size:19px;color:var(--muted);margin:0 0 14px}
+  article .byline{font-size:14px;color:var(--muted);margin-bottom:16px}
+  article .photo{aspect-ratio:16/9}
+  .credit{font-size:12px;color:var(--muted);margin:6px 0 16px}
+  .player{display:flex;align-items:center;gap:12px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:22px}
+  .player .play{width:42px;height:42px;border-radius:50%;border:0;background:var(--accent);color:#fff;font-size:16px;flex:none}
+  .player .info{flex:1;min-width:0}
+  .player .label{font-size:13px;font-weight:600}
+  .player .title{font-size:13px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .bar{height:4px;background:var(--line);border-radius:2px;margin-top:8px;overflow:hidden}
+  .bar i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s}
+  .player .time{font-size:12px;color:var(--muted);flex:none}
+  .body p{font-family:var(--serif);font-size:18px;margin:0 0 16px}
+  .body p.speaking{background:var(--accent-soft);box-shadow:0 0 0 6px var(--accent-soft);border-radius:2px}
+  .source{border-left:3px solid var(--accent);background:var(--card);padding:12px 14px;font-size:14px;margin-top:24px}
+  .back{background:none;border:0;color:var(--accent);padding:0;margin-bottom:14px;font-size:14px}
+  .note{font-size:13px;color:var(--muted);margin-top:8px}
+
+  /* pipeline */
+  .steps{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:18px 0}
+  .step{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;opacity:.55;transition:all .3s}
+  .step.active{opacity:1;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+  .step.done{opacity:1}
+  .step .n{font-size:12px;color:var(--muted)}
+  .step h3{font-size:17px;margin:2px 0 6px}
+  .step p{font-size:13px;color:var(--muted);margin:0}
+  .step .tool{display:inline-block;margin-top:8px;font-size:11px;letter-spacing:.04em;text-transform:uppercase;color:var(--accent)}
+  .step.done h3::after{content:" ✓";color:#17603a}
+  .console{background:#101a22;color:#cfe3e1;border-radius:10px;padding:14px;font:13px/1.6 ui-monospace,Menlo,Consolas,monospace;min-height:150px;white-space:pre-wrap}
+  .controls{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+  .btn{border:0;background:var(--accent);color:#fff;padding:9px 16px;border-radius:8px}
+  .btn.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)}
+  .btn:disabled{opacity:.45;cursor:not-allowed}
+  .draft{background:var(--card);border:1px dashed var(--accent);border-radius:10px;padding:14px;margin-top:14px;display:none}
+  .draft.on{display:block}
+  .draft h3{font-size:19px;margin-bottom:6px}
+
+  @media (max-width:760px){
+    .grid{grid-template-columns:1fr}
+    .steps{grid-template-columns:1fr}
+    article h1{font-size:29px}
+  }
+</style>
+</head>
+<body>
+
+<div class="ribbon"><div class="wrap" id="ribbon">Concept demo only. Not an official university page. All stories, names and findings are sample placeholder text.</div></div>
+
+<header class="site">
+  <div class="wrap">
+    <div class="brand">College of Medicine<small>Research highlights · concept</small></div>
+    <nav class="views" aria-label="Demo views">
+      <button data-view="home" aria-pressed="true">1. Banner</button>
+      <button data-view="story" aria-pressed="false">2. Story page</button>
+      <button data-view="process" aria-pressed="false">3. How it works</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <!-- VIEW 1 -->
+  <section class="view on" id="view-home">
+    <div class="eyebrow">Placement option</div>
+    <h2 class="sec">A research banner for the front page or the Research tab</h2>
+    <p class="lede">The block below is self-contained. It can sit on the existing front page under the main slider, or open the Research tab. Select any story to see the story page.</p>
+
+    <div class="banner">
+      <div class="banner-head">
+        <div>
+          <div class="eyebrow">Latest research</div>
+          <h2 style="font-size:24px">Discoveries from our faculty and students</h2>
+        </div>
+        <div class="filters" id="filters"></div>
+      </div>
+      <div class="grid">
+        <div class="lead" id="lead"></div>
+        <div class="list" id="list"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- VIEW 2 -->
+  <section class="view" id="view-story">
+    <article>
+      <button class="back" id="back">← Back to research highlights</button>
+      <div class="eyebrow" id="s-topic"></div>
+      <h1 id="s-title"></h1>
+      <p class="dek" id="s-dek"></p>
+      <div class="byline" id="s-byline"></div>
+      <div class="photo" id="s-photo">Photo placeholder</div>
+      <div class="credit">Photo credit goes here</div>
+
+      <div class="player">
+        <button class="play" id="play" aria-label="Play audio version">▶</button>
+        <div class="info">
+          <div class="label">Listen to this story</div>
+          <div class="title" id="p-title"></div>
+          <div class="bar"><i id="p-bar"></i></div>
+        </div>
+        <div class="time" id="p-time"></div>
+      </div>
+
+      <div class="body" id="s-body"></div>
+      <div class="source" id="s-source"></div>
+      <p class="note" id="p-note">In this demo the audio is read by your browser's built-in voice. In the real version, each story gets a recorded MP3 generated once at publication, with a more natural voice.</p>
+    </article>
+  </section>
+
+  <!-- VIEW 3 -->
+  <section class="view" id="view-process">
+    <div class="eyebrow">Automation</div>
+    <h2 class="sec">From published paper to story with audio</h2>
+    <p class="lede">Run the simulation to watch one paper move through the pipeline. The only manual step is the editor's approval.</p>
+
+    <div class="steps" id="steps">
+      <div class="step"><div class="n">Step 1</div><h3>Find</h3><p>A daily check asks PubMed for new papers with our affiliation.</p><span class="tool">GitHub Actions</span></div>
+      <div class="step"><div class="n">Step 2</div><h3>Draft</h3><p>The abstract is turned into a short plain-language story and tagged with a topic.</p><span class="tool">AI summary</span></div>
+      <div class="step"><div class="n">Step 3</div><h3>Review</h3><p>An editor reads the draft, corrects it, adds a photo, and approves.</p><span class="tool">Person · WordPress</span></div>
+      <div class="step"><div class="n">Step 4</div><h3>Record</h3><p>The approved text is converted to an MP3 and attached to the story.</p><span class="tool">Text-to-speech</span></div>
+      <div class="step"><div class="n">Step 5</div><h3>Publish</h3><p>The story appears in the banner and on its own page with the player.</p><span class="tool">Website</span></div>
+    </div>
+
+    <div class="controls">
+      <button class="btn" id="run">Run the simulation</button>
+      <button class="btn ghost" id="reset">Reset</button>
+    </div>
+
+    <div class="console" id="console">Waiting. Select "Run the simulation".</div>
+
+    <div class="draft" id="draft">
+      <div class="eyebrow">Draft awaiting approval</div>
+      <h3 id="d-title"></h3>
+      <p id="d-dek" style="margin:0 0 10px;color:var(--muted)"></p>
+      <button class="btn" id="approve">Approve and publish</button>
+    </div>
+  </section>
+
+</main>
+
+<script>
+let stories = [
+  { id:1, topic:"Precision medicine", photo:"p1", date:"Oct 8, 2026",
+    title:"Sample story: A blood marker that could flag diabetes risk earlier",
+    dek:"Placeholder summary of a study exploring whether a routine blood test could identify people at risk years before diagnosis.",
+    by:"By [Writer name]",
+    body:[
+      "This is placeholder text standing in for a real research story. It shows how a plain-language account of a published paper would read on the page.",
+      "The opening paragraph would explain what the researchers wanted to find out and why it matters to patients and families in the region.",
+      "The middle of the story would describe how the study was done, who took part, and what the team found, in words a general reader can follow.",
+      "A quote from the lead researcher, [Researcher name], would appear here, followed by what the team plans to study next and the limits of the current findings."
+    ],
+    source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." },
+  { id:2, topic:"Medical education", photo:"p2", date:"Oct 5, 2026",
+    title:"Sample story: Simulation training and how quickly new interns respond in emergencies",
+    dek:"Placeholder summary of an education study comparing simulation-based practice with traditional teaching.",
+    by:"By [Writer name]",
+    body:[
+      "This is placeholder text for a medical education story. A real version would open with the question the teaching team set out to answer.",
+      "It would then describe the training approach, how many learners took part, and how their performance was measured.",
+      "The findings would be reported plainly, including anything that did not work as expected.",
+      "The story would close with what this means for the curriculum and a comment from [Researcher name]."
+    ],
+    source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." },
+  { id:3, topic:"Population health", photo:"p3", date:"Sep 29, 2026",
+    title:"Sample story: What a community survey shows about vitamin D and adolescent health",
+    dek:"Placeholder summary of a population study carried out with local schools and clinics.",
+    by:"By [Writer name]",
+    body:[
+      "This is placeholder text for a population health story. A real version would start with the health question and the community involved.",
+      "It would explain how the survey was run and how many people responded.",
+      "The main results would follow, with one or two figures a reader can remember.",
+      "The story would end with practical advice from [Researcher name] and the next phase of the work."
+    ],
+    source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." }
+];
+const incoming = { id:4, topic:"Infectious disease", photo:"p4", date:"Today", isNew:true,
+  title:"Sample story: Mapping antibiotic resistance across outpatient clinics",
+  dek:"Placeholder summary of a study tracking resistance patterns in samples from community clinics.",
+  by:"By [Writer name]",
+  body:[
+    "This is placeholder text for a story that the pipeline has just created from a newly published paper.",
+    "A real version would explain which infections were studied and where the samples came from.",
+    "It would report which treatments are still working well and where resistance is rising.",
+    "The story would close with guidance for prescribers from [Researcher name]."
+  ],
+  source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." };
+
+let filter = "All", current = stories[0];
+const $ = id => document.getElementById(id);
+const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const readMins = s => Math.max(1, Math.round(s.body.join(" ").split(/\s+/).length / 180 + 2));
+
+function show(view){
+  stopAudio();
+  document.querySelectorAll("section.view").forEach(s => s.classList.toggle("on", s.id === "view-" + view));
+  document.querySelectorAll("nav.views button").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === view));
+  window.scrollTo(0,0);
+}
+document.querySelectorAll("nav.views button").forEach(b => b.onclick = () => { if (b.dataset.view === "story") openStory(current.id); else show(b.dataset.view); });
+$("back").onclick = () => show("home");
+
+function renderHome(){
+  const topics = ["All", ...new Set(stories.map(s => s.topic))];
+  $("filters").innerHTML = topics.map(t => `<button class="${t===filter?"on":""}" data-t="${esc(t)}">${esc(t)}</button>`).join("");
+  $("filters").querySelectorAll("button").forEach(b => b.onclick = () => { filter = b.dataset.t; renderHome(); });
+  const shown = stories.filter(s => filter === "All" || s.topic === filter);
+  const [lead, ...rest] = shown;
+  const flag = s => s.isNew ? `<span class="chip new-flag">New</span>` : "";
+  $("lead").innerHTML = lead ? `
+    <button class="story-link" data-id="${lead.id}">
+      <div class="photo ${lead.photo}">Photo placeholder</div>
+      <div class="meta" style="margin-top:10px">${esc(lead.topic)} · ${esc(lead.date)}<span class="chip">🔊 Audio</span>${flag(lead)}</div>
+      <h3>${esc(lead.title)}</h3>
+      <p>${esc(lead.dek)}</p>
+    </button>` : "";
+  $("list").innerHTML = rest.map(s => `
+    <div class="item">
+      <div class="photo ${s.photo}"></div>
+      <button class="story-link" data-id="${s.id}">
+        <h3>${esc(s.title)}</h3>
+        <div class="meta">${esc(s.topic)} · ${esc(s.date)}<span class="chip">🔊 Audio</span>${flag(s)}</div>
+      </button>
+    </div>`).join("") || `<p class="meta">No other stories in this topic yet.</p>`;
+  document.querySelectorAll(".story-link").forEach(b => b.onclick = () => openStory(+b.dataset.id));
+}
+
+function openStory(id){
+  current = stories.find(s => s.id === id) || stories[0];
+  const s = current;
+  $("s-topic").textContent = s.topic;
+  $("s-title").textContent = s.title;
+  $("s-dek").textContent = s.dek;
+  $("s-byline").textContent = `${s.date} · ${readMins(s)} min read · ${s.by}`;
+  $("s-photo").className = "photo " + s.photo;
+  $("s-body").innerHTML = s.body.map(p => `<p>${esc(p)}</p>`).join("");
+  if (s.url) $("s-source").innerHTML = esc(s.source) + ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">Read the paper on PubMed</a>';
+  else $("s-source").textContent = s.source;
+  $("p-title").textContent = s.title;
+  $("p-time").textContent = `${s.body.length + 1} parts`;
+  $("p-bar").style.width = "0";
+  show("story");
+}
+
+/* audio: browser speech as a stand-in for a recorded MP3 */
+let playing = false, part = 0;
+const synth = window.speechSynthesis;
+function stopAudio(){
+  playing = false; part = 0;
+  try { synth && synth.cancel(); } catch(e){}
+  $("play").textContent = "▶";
+  document.querySelectorAll(".body p").forEach(p => p.classList.remove("speaking"));
+}
+function speakNext(){
+  const parts = [current.title + ". " + current.dek, ...current.body];
+  const paras = document.querySelectorAll("#s-body p");
+  paras.forEach(p => p.classList.remove("speaking"));
+  if (!playing || part >= parts.length){ $("p-bar").style.width = part >= parts.length ? "100%" : $("p-bar").style.width; stopAudio(); return; }
+  if (part > 0 && paras[part-1]) paras[part-1].classList.add("speaking");
+  $("p-bar").style.width = (part / parts.length * 100) + "%";
+  const u = new SpeechSynthesisUtterance(parts[part]);
+  u.lang = "en-GB"; u.rate = 1;
+  u.onend = () => { if (playing){ part++; speakNext(); } };
+  u.onerror = () => stopAudio();
+  synth.speak(u);
+}
+$("play").onclick = () => {
+  if (!synth || typeof SpeechSynthesisUtterance === "undefined"){
+    $("p-note").textContent = "Audio preview is not available in this viewer. Open the file in Chrome, Edge or Safari to hear it.";
+    return;
+  }
+  if (playing){ stopAudio(); return; }
+  playing = true; part = 0; $("play").textContent = "■"; speakNext();
+};
+
+/* pipeline simulation */
+const steps = [...document.querySelectorAll(".step")];
+let published = false, running = false;
+const log = t => { $("console").textContent += "\n" + t; };
+const wait = ms => new Promise(r => setTimeout(r, ms));
+function mark(i){ steps.forEach((s, k) => { s.classList.toggle("done", k < i); s.classList.toggle("active", k === i); }); }
+
+$("run").onclick = async () => {
+  if (running || published) return;
+  running = true; $("run").disabled = true;
+  $("console").textContent = "06:00  Daily job started";
+  mark(0); await wait(900);
+  log("06:00  Asking PubMed for new papers with our affiliation…");
+  await wait(1100); log("06:01  1 new paper found. 0 already in the system.");
+  mark(1); await wait(900);
+  log("06:01  Writing plain-language draft from the abstract…");
+  await wait(1300); log("06:02  Draft saved. Topic: Infectious disease. Status: awaiting approval.");
+  mark(2);
+  log("06:02  Editor notified. Pipeline paused until a person approves.");
+  $("d-title").textContent = incoming.title;
+  $("d-dek").textContent = incoming.dek;
+  $("draft").classList.add("on");
+};
+
+$("approve").onclick = async () => {
+  $("draft").classList.remove("on");
+  log("09:14  Approved by editor.");
+  mark(3); await wait(800);
+  log("09:14  Generating audio narration…");
+  await wait(1400); log("09:15  Audio file saved and attached to the story.");
+  mark(4); await wait(800);
+  log("09:15  Published. The story now leads the research banner.");
+  steps.forEach(s => { s.classList.remove("active"); s.classList.add("done"); });
+  stories.unshift(incoming); current = incoming; published = true; running = false;
+  filter = "All"; renderHome();
+  log("\nOpen \"1. Banner\" to see the new story at the top.");
+};
+
+$("reset").onclick = () => {
+  if (published){ stories.shift(); published = false; current = stories[0]; renderHome(); }
+  running = false; $("run").disabled = false;
+  steps.forEach(s => s.classList.remove("active","done"));
+  $("draft").classList.remove("on");
+  $("console").textContent = 'Waiting. Select "Run the simulation".';
+};
+
+/* live data: papers saved by the daily GitHub job. Falls back to the samples above. */
+function paperToStory(p, i){
+  const first = p.abstract[0].replace(/^[A-Za-z ]{3,30}: /, "");
+  const authors = p.authors.length > 3 ? p.authors.slice(0,3).join(", ") + " et al." : p.authors.join(", ");
+  return { id: 1000 + i, topic: p.journal || "Publication", photo: "p" + (i % 4 + 1), date: p.date,
+    title: p.title, dek: first.length > 230 ? first.slice(0, 230).replace(/\s+\S*$/, "") + "…" : first,
+    by: authors ? "By " + authors : "", body: p.abstract,
+    source: "Source paper: " + [p.journal, p.date].filter(Boolean).join(", ") + ".", url: p.url };
+}
+renderHome();
+fetch("data/papers.json", { cache: "no-store" })
+  .then(r => r.ok ? r.json() : null)
+  .then(d => {
+    if (!d || !d.papers || !d.papers.length) return;
+    stories = d.papers.map(paperToStory); current = stories[0]; filter = "All";
+    $("ribbon").textContent = "Concept demo only. Not an official university page. Papers are pulled automatically from PubMed (last update " + d.updated + "); the text shown is the authors' own abstract.";
+    renderHome();
+    if (new Set(stories.map(s => s.topic)).size > 4) $("filters").style.display = "none";
+  })
+  .catch(() => {});
+</script>
+</body>
+</html>
