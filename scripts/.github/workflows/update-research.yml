@@ -1,0 +1,36 @@
+name: Update research papers
+
+on:
+  schedule:
+    - cron: "0 2 * * *"      # every day at 02:00 UTC = 06:00 in the UAE
+  workflow_dispatch:          # adds a "Run workflow" button so you can run it by hand
+
+permissions:
+  contents: write             # lets the job save the new data file to the repository
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the repository files
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch papers from PubMed
+        run: python scripts/fetch_pubmed.py
+
+      - name: Save the result if anything changed
+        run: |
+          git config user.name "research-bot"
+          git config user.email "research-bot@users.noreply.github.com"
+          git add data/papers.json
+          if git diff --cached --quiet; then
+            echo "No changes to save."
+          else
+            git commit -m "Update research papers"
+            git push
+          fi
