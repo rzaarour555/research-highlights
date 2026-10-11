@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11 13:44 UTC",
+  "updated": "2026-10-11 14:30 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -28,6 +28,12 @@
         "Marriott J",
         "Ramachandran S"
       ],
+      "gmu_authors": [
+        "Farid Saad"
+      ],
+      "colleges": [
+        "College not stated"
+      ],
       "doi": "10.1080/13685538.2026.2696061",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42391314/"
     },
@@ -43,6 +49,12 @@
       "authors": [
         "Dutta S",
         "Sengupta P"
+      ],
+      "gmu_authors": [
+        "Pallav Sengupta"
+      ],
+      "colleges": [
+        "College not stated"
       ],
       "doi": "10.1007/s10815-026-04046-2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42853362/"
@@ -69,6 +81,12 @@
         "Fekih-Romdhane F",
         "Obeid S"
       ],
+      "gmu_authors": [
+        "Diana Malaeb"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
       "doi": "10.1002/hsr2.73350",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42851888/"
     },
@@ -86,6 +104,12 @@
       "date": "Oct 07, 2026",
       "authors": [
         "Patel S"
+      ],
+      "gmu_authors": [
+        "Santosh Patel"
+      ],
+      "colleges": [
+        "College not stated"
       ],
       "doi": "10.1007/s40122-026-00889-w",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/"
@@ -116,6 +140,12 @@
         "Murti K",
         "Radhakrishnan R"
       ],
+      "gmu_authors": [
+        "Mohammed Salim Karattuthodi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
       "doi": "10.1080/17434440.2026.2746135",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/"
     },
@@ -140,6 +170,14 @@
         "Nuritdinov N",
         "Abdelfatah E"
       ],
+      "gmu_authors": [
+        "Marwan Ismail",
+        "Elmotaz Abdelfatah"
+      ],
+      "colleges": [
+        "College of Health Sciences",
+        "College of Medicine"
+      ],
       "doi": "10.2147/DMSO.S621983",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42859675/"
     },
@@ -160,6 +198,12 @@
         "Gaber MS",
         "Mostafa MH",
         "Zamzam H"
+      ],
+      "gmu_authors": [
+        "Sherif Aly Sadek"
+      ],
+      "colleges": [
+        "College of Dentistry"
       ],
       "doi": "10.1111/jopr.70237",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42836380/"
@@ -190,6 +234,12 @@
         "Hallit S",
         "Fekih-Romdhane F"
       ],
+      "gmu_authors": [
+        "Diana Malaeb"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
       "doi": "10.1002/hsr2.73341",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42835369/"
     },
@@ -214,6 +264,12 @@
         "Mahmoud Z",
         "Hassan RA"
       ],
+      "gmu_authors": [
+        "Amr Sonousi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
       "doi": "10.4103/RPS.RPS_195_25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42836184/"
     },
@@ -232,6 +288,12 @@
         "Arayesh MJ",
         "Ataellahi F",
         "Masoudi R"
+      ],
+      "gmu_authors": [
+        "Raheleh Masoudi"
+      ],
+      "colleges": [
+        "College of Medicine"
       ],
       "doi": "10.1016/j.gene.2026.150431",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42822610/"
@@ -254,6 +316,12 @@
         "Fu K",
         "Li Y"
       ],
+      "gmu_authors": [
+        "Ghulam Md Ashraf"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
       "doi": "10.1016/j.mtbio.2026.103569",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42662413/"
     },
@@ -272,6 +340,14 @@
         "Alhilo A",
         "Ansari AK",
         "Aoun P"
+      ],
+      "gmu_authors": [
+        "Ibrahim Hassan Ibrar",
+        "Ali Alhilo",
+        "Ayham K Ansari"
+      ],
+      "colleges": [
+        "College of Medicine"
       ],
       "doi": "10.1016/j.radcr.2026.07.023",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42598601/"
@@ -311,6 +387,12 @@
         "Toraih EA",
         "Aiash H"
       ],
+      "gmu_authors": [
+        "Nouran Abdellatif"
+      ],
+      "colleges": [
+        "College not stated"
+      ],
       "doi": "10.1016/j.jjcc.2026.06.009",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42303223/"
     },
@@ -338,6 +420,12 @@
         "Ramakrishnan SV",
         "Omaruddin L"
       ],
+      "gmu_authors": [
+        "Thuslim Sheik"
+      ],
+      "colleges": [
+        "College not stated"
+      ],
       "doi": "10.1016/j.jjcc.2026.06.004",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42269861/"
     },
@@ -355,6 +443,13 @@
         "Uthman A",
         "Elsayed W",
         "Al-Rawi N"
+      ],
+      "gmu_authors": [
+        "Asmaa Uthman",
+        "Walid Elsayed"
+      ],
+      "colleges": [
+        "College of Dentistry"
       ],
       "doi": "10.1055/s-0046-1819725",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42057369/"
@@ -377,6 +472,16 @@
         "Alawdhi E",
         "Khalaf A",
         "Ali MA"
+      ],
+      "gmu_authors": [
+        "Mohammad Rawashdeh",
+        "Rama Almbaid",
+        "Abeer Al Bulooshi",
+        "Nikhitha Shetty",
+        "Magdi A Ali"
+      ],
+      "colleges": [
+        "College of Health Sciences"
       ],
       "doi": "10.1177/10519815261435565",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41902510/"
@@ -405,6 +510,12 @@
         "Kumari N",
         "Gorain B"
       ],
+      "gmu_authors": [
+        "Shery Jacob"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
       "doi": "10.1007/s13346-026-02082-0",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41817655/"
     },
@@ -428,6 +539,12 @@
         "Kotb AAW",
         "Kamalah J",
         "Hafez M"
+      ],
+      "gmu_authors": [
+        "Joudy Kamalah"
+      ],
+      "colleges": [
+        "College of Dentistry"
       ],
       "doi": "10.1055/s-0045-1814461",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41576963/"
@@ -1590,6 +1707,13 @@
         "Murray CJL",
         "Roth GA"
       ],
+      "gmu_authors": [
+        "Vinaytosh Mishra",
+        "Nermine Samir Nosseir"
+      ],
+      "colleges": [
+        "College of Management and AI in Healthcare"
+      ],
       "doi": "10.1001/jamacardio.2026.4068",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42814432/"
     },
@@ -1608,6 +1732,12 @@
         "AbdelRaheem O",
         "Ibrahim O",
         "Ziko L"
+      ],
+      "gmu_authors": [
+        "Amr Sonousi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
       ],
       "doi": "10.1039/d6ra04813g",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42689187/"
@@ -1630,6 +1760,12 @@
         "Yadav S",
         "Adtani P",
         "Porntaveetus T"
+      ],
+      "gmu_authors": [
+        "Pooja Adtani"
+      ],
+      "colleges": [
+        "College of Dentistry"
       ],
       "doi": "10.3389/froh.2026.1889799",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42856932/"
@@ -1654,6 +1790,12 @@
         "Hussien RM",
         "Elhadary SMM",
         "Kotp MH"
+      ],
+      "gmu_authors": [
+        "Samar Mahmoud Mohamed Elhadary"
+      ],
+      "colleges": [
+        "College of Nursing"
       ],
       "doi": "10.1097/MD.0000000000050867",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42798116/"
@@ -1686,6 +1828,12 @@
         "Strange RC",
         "Ramachandran S"
       ],
+      "gmu_authors": [
+        "Farid Saad"
+      ],
+      "colleges": [
+        "College not stated"
+      ],
       "doi": "10.1111/andr.70393",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42788872/"
     },
@@ -1710,6 +1858,17 @@
         "Elkhair ME",
         "Sreejith A"
       ],
+      "gmu_authors": [
+        "Adnan Ahmadiazad",
+        "Mohammed Saif Mohammed Nasir Ali",
+        "Hadeel Fathelrahman Ahmed Ali",
+        "Tahlil Abdalmahmoud Ibrahim",
+        "Ahmed Abdalla Abdalla",
+        "Anusha Sreejith"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
       "doi": "10.3389/fpsyt.2026.1934224",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42852021/"
     },
@@ -1730,6 +1889,16 @@
         "Nawafleh H",
         "ElSayed Y",
         "Chouaib S"
+      ],
+      "gmu_authors": [
+        "Rania F Zaarour",
+        "Ayda S Mahmood",
+        "Zohra Nizami",
+        "Husam Nawafleh",
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "Research institutes"
       ],
       "doi": "10.1371/journal.pone.0358943",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42784603/"
@@ -1757,6 +1926,16 @@
         "Rahamathullah N",
         "Chouaib S"
       ],
+      "gmu_authors": [
+        "Prasanna Appiya Premvignesh",
+        "Safaa Mahmoud Mohamed Abdelkhalek",
+        "Nazeerullah Rahamathullah",
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "College of Medicine",
+        "Research institutes"
+      ],
       "doi": "10.3389/fimmu.2026.1942424",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840142/"
     },
@@ -1777,6 +1956,12 @@
         "Panner Selvam MK",
         "Maldonado Rosas I",
         "Roychoudhury S"
+      ],
+      "gmu_authors": [
+        "Pallav Sengupta"
+      ],
+      "colleges": [
+        "College of Medicine"
       ],
       "doi": "10.3389/fvets.2026.1920393",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42835725/"
@@ -1804,6 +1989,12 @@
         "Beshr K",
         "Farag D"
       ],
+      "gmu_authors": [
+        "Diaaeldin Farag"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
       "doi": "10.1186/s12903-026-09875-2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786472/"
     },
@@ -1822,6 +2013,12 @@
       "authors": [
         "Hazra M",
         "Anandaram H"
+      ],
+      "gmu_authors": [
+        "Harishchander Anandaram"
+      ],
+      "colleges": [
+        "College of Nursing"
       ],
       "doi": "10.3389/fphar.2026.1915973",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42828068/"
@@ -1845,6 +2042,13 @@
         "Fuoad Al-Bayati SAA",
         "Brek Al Ameri BM",
         "Rezallah NNF"
+      ],
+      "gmu_authors": [
+        "Mohammed Shoaib Ur Rahman Tippu",
+        "Sura Ali Ahmed Fuoad Al-Bayati"
+      ],
+      "colleges": [
+        "College not stated"
       ],
       "doi": "10.3390/antibiotics15090918",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42792068/"
