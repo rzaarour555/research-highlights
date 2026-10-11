@@ -80,6 +80,10 @@
   .body p{font-family:var(--serif);font-size:18px;margin:0 0 16px}
   .body p.speaking{background:var(--accent-soft);box-shadow:0 0 0 6px var(--accent-soft);border-radius:2px}
   .source{border-left:3px solid var(--accent);background:var(--card);padding:12px 14px;font-size:14px;margin-top:24px}
+  .ainote{font-size:13px;color:var(--warn);background:var(--warn-bg);border-radius:8px;padding:8px 12px;margin:8px 0 14px}
+  details.orig{border:1px solid var(--line);border-radius:8px;background:var(--card);padding:10px 14px;font-size:14px}
+  details.orig summary{cursor:pointer;font-weight:600}
+  details.orig p{margin:10px 0 0;color:var(--muted)}
   .back{background:none;border:0;color:var(--accent);padding:0;margin-bottom:14px;font-size:14px}
   .note{font-size:13px;color:var(--muted);margin-top:8px}
 
@@ -173,6 +177,8 @@
       </div>
 
       <div class="body" id="s-body"></div>
+      <div class="ainote" id="s-ainote">AI-drafted summary of the published abstract. It has not yet been reviewed by an editor or by the researchers.</div>
+      <details class="orig" id="s-orig"><summary>Original title and abstract</summary><div id="s-origtext"></div></details>
       <div class="source" id="s-source"></div>
       <p class="note" id="p-note">In this demo the audio is read by your browser's built-in voice. In the real version, each story gets a recorded MP3 generated once at publication, with a more natural voice.</p>
     </article>
@@ -317,6 +323,9 @@ function openStory(id){
   $("s-gmu").style.display = g.length ? "" : "none";
   $("s-gmu").innerHTML = g.length ? "<b>GMU researchers:</b> " + esc(g.join(", ")) + ((s.colleges || []).length ? "<br><b>College:</b> " + esc(s.colleges.join(", ")) : "") : "";
   if (s.pmid) $("s-credit").textContent = "Illustrative stock photo";
+  $("s-ainote").style.display = s.ai ? "" : "none";
+  $("s-orig").style.display = s.orig ? "" : "none"; $("s-orig").open = false;
+  $("s-origtext").innerHTML = s.orig ? "<p><b>" + esc(s.orig.title) + "</b></p>" + s.orig.abstract.map(t => "<p>" + esc(t) + "</p>").join("") : "";
   $("s-body").innerHTML = s.body.map(p => `<p>${esc(p)}</p>`).join("");
   if (s.url) $("s-source").innerHTML = esc(s.source) + ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">Read the paper on PubMed</a>';
   else $("s-source").textContent = s.source;
@@ -404,24 +413,27 @@ $("reset").onclick = () => {
 };
 
 /* live data: papers saved by the daily GitHub job. Falls back to the samples above. */
-function paperToStory(p, i){
+function paperToStory(p, i, written){
+  const st = written && written[p.pmid];
   const first = p.abstract[0].replace(/^[A-Za-z ]{3,30}: /, "");
   const authors = p.authors.length > 3 ? p.authors.slice(0,3).join(", ") + " et al." : p.authors.join(", ");
   return { id: 1000 + i, topic: p.topic || p.journal || "Publication", photo: "p" + (i % 4 + 1), date: p.date,
-    title: p.title, dek: first.length > 230 ? first.slice(0, 230).replace(/\s+\S*$/, "") + "…" : first,
-    by: authors ? "By " + authors : "", body: p.abstract, pmid: p.pmid, gmu: p.gmu_authors || [], colleges: p.colleges || [],
+    title: st ? st.headline : p.title,
+    dek: st ? st.summary : first.length > 230 ? first.slice(0, 230).replace(/\s+\S*$/, "") + "…" : first,
+    ai: !!st, orig: st ? { title: p.title, abstract: p.abstract } : null,
+    by: authors ? "Paper by " + authors : "", body: st ? st.body : p.abstract, pmid: p.pmid, gmu: p.gmu_authors || [], colleges: p.colleges || [],
     source: "Source paper: " + [p.journal, p.date].filter(Boolean).join(", ") + ".", url: p.url };
 }
 renderHome();
-fetch("data/papers.json", { cache: "no-store" })
-  .then(r => r.ok ? r.json() : null)
-  .then(d => {
-    if (!d || !d.papers || !d.papers.length) return;
-    stories = d.papers.map(paperToStory); current = stories[0]; filter = "All"; college = "All colleges";
-    $("ribbon").textContent = "Concept demo only. Not an official university page. Papers are pulled automatically from PubMed (last update " + d.updated + "); the text shown is the authors' own abstract.";
-    renderHome();
-  })
-  .catch(() => {});
+const getJson = url => fetch(url, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
+Promise.all([getJson("data/papers.json"), getJson("data/stories.json")]).then(([d, written]) => {
+  if (!d || !d.papers || !d.papers.length) return;
+  const papers = d.papers.filter(p => !/^(correction|erratum|corrigendum)/i.test(p.title));
+  stories = papers.map((p, i) => paperToStory(p, i, written)); current = stories[0]; filter = "All"; college = "All colleges";
+  $("ribbon").textContent = "Concept demo only. Not an official university page. Papers are found automatically on PubMed (last update " + d.updated + "). "
+    + (written ? "Stories are AI-drafted summaries of the authors' abstracts and have not yet been reviewed." : "The text shown is the authors' own abstract.");
+  renderHome();
+});
 </script>
 </body>
 </html>
