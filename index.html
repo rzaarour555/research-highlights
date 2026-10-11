@@ -263,11 +263,11 @@ const incoming = { id:4, topic:"Infectious disease", photo:"p4", date:"Today", i
   ],
   source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." };
 
-let filter = "All", college = "All colleges", current = stories[0];
+let filter = "All", college = "All colleges", current = stories[0], shownCount = 12;
 /* photo: IMAGES/<PubMed number>.jpg if you uploaded one for that paper, otherwise
    IMAGES/<subject>.jpg, otherwise the coloured block */
 const slug = t => t.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-const img = s => `<img alt="" src="IMAGES/${s.pmid ? esc(s.pmid) : slug(s.topic)}.jpg" data-alt="IMAGES/${slug(s.topic)}.jpg" onerror="if(this.dataset.alt&&!this.src.endsWith(this.dataset.alt)){this.src=this.dataset.alt}else{this.remove()}">`;
+const img = s => `<img alt="" loading="lazy" src="IMAGES/${s.pmid ? esc(s.pmid) : slug(s.topic)}.jpg" data-alt="IMAGES/${slug(s.topic)}.jpg" onerror="if(this.dataset.alt&&!this.src.endsWith(this.dataset.alt)){this.src=this.dataset.alt}else{this.remove()}">`;
 const $ = id => document.getElementById(id);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const readMins = s => Math.max(1, Math.round(s.body.join(" ").split(/\s+/).length / 180 + 2));
@@ -284,11 +284,11 @@ $("back").onclick = () => show("home");
 function renderHome(){
   const topics = ["All", ...new Set(stories.map(s => s.topic))];
   $("filters").innerHTML = topics.map(t => `<button class="${t===filter?"on":""}" data-t="${esc(t)}">${esc(t)}</button>`).join("");
-  $("filters").querySelectorAll("button").forEach(b => b.onclick = () => { filter = b.dataset.t; renderHome(); });
+  $("filters").querySelectorAll("button").forEach(b => b.onclick = () => { filter = b.dataset.t; shownCount = 12; renderHome(); });
   const colleges = ["All colleges", ...[...new Set(stories.flatMap(s => s.colleges || []))].sort()];
   $("college-row").style.display = colleges.length > 1 ? "" : "none";
   $("colleges").innerHTML = colleges.map(c => `<button class="${c===college?"on":""}" data-c="${esc(c)}">${esc(c.replace("College of ", ""))}</button>`).join("");
-  $("colleges").querySelectorAll("button").forEach(b => b.onclick = () => { college = b.dataset.c; renderHome(); });
+  $("colleges").querySelectorAll("button").forEach(b => b.onclick = () => { college = b.dataset.c; shownCount = 12; renderHome(); });
   const shown = stories.filter(s => (filter === "All" || s.topic === filter) && (college === "All colleges" || (s.colleges || []).includes(college)));
   const [lead, ...rest] = shown;
   const flag = s => s.isNew ? `<span class="chip new-flag">New</span>` : "";
@@ -299,14 +299,15 @@ function renderHome(){
       <h3>${esc(lead.title)}</h3>
       <p>${esc(lead.dek)}</p>
     </button>` : `<p class="meta">No papers match these filters yet.</p>`;
-  $("list").innerHTML = rest.map(s => `
+  $("list").innerHTML = rest.slice(0, shownCount).map(s => `
     <div class="item">
       <div class="photo ${s.photo}">${img(s)}</div>
       <button class="story-link" data-id="${s.id}">
         <h3>${esc(s.title)}</h3>
         <div class="meta"><b style="color:var(--accent)">${esc(s.topic)}</b> · ${esc(s.date)}<span class="chip">🔊 Audio</span>${flag(s)}</div>
       </button>
-    </div>`).join("");
+    </div>`).join("") + (rest.length > shownCount ? `<button class="btn ghost" id="more" style="margin-top:12px">Show more (${rest.length - shownCount} more)</button>` : "");
+  if ($("more")) $("more").onclick = () => { shownCount += 12; renderHome(); };
   document.querySelectorAll(".story-link").forEach(b => b.onclick = () => openStory(+b.dataset.id));
 }
 
