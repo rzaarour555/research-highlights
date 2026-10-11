@@ -50,6 +50,12 @@
   .meta{font-size:13px;color:var(--muted);margin-top:4px}
   .chip{display:inline-flex;align-items:center;gap:4px;font-size:12px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:1px 8px;margin-left:6px}
   .new-flag{background:#d9f2df;color:#17603a}
+  .photo{position:relative;overflow:hidden}
+  .photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+  .frow{display:flex;gap:10px;align-items:baseline;margin-bottom:8px}
+  .frow > span{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);width:64px;flex:none}
+  .filterbox{margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--line)}
+  .gmu{font-size:14px;margin-bottom:16px;padding:10px 12px;background:var(--accent-soft);border-radius:8px}
   .photo{border-radius:8px;display:flex;align-items:center;justify-content:center;color:#ffffffcc;font-size:12px;letter-spacing:.06em;text-transform:uppercase}
   .p1{background:linear-gradient(135deg,#0b6e6e,#1d3c5a)}
   .p2{background:linear-gradient(135deg,#7a4b2a,#c08a3e)}
@@ -109,7 +115,7 @@
 
 <header class="site">
   <div class="wrap">
-    <div class="brand">College of Medicine<small>Research highlights · concept</small></div>
+    <div class="brand">Gulf Medical University<small>Research highlights · concept</small></div>
     <nav class="views" aria-label="Demo views">
       <button data-view="home" aria-pressed="true">1. Banner</button>
       <button data-view="story" aria-pressed="false">2. Story page</button>
@@ -132,7 +138,10 @@
           <div class="eyebrow">Latest research</div>
           <h2 style="font-size:24px">Discoveries from our faculty and students</h2>
         </div>
-        <div class="filters" id="filters"></div>
+      </div>
+      <div class="filterbox">
+        <div class="frow" id="college-row"><span>College</span><div class="filters" id="colleges"></div></div>
+        <div class="frow"><span>Subject</span><div class="filters" id="filters"></div></div>
       </div>
       <div class="grid">
         <div class="lead" id="lead"></div>
@@ -149,8 +158,9 @@
       <h1 id="s-title"></h1>
       <p class="dek" id="s-dek"></p>
       <div class="byline" id="s-byline"></div>
+      <div class="gmu" id="s-gmu"></div>
       <div class="photo" id="s-photo">Photo placeholder</div>
-      <div class="credit">Photo credit goes here</div>
+      <div class="credit" id="s-credit">Photo credit goes here</div>
 
       <div class="player">
         <button class="play" id="play" aria-label="Play audio version">▶</button>
@@ -247,7 +257,11 @@ const incoming = { id:4, topic:"Infectious disease", photo:"p4", date:"Today", i
   ],
   source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." };
 
-let filter = "All", current = stories[0];
+let filter = "All", college = "All colleges", current = stories[0];
+/* photo: images/<PubMed number>.jpg if you uploaded one for that paper, otherwise
+   images/<subject>.jpg, otherwise the coloured block */
+const slug = t => t.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+const img = s => `<img alt="" src="images/${s.pmid ? esc(s.pmid) : slug(s.topic)}.jpg" data-alt="images/${slug(s.topic)}.jpg" onerror="if(this.dataset.alt&&!this.src.endsWith(this.dataset.alt)){this.src=this.dataset.alt}else{this.remove()}">`;
 const $ = id => document.getElementById(id);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const readMins = s => Math.max(1, Math.round(s.body.join(" ").split(/\s+/).length / 180 + 2));
@@ -265,24 +279,28 @@ function renderHome(){
   const topics = ["All", ...new Set(stories.map(s => s.topic))];
   $("filters").innerHTML = topics.map(t => `<button class="${t===filter?"on":""}" data-t="${esc(t)}">${esc(t)}</button>`).join("");
   $("filters").querySelectorAll("button").forEach(b => b.onclick = () => { filter = b.dataset.t; renderHome(); });
-  const shown = stories.filter(s => filter === "All" || s.topic === filter);
+  const colleges = ["All colleges", ...[...new Set(stories.flatMap(s => s.colleges || []))].sort()];
+  $("college-row").style.display = colleges.length > 1 ? "" : "none";
+  $("colleges").innerHTML = colleges.map(c => `<button class="${c===college?"on":""}" data-c="${esc(c)}">${esc(c.replace("College of ", ""))}</button>`).join("");
+  $("colleges").querySelectorAll("button").forEach(b => b.onclick = () => { college = b.dataset.c; renderHome(); });
+  const shown = stories.filter(s => (filter === "All" || s.topic === filter) && (college === "All colleges" || (s.colleges || []).includes(college)));
   const [lead, ...rest] = shown;
   const flag = s => s.isNew ? `<span class="chip new-flag">New</span>` : "";
   $("lead").innerHTML = lead ? `
     <button class="story-link" data-id="${lead.id}">
-      <div class="photo ${lead.photo}">Photo placeholder</div>
+      <div class="photo ${lead.photo}">Photo placeholder${img(lead)}</div>
       <div class="meta" style="margin-top:10px"><b style="color:var(--accent)">${esc(lead.topic)}</b> · ${esc(lead.date)}<span class="chip">🔊 Audio</span>${flag(lead)}</div>
       <h3>${esc(lead.title)}</h3>
       <p>${esc(lead.dek)}</p>
-    </button>` : "";
+    </button>` : `<p class="meta">No papers match these filters yet.</p>`;
   $("list").innerHTML = rest.map(s => `
     <div class="item">
-      <div class="photo ${s.photo}"></div>
+      <div class="photo ${s.photo}">${img(s)}</div>
       <button class="story-link" data-id="${s.id}">
         <h3>${esc(s.title)}</h3>
         <div class="meta"><b style="color:var(--accent)">${esc(s.topic)}</b> · ${esc(s.date)}<span class="chip">🔊 Audio</span>${flag(s)}</div>
       </button>
-    </div>`).join("") || `<p class="meta">No other stories in this topic yet.</p>`;
+    </div>`).join("");
   document.querySelectorAll(".story-link").forEach(b => b.onclick = () => openStory(+b.dataset.id));
 }
 
@@ -294,6 +312,11 @@ function openStory(id){
   $("s-dek").textContent = s.dek;
   $("s-byline").textContent = `${s.date} · ${readMins(s)} min read · ${s.by}`;
   $("s-photo").className = "photo " + s.photo;
+  $("s-photo").innerHTML = "Photo placeholder" + img(s);
+  const g = s.gmu || [];
+  $("s-gmu").style.display = g.length ? "" : "none";
+  $("s-gmu").innerHTML = g.length ? "<b>GMU researchers:</b> " + esc(g.join(", ")) + ((s.colleges || []).length ? "<br><b>College:</b> " + esc(s.colleges.join(", ")) : "") : "";
+  if (s.pmid) $("s-credit").textContent = "Illustrative stock photo";
   $("s-body").innerHTML = s.body.map(p => `<p>${esc(p)}</p>`).join("");
   if (s.url) $("s-source").innerHTML = esc(s.source) + ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">Read the paper on PubMed</a>';
   else $("s-source").textContent = s.source;
@@ -386,7 +409,7 @@ function paperToStory(p, i){
   const authors = p.authors.length > 3 ? p.authors.slice(0,3).join(", ") + " et al." : p.authors.join(", ");
   return { id: 1000 + i, topic: p.topic || p.journal || "Publication", photo: "p" + (i % 4 + 1), date: p.date,
     title: p.title, dek: first.length > 230 ? first.slice(0, 230).replace(/\s+\S*$/, "") + "…" : first,
-    by: authors ? "By " + authors : "", body: p.abstract,
+    by: authors ? "By " + authors : "", body: p.abstract, pmid: p.pmid, gmu: p.gmu_authors || [], colleges: p.colleges || [],
     source: "Source paper: " + [p.journal, p.date].filter(Boolean).join(", ") + ".", url: p.url };
 }
 renderHome();
@@ -394,7 +417,7 @@ fetch("data/papers.json", { cache: "no-store" })
   .then(r => r.ok ? r.json() : null)
   .then(d => {
     if (!d || !d.papers || !d.papers.length) return;
-    stories = d.papers.map(paperToStory); current = stories[0]; filter = "All";
+    stories = d.papers.map(paperToStory); current = stories[0]; filter = "All"; college = "All colleges";
     $("ribbon").textContent = "Concept demo only. Not an official university page. Papers are pulled automatically from PubMed (last update " + d.updated + "); the text shown is the authors' own abstract.";
     renderHome();
   })
