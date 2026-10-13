@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12 02:13 UTC",
+  "updated": "2026-10-13 02:13 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -250,6 +250,37 @@
       "doi": "10.1002/hsr2.73341",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42835369/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42862668",
+      "title": "Three-Point Bedside Congestion Score (IJV Collapsibility + IVC Collapsibility + Central Venous Pressure) in Elective Mitral Valve Surgery: A Prospective Observational Study",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Background: Systemic venous congestion and right-ventricular (RV) dysfunction are key drivers of postoperative hemodynamic instability, prolonged ventilation, and acute kidney injury (AKI) after mitral valve surgery. Comprehensive echocardiography is informative but may be impractical in high-throughput pre-anesthesia workflows. We evaluated a pragmatic three-point bedside congestion score combining internal jugular vein (IJV) collapsibility, inferior vena cava (IVC) collapsibility, and invasively measured central venous pressure (CVP) for preoperative risk stratification.",
+        "Methods: In this prospective, observational, single-center study, 100 consecutive adults (>18 years) undergoing elective mitral valve surgery for mitral stenosis were enrolled. A bedside ultrasound was performed in the preoperative area with patients in a 45° head-elevated position during quiet, spontaneous respiration. One point was assigned for each abnormal component (IJV collapsibility <18%, IVC collapsibility <25%, and CVP >12 mmHg), yielding a total score of 0 to 3. Tricuspid annular plane systolic excursion (TAPSE) was dichotomized at 17 mm. Outcomes included vasoactive-inotropic score (VIS), ventilation duration, intensive care unit (ICU) and hospital length of stay, AKI, and in-hospital mortality. Discrimination for AKI and mortality was evaluated using a 5-fold cross-validated receiver operating characteristic (ROC) area under the curve (AUC) with bootstrap 95% confidence intervals. Calibration was assessed using recalibration intercept and slope, and decision curve analysis was used to explore clinical net benefit across threshold probabilities.",
+        "Results: The observed score distribution concentrated at 0 to 2 and 3; therefore, patients were analyzed as low score (0 to 2; n = 50) versus high score (3; n = 50). Compared with low-score patients, high-score patients had higher postoperative VIS (median 18.0 vs 10.0), longer ventilation (31.5 vs 22.0 hours), longer ICU stay (10.0 vs 5.5 days), and longer hospital stay (23.0 vs 12.5 days). AKI occurred in 40% versus 20%, and mortality in 10% versus 2% in high- versus low-score groups. In the combined 2 × 2 stratification, low score with normal TAPSE had no AKI or mortality, whereas high score with abnormal TAPSE had AKI in 55.6% and mortality in 14.8%. The combined score + TAPSE model showed moderate discrimination (AUC 0.77 for AKI; AUC 0.782 for mortality) with near-ideal calibration in this dataset. Decision curve analysis suggested a higher net benefit for the combined model than single-predictor models across threshold probabilities of approximately 0.05 to 0.30.",
+        "Conclusions: A simple three-point bedside congestion score stratifies postoperative risk after elective mitral valve surgery. Incorporating TAPSE into preoperative assessment provided a rapid and reliable means of excluding significant RV dysfunction, thereby reinforcing the validity of the threepoint scoring system. Multicenter external validation and evaluation of score-guided perioperative protocols are warranted."
+      ],
+      "journal": "Annals of cardiac anaesthesia",
+      "date": "Oct 01, 2026",
+      "authors": [
+        "Sharma M",
+        "Rajesh VSP",
+        "RamKiran KS",
+        "Trivedi V",
+        "Kanjani V",
+        "Patel K",
+        "Pandya H"
+      ],
+      "gmu_authors": [
+        "K S RamKiran"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.4103/aca.aca_138_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862668/",
+      "first_seen": "2026-10-13"
     },
     {
       "pmid": "42836184",
