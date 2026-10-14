@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13 02:13 UTC",
+  "updated": "2026-10-14 02:21 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -318,7 +318,7 @@
       "title": "Differential effects of amyloid-β and tau on UCH gene expression in Drosophila models of Alzheimer's disease",
       "topic": "Brain and nervous system",
       "abstract": [
-        "Background: Alzheimer's disease (AD) is a common neurodegenerative disorder characterized by progressive impairments in learning and memory. Substantial evidence indicates that dysfunction of the ubiquitin-proteasome system (UPS) in the AD brain leads to aberrant protein aggregation, ultimately resulting in synaptic dysfunction and neuronal loss. In this study, we investigated the effects of pan-neuronal expression of TauWT or Aβ42-key pathological hallmarks of AD-on the expression of UCH, a critical UPS component, in Drosophila melanogaster at three time points: 5, 15, and 25 days after eclosion.",
+        "Background: Alzheimer's disease (AD) is a common neurodegenerative disorder characterized by progressive impairments in learning and memory. Substantial evidence indicates that dysfunction of the ubiquitin-proteasome system (UPS) in the AD brain leads to aberrant protein aggregation, ultimately resulting in synaptic dysfunction and neuronal loss. In this study, we investigated the effects of pan-neuronal expression of TauWT or Aβ42-key pathological hallmarks of AD-on the expression of UCH, a critical UPS component, in Drosophila melanogaster at three time points: 5, 15, and 25 days after eclosion.",
         "Methods and results: UCH mRNA levels were quantified using real-time RT-PCR. UCH expression showed an age-dependent downregulation in Aβ42 transgenic flies over all three post-eclosion intervals. While UCH transcription witnessed no significant change in 5-day-old TauWT transgenic flies, there was a considerable decline in UCH mRNA levels in 15- and 25-day-old flies. Notably, Aβ42 had a more prominent impact on UCH gene expression than TauWT across all three time points.",
         "Conclusion: TauWT and Aβ42 exert independent adverse effects on UCH expression. An apparent age-related trend was observed in the fly models, whereby Aβ42 showed a relatively stronger influence on UCH transcription compared with TauWT. Accordingly, therapeutic strategies that target both Tau and amyloid-β may warrant consideration."
       ],
@@ -1792,6 +1792,37 @@
       "doi": "10.1039/d6ra04813g",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42689187/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42866318",
+      "title": "Recent advances in targeted therapies and immunotherapies for triple-negative breast cancer",
+      "topic": "Cancer research",
+      "abstract": [
+        "This comprehensive review explores advancements in the treatment of Triple-Negative Breast Cancer (TNBC), emphasizing the transformative impact of targeted therapies and immunotherapies. Given TNBC's aggressive nature and limited therapeutic options, this review provides an in-depth analysis of emerging strategies that aim to enhance patient outcomes. Within targeted therapies, we discuss molecular subtypes and evaluate the efficacy of PARP inhibitors, EGFR inhibitors, and PI3K inhibitors, integrating insights from clinical trials. The immunotherapy landscape is examined through immune checkpoint inhibitors, Chimeric Antigen Receptor (CAR) T-cell therapy, and novel vaccine-based approaches. Combination strategies are assessed, focusing on clinical efficacy, safety, and resistance mechanisms. Additionally, we highlight emerging therapeutic innovations, including bispecific antibodies, advanced drug delivery systems, and personalized medicine approaches. Beyond treatment modalities, the review addresses key challenges such as therapy resistance, biomarker-driven treatment selection, and the integration of Artificial Intelligence in TNBC management. Future directions emphasize ongoing clinical trials and evolving therapeutic paradigms aimed at improving survival and quality of life for TNBC patients. As the field progresses, a multidisciplinary approach integrating precision oncology, innovative therapeutics, and patient-centered care will be critical. In conclusion, this review encapsulates current breakthroughs and envisions a future where targeted and immune-based interventions redefine TNBC treatment, offering new hope for patients and clinicians alike."
+      ],
+      "journal": "Frontiers in oncology",
+      "date": "2026",
+      "authors": [
+        "Rashid G",
+        "Elsori D",
+        "Naqvi Z",
+        "Zehra T",
+        "Selamoglu Z",
+        "Mr S",
+        "Abbas AM",
+        "Mohideen AP",
+        "Hafez W",
+        "Babker A"
+      ],
+      "gmu_authors": [
+        "Asaad Babker"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.3389/fonc.2026.1804620",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866318/",
+      "first_seen": "2026-10-14"
     },
     {
       "pmid": "42856932",
