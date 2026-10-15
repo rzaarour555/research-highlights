@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14 02:21 UTC",
+  "updated": "2026-10-15 02:23 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -37,6 +37,72 @@
       "doi": "10.1080/13685538.2026.2696061",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42391314/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42841695",
+      "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
+      "topic": "Heart and circulation",
+      "abstract": [
+        "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
+        "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
+        "Results: Four randomized trials including 2,793 patients were analyzed. Indigenous stents demonstrated comparable rates of composite endpoints, myocardial infarction, repeat revascularization, and stent thrombosis across studies, with no consistent differences between groups.",
+        "Conclusion: The available RCT evidence shows no consistent signal of superiority or inferiority between indigenous and international thin-strut DES. However, heterogeneity and limited trial numbers warrant larger studies with long-term follow-up and real-world materiovigilance.",
+        "Protocol registration: CRD420251240469."
+      ],
+      "journal": "Expert review of medical devices",
+      "date": "Oct 14, 2026",
+      "authors": [
+        "Bhosale A",
+        "Pratima P",
+        "Sinha AK",
+        "Karattuthodi MS",
+        "Gangachannaiah S",
+        "Thunga G",
+        "Kumar B",
+        "Ramachandran P",
+        "Kalaiselvan V",
+        "Shelke A",
+        "Murti K",
+        "Radhakrishnan R"
+      ],
+      "gmu_authors": [
+        "Mohammed Salim Karattuthodi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1080/17434440.2026.2746135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42872747",
+      "title": "A Standardized In Vitro Protocol for Evaluating Human Dental Pulp Stem Cell Differentiation and Proliferation on Nanomaterial Scaffolds",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Reliable assessment of osteogenic and odontogenic differentiation, as well as stem cell proliferation, is fundamental to evaluating the biological performance of scaffold-based regenerative strategies. However, variability in experimental protocols, assay selection, and data interpretation often limits reproducibility and inter-study comparison. The protocol described in this article presents a standardized, reproducible workflow for the in vitro evaluation of osteogenic and odontogenic differentiation, as well as proliferative capacity, of stem cells cultured on biomaterial scaffolds. Osteogenic commitment is evaluated by alkaline phosphatase (ALP) enzymatic activity and Receptor Activator of Nuclear Factor κB Ligand (RANKL) immunofluorescence, while odontogenic commitment is assessed by DMP-1 (dentin matrix protein-1) immunofluorescence; both protein endpoints are quantified using standardized H-score methodology. Critical experimental parameters, including cell seeding density, induction timelines, assay conditions, normalization strategies (including protein-normalized ALP activity, cell-normalized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) viability, and immunofluorescence H-score), and data analysis approaches, are detailed, along with troubleshooting guidance to minimize technical variability. The methodology has been applied as a standardized framework across multiple scaffold-based experimental studies, demonstrating robustness and reproducibility. By providing a comprehensive, validated framework, this article aims to facilitate standardized assessment of stem cell-scaffold interactions and improve comparability across preclinical regenerative studies."
+      ],
+      "journal": "Journal of visualized experiments : JoVE",
+      "date": "Oct 13, 2026",
+      "authors": [
+        "Makawi DM",
+        "Mahran AH",
+        "Elgendy AA",
+        "Yehia TA",
+        "Amer YH",
+        "Elsewify TM"
+      ],
+      "gmu_authors": [
+        "Dina M Makawi",
+        "Yahya H Amer",
+        "Tarek M Elsewify"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.3791/71983",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872747/",
+      "first_seen": "2026-10-15"
     },
     {
       "pmid": "42853362",
@@ -116,42 +182,6 @@
       ],
       "doi": "10.1007/s40122-026-00889-w",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42841695",
-      "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
-      "topic": "Heart and circulation",
-      "abstract": [
-        "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
-        "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
-        "Results: Four randomized trials including 2,793 patients were analyzed. Indigenous stents demonstrated comparable rates of composite endpoints, myocardial infarction, repeat revascularization, and stent thrombosis across studies, with no consistent differences between groups.",
-        "Conclusion: The available RCT evidence shows no consistent signal of superiority or inferiority between indigenous and international thin-strut DES. However, heterogeneity and limited trial numbers warrant larger studies with long-term follow-up and real-world materiovigilance."
-      ],
-      "journal": "Expert review of medical devices",
-      "date": "Oct 07, 2026",
-      "authors": [
-        "Bhosale A",
-        "Pratima P",
-        "Sinha AK",
-        "Karattuthodi MS",
-        "Gangachannaiah S",
-        "Thunga G",
-        "Kumar B",
-        "Ramachandran P",
-        "Kalaiselvan V",
-        "Shelke A",
-        "Murti K",
-        "Radhakrishnan R"
-      ],
-      "gmu_authors": [
-        "Mohammed Salim Karattuthodi"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1080/17434440.2026.2746135",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/",
       "first_seen": "2026-10-12"
     },
     {
@@ -2056,39 +2086,6 @@
       "first_seen": "2026-10-12"
     },
     {
-      "pmid": "42786472",
-      "title": "Cuspal displacement, marginal adaptation, and nanoleakage in maxillary premolars restored with a novel auto-cured bulk-fill composite versus a light-cured bulk-fill composite: an in-vitro study",
-      "topic": "Dentistry and oral health",
-      "abstract": [
-        "Background: STELA is a newly introduced auto-cured bulk-fill composite proposed as an alternative to amalgam. It does not require light activation and provides an unlimited depth of cure, in addition to acceptable esthetic and mechanical properties.",
-        "Objectives: To evaluate cuspal displacement, marginal adaptation, and nanoleakage in mesio-occluso-distal (MOD) Class II preparations of maxillary premolars restored with an auto-cured bulk-fill composite compared with a light-cured bulk-fill composite.",
-        "Materials and methods: Sixty maxillary human premolars extracted for orthodontic purposes were randomly assigned to two groups (n = 30) according to the bulk-fill composite used. Standardized MOD Class II preparations were made and restored using either Group 1: STELA Capsule (SDI, Australia) or Group 2: Tetric N-Ceram Bulk Fill (Ivoclar Vivadent, Liechtenstein). Each group was subdivided into three subgroups (n = 10) based on the test performed. In Subgroup 1, cuspal displacement was recorded after post-cavity preparation and at (5 min, 24 h) post-restoration using a digital microscope. The remaining restored specimens underwent thermocycling and mechanical loading. Subsequently, marginal adaptation (Subgroup 2) was examined using scanning electron microscopy. Nanoleakage (Subgroup 3) was evaluated using silver nitrate tracing. Statistical analysis was performed using the independent-samples t-test and Fisher's exact test (P ≤ 0.05).",
-        "Results: STELA Capsule demonstrated significantly lower cuspal displacement at both 5 min and 24 h post-restoration compared with Tetric N-Ceram Bulk Fill (P < 0.001). Following thermocycling and mechanical loading, STELA Capsule also exhibited better marginal adaptation (P = 0.033) and reduced nanoleakage (P < 0.001) compared with the Tetric N-Ceram Bulk Fill.",
-        "Conclusions: The STELA composite with its dedicated primer showed favorable laboratory outcomes compared with Tetric N-Ceram Bulk Fill used with Tetric N-Bond. This restorative protocol can serve as a viable clinical alternative to light-cured bulk-fill composites, particularly for restoring MOD Class II preparations in maxillary premolars.",
-        "Clinical relevance: The novel auto-cured bulk-fill composite with its dedicated primer demonstrated excellent performance in reinforcing weakened premolars. It exhibited superior results in reducing cuspal displacement, improving marginal adaptation, and minimizing nanoleakage compared to a light-cured bulk-fill composite, indicating its potential for clinical use."
-      ],
-      "journal": "BMC oral health",
-      "date": "Sep 21, 2026",
-      "authors": [
-        "Al-Saudi KW",
-        "Basha MA",
-        "Amin AMN",
-        "Rehab DY",
-        "Nagi SM",
-        "Beshr K",
-        "Farag D"
-      ],
-      "gmu_authors": [
-        "Diaaeldin Farag"
-      ],
-      "colleges": [
-        "College of Dentistry"
-      ],
-      "doi": "10.1186/s12903-026-09875-2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42786472/",
-      "first_seen": "2026-10-12"
-    },
-    {
       "pmid": "42828068",
       "title": "Mechanism-aware and safety-validated AI for drug repurposing: a critical review and translational pharmacology framework",
       "topic": "Pharmacy and drug research",
@@ -2143,6 +2140,39 @@
       ],
       "doi": "10.3390/antibiotics15090918",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42792068/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42786472",
+      "title": "Cuspal displacement, marginal adaptation, and nanoleakage in maxillary premolars restored with a novel auto-cured bulk-fill composite versus a light-cured bulk-fill composite: an in-vitro study",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Background: STELA is a newly introduced auto-cured bulk-fill composite proposed as an alternative to amalgam. It does not require light activation and provides an unlimited depth of cure, in addition to acceptable esthetic and mechanical properties.",
+        "Objectives: To evaluate cuspal displacement, marginal adaptation, and nanoleakage in mesio-occluso-distal (MOD) Class II preparations of maxillary premolars restored with an auto-cured bulk-fill composite compared with a light-cured bulk-fill composite.",
+        "Materials and methods: Sixty maxillary human premolars extracted for orthodontic purposes were randomly assigned to two groups (n = 30) according to the bulk-fill composite used. Standardized MOD Class II preparations were made and restored using either Group 1: STELA Capsule (SDI, Australia) or Group 2: Tetric N-Ceram Bulk Fill (Ivoclar Vivadent, Liechtenstein). Each group was subdivided into three subgroups (n = 10) based on the test performed. In Subgroup 1, cuspal displacement was recorded after post-cavity preparation and at (5 min, 24 h) post-restoration using a digital microscope. The remaining restored specimens underwent thermocycling and mechanical loading. Subsequently, marginal adaptation (Subgroup 2) was examined using scanning electron microscopy. Nanoleakage (Subgroup 3) was evaluated using silver nitrate tracing. Statistical analysis was performed using the independent-samples t-test and Fisher's exact test (P ≤ 0.05).",
+        "Results: STELA Capsule demonstrated significantly lower cuspal displacement at both 5 min and 24 h post-restoration compared with Tetric N-Ceram Bulk Fill (P < 0.001). Following thermocycling and mechanical loading, STELA Capsule also exhibited better marginal adaptation (P = 0.033) and reduced nanoleakage (P < 0.001) compared with the Tetric N-Ceram Bulk Fill.",
+        "Conclusions: The STELA composite with its dedicated primer showed favorable laboratory outcomes compared with Tetric N-Ceram Bulk Fill used with Tetric N-Bond. This restorative protocol can serve as a viable clinical alternative to light-cured bulk-fill composites, particularly for restoring MOD Class II preparations in maxillary premolars.",
+        "Clinical relevance: The novel auto-cured bulk-fill composite with its dedicated primer demonstrated excellent performance in reinforcing weakened premolars. It exhibited superior results in reducing cuspal displacement, improving marginal adaptation, and minimizing nanoleakage compared to a light-cured bulk-fill composite, indicating its potential for clinical use."
+      ],
+      "journal": "BMC oral health",
+      "date": "Sep 21, 2026",
+      "authors": [
+        "Al-Saudi KW",
+        "Basha MA",
+        "Amin AMN",
+        "Rehab DY",
+        "Nagi SM",
+        "Beshr K",
+        "Farag D"
+      ],
+      "gmu_authors": [
+        "Diaaeldin Farag"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.1186/s12903-026-09875-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42786472/",
       "first_seen": "2026-10-12"
     },
     {
