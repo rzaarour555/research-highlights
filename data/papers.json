@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 02:23 UTC",
+  "updated": "2026-10-16 02:23 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -36,43 +36,6 @@
       ],
       "doi": "10.1080/13685538.2026.2696061",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42391314/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42841695",
-      "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
-      "topic": "Heart and circulation",
-      "abstract": [
-        "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
-        "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
-        "Results: Four randomized trials including 2,793 patients were analyzed. Indigenous stents demonstrated comparable rates of composite endpoints, myocardial infarction, repeat revascularization, and stent thrombosis across studies, with no consistent differences between groups.",
-        "Conclusion: The available RCT evidence shows no consistent signal of superiority or inferiority between indigenous and international thin-strut DES. However, heterogeneity and limited trial numbers warrant larger studies with long-term follow-up and real-world materiovigilance.",
-        "Protocol registration: CRD420251240469."
-      ],
-      "journal": "Expert review of medical devices",
-      "date": "Oct 14, 2026",
-      "authors": [
-        "Bhosale A",
-        "Pratima P",
-        "Sinha AK",
-        "Karattuthodi MS",
-        "Gangachannaiah S",
-        "Thunga G",
-        "Kumar B",
-        "Ramachandran P",
-        "Kalaiselvan V",
-        "Shelke A",
-        "Murti K",
-        "Radhakrishnan R"
-      ],
-      "gmu_authors": [
-        "Mohammed Salim Karattuthodi"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1080/17434440.2026.2746135",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/",
       "first_seen": "2026-10-12"
     },
     {
@@ -311,6 +274,43 @@
       "doi": "10.4103/aca.aca_138_26",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42862668/",
       "first_seen": "2026-10-13"
+    },
+    {
+      "pmid": "42841695",
+      "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
+      "topic": "Heart and circulation",
+      "abstract": [
+        "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
+        "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
+        "Results: Four randomized trials including 2,793 patients were analyzed. Indigenous stents demonstrated comparable rates of composite endpoints, myocardial infarction, repeat revascularization, and stent thrombosis across studies, with no consistent differences between groups.",
+        "Conclusion: The available RCT evidence shows no consistent signal of superiority or inferiority between indigenous and international thin-strut DES. However, heterogeneity and limited trial numbers warrant larger studies with long-term follow-up and real-world materiovigilance.",
+        "Protocol registration: CRD420251240469."
+      ],
+      "journal": "Expert review of medical devices",
+      "date": "Oct 2026",
+      "authors": [
+        "Bhosale A",
+        "Pratima P",
+        "Sinha AK",
+        "Karattuthodi MS",
+        "Gangachannaiah S",
+        "Thunga G",
+        "Kumar B",
+        "Ramachandran P",
+        "Kalaiselvan V",
+        "Shelke A",
+        "Murti K",
+        "Radhakrishnan R"
+      ],
+      "gmu_authors": [
+        "Mohammed Salim Karattuthodi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1080/17434440.2026.2746135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/",
+      "first_seen": "2026-10-12"
     },
     {
       "pmid": "42836184",
@@ -627,6 +627,40 @@
       "doi": "10.1055/s-0045-1814461",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41576963/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42876967",
+      "title": "Antibiotic prescribing appropriateness among critically ill patients at a single tertiary care center in the United Arab Emirates: a retrospective cohort study",
+      "topic": "Infectious disease",
+      "abstract": [
+        "Objective: Despite expanding antimicrobial stewardship initiatives, evidence evaluating the appropriateness of antibiotic prescribing and its clinical implications in intensive care settings in the United Arab Emirates remains limited. This study aimed to assess the appropriateness of antibiotic prescribing among intensive care unit patients, identify factors associated with appropriate antibiotic therapy, and examine its association with clinical outcomes.",
+        "Method: A retrospective cohort study was conducted in the intensive care unit of a tertiary care hospital in the Emirate of Abu Dhabi. Adult patients aged 18 years or older who were admitted between January 2023 and December 2024, had a length of stay exceeding 24 h but less than 30 days, received at least one systemic antibiotic, and had complete medical records were included. Data were extracted from electronic medical records and a regional health information exchange platform. Antibiotic appropriateness was evaluated against institutional or Infectious Diseases Society of America guidelines.",
+        "Results: Overall, 36% of patients received inappropriate antibiotic therapy. The most common reason for inappropriateness was the absence of a clear indication, particularly for postoperative prophylaxis (44.4%). At the individual agent level, cefepime (48.2%), metronidazole (36.2%), and cefazolin (33.9%) exhibited the highest rates of inappropriate use. Multivariable logistic regression identified positive microbiological culture results (AOR = 3.34, p < 0.001) and sepsis (AOR = 2.12, p = 0.002) as factors independently associated with higher odds of appropriate antibiotic use. Conversely, the presence of a central venous catheter (AOR = 0.30, p = 0.003) was associated with lower odds of appropriate antibiotic use. Appropriate antibiotic therapy was associated with higher odds of organ dysfunction (AOR = 1.69, p = 0.032), nosocomial infection (AOR = 2.28, p = 0.005), and persistent infection despite therapy (AOR = 2.13, p = 0.005).",
+        "Conclusion: Approximately one-third of patients received inappropriate antibiotic therapy, representing a substantial antimicrobial stewardship concern despite the observed strengths in culture-guided therapy and infection-focused management."
+      ],
+      "journal": "Frontiers in health services",
+      "date": "2026",
+      "authors": [
+        "Kassis I",
+        "Al Balas M",
+        "Rashid SHH",
+        "Gulam SM",
+        "Myalil Lucca J",
+        "McKeirnan KC",
+        "Menon V"
+      ],
+      "gmu_authors": [
+        "Inas Kassis",
+        "Shabaz Mohiuddin Gulam",
+        "Jisha Myalil Lucca",
+        "Vineetha Menon"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.3389/frhs.2026.1900610",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876967/",
+      "first_seen": "2026-10-16"
     },
     {
       "pmid": "42814432",
