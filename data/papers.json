@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16 02:23 UTC",
+  "updated": "2026-10-17 02:22 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -89,6 +89,36 @@
       "doi": "10.1007/s10815-026-04046-2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42853362/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42884169",
+      "title": "Waterpipe Smoke Condensate Impairs p53 Nuclear Localization in Association with HIF-1α Stabilization",
+      "topic": "Cancer research",
+      "abstract": [
+        "Waterpipe (shisha or hookah) smoking is recognized as a risk factor for lung cancer; however, its interference with hypoxia stress and tumor suppressor pathways in non-small cell lung cancer (NSCLC) is poorly defined. In this study, NSCLC cell lines (A549, H460, H226 with endogenous wild-type p53, and H1299 transiently expressing wild-type or p53 mutants) were exposed to waterpipe smoke condensate (WPSC) under normoxic and/or hypoxic conditions. WPSC induced HIF-1α stabilization under normoxic conditions, accompanied by predominantly cytoplasmic localization and without corresponding induction of the canonical HIF-1 target genes examined. In parallel, WPSC transiently reduced nuclear p53 localization without altering total p53 protein levels. In A549 cells, WPSC pretreatment attenuated irradiation-induced expression of the p53 target genes cyclin-dependent kinase inhibitor 1A (CDKN1A) and BTG anti-proliferation factor 2 (BTG2). Pharmacological inhibition of HIF-1α partially restored nuclear p53 localization, supporting the involvement of HIF-1α in this response. Co-immunoprecipitation demonstrated an association between HIF-1α and p53 following WPSC exposure. Collectively, these findings show that WPSC-induced HIF-1α stabilization under normoxic conditions is associated with transient alterations in p53 localization and transcriptional response, supporting an involvement of HIF-1α in this process."
+      ],
+      "journal": "International journal of molecular sciences",
+      "date": "Oct 08, 2026",
+      "authors": [
+        "Nawafleh H",
+        "Thiery J",
+        "Elsayed Y",
+        "Abdou A",
+        "Chouaib S",
+        "Zaarour RF"
+      ],
+      "gmu_authors": [
+        "Husam Nawafleh",
+        "Salem Chouaib",
+        "Rania F Zaarour"
+      ],
+      "colleges": [
+        "College of Medicine",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ijms27198927",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42884169/",
+      "first_seen": "2026-10-17"
     },
     {
       "pmid": "42851888",
