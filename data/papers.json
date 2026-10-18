@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17 02:22 UTC",
+  "updated": "2026-10-18 02:21 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -37,6 +37,55 @@
       "doi": "10.1080/13685538.2026.2696061",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42391314/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "41467884",
+      "title": "Knowledge and Attitudes Toward Dementia Among Healthcare Professionals in the MENA Region: A Multinational Survey",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "BackgroundDementia is an escalating public health challenge in the MENA region, where primary healthcare professionals' (HCPs) knowledge and preparedness remain underexplored. Understanding their knowledge and attitudes is vital for early diagnosis, quality care, and effective awareness strategies.MethodsWe conducted a cross-sectional study of 1224 HCPs across several Arab countries, primarily in primary care settings. Data were collected via an online survey using two validated instruments: the Dementia Knowledge Assessment Scale (DKAS) and the Dementia Attitudes Scale (DAS).ResultsMost participants demonstrated moderate knowledge (68.5%), while 19.9% demonstrated poor knowledge and 11.5% demonstrated good knowledge. Attitudes were largely neutral to positive (44.1%). Multivariate analysis revealed that higher age predicted better knowledge (OR = 1.04, 95% CI: 1.02-1.06, P < .001), while positive attitudes were significantly associated with older age (OR = 1.02, 95% CI: 1.01-1.04, P = .002), female gender (OR = 1.44, 95% CI: 1.14-1.84, P = .003), and higher knowledge scores (OR = 1.23, 95% CI: 1.17-1.28, P < .001).Conclusionmoderate knowledge and generally positive attitudes, important gaps persist. Tailored education, particularly for younger and male HCPs, is needed to improve dementia literacy and care."
+      ],
+      "journal": "Journal of geriatric psychiatry and neurology",
+      "date": "Nov 2026",
+      "authors": [
+        "Dahshan A",
+        "Hassan RM",
+        "Doma ES",
+        "Abdelfatah D",
+        "Khalil MIM",
+        "Abdullahi NM",
+        "Al-Yafeai TM",
+        "Selim TM",
+        "Salameh B",
+        "Al-Nawaja'a IAK",
+        "Wahba NMI",
+        "Hammooz A",
+        "Sultan HM",
+        "Kareem WM",
+        "Ahmed WM",
+        "Hermis AH",
+        "Al-Jabri MM",
+        "Khraisat AMS",
+        "Hweissa NA",
+        "AlGhaithi A",
+        "Tarhuni E",
+        "Abdulhamza A",
+        "Hallaj F",
+        "Abd El Ghany NKAEF",
+        "Mousa EFS",
+        "Mohamed OEE",
+        "El-Lawaty WMAE",
+        "Khedr D"
+      ],
+      "gmu_authors": [
+        "Hosny Maher Sultan"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1177/08919887251414658",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41467884/",
+      "first_seen": "2026-10-18"
     },
     {
       "pmid": "42872747",
@@ -2053,38 +2102,6 @@
       "first_seen": "2026-10-12"
     },
     {
-      "pmid": "42784603",
-      "title": "Waterpipe smoke condensate activates autophagy in non-tumorigenic lung epithelial cells: Implications for inflammation and stemness",
-      "topic": "Cancer research",
-      "abstract": [
-        "Waterpipe smoking has emerged as a major global health concern, with incompletely characterized effects on bronchial epithelial cells. In this study, we investigated the cytotoxic and adaptive responses of non-tumorigenic human bronchial epithelial BEAS-2B cells exposed to waterpipe smoke condensate (WPSC). Increasing concentrations of WPSC reduced cell viability in a dose-dependent manner; however, exposure to 0.1% WPSC caused only a modest, transient reduction in viability that was no longer significant by 72 hrs and did not significantly induce apoptosis over 72 hrs, as determined by MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) and Annexin V/Propidium Iodide (PI) apoptosis assays. To elucidate the adaptive mechanisms underlying this resistance, we examined autophagic flux and found that WPSC induced time-dependent accumulation of LC3-II and p62, which was enhanced by bafilomycin A1 cotreatment, indicating the activation of autophagy. This was accompanied by increased phosphorylation of AMPK and decreased phosphorylation of mTORC1, consistent with an autophagy-mediated stress response. Functionally, the inhibition of autophagy with bafilomycin A1 increased apoptosis and necrosis, suggesting that autophagy could play a protective role. Moreover, WPSC exposure induced DNA damage, as evidenced by increased γH2AX and 53BP1 nuclear foci, and elevated proinflammatory cytokine expression (IL-1β and CCL2). Finally, WPSC treatment upregulated the expression of the cancer stem cell-associated markers CD44 and CD133. Collectively, our findings demonstrate that subcytotoxic exposure to waterpipe smoke activates autophagy in non-tumorigenic lung epithelial cells. This adaptive mechanism may represent an early cellular event linking waterpipe smoke exposure to lung carcinogenesis."
-      ],
-      "journal": "PloS one",
-      "date": "2026",
-      "authors": [
-        "Zaarour RF",
-        "Azakir B",
-        "Mahmood AS",
-        "Nizami Z",
-        "Nawafleh H",
-        "ElSayed Y",
-        "Chouaib S"
-      ],
-      "gmu_authors": [
-        "Rania F Zaarour",
-        "Ayda S Mahmood",
-        "Zohra Nizami",
-        "Husam Nawafleh",
-        "Salem Chouaib"
-      ],
-      "colleges": [
-        "Thumbay Research Institute for Precision Medicine"
-      ],
-      "doi": "10.1371/journal.pone.0358943",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42784603/",
-      "first_seen": "2026-10-12"
-    },
-    {
       "pmid": "42840142",
       "title": "Hypoxic cancer stem cell-immune niches in the tumor microenvironment: a Systematic Review of mechanisms and therapeutic implications",
       "topic": "Cancer research",
@@ -2237,6 +2254,38 @@
       ],
       "doi": "10.1186/s12903-026-09875-2",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42786472/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42784603",
+      "title": "Waterpipe smoke condensate activates autophagy in non-tumorigenic lung epithelial cells: Implications for inflammation and stemness",
+      "topic": "Cancer research",
+      "abstract": [
+        "Waterpipe smoking has emerged as a major global health concern, with incompletely characterized effects on bronchial epithelial cells. In this study, we investigated the cytotoxic and adaptive responses of non-tumorigenic human bronchial epithelial BEAS-2B cells exposed to waterpipe smoke condensate (WPSC). Increasing concentrations of WPSC reduced cell viability in a dose-dependent manner; however, exposure to 0.1% WPSC caused only a modest, transient reduction in viability that was no longer significant by 72 hrs and did not significantly induce apoptosis over 72 hrs, as determined by MTT (3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) and Annexin V/Propidium Iodide (PI) apoptosis assays. To elucidate the adaptive mechanisms underlying this resistance, we examined autophagic flux and found that WPSC induced time-dependent accumulation of LC3-II and p62, which was enhanced by bafilomycin A1 cotreatment, indicating the activation of autophagy. This was accompanied by increased phosphorylation of AMPK and decreased phosphorylation of mTORC1, consistent with an autophagy-mediated stress response. Functionally, the inhibition of autophagy with bafilomycin A1 increased apoptosis and necrosis, suggesting that autophagy could play a protective role. Moreover, WPSC exposure induced DNA damage, as evidenced by increased γH2AX and 53BP1 nuclear foci, and elevated proinflammatory cytokine expression (IL-1β and CCL2). Finally, WPSC treatment upregulated the expression of the cancer stem cell-associated markers CD44 and CD133. Collectively, our findings demonstrate that subcytotoxic exposure to waterpipe smoke activates autophagy in non-tumorigenic lung epithelial cells. This adaptive mechanism may represent an early cellular event linking waterpipe smoke exposure to lung carcinogenesis."
+      ],
+      "journal": "PloS one",
+      "date": "2026",
+      "authors": [
+        "Zaarour RF",
+        "Azakir B",
+        "Mahmood AS",
+        "Nizami Z",
+        "Nawafleh H",
+        "ElSayed Y",
+        "Chouaib S"
+      ],
+      "gmu_authors": [
+        "Rania F Zaarour",
+        "Ayda S Mahmood",
+        "Zohra Nizami",
+        "Husam Nawafleh",
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.1371/journal.pone.0358943",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42784603/",
       "first_seen": "2026-10-12"
     },
     {
