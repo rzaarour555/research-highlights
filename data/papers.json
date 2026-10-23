@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20 02:22 UTC",
+  "updated": "2026-10-23 02:23 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -254,6 +254,28 @@
       "doi": "10.1007/s40122-026-00889-w",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42903513",
+      "title": "AI-assisted peer review: efficiency for reviewers, burden for authors-a narrative review",
+      "topic": "Other research",
+      "abstract": [
+        "Artificial intelligence (AI) in scholarly peer review has the potential to simplify the work of editors and reviewers through faster triage, automated reporting completeness checks, and scalable synthesis of reviewer comments. However, it also presents practical, ethical, and technical limitations that may place implementation burdens on authors. I examine bias arising from training data and model architecture, confidentiality risks from commercial AI deployment, accountability gaps when human judgment is displaced, and the growing threat of hallucinated citations to scientific integrity. I further analyze how poorly governed AI integration shifts remediation and formatting burdens onto authors-particularly those from under-resourced or non-Western institutions. I propose hybrid human-AI workflows, mandatory disclosure standards, and equity-conscious implementation frameworks to address these harms. Responsible AI integration in peer review requires transparency, human accountability, and deliberate protection of the diversity of voices represented in scientific literature. These considerations also extend beyond individual actors to recursive feedback loops in which AI-assisted manuscripts are evaluated by AI-assisted review systems, reinforcing the need for human contextual stewardship."
+      ],
+      "journal": "Frontiers in artificial intelligence",
+      "date": "2026",
+      "authors": [
+        "Babker AM"
+      ],
+      "gmu_authors": [
+        "Asaad Ma Babker"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.3389/frai.2026.1968385",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903513/",
+      "first_seen": "2026-10-23"
     },
     {
       "pmid": "42859675",
@@ -2057,44 +2079,6 @@
       "first_seen": "2026-10-12"
     },
     {
-      "pmid": "42788872",
-      "title": "Testosterone Undecanoate Significantly Reduces Low Density Lipoprotein Cholesterol and Triglycerides in Men With Adult-Onset Testosterone Deficiency",
-      "topic": "Diabetes and metabolism",
-      "abstract": [
-        "Background: Adult-onset testosterone deficiency, a condition characterised by low serum testosterone and hypogonadal symptoms is associated with a higher incidence of cardiovascular disease (CVD) and mortality.",
-        "Objective: To evaluate associations between change (Δ) in total cholesterol (TC), triglycerides (TG) and low-density lipoprotein (LDL)-cholesterol and testosterone undecanoate (TU) treatment.",
-        "Materials & methods: We analysed a registry of men with adult-onset TD (409 TU-treated and 415 TU-untreated men, median follow-up 153 months), restricting the analysis to men whose statin treatment was not changed during follow-up, thus avoiding statin related effects. The study cohort comprised the following groups: TU-untreated/not on statins (n = 95), TU-untreated/on statins (n = 245), TU-treated/not on statins (n = 194), and TU-treated/on statins (n = 207). Intra-group non-parametric statistics were performed as baseline characteristics varied between the study groups. We used multivariate and logistic regression models to determine predictors of ∆ lipids (LDL-cholesterol and TG) and mortality.",
-        "Results: Whilst there was a significant decrease in LDL-cholesterol and TG (mostly in the initial 24 months) in the TU-treated men, the reverse was evident in the untreated men, irrespective of concurrent statin therapy. Baseline LDL-cholesterol and TG inversely predicted ∆ values in the TU-treated men, regardless of statin therapy. LDL-cholesterol at final assessment appeared independently associated with mortality.",
-        "Conclusions: In this long-term, real-world registry, TC, TG, and LDL-cholesterol decreased in the TU-treated men with baseline values predicting the change, whilst a gradual increase was observed in the TU-untreated men. Using published data, the relative risk reduction in CVD due to LDL-cholesterol reduction is estimated to be around 40%."
-      ],
-      "journal": "Andrology",
-      "date": "Sep 25, 2026",
-      "authors": [
-        "Bhat A",
-        "Kumar AA",
-        "Zitzmann M",
-        "Saad F",
-        "König CS",
-        "Haider KS",
-        "Haider A",
-        "Hackett G",
-        "Desnerck P",
-        "Marriott J",
-        "Mann A",
-        "Strange RC",
-        "Ramachandran S"
-      ],
-      "gmu_authors": [
-        "Farid Saad"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1111/andr.70393",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42788872/",
-      "first_seen": "2026-10-12"
-    },
-    {
       "pmid": "42852021",
       "title": "Prevalence of positive screens for depression, anxiety, and PTSD symptoms among parents of infants admitted to a NICU: a pilot study",
       "topic": "Mental health",
@@ -2250,6 +2234,44 @@
       ],
       "doi": "10.3390/antibiotics15090918",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42792068/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42788872",
+      "title": "Testosterone Undecanoate Significantly Reduces Low Density Lipoprotein Cholesterol and Triglycerides in Men With Adult-Onset Testosterone Deficiency",
+      "topic": "Diabetes and metabolism",
+      "abstract": [
+        "Background: Adult-onset testosterone deficiency, a condition characterised by low serum testosterone and hypogonadal symptoms is associated with a higher incidence of cardiovascular disease (CVD) and mortality.",
+        "Objective: To evaluate associations between change (Δ) in total cholesterol (TC), triglycerides (TG) and low-density lipoprotein (LDL)-cholesterol and testosterone undecanoate (TU) treatment.",
+        "Materials & methods: We analysed a registry of men with adult-onset TD (409 TU-treated and 415 TU-untreated men, median follow-up 153 months), restricting the analysis to men whose statin treatment was not changed during follow-up, thus avoiding statin related effects. The study cohort comprised the following groups: TU-untreated/not on statins (n = 95), TU-untreated/on statins (n = 245), TU-treated/not on statins (n = 194), and TU-treated/on statins (n = 207). Intra-group non-parametric statistics were performed as baseline characteristics varied between the study groups. We used multivariate and logistic regression models to determine predictors of ∆ lipids (LDL-cholesterol and TG) and mortality.",
+        "Results: Whilst there was a significant decrease in LDL-cholesterol and TG (mostly in the initial 24 months) in the TU-treated men, the reverse was evident in the untreated men, irrespective of concurrent statin therapy. Baseline LDL-cholesterol and TG inversely predicted ∆ values in the TU-treated men, regardless of statin therapy. LDL-cholesterol at final assessment appeared independently associated with mortality.",
+        "Conclusions: In this long-term, real-world registry, TC, TG, and LDL-cholesterol decreased in the TU-treated men with baseline values predicting the change, whilst a gradual increase was observed in the TU-untreated men. Using published data, the relative risk reduction in CVD due to LDL-cholesterol reduction is estimated to be around 40%."
+      ],
+      "journal": "Andrology",
+      "date": "Sep 25, 2026",
+      "authors": [
+        "Bhat A",
+        "Kumar AA",
+        "Zitzmann M",
+        "Saad F",
+        "König CS",
+        "Haider KS",
+        "Haider A",
+        "Hackett G",
+        "Desnerck P",
+        "Marriott J",
+        "Mann A",
+        "Strange RC",
+        "Ramachandran S"
+      ],
+      "gmu_authors": [
+        "Farid Saad"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1111/andr.70393",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788872/",
       "first_seen": "2026-10-12"
     },
     {
