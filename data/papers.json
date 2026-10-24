@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23 02:23 UTC",
+  "updated": "2026-10-24 02:21 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -66,6 +66,37 @@
       "doi": "10.1080/13685538.2026.2696061",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42391314/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42910382",
+      "title": "Styloidogenic Jugular Venous Compression Syndrome: A Rare Vascular Variant of Eagle Syndrome",
+      "topic": "Heart and circulation",
+      "abstract": [
+        "Background and importance: Styloidogenic jugular venous compression syndrome, a recently recognized vascular variant of Eagle syndrome, a rare condition caused by the elongation of the styloid process or calcification of the stylohyoid ligament, occurs when the internal jugular vein is compressed between the styloid process and C1 transverse process, leading to a spectrum of neurovascular and cervicofacial symptoms.",
+        "Clinical presentation: A 46-year-old male pilot presented with right-sided pulsatile tinnitus, vertigo, and episodic near-syncope that progressively worsened over 4 years despite multiple interventions. Computed tomography and MRI revealed an elongated right styloid process (approximately 35 mm) compressing the internal jugular vein against the C1 transverse process. The patient underwent a right-sided styloidectomy with partial resection of the C1 transverse process by a transcervical approach. The facial and spinal accessory nerves were preserved, and postoperative recovery was uneventful. By postoperative day 2, the patient reported near-complete resolution of tinnitus and pain, with sustained improvement at 1-month follow-up.",
+        "Conclusion: Styloidogenic jugular venous compression syndrome should be considered for patients with pulsatile tinnitus or symptoms of impaired cerebral venous outflow. Computed tomography venography is considered the diagnostic gold standard. Surgical decompression through styloidectomy with C1 resection can provide effective and durable symptom relief. Early diagnosis and surgical management can result in excellent outcomes."
+      ],
+      "journal": "Neurosurgery practice",
+      "date": "Dec 2026",
+      "authors": [
+        "Darbar A",
+        "Rajaram K",
+        "Kapsas G",
+        "Musthafa HA",
+        "Abdellatif NS",
+        "Kamath MG",
+        "Jossie SC"
+      ],
+      "gmu_authors": [
+        "Hisham Abubacker Musthafa",
+        "Nouran Sherif Abdellatif"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1227/neuprac.0000000000000293",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910382/",
+      "first_seen": "2026-10-24"
     },
     {
       "pmid": "41467884",
@@ -2048,37 +2079,6 @@
       "first_seen": "2026-10-12"
     },
     {
-      "pmid": "42798116",
-      "title": "Oncology nurse navigator core competencies and patient satisfaction: A cross-sectional correlational study at an Egyptian cancer center",
-      "topic": "Cancer research",
-      "abstract": [
-        "Oncology nurse navigators (ONNs) are increasingly recognized for their vital role in improving the quality of cancer care by supporting patients throughout their treatment journey. In Egypt, nurse navigation implementation remains limited, and empirical evidence examining the relationship between ONN competencies and patient satisfaction is scarce. This study aimed to assess the core competencies of ONNs and their relationship to patient satisfaction at a leading cancer center in Egypt. A descriptive correlational study was conducted among 65 ONNs and 404 oncology patients at a major oncology hospital in Cairo. Data were collected using 2 previously developed instruments: the ONN Core Competencies Questionnaire and the Patient Satisfaction with the Navigator Scale. The mean total ONN competency score was 79.28 ± 8.24, and the mean patient satisfaction score was 93.18 ± 5.68. At the nurse-navigator level, overall ONN competency was strongly and positively associated with navigator-level mean patient satisfaction (r = .70, 95% CI [.55-.81], P < .001). All competency domains were positively associated with mean patient satisfaction, with the strongest domain-level associations observed for Expert ONN competency (r = .65, 95% CI [.50-.78]) and coordination of care (r = .56, 95% CI [.37-.71]). Competency scores differed significantly according to nurse age, education, experience, and training frequency, whereas patient satisfaction differed significantly according to patient age and gender. Higher ONN competency scores were associated with higher navigator-level mean patient satisfaction, particularly for expert navigation and care coordination competencies. These findings support continued professional development and strengthening of oncology nurse navigation services; however, the observed associations are nurse-level and cross-sectional and should not be interpreted as individual-patient-level or causal effects."
-      ],
-      "journal": "Medicine",
-      "date": "Sep 25, 2026",
-      "authors": [
-        "Bassyouny HAA",
-        "Ismail HA",
-        "Elmoaty AEEA",
-        "Aly MA",
-        "Ibrahim RK",
-        "Hendy A",
-        "Almegewly W",
-        "Hussien RM",
-        "Elhadary SMM",
-        "Kotp MH"
-      ],
-      "gmu_authors": [
-        "Samar Mahmoud Mohamed Elhadary"
-      ],
-      "colleges": [
-        "College of Nursing"
-      ],
-      "doi": "10.1097/MD.0000000000050867",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42798116/",
-      "first_seen": "2026-10-12"
-    },
-    {
       "pmid": "42852021",
       "title": "Prevalence of positive screens for depression, anxiety, and PTSD symptoms among parents of infants admitted to a NICU: a pilot study",
       "topic": "Mental health",
@@ -2203,6 +2203,37 @@
       ],
       "doi": "10.3389/fphar.2026.1915973",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42828068/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42798116",
+      "title": "Oncology nurse navigator core competencies and patient satisfaction: A cross-sectional correlational study at an Egyptian cancer center",
+      "topic": "Cancer research",
+      "abstract": [
+        "Oncology nurse navigators (ONNs) are increasingly recognized for their vital role in improving the quality of cancer care by supporting patients throughout their treatment journey. In Egypt, nurse navigation implementation remains limited, and empirical evidence examining the relationship between ONN competencies and patient satisfaction is scarce. This study aimed to assess the core competencies of ONNs and their relationship to patient satisfaction at a leading cancer center in Egypt. A descriptive correlational study was conducted among 65 ONNs and 404 oncology patients at a major oncology hospital in Cairo. Data were collected using 2 previously developed instruments: the ONN Core Competencies Questionnaire and the Patient Satisfaction with the Navigator Scale. The mean total ONN competency score was 79.28 ± 8.24, and the mean patient satisfaction score was 93.18 ± 5.68. At the nurse-navigator level, overall ONN competency was strongly and positively associated with navigator-level mean patient satisfaction (r = .70, 95% CI [.55-.81], P < .001). All competency domains were positively associated with mean patient satisfaction, with the strongest domain-level associations observed for Expert ONN competency (r = .65, 95% CI [.50-.78]) and coordination of care (r = .56, 95% CI [.37-.71]). Competency scores differed significantly according to nurse age, education, experience, and training frequency, whereas patient satisfaction differed significantly according to patient age and gender. Higher ONN competency scores were associated with higher navigator-level mean patient satisfaction, particularly for expert navigation and care coordination competencies. These findings support continued professional development and strengthening of oncology nurse navigation services; however, the observed associations are nurse-level and cross-sectional and should not be interpreted as individual-patient-level or causal effects."
+      ],
+      "journal": "Medicine",
+      "date": "Sep 25, 2026",
+      "authors": [
+        "Bassyouny HAA",
+        "Ismail HA",
+        "Elmoaty AEEA",
+        "Aly MA",
+        "Ibrahim RK",
+        "Hendy A",
+        "Almegewly W",
+        "Hussien RM",
+        "Elhadary SMM",
+        "Kotp MH"
+      ],
+      "gmu_authors": [
+        "Samar Mahmoud Mohamed Elhadary"
+      ],
+      "colleges": [
+        "College of Nursing"
+      ],
+      "doi": "10.1097/MD.0000000000050867",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42798116/",
       "first_seen": "2026-10-12"
     },
     {
