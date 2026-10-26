@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24 02:21 UTC",
+  "updated": "2026-10-26 02:27 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -146,6 +146,60 @@
       "doi": "10.1177/08919887251414658",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41467884/",
       "first_seen": "2026-10-18"
+    },
+    {
+      "pmid": "42921916",
+      "title": "Targeting the gut-brain axis with Bifidobacterium breve in neurodegeneration: A comprehensive narrative review of current evidence in Alzheimer's disease and cognitive aging",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder arising from the interplay of amyloid, tau, neuroimmune, oxidative stress, metabolic, vascular, and synaptic processes, ultimately resulting in neurodegeneration across multiple brain regions and progressive memory and cognitive impairment. Gut dysfunction may contribute to the initiation and progression of AD-related processes through the gut-brain axis, whereby alterations in the gut microbiota can influence brain function through chemical, neuronal, immune, and metabolic pathways. Growing interest in the microbiota-gut-brain axis has consequently prompted investigation of strain-specific probiotics as potential adjunctive approaches to restoring gut microbial homeostasis. This comprehensive narrative review critically integrates preclinical and human evidence on Bifidobacterium breve in AD-related pathology and age-associated cognitive impairment. Targeted searches of PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar were conducted through April 2026 and supplemented by reference-list searching. The evidence base comprised 13 preclinical publications and five human publications representing four independent clinical cohorts. Preclinical studies, predominantly conducted in rodent models, reported strain-dependent effects on cognition, amyloid- and tau-related measures, synaptic proteins, neuroinflammation, oxidative stress, microbial composition, and metabolite profiles. Human evidence was limited to B. breve MCC1274 (A1) and primarily involved Japanese adults with memory complaints or suspected mild cognitive impairment. Overall, current evidence supports a mechanistic rationale for the potential role of B. breve as a gut-brain modulator; however, the heterogeneity of preclinical findings and the small, geographically concentrated clinical evidence base highlight the need for further well-designed studies to more clearly define clinical efficacy and long-term safety."
+      ],
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "date": "Oct 22, 2026",
+      "authors": [
+        "Hamzeh O",
+        "Halaji M",
+        "Rostami A",
+        "Md Ashraf G"
+      ],
+      "gmu_authors": [
+        "Ghulam Md Ashraf"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1177/13872877261496277",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42921916/",
+      "first_seen": "2026-10-26"
+    },
+    {
+      "pmid": "42880817",
+      "title": "Exploring emotion identification and categorisation in simulated central vision loss: an event-related potential study",
+      "topic": "Other research",
+      "abstract": [
+        "Objective: This study investigated how simulated central vision loss (SimCVL) affected emotion identification and categorisation in individuals with normal vision.",
+        "Methods and analysis: The study recruited 29 healthy volunteers, including young adults (YA: 20–35 years) (n=10), mid-aged (MA: 40–55 years) (n=10) and older adults (60–75 years) (n=9). The participants were presented with human faces displaying three emotions, neutral, happy and sad, as stimuli. SimCVL was simulated using custom-made MATLAB programming. The study developed two experiments to investigate emotion identification (experiment 1: oddball design) and categorisation (experiment 2: equiprobable design). The behavioural responses and event-related potential (ERP) waveforms were analysed using E-prime and electroencephalogram laboratory toolbox in MATLAB, and the data was analysed using SPSS V.20.",
+        "Results: Emotion identification was present for both happy and sad in the Oddball (P300) paradigm. However, reduced amplitudes and delayed latencies were observed in OAs, particularly in simulated conditions (p<0.01). OAs had delayed reaction times and reduced accuracy in the simulated condition compared with MA and YA (p<0.01). No or minimal differences in amplitudes and latencies were found for early visual processing (P100) and encoding of facial features (N170) across age groups in simulated conditions. Delayed latencies and reduced amplitudes were observed in OAs when decoding (N250) facial features.",
+        "Conclusion: Emotion identification and categorisation are affected in older individuals with SimCVL compared with young and MA adults. Negative emotions had reduced performance index than happy across age groups, and this effect was maximum in OAs. The study suggests that further research is needed to explore the neural basis of emotional processing in patients with CVL using event-related potentials."
+      ],
+      "journal": "BMJ open ophthalmology",
+      "date": "Oct 15, 2026",
+      "authors": [
+        "Madheswaran G",
+        "S Ve R",
+        "Ganeshrao SB",
+        "Raman R",
+        "Palaniswamy HP"
+      ],
+      "gmu_authors": [
+        "Gopinath Madheswaran"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.1136/bmjophth-2025-002689",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880817/",
+      "first_seen": "2026-10-26"
     },
     {
       "pmid": "42872747",
