@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-26 02:27 UTC",
+  "updated": "2026-10-27 02:24 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
+    {
+      "pmid": "42822610",
+      "title": "Differential effects of amyloid-β and tau on UCH gene expression in Drosophila models of Alzheimer's disease",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Background: Alzheimer's disease (AD) is a common neurodegenerative disorder characterized by progressive impairments in learning and memory. Substantial evidence indicates that dysfunction of the ubiquitin-proteasome system (UPS) in the AD brain leads to aberrant protein aggregation, ultimately resulting in synaptic dysfunction and neuronal loss. In this study, we investigated the effects of pan-neuronal expression of TauWT or Aβ42-key pathological hallmarks of AD-on the expression of UCH, a critical UPS component, in Drosophila melanogaster at three time points: 5, 15, and 25 days after eclosion.",
+        "Methods and results: UCH mRNA levels were quantified using real-time RT-PCR. UCH expression showed an age-dependent downregulation in Aβ42 transgenic flies over all three post-eclosion intervals. While UCH transcription witnessed no significant change in 5-day-old TauWT transgenic flies, there was a considerable decline in UCH mRNA levels in 15- and 25-day-old flies. Notably, Aβ42 had a more prominent impact on UCH gene expression than TauWT across all three time points.",
+        "Conclusion: TauWT and Aβ42 exert independent adverse effects on UCH expression. An apparent age-related trend was observed in the fly models, whereby Aβ42 showed a relatively stronger influence on UCH transcription compared with TauWT. Accordingly, therapeutic strategies that target both Tau and amyloid-β may warrant consideration."
+      ],
+      "journal": "Gene",
+      "date": "Jan 05, 2027",
+      "authors": [
+        "Arayesh MJ",
+        "Ataellahi F",
+        "Masoudi R"
+      ],
+      "gmu_authors": [
+        "Raheleh Masoudi"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1016/j.gene.2026.150431",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42822610/",
+      "first_seen": "2026-10-12"
+    },
     {
       "pmid": "42895785",
       "title": "Advancing clinical integration in undergraduate dental education through AI-enabled instructional design: a qualitative thematic analysis",
@@ -556,32 +582,6 @@
       ],
       "doi": "10.4103/RPS.RPS_195_25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42836184/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42822610",
-      "title": "Differential effects of amyloid-β and tau on UCH gene expression in Drosophila models of Alzheimer's disease",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Background: Alzheimer's disease (AD) is a common neurodegenerative disorder characterized by progressive impairments in learning and memory. Substantial evidence indicates that dysfunction of the ubiquitin-proteasome system (UPS) in the AD brain leads to aberrant protein aggregation, ultimately resulting in synaptic dysfunction and neuronal loss. In this study, we investigated the effects of pan-neuronal expression of TauWT or Aβ42-key pathological hallmarks of AD-on the expression of UCH, a critical UPS component, in Drosophila melanogaster at three time points: 5, 15, and 25 days after eclosion.",
-        "Methods and results: UCH mRNA levels were quantified using real-time RT-PCR. UCH expression showed an age-dependent downregulation in Aβ42 transgenic flies over all three post-eclosion intervals. While UCH transcription witnessed no significant change in 5-day-old TauWT transgenic flies, there was a considerable decline in UCH mRNA levels in 15- and 25-day-old flies. Notably, Aβ42 had a more prominent impact on UCH gene expression than TauWT across all three time points.",
-        "Conclusion: TauWT and Aβ42 exert independent adverse effects on UCH expression. An apparent age-related trend was observed in the fly models, whereby Aβ42 showed a relatively stronger influence on UCH transcription compared with TauWT. Accordingly, therapeutic strategies that target both Tau and amyloid-β may warrant consideration."
-      ],
-      "journal": "Gene",
-      "date": "Oct 01, 2026",
-      "authors": [
-        "Arayesh MJ",
-        "Ataellahi F",
-        "Masoudi R"
-      ],
-      "gmu_authors": [
-        "Raheleh Masoudi"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1016/j.gene.2026.150431",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42822610/",
       "first_seen": "2026-10-12"
     },
     {
