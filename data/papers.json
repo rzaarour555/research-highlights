@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27 02:24 UTC",
+  "updated": "2026-10-28 02:36 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -174,6 +174,40 @@
       "first_seen": "2026-10-18"
     },
     {
+      "pmid": "42934775",
+      "title": "Smartphone-derived mobility metrics identify distinct recovery phenotypes following ACL reconstruction: associations with function, pain, and psychological health",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Background: Recovery after anterior cruciate ligament (ACL) reconstruction is typically monitored through patient-reported outcomes and periodic clinical assessments, which may not fully capture real-world functional performance. Smartphone-derived mobility data provide a passive and objective approach for evaluating daily activity and recovery.",
+        "Purpose: To examine associations between smartphone-derived mobility metrics and recovery outcomes in adults 3-12 months after primary ACL reconstruction and to identify distinct recovery phenotypes using mobility-based clustering.",
+        "Methods: This cross-sectional study included 120 adults who were 3-12 months post-primary ACL reconstruction and had at least 14 days of retrospective smartphone mobility data. Mobility variables included daily step count, activity volume and intensity (e.g., active minutes and walking bout duration), sedentary behavior, and walking-related metrics. Outcomes included pain (Numeric Rating Scale [NRS]), functional status (Knee Injury and Osteoarthritis Outcome Score [KOOS] Pain, Activities of Daily Living, and Sport/Recreation subscales), knee-related quality of life (ACL Quality of Life questionnaire [ACL-QoL]), and psychological measures including the Pain Catastrophizing Scale (PCS), Patient Health Questionnaire-9 (PHQ-9), and Generalized Anxiety Disorder-7 (GAD-7). Associations were evaluated using Pearson correlation and multivariable linear regression analyses. Recovery phenotypes were identified using unsupervised k-means clustering of mobility metrics.",
+        "Results: Higher daily step counts were independently associated with better KOOS-ADL scores (β = 0.48, p < 0.001), higher ACL-QoL scores (β = 0.45, p < 0.001), and lower pain intensity (β = - 0.39, p = 0.001). Three recovery phenotypes emerged: a high-activity/low-pain phenotype with superior function and minimal psychological distress, a moderate-activity/moderate-pain phenotype with intermediate outcomes, and a low-activity/high-pain phenotype characterized by reduced mobility, poorer function, greater pain, and higher pain catastrophizing. Significant gradients were observed across phenotypes for pain (NRS: 1.72-5.01), function (KOOS-Pain: 88.94-62.37), and pain catastrophizing (PCS: 8.52-24.91; all p < 0.001).",
+        "Conclusions: Smartphone-derived mobility metrics were significantly associated with recovery outcomes following ACL reconstruction. Mobility-based clustering identified distinct recovery phenotypes associated with meaningful differences in pain, function, and pain catastrophizing, highlighting the potential of passive mobility monitoring to support personalized rehabilitation strategies. However, given the variability in evaluation periods and uncontrolled surgical factors, future research employing standardized, long-term follow-ups is warranted."
+      ],
+      "journal": "Knee surgery & related research",
+      "date": "Oct 26, 2026",
+      "authors": [
+        "Kandakurti PK",
+        "Koura GM",
+        "Reddy RS",
+        "Kardm S",
+        "Gautam AP",
+        "Elshiwi AMF",
+        "Ali ZA",
+        "Alali RS",
+        "El Melhat AM"
+      ],
+      "gmu_authors": [
+        "Praveen Kumar Kandakurti"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.1186/s43019-026-00353-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934775/",
+      "first_seen": "2026-10-28"
+    },
+    {
       "pmid": "42921916",
       "title": "Targeting the gut-brain axis with Bifidobacterium breve in neurodegeneration: A comprehensive narrative review of current evidence in Alzheimer's disease and cognitive aging",
       "topic": "Brain and nervous system",
@@ -197,6 +231,35 @@
       "doi": "10.1177/13872877261496277",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42921916/",
       "first_seen": "2026-10-26"
+    },
+    {
+      "pmid": "42942844",
+      "title": "Cell Membrane-Coated Nanoparticles as Biomimetic Drug Delivery Systems: Design, Therapeutic Applications, and Translational Challenges",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Biomimetic cell membrane-coated nanoparticles (CM-NPs) have emerged as a promising class of nanocarriers that integrate the tunable physicochemical properties of engineered nanoparticles with selected biological features of naturally derived cell membranes. By retaining membrane-associated proteins, lipids, glycans, and receptors, CM-NPs have demonstrated the potential to modulate immune recognition, prolong systemic circulation, improve biocompatibility, and facilitate disease-specific targeting; however, these effects depend on the membrane source, nanoparticle composition, coating integrity, fabrication method, and biological context. This review critically examines major membrane-engineering strategies, including lipid insertion, covalent conjugation, metabolic glycoengineering, and genetic modification, together with fabrication methods such as extrusion, sonication, electroporation, in situ polymerization, and microfluidics. Particular emphasis is placed on nanoparticles coated with erythrocyte, platelet, stem cell, immune cell, bacterial, cancer cell, and hybrid membranes. Their therapeutic applications are critically evaluated, with a primary focus on cancer therapy, including photothermal and photodynamic approaches, alongside applications in cardiovascular, neurological, infectious, inflammatory, and regenerative diseases. Recent CM-NP platforms are systematically summarized according to membrane source, therapeutic cargo or nanoparticle core, disease application, and major outcomes, while recent patents are discussed to highlight emerging technological and translational developments. Despite encouraging preclinical findings, clinical translation remains constrained by challenges in membrane isolation and purification, batch reproducibility, manufacturing scalability, preservation of membrane integrity and functionality, quality control, long-term stability, biosafety, and regulatory standardization. Advances in membrane engineering, hybrid membrane systems, scalable manufacturing, standardized characterization, and rigorous safety evaluation will be important for advancing CM-NPs toward clinical translation."
+      ],
+      "journal": "Pharmaceutics",
+      "date": "Oct 16, 2026",
+      "authors": [
+        "Jacob S",
+        "Varkey NR",
+        "Rao R",
+        "Shinu P",
+        "Khanam R"
+      ],
+      "gmu_authors": [
+        "Shery Jacob",
+        "Namitha Raichel Varkey",
+        "Razia Khanam"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "College of Medicine"
+      ],
+      "doi": "10.3390/pharmaceutics18101314",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42942844/",
+      "first_seen": "2026-10-28"
     },
     {
       "pmid": "42880817",
@@ -255,6 +318,32 @@
       "doi": "10.3791/71983",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42872747/",
       "first_seen": "2026-10-15"
+    },
+    {
+      "pmid": "42941816",
+      "title": "In Vitro Anti-Proliferative and Cisplatin-Modulating Effects of Cedrus libani A. Rich Leaf Essential Oil on H460 and HT-29 Human Cancer Cell Lines",
+      "topic": "Cancer research",
+      "abstract": [
+        "Cedrus libani A. Rich is a coniferous tree native to the eastern Mediterranean region that is known for exhibiting pharmacological properties. In the present study, we investigated the anti-proliferative effect of C. libani leaf essential oil (EO) against H460 and HT-29, as well as evaluated its chemo-modulatory effect with cisplatin (CIS). The EO chemical profile was analyzed via GC-MS. Cell viability was assessed using MTT, while trypan blue exclusion and Annexin V/Propidium Iodide staining were employed to detect cell death. Colony biomass and wound closure were evaluated using crystal violet staining and a scratch assay, respectively. Nuclear morphology and reactive oxygen species (ROS) were assessed using DAPI staining and an NBT assay, respectively. EO and CIS individually reduced cell viability in a time- and concentration-dependent manner with combination treatments demonstrating synergistic/additive/antagonistic interactions depending on the combination ratio, cell line and time point. EO alone does not exhibit significant cell death, whereas CIS demonstrated significant apoptosis and necrosis. The combination (IC50:IC50) enhanced cell death, particularly in HT-29. Both EO and CIS reduced colony biomass and wound closure, with the combination showing higher inhibitory effect on colony biomass in both cell lines and enhanced wound closure inhibitory effect in HT-29 but reduced effect in H460. CIS and combination caused more notable nuclear alterations compared to EO alone, whereas an early increase in NBT reduction followed by a subsequent decrease was observed for individual treatments as well as the combination. This study provides insights into the antiproliferative and chemo-modulatory potential of C. libani leaf essential oil, although further studies are needed to elucidate the underlying molecular mechanisms."
+      ],
+      "journal": "International journal of molecular sciences",
+      "date": "Oct 12, 2026",
+      "authors": [
+        "Younes H",
+        "Azakir B",
+        "Zaarour R",
+        "Hayeck N",
+        "Borjac J"
+      ],
+      "gmu_authors": [
+        "Rania Zaarour"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ijms27209044",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42941816/",
+      "first_seen": "2026-10-28"
     },
     {
       "pmid": "42853362",
@@ -876,6 +965,193 @@
       "doi": "10.3389/frhs.2026.1900610",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42876967/",
       "first_seen": "2026-10-16"
+    },
+    {
+      "pmid": "42866318",
+      "title": "Recent advances in targeted therapies and immunotherapies for triple-negative breast cancer",
+      "topic": "Cancer research",
+      "abstract": [
+        "This comprehensive review explores advancements in the treatment of Triple-Negative Breast Cancer (TNBC), emphasizing the transformative impact of targeted therapies and immunotherapies. Given TNBC's aggressive nature and limited therapeutic options, this review provides an in-depth analysis of emerging strategies that aim to enhance patient outcomes. Within targeted therapies, we discuss molecular subtypes and evaluate the efficacy of PARP inhibitors, EGFR inhibitors, and PI3K inhibitors, integrating insights from clinical trials. The immunotherapy landscape is examined through immune checkpoint inhibitors, Chimeric Antigen Receptor (CAR) T-cell therapy, and novel vaccine-based approaches. Combination strategies are assessed, focusing on clinical efficacy, safety, and resistance mechanisms. Additionally, we highlight emerging therapeutic innovations, including bispecific antibodies, advanced drug delivery systems, and personalized medicine approaches. Beyond treatment modalities, the review addresses key challenges such as therapy resistance, biomarker-driven treatment selection, and the integration of Artificial Intelligence in TNBC management. Future directions emphasize ongoing clinical trials and evolving therapeutic paradigms aimed at improving survival and quality of life for TNBC patients. As the field progresses, a multidisciplinary approach integrating precision oncology, innovative therapeutics, and patient-centered care will be critical. In conclusion, this review encapsulates current breakthroughs and envisions a future where targeted and immune-based interventions redefine TNBC treatment, offering new hope for patients and clinicians alike."
+      ],
+      "journal": "Frontiers in oncology",
+      "date": "2026",
+      "authors": [
+        "Rashid G",
+        "Elsori D",
+        "Naqvi Z",
+        "Zehra T",
+        "Selamoglu Z",
+        "Mr S",
+        "Abbas AM",
+        "Mohideen AP",
+        "Hafez W",
+        "Babker A"
+      ],
+      "gmu_authors": [
+        "Asaad Babker"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.3389/fonc.2026.1804620",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866318/",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "pmid": "42856932",
+      "title": "Tooth surface loss associated with unshelled sunflower seed consumption: a scoping review",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Objectives: The consumption of unshelled sunflower seeds (USS) is a common, culturally embedded dietary habit in many parts of the world. However, the dental findings associated with this practice have not been comprehensively synthesised. This scoping review aimed to map the available evidence on the reported dental findings associated with USS consumption and to identify gaps in existing literature.",
+        "Materials and methods: Following the PRISMA Extension for Scoping Reviews (PRISMA-ScR) guidelines, a comprehensive search of PubMed, MEDLINE, Scopus, Embase, Web of Science, and Google Scholar was conducted for studies published from inception to August 2026. Eligibility was based on the Population, Concept, and Context(PCC) framework. English-language peer-reviewed cross-sectional studies, case series, case reports, and narrative reviews reporting dental findings associated with USS consumption were included and descriptively synthesized.",
+        "Results: Eight articles (two cross-sectional studies, three case reports, two case series, and one narrative review with a previously unpublished case) met the inclusion criteria. Tooth surface loss (TSL), presenting as characteristic incisal notching of the anterior teeth was the primary finding associated among the included studies. Infrequently reported findings included incisal fractures, dentinal hypersensitivity, gingival recession, widening of the periodontal ligament space, and localized inflammatory peri-implant disease associated with food impaction. Temporomandibular joint (TMJ) symptoms and masticatory muscle tenderness were reported only in a single case series.",
+        "Conclusion: USS consumption may be associated with TSL, commonly presenting as characteristic incisal notching of the anterior teeth. Reported periodontal and TMJ findings can be considered as exploratory observations. Although TSL has been reported in association with USS consumption, the current evidence is insufficient to establish a causal relationship. Further epidemiological and longitudinal studies are needed to clarify these associations and determine the prevalence, progression, and clinical significance of the reported oral findings."
+      ],
+      "journal": "Frontiers in oral health",
+      "date": "2026",
+      "authors": [
+        "Veerabhadrappa SK",
+        "Ramachandra SS",
+        "Yadav S",
+        "Adtani P",
+        "Porntaveetus T"
+      ],
+      "gmu_authors": [
+        "Pooja Adtani"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.3389/froh.2026.1889799",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856932/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42852021",
+      "title": "Prevalence of positive screens for depression, anxiety, and PTSD symptoms among parents of infants admitted to a NICU: a pilot study",
+      "topic": "Mental health",
+      "abstract": [
+        "Introduction: Parents of infants admitted to the Neonatal Intensive Care Unit (NICU) may experience substantial psychological distress. This study aimed to assess the prevalence of positive screens for depressive, anxiety, and post-traumatic stress disorder (PTSD) symptoms and to explore their associations with gender, education level, and parental age. The study also described the coping strategies reported by participants.",
+        "Methods: This cross-sectional pilot study assessed 82 parents of infants admitted to the NICU at Thumbay University Hospital, Ajman. Parents who were primary caregivers and provided consent were included. Data were collected from March to July 2025 using self-administered questionnaires; Patient Health Questionnaire-9 (PHQ-9), Generalized Anxiety Disorder-7 (GAD-7), and PTSD Checklist for DSM-5 (PCL-5). They were then grouped based on whether they met the positive or negative screen criteria for the respective psychiatric symptoms.",
+        "Results: Out of the 82 parents who had participated, 22% screened positive for anxiety symptoms, 13.4% for depression symptoms, and 9.8% for PTSD symptoms. Female participants had a higher proportion of positive screen for depressive symptoms than male participants (20.5% vs. 4.8% in men, p = 0.043), and younger participants (≤30 years) had a higher proportion of positive screens for PTSD symptoms than those aged >30 years (17.5% vs. 2.4%; Fisher's exact p = 0.027), although the small number of positive cases warrants cautious interpretation. No significant associations were found with education level. The most reported coping strategies were religious/spiritual (34.8%) and physical/behavioral (26.1%) methods.",
+        "Conclusion: A notable proportion of parents of infants admitted to the NICU in this UAE pilot cross-sectional study screened positive for symptoms of depression, anxiety, and PTSD, with female participants and younger participants showing higher proportions of positive screening for depressive and PTSD symptoms, respectively. These findings support consideration of mental health screening, promotion of a socially supportive environment, and culturally appropriate psychosocial support for parents of NICU-admitted infants."
+      ],
+      "journal": "Frontiers in psychiatry",
+      "date": "2026",
+      "authors": [
+        "Ahmadiazad A",
+        "Saif Mohammed Nasir Ali M",
+        "Ali HFA",
+        "Ibrahim TA",
+        "Abdalla AA",
+        "Elkhair ME",
+        "Sreejith A"
+      ],
+      "gmu_authors": [
+        "Adnan Ahmadiazad",
+        "Mohammed Saif Mohammed Nasir Ali",
+        "Hadeel Fathelrahman Ahmed Ali",
+        "Tahlil Abdalmahmoud Ibrahim",
+        "Ahmed Abdalla Abdalla",
+        "Anusha Sreejith"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fpsyt.2026.1934224",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42852021/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42840142",
+      "title": "Hypoxic cancer stem cell-immune niches in the tumor microenvironment: a Systematic Review of mechanisms and therapeutic implications",
+      "topic": "Cancer research",
+      "abstract": [
+        "Background: Hypoxia, cancer stem cell (CSC) plasticity, and immune suppression are established features of the tumor microenvironment, but their integration within the same biological systems has not been comprehensively synthesized. This systematic review evaluated whether hypoxia or hypoxia-associated signaling coordinates CSC or stemness phenotypes with immune-related mechanisms.",
+        "Methods: PubMed, Embase, Scopus, Web of Science, and Google Scholar were searched for English-language studies published from 1 January 2010 to 31 January 2026. Eligible studies were required to evaluate hypoxia or hypoxia-associated signaling, CSC or stemness phenotypes, and immune-related outcomes within the same experimental or translational study. Of 1,569 records identified, 39 reports underwent full-text assessment and 14 studies were included.",
+        "Results: Hypoxia-associated conditions were recurrently linked to CSC enrichment, self-renewal, epithelial-to-mesenchymal transition, tumorigenicity, metastatic potential, immune suppression, and therapeutic resistance. Four context-dependent patterns emerged: impaired natural killer, cytokine-induced killer, and CD8-positive T-cell function; myeloid- and macrophage-mediated reinforcement of CSC states through polarization, cytokine signaling, extracellular vesicles, cellular transfer, and stromal or vascular remodeling; checkpoint-associated and adaptive immune suppression involving PD-L1, CD47, regulatory T cells, and myeloid-derived suppressor cells; and an integrated hypoxic CSC-immune niche phenotype. Preclinical intervention studies indicated that selected pathways may be therapeutically modifiable, although the evidence remained predominantly experimental.",
+        "Conclusions: Hypoxia appears to act as a coordinating microenvironmental pressure linking CSC plasticity with immune dysfunction in selected tumor contexts. The proposed hypoxic CSC-immune niche is a mechanistic framework rather than evidence of a universal pathway and requires validation using spatially resolved human tumors, patient-derived immune models, and treatment-response-linked cohorts.",
+        "Systematic review registration: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261287704, identifier CRD420261287704."
+      ],
+      "journal": "Frontiers in immunology",
+      "date": "2026",
+      "authors": [
+        "Appiya Premvignesh P",
+        "Mohamed Hameed AS",
+        "Mustufa Topiwala I",
+        "Shaji MN",
+        "Alsaad L",
+        "Mohamed Abdelkhalek SM",
+        "Rahamathullah N",
+        "Chouaib S"
+      ],
+      "gmu_authors": [
+        "Prasanna Appiya Premvignesh",
+        "Safaa Mahmoud Mohamed Abdelkhalek",
+        "Nazeerullah Rahamathullah",
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "College of Medicine",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3389/fimmu.2026.1942424",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840142/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42835725",
+      "title": "Endocrine-metabolic modulators in sperm biotechnology: cross-species mechanisms and translational priorities",
+      "topic": "Reproductive health",
+      "abstract": [
+        "Endocrine-metabolic dysregulation is increasingly recognized as a determinant of male reproductive competence. Its implications for sperm biotechnology remain under-integrated. This review advances a systems framework in which insulin resistance (IR), adipokine imbalance, and vitamin D-calcium signaling converge on core sperm functional modules, i.e., membrane lipid architecture, mitochondrial efficiency, redox stability, and capacitation kinetics. Across species, metabolic strain is associated with oxidative vulnerability and altered substrate handling - amplifying damage during cooling, cryopreservation, and sorting. Adipokines emerge as biomarkers of energy-inflammatory state and as functional modulators within seminal plasma and at the sperm surface, with dose- and context-dependent effects on motility and survival. The vitamin D axis, through Ca2+-gated signaling, intersects with motility architecture and activation timing, suggesting compatibility constraints during selection and post-thaw use. By mapping endocrine inputs onto specific biotechnology \"pinch-points\", we propose an endotype-driven model for donor stratification and protocol customization. Stress-response phenotyping, function-rich endpoints beyond conventional motility, and standardized reporting of processing metadata are emphasized to enable cross-study comparability. Stratified trials, process-aware outcome measures, and reverse translation of functional assays between animal and human contexts are translational priorities. Current evidence supports further investigation of donor-stratified metabolic phenotyping as a potential approach to sperm processing, with the aim of reducing sublethal dysfunction and improving predictability of fertility under real-world assisted reproduction workflows. In veterinary reproduction, this framework is especially relevant to artificial insemination-center donor stratification, cryobank intake, chilled-semen transport, and quality control of frozen or sex-sorted semen doses."
+      ],
+      "journal": "Frontiers in veterinary science",
+      "date": "2026",
+      "authors": [
+        "Sengupta P",
+        "Dutta S",
+        "Alaee S",
+        "Mishra D",
+        "Panner Selvam MK",
+        "Maldonado Rosas I",
+        "Roychoudhury S"
+      ],
+      "gmu_authors": [
+        "Pallav Sengupta"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fvets.2026.1920393",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835725/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42828068",
+      "title": "Mechanism-aware and safety-validated AI for drug repurposing: a critical review and translational pharmacology framework",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Background: Artificial intelligence (AI)-assisted drug repurposing seeks to identify new therapeutic applications for existing drugs. Nevertheless, most of the existing studies are centered on prediction scores and candidate ranking, and there is still relatively little attention paid to the pharmacological mechanisms, safety and translational validation.",
+        "Objective: This critical review summarizes existing AI approaches to drug repurposing, identifies their mechanistic, safety, and translational barriers, and incorporates the emerging evidence gaps into a mechanism-driven and safety-proven translational pharmacology model.",
+        "Findings: The literature reviewed shows that machine learning, deep learning, network medicine, knowledge graphs, graph neural networks, and foundation models have the potential to significantly increase the number of candidates identified, but they have marked variations in terms of interpretability, biological support, safety integration, external validation, and clinical applicability. In all of these strategies, common shortcomings are inadequate mechanism validation, poor causal evidence, incomplete dose and safety evaluation, weak pharmacovigilance integration, and reliance on internal validation, and varying experimental or real-world confirmatory evidence. These persistent evidence gaps were incorporated into a sequence of steps that incorporates candidate predictions, mechanism mapping, determination of causal plausibility, safety and toxicity evaluation, pharmacovigilance, real-world validation, expert pharmacology review and evidence-based candidate prioritization.",
+        "Conclusion: AI-driven drug repurposing presents huge potential in the field of therapeutic innovation, but current applications require more clinical evidence and pharmacological mechanisms demonstrating safety, as well as clinical relevance. The proposed framework can support the more reliable prioritization of candidates for experimental testing, real world validation and future clinical testing."
+      ],
+      "journal": "Frontiers in pharmacology",
+      "date": "2026",
+      "authors": [
+        "Hazra M",
+        "Anandaram H"
+      ],
+      "gmu_authors": [
+        "Harishchander Anandaram"
+      ],
+      "colleges": [
+        "College of Nursing"
+      ],
+      "doi": "10.3389/fphar.2026.1915973",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828068/",
+      "first_seen": "2026-10-12"
     },
     {
       "pmid": "42814432",
@@ -2047,219 +2323,6 @@
       "first_seen": "2026-10-12"
     },
     {
-      "pmid": "42689187",
-      "title": "Evaluation of a microbial marine natural product as a potential proteasome inhibitor and its anti-cancer effects",
-      "topic": "Cancer research",
-      "abstract": [
-        "Finding natural products (NPs) targeting cancer is one promising approach to search for novel anticancer drugs. We aimed to develop a pipeline for screening and testing NPs for activity against the 20S proteasome β5 subunit, being a cancer drug target, using computational and functional approaches. Selected genera were included in the study to search for microbial NPs, and virtual screening was performed for 18 of the included genera/groups, in order to predict the binding of the NP to the β5 subunit of the 20S proteasome complex. Marinacarboline C was selected as a top candidate and further synthesized. First the SRB assay was conducted against five cancer cell lines, U937, MCF-7, Kasumi-1, HepG2, HCT-116 and a non-cancer cell line. The highest cytotoxic activity for marinacarboline C was observed against U937 cells with IC50 60.07 µg mL-1. Then a proteasome activity assay was performed after exposure of MCF-7 breast cancer cells to marinacarboline C, together with a positive control (MG-132). However, marinacarboline C was found to not significantly decrease the 20S proteasome activity of MCF-7 cells. Cblaster was used to find homologous biosynthetic gene clusters (BGCs) to that producing marinacarboline C, to expand future research and identify microbes possibly producing similar NPs. Our study offers a proof-of-concept pipeline for mining NPs for activity against novel targets and further validation is needed to bring forward more NPs. Our integrated approach paves the way to identify promising natural-product scaffolds for further optimization as potential anticancer agents."
-      ],
-      "journal": "RSC advances",
-      "date": "Sep 30, 2026",
-      "authors": [
-        "Sonousi A",
-        "Mohamed NG",
-        "AbdelRaheem O",
-        "Ibrahim O",
-        "Ziko L"
-      ],
-      "gmu_authors": [
-        "Amr Sonousi"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1039/d6ra04813g",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689187/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42866318",
-      "title": "Recent advances in targeted therapies and immunotherapies for triple-negative breast cancer",
-      "topic": "Cancer research",
-      "abstract": [
-        "This comprehensive review explores advancements in the treatment of Triple-Negative Breast Cancer (TNBC), emphasizing the transformative impact of targeted therapies and immunotherapies. Given TNBC's aggressive nature and limited therapeutic options, this review provides an in-depth analysis of emerging strategies that aim to enhance patient outcomes. Within targeted therapies, we discuss molecular subtypes and evaluate the efficacy of PARP inhibitors, EGFR inhibitors, and PI3K inhibitors, integrating insights from clinical trials. The immunotherapy landscape is examined through immune checkpoint inhibitors, Chimeric Antigen Receptor (CAR) T-cell therapy, and novel vaccine-based approaches. Combination strategies are assessed, focusing on clinical efficacy, safety, and resistance mechanisms. Additionally, we highlight emerging therapeutic innovations, including bispecific antibodies, advanced drug delivery systems, and personalized medicine approaches. Beyond treatment modalities, the review addresses key challenges such as therapy resistance, biomarker-driven treatment selection, and the integration of Artificial Intelligence in TNBC management. Future directions emphasize ongoing clinical trials and evolving therapeutic paradigms aimed at improving survival and quality of life for TNBC patients. As the field progresses, a multidisciplinary approach integrating precision oncology, innovative therapeutics, and patient-centered care will be critical. In conclusion, this review encapsulates current breakthroughs and envisions a future where targeted and immune-based interventions redefine TNBC treatment, offering new hope for patients and clinicians alike."
-      ],
-      "journal": "Frontiers in oncology",
-      "date": "2026",
-      "authors": [
-        "Rashid G",
-        "Elsori D",
-        "Naqvi Z",
-        "Zehra T",
-        "Selamoglu Z",
-        "Mr S",
-        "Abbas AM",
-        "Mohideen AP",
-        "Hafez W",
-        "Babker A"
-      ],
-      "gmu_authors": [
-        "Asaad Babker"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.3389/fonc.2026.1804620",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42866318/",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "pmid": "42856932",
-      "title": "Tooth surface loss associated with unshelled sunflower seed consumption: a scoping review",
-      "topic": "Dentistry and oral health",
-      "abstract": [
-        "Objectives: The consumption of unshelled sunflower seeds (USS) is a common, culturally embedded dietary habit in many parts of the world. However, the dental findings associated with this practice have not been comprehensively synthesised. This scoping review aimed to map the available evidence on the reported dental findings associated with USS consumption and to identify gaps in existing literature.",
-        "Materials and methods: Following the PRISMA Extension for Scoping Reviews (PRISMA-ScR) guidelines, a comprehensive search of PubMed, MEDLINE, Scopus, Embase, Web of Science, and Google Scholar was conducted for studies published from inception to August 2026. Eligibility was based on the Population, Concept, and Context(PCC) framework. English-language peer-reviewed cross-sectional studies, case series, case reports, and narrative reviews reporting dental findings associated with USS consumption were included and descriptively synthesized.",
-        "Results: Eight articles (two cross-sectional studies, three case reports, two case series, and one narrative review with a previously unpublished case) met the inclusion criteria. Tooth surface loss (TSL), presenting as characteristic incisal notching of the anterior teeth was the primary finding associated among the included studies. Infrequently reported findings included incisal fractures, dentinal hypersensitivity, gingival recession, widening of the periodontal ligament space, and localized inflammatory peri-implant disease associated with food impaction. Temporomandibular joint (TMJ) symptoms and masticatory muscle tenderness were reported only in a single case series.",
-        "Conclusion: USS consumption may be associated with TSL, commonly presenting as characteristic incisal notching of the anterior teeth. Reported periodontal and TMJ findings can be considered as exploratory observations. Although TSL has been reported in association with USS consumption, the current evidence is insufficient to establish a causal relationship. Further epidemiological and longitudinal studies are needed to clarify these associations and determine the prevalence, progression, and clinical significance of the reported oral findings."
-      ],
-      "journal": "Frontiers in oral health",
-      "date": "2026",
-      "authors": [
-        "Veerabhadrappa SK",
-        "Ramachandra SS",
-        "Yadav S",
-        "Adtani P",
-        "Porntaveetus T"
-      ],
-      "gmu_authors": [
-        "Pooja Adtani"
-      ],
-      "colleges": [
-        "College of Dentistry"
-      ],
-      "doi": "10.3389/froh.2026.1889799",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42856932/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42852021",
-      "title": "Prevalence of positive screens for depression, anxiety, and PTSD symptoms among parents of infants admitted to a NICU: a pilot study",
-      "topic": "Mental health",
-      "abstract": [
-        "Introduction: Parents of infants admitted to the Neonatal Intensive Care Unit (NICU) may experience substantial psychological distress. This study aimed to assess the prevalence of positive screens for depressive, anxiety, and post-traumatic stress disorder (PTSD) symptoms and to explore their associations with gender, education level, and parental age. The study also described the coping strategies reported by participants.",
-        "Methods: This cross-sectional pilot study assessed 82 parents of infants admitted to the NICU at Thumbay University Hospital, Ajman. Parents who were primary caregivers and provided consent were included. Data were collected from March to July 2025 using self-administered questionnaires; Patient Health Questionnaire-9 (PHQ-9), Generalized Anxiety Disorder-7 (GAD-7), and PTSD Checklist for DSM-5 (PCL-5). They were then grouped based on whether they met the positive or negative screen criteria for the respective psychiatric symptoms.",
-        "Results: Out of the 82 parents who had participated, 22% screened positive for anxiety symptoms, 13.4% for depression symptoms, and 9.8% for PTSD symptoms. Female participants had a higher proportion of positive screen for depressive symptoms than male participants (20.5% vs. 4.8% in men, p = 0.043), and younger participants (≤30 years) had a higher proportion of positive screens for PTSD symptoms than those aged >30 years (17.5% vs. 2.4%; Fisher's exact p = 0.027), although the small number of positive cases warrants cautious interpretation. No significant associations were found with education level. The most reported coping strategies were religious/spiritual (34.8%) and physical/behavioral (26.1%) methods.",
-        "Conclusion: A notable proportion of parents of infants admitted to the NICU in this UAE pilot cross-sectional study screened positive for symptoms of depression, anxiety, and PTSD, with female participants and younger participants showing higher proportions of positive screening for depressive and PTSD symptoms, respectively. These findings support consideration of mental health screening, promotion of a socially supportive environment, and culturally appropriate psychosocial support for parents of NICU-admitted infants."
-      ],
-      "journal": "Frontiers in psychiatry",
-      "date": "2026",
-      "authors": [
-        "Ahmadiazad A",
-        "Saif Mohammed Nasir Ali M",
-        "Ali HFA",
-        "Ibrahim TA",
-        "Abdalla AA",
-        "Elkhair ME",
-        "Sreejith A"
-      ],
-      "gmu_authors": [
-        "Adnan Ahmadiazad",
-        "Mohammed Saif Mohammed Nasir Ali",
-        "Hadeel Fathelrahman Ahmed Ali",
-        "Tahlil Abdalmahmoud Ibrahim",
-        "Ahmed Abdalla Abdalla",
-        "Anusha Sreejith"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.3389/fpsyt.2026.1934224",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852021/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42840142",
-      "title": "Hypoxic cancer stem cell-immune niches in the tumor microenvironment: a Systematic Review of mechanisms and therapeutic implications",
-      "topic": "Cancer research",
-      "abstract": [
-        "Background: Hypoxia, cancer stem cell (CSC) plasticity, and immune suppression are established features of the tumor microenvironment, but their integration within the same biological systems has not been comprehensively synthesized. This systematic review evaluated whether hypoxia or hypoxia-associated signaling coordinates CSC or stemness phenotypes with immune-related mechanisms.",
-        "Methods: PubMed, Embase, Scopus, Web of Science, and Google Scholar were searched for English-language studies published from 1 January 2010 to 31 January 2026. Eligible studies were required to evaluate hypoxia or hypoxia-associated signaling, CSC or stemness phenotypes, and immune-related outcomes within the same experimental or translational study. Of 1,569 records identified, 39 reports underwent full-text assessment and 14 studies were included.",
-        "Results: Hypoxia-associated conditions were recurrently linked to CSC enrichment, self-renewal, epithelial-to-mesenchymal transition, tumorigenicity, metastatic potential, immune suppression, and therapeutic resistance. Four context-dependent patterns emerged: impaired natural killer, cytokine-induced killer, and CD8-positive T-cell function; myeloid- and macrophage-mediated reinforcement of CSC states through polarization, cytokine signaling, extracellular vesicles, cellular transfer, and stromal or vascular remodeling; checkpoint-associated and adaptive immune suppression involving PD-L1, CD47, regulatory T cells, and myeloid-derived suppressor cells; and an integrated hypoxic CSC-immune niche phenotype. Preclinical intervention studies indicated that selected pathways may be therapeutically modifiable, although the evidence remained predominantly experimental.",
-        "Conclusions: Hypoxia appears to act as a coordinating microenvironmental pressure linking CSC plasticity with immune dysfunction in selected tumor contexts. The proposed hypoxic CSC-immune niche is a mechanistic framework rather than evidence of a universal pathway and requires validation using spatially resolved human tumors, patient-derived immune models, and treatment-response-linked cohorts.",
-        "Systematic review registration: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261287704, identifier CRD420261287704."
-      ],
-      "journal": "Frontiers in immunology",
-      "date": "2026",
-      "authors": [
-        "Appiya Premvignesh P",
-        "Mohamed Hameed AS",
-        "Mustufa Topiwala I",
-        "Shaji MN",
-        "Alsaad L",
-        "Mohamed Abdelkhalek SM",
-        "Rahamathullah N",
-        "Chouaib S"
-      ],
-      "gmu_authors": [
-        "Prasanna Appiya Premvignesh",
-        "Safaa Mahmoud Mohamed Abdelkhalek",
-        "Nazeerullah Rahamathullah",
-        "Salem Chouaib"
-      ],
-      "colleges": [
-        "College of Medicine",
-        "Thumbay Research Institute for Precision Medicine"
-      ],
-      "doi": "10.3389/fimmu.2026.1942424",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840142/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42835725",
-      "title": "Endocrine-metabolic modulators in sperm biotechnology: cross-species mechanisms and translational priorities",
-      "topic": "Reproductive health",
-      "abstract": [
-        "Endocrine-metabolic dysregulation is increasingly recognized as a determinant of male reproductive competence. Its implications for sperm biotechnology remain under-integrated. This review advances a systems framework in which insulin resistance (IR), adipokine imbalance, and vitamin D-calcium signaling converge on core sperm functional modules, i.e., membrane lipid architecture, mitochondrial efficiency, redox stability, and capacitation kinetics. Across species, metabolic strain is associated with oxidative vulnerability and altered substrate handling - amplifying damage during cooling, cryopreservation, and sorting. Adipokines emerge as biomarkers of energy-inflammatory state and as functional modulators within seminal plasma and at the sperm surface, with dose- and context-dependent effects on motility and survival. The vitamin D axis, through Ca2+-gated signaling, intersects with motility architecture and activation timing, suggesting compatibility constraints during selection and post-thaw use. By mapping endocrine inputs onto specific biotechnology \"pinch-points\", we propose an endotype-driven model for donor stratification and protocol customization. Stress-response phenotyping, function-rich endpoints beyond conventional motility, and standardized reporting of processing metadata are emphasized to enable cross-study comparability. Stratified trials, process-aware outcome measures, and reverse translation of functional assays between animal and human contexts are translational priorities. Current evidence supports further investigation of donor-stratified metabolic phenotyping as a potential approach to sperm processing, with the aim of reducing sublethal dysfunction and improving predictability of fertility under real-world assisted reproduction workflows. In veterinary reproduction, this framework is especially relevant to artificial insemination-center donor stratification, cryobank intake, chilled-semen transport, and quality control of frozen or sex-sorted semen doses."
-      ],
-      "journal": "Frontiers in veterinary science",
-      "date": "2026",
-      "authors": [
-        "Sengupta P",
-        "Dutta S",
-        "Alaee S",
-        "Mishra D",
-        "Panner Selvam MK",
-        "Maldonado Rosas I",
-        "Roychoudhury S"
-      ],
-      "gmu_authors": [
-        "Pallav Sengupta"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.3389/fvets.2026.1920393",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42835725/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42828068",
-      "title": "Mechanism-aware and safety-validated AI for drug repurposing: a critical review and translational pharmacology framework",
-      "topic": "Pharmacy and drug research",
-      "abstract": [
-        "Background: Artificial intelligence (AI)-assisted drug repurposing seeks to identify new therapeutic applications for existing drugs. Nevertheless, most of the existing studies are centered on prediction scores and candidate ranking, and there is still relatively little attention paid to the pharmacological mechanisms, safety and translational validation.",
-        "Objective: This critical review summarizes existing AI approaches to drug repurposing, identifies their mechanistic, safety, and translational barriers, and incorporates the emerging evidence gaps into a mechanism-driven and safety-proven translational pharmacology model.",
-        "Findings: The literature reviewed shows that machine learning, deep learning, network medicine, knowledge graphs, graph neural networks, and foundation models have the potential to significantly increase the number of candidates identified, but they have marked variations in terms of interpretability, biological support, safety integration, external validation, and clinical applicability. In all of these strategies, common shortcomings are inadequate mechanism validation, poor causal evidence, incomplete dose and safety evaluation, weak pharmacovigilance integration, and reliance on internal validation, and varying experimental or real-world confirmatory evidence. These persistent evidence gaps were incorporated into a sequence of steps that incorporates candidate predictions, mechanism mapping, determination of causal plausibility, safety and toxicity evaluation, pharmacovigilance, real-world validation, expert pharmacology review and evidence-based candidate prioritization.",
-        "Conclusion: AI-driven drug repurposing presents huge potential in the field of therapeutic innovation, but current applications require more clinical evidence and pharmacological mechanisms demonstrating safety, as well as clinical relevance. The proposed framework can support the more reliable prioritization of candidates for experimental testing, real world validation and future clinical testing."
-      ],
-      "journal": "Frontiers in pharmacology",
-      "date": "2026",
-      "authors": [
-        "Hazra M",
-        "Anandaram H"
-      ],
-      "gmu_authors": [
-        "Harishchander Anandaram"
-      ],
-      "colleges": [
-        "College of Nursing"
-      ],
-      "doi": "10.3389/fphar.2026.1915973",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42828068/",
-      "first_seen": "2026-10-12"
-    },
-    {
       "pmid": "42798116",
       "title": "Oncology nurse navigator core competencies and patient satisfaction: A cross-sectional correlational study at an Egyptian cancer center",
       "topic": "Cancer research",
@@ -2422,6 +2485,32 @@
       ],
       "doi": "10.1371/journal.pone.0358943",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42784603/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42689187",
+      "title": "Evaluation of a microbial marine natural product as a potential proteasome inhibitor and its anti-cancer effects",
+      "topic": "Cancer research",
+      "abstract": [
+        "Finding natural products (NPs) targeting cancer is one promising approach to search for novel anticancer drugs. We aimed to develop a pipeline for screening and testing NPs for activity against the 20S proteasome β5 subunit, being a cancer drug target, using computational and functional approaches. Selected genera were included in the study to search for microbial NPs, and virtual screening was performed for 18 of the included genera/groups, in order to predict the binding of the NP to the β5 subunit of the 20S proteasome complex. Marinacarboline C was selected as a top candidate and further synthesized. First the SRB assay was conducted against five cancer cell lines, U937, MCF-7, Kasumi-1, HepG2, HCT-116 and a non-cancer cell line. The highest cytotoxic activity for marinacarboline C was observed against U937 cells with IC50 60.07 µg mL-1. Then a proteasome activity assay was performed after exposure of MCF-7 breast cancer cells to marinacarboline C, together with a positive control (MG-132). However, marinacarboline C was found to not significantly decrease the 20S proteasome activity of MCF-7 cells. Cblaster was used to find homologous biosynthetic gene clusters (BGCs) to that producing marinacarboline C, to expand future research and identify microbes possibly producing similar NPs. Our study offers a proof-of-concept pipeline for mining NPs for activity against novel targets and further validation is needed to bring forward more NPs. Our integrated approach paves the way to identify promising natural-product scaffolds for further optimization as potential anticancer agents."
+      ],
+      "journal": "RSC advances",
+      "date": "Sep 30, 2026",
+      "authors": [
+        "Sonousi A",
+        "Mohamed NG",
+        "AbdelRaheem O",
+        "Ibrahim O",
+        "Ziko L"
+      ],
+      "gmu_authors": [
+        "Amr Sonousi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1039/d6ra04813g",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689187/",
       "first_seen": "2026-10-12"
     },
     {
