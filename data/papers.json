@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28 02:36 UTC",
+  "updated": "2026-10-29 02:40 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -289,6 +289,33 @@
       "doi": "10.1136/bmjophth-2025-002689",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42880817/",
       "first_seen": "2026-10-26"
+    },
+    {
+      "pmid": "42947872",
+      "title": "Prevalence, patterns, perceptions, and sociodemographic determinants of dietary supplement use among adults in the United Arab Emirates",
+      "topic": "Public health",
+      "abstract": [
+        "Background: Previous studies have documented dietary supplement use in the United Arab Emirates (UAE), but many have focused on specific populations, supplement categories, geographical settings, or particular contexts. Evidence integrating overall supplement use, patterns and experiences of use, perceptions, and associated sociodemographic and health-related factors among adult UAE residents remains limited. This study aimed to determine the prevalence and patterns of dietary supplement use, assess supplement-related perceptions, and identify factors associated with supplement use and perceptions among adults residing in the UAE.",
+        "Methods: A cross-sectional, questionnaire-based study was conducted among 600 adults aged ≥18 years residing in the UAE (58.8% male, 41.2% female). Participants were recruited using convenience sampling through an anonymous electronic survey distributed through university-linked networks, community groups, and public online platforms. A structured questionnaire assessed sociodemographic and health characteristics, dietary supplement use and related practices, and four perceptions regarding supplement necessity, safety, disease prevention, and promotion by healthcare professionals. Associations were examined using Pearson's chi-square test and binary logistic regression. Adjusted odds ratios (AORs) with 95% confidence intervals (CIs) were reported.",
+        "Results: Overall, 287 participants (47.8%) reported ever using dietary supplements; among them, 58.9% were current users. Vitamins (70.6%), minerals (57.8%), and protein supplements (47.4%) were the most commonly reported categories. Managing nutritional deficiencies (38.0%) and improving fitness (35.3%) were the leading reasons for use, while healthcare professionals were the most frequently reported source of recommendation (40.1%). In the adjusted analysis, undergraduate/postgraduate education (AOR 18.32, 95% CI 9.09-36.89; p < 0.001), female sex (AOR 3.13, 95% CI 1.76-5.58; p < 0.001), Expat Arab nationality compared with UAE nationality (AOR 4.58, 95% CI 2.14-9.82; p < 0.001), and chronic medical conditions (AOR 2.15, 95% CI 1.27-3.64; p = 0.004) were associated with higher odds of supplement use, whereas employment compared with student status was associated with lower odds (AOR 0.28, 95% CI 0.13-0.61; p = 0.001). Ever supplement use was the only factor consistently associated with all four favorable perception outcomes (all p < 0.001).",
+        "Conclusion: The findings highlight the need for evidence-based nutrition education and individualized professional guidance to support informed and appropriate use of dietary supplements. Incorporating supplement-use history into clinical assessment may help address inappropriate use, misconceptions, and potential supplement-drug interactions. Longitudinal and population-representative studies with documented geographic coverage across the UAE are needed to confirm these associations and clarify the relationship between supplement use and perceptions."
+      ],
+      "journal": "Frontiers in nutrition",
+      "date": "2026",
+      "authors": [
+        "Alkhayat A",
+        "Khan NS"
+      ],
+      "gmu_authors": [
+        "Ali Alkhayat",
+        "Nelofar Sami Khan"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fnut.2026.1955988",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947872/",
+      "first_seen": "2026-10-29"
     },
     {
       "pmid": "42872747",
@@ -899,37 +926,6 @@
       ],
       "doi": "10.1007/s13346-026-02082-0",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41817655/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "41576963",
-      "title": "Dual Regulation of Osteogenesis and Inflammation by Pomegranate (Punica granatum L.) Extract in Periodontal Ligament-Derived Stem Cells: Implications for Regenerative Medicine",
-      "topic": "Dentistry and oral health",
-      "abstract": [
-        "Objectives: This article aims to compare the osteogenic along with anti-inflammatory activity of different concentrations of pomegranate extract (PG) on human periodontal ligament-derived stem cells (hPDLSCs) in vitro.",
-        "Materials and methods: hPDLSCs were acquired from the root surface of removed molars, cultured, and then distinguished by flow cytometry analysis and several lineage differentiation potentials. To identify the effect of PG on hPDLSCs' viability, an MTT assay was performed. hPDLSCs were maintained in osteogenic induction medium with varying concentrations of PG. At the end of the induction period, osteogenesis was assessed using Alizarin Red staining, ALP assay, and qRT-PCR to determine the expression of OPG, RUNX2, Ki67, and TNF-α.",
-        "Statistical analysis: All experiments were conducted in triplicate, and data are presented as the mean ± standard deviation (SD). One-way ANOVA followed by Tukey's post hoc test was performed to assess statistical significance at a threshold of p < 0.05.",
-        "Results: The results of the MTT assay demonstrated that 100 mg/mL PG had significantly lower cell viability than the other concentrations. Statistical analysis of the ALP enzyme activity was mostly pronounced at 6.25 and 12.5 mg/mL concentrations, while it was least pronounced at 50 mg/mL. PCR revealed that the group treated with a 6.25-mg/mL concentration exhibited significantly elevated expression rates of RUNX2, OPG, and Ki67 in contrast with the control group. Conversely, the 50-mg/mL concentration group demonstrated the lowest expression levels. Regarding TNF-α, the 50-mg/mL concentration group showed the greatest expression levels compared with the control group and all other concentrations.",
-        "Conclusion: The data indicate that low concentrations of PG could enhance osteogenic differentiation and exert anti-inflammatory effects on hPDLSCs. These dual actions suggest that PG, at optimized doses, may serve as a promising natural agent for periodontal regeneration and bone tissue engineering. Future studies are warranted to evaluate its clinical potential in regenerative medicine."
-      ],
-      "journal": "European journal of dentistry",
-      "date": "Oct 2026",
-      "authors": [
-        "Baz S",
-        "Mahmoud H",
-        "Raafat SN",
-        "Kotb AAW",
-        "Kamalah J",
-        "Hafez M"
-      ],
-      "gmu_authors": [
-        "Joudy Kamalah"
-      ],
-      "colleges": [
-        "College of Dentistry"
-      ],
-      "doi": "10.1055/s-0045-1814461",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41576963/",
       "first_seen": "2026-10-12"
     },
     {
@@ -2866,6 +2862,37 @@
       ],
       "doi": "10.3389/fphar.2026.1745220",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41859341/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "41576963",
+      "title": "Dual Regulation of Osteogenesis and Inflammation by Pomegranate (Punica granatum L.) Extract in Periodontal Ligament-Derived Stem Cells: Implications for Regenerative Medicine",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Objectives: This article aims to compare the osteogenic along with anti-inflammatory activity of different concentrations of pomegranate extract (PG) on human periodontal ligament-derived stem cells (hPDLSCs) in vitro.",
+        "Materials and methods: hPDLSCs were acquired from the root surface of removed molars, cultured, and then distinguished by flow cytometry analysis and several lineage differentiation potentials. To identify the effect of PG on hPDLSCs' viability, an MTT assay was performed. hPDLSCs were maintained in osteogenic induction medium with varying concentrations of PG. At the end of the induction period, osteogenesis was assessed using Alizarin Red staining, ALP assay, and qRT-PCR to determine the expression of OPG, RUNX2, Ki67, and TNF-α.",
+        "Statistical analysis: All experiments were conducted in triplicate, and data are presented as the mean ± standard deviation (SD). One-way ANOVA followed by Tukey's post hoc test was performed to assess statistical significance at a threshold of p < 0.05.",
+        "Results: The results of the MTT assay demonstrated that 100 mg/mL PG had significantly lower cell viability than the other concentrations. Statistical analysis of the ALP enzyme activity was mostly pronounced at 6.25 and 12.5 mg/mL concentrations, while it was least pronounced at 50 mg/mL. PCR revealed that the group treated with a 6.25-mg/mL concentration exhibited significantly elevated expression rates of RUNX2, OPG, and Ki67 in contrast with the control group. Conversely, the 50-mg/mL concentration group demonstrated the lowest expression levels. Regarding TNF-α, the 50-mg/mL concentration group showed the greatest expression levels compared with the control group and all other concentrations.",
+        "Conclusion: The data indicate that low concentrations of PG could enhance osteogenic differentiation and exert anti-inflammatory effects on hPDLSCs. These dual actions suggest that PG, at optimized doses, may serve as a promising natural agent for periodontal regeneration and bone tissue engineering. Future studies are warranted to evaluate its clinical potential in regenerative medicine."
+      ],
+      "journal": "European journal of dentistry",
+      "date": "Oct 2026",
+      "authors": [
+        "Baz S",
+        "Mahmoud H",
+        "Raafat SN",
+        "Kotb AAW",
+        "Kamalah J",
+        "Hafez M"
+      ],
+      "gmu_authors": [
+        "Joudy Kamalah"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.1055/s-0045-1814461",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41576963/",
       "first_seen": "2026-10-12"
     },
     {
