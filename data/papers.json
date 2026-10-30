@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 02:40 UTC",
+  "updated": "2026-10-30 02:39 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -208,6 +208,41 @@
       "first_seen": "2026-10-28"
     },
     {
+      "pmid": "42953391",
+      "title": "Clinicopathological Profile, Treatment Patterns and Documented Clinical Outcomes of Women with Breast Cancer at Shendi Hospital, Sudan: A Retrospective, Single-Center, Hospital-Based Cross-Sectional Study",
+      "topic": "Cancer research",
+      "abstract": [
+        "Background: Breast cancer is the most common cancer in Sudan, yet hospital-based data from outside Khartoum are scarce. We described the clinicopathological profile, treatment and documented outcomes of women with breast cancer at Shendi Hospital and explored factors associated with recurrence, distant metastasis and global well-being.",
+        "Methods: In this retrospective, single-center, cross-sectional review, we abstracted records of 100 women with histologically confirmed invasive breast cancer managed in 2021-2025. Distant metastasis was defined as documented extranodal disease, and global well-being as a single good/fair/poor rating recorded in clinical notes. Associations were examined with exact tests and three pre-specified Firth penalized logistic regression models (four covariates each) with bootstrap validation; all inferential analyses were exploratory.",
+        "Results: Median age was 50 years (IQR 44-55). Stage III/IV disease was recorded in 72%, tumors >2 cm in 97% and nodal involvement in 73%. Receptor status was undocumented in 69%; all 31 documented results were hormone-receptor-negative (18 triple-negative, 13 HER2-positive), yet 16 of these women had recorded hormonal therapy. Mastectomy was performed in 65%; chemotherapy, radiotherapy and hormonal therapy were recorded in 99%, 48% and 45%. Recurrence was documented in 19/98 women (19%) and extranodal metastasis in 30/93 (32%); no deaths were recorded and follow-up duration was unknown. Tumors >5 cm were associated with recurrence (adjusted odds ratio 3.81, 95% CI 1.28-11.61), and extranodal metastasis with a fair well-being rating (5.64, 2.01-17.20); nodal status, economic status and age were not associated with any outcome after adjustment. Recorded treatment co-occurred with recurrence, but treatment timing was undocumented, precluding causal interpretation.",
+        "Conclusion: Women at this center presented with advanced disease, and receptor documentation was largely absent and internally inconsistent. These exploratory associations need confirmation in prospective studies with complete receptor testing, dated treatment records and active follow-up."
+      ],
+      "journal": "Breast cancer (Dove Medical Press)",
+      "date": "2026",
+      "authors": [
+        "Ali EI",
+        "Abusail Mustafa S",
+        "Elzein HO",
+        "Andarawi MO",
+        "Zaroog MS",
+        "Abass AE",
+        "Attaelmanan GA",
+        "Yasin FMO",
+        "Alfeel AH",
+        "Ismail M"
+      ],
+      "gmu_authors": [
+        "Ayman Hussein Alfeel",
+        "Marwan Ismail"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.2147/BCTT.S650507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953391/",
+      "first_seen": "2026-10-30"
+    },
+    {
       "pmid": "42921916",
       "title": "Targeting the gut-brain axis with Bifidobacterium breve in neurodegeneration: A comprehensive narrative review of current evidence in Alzheimer's disease and cognitive aging",
       "topic": "Brain and nervous system",
@@ -289,6 +324,34 @@
       "doi": "10.1136/bmjophth-2025-002689",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42880817/",
       "first_seen": "2026-10-26"
+    },
+    {
+      "pmid": "42952724",
+      "title": "Efficacy of a single-file reciprocating protocol vs. a multi-file rotary protocol on the removal of gutta-percha and ceraSeal sealer from oval canals: a volumetric and active instrumentation time analysis",
+      "topic": "Public health",
+      "abstract": [
+        "Objective: To evaluate and compare the overall efficacy and time efficiency of two complete manufacturer-recommended retreatment protocols, a single-file reciprocating protocol, Reciproc (RC), vs. a multi-file continuous rotary protocol, ProTaper Universal Retreatment (PR), in removing gutta-percha and CeraSeal sealer from oval-shaped root canals.",
+        "Methodology: Thirty-six single-rooted human mandibular premolars with single oval canals were selected, instrumented, and obturated with a matching cone gutta-percha and CeraSeal sealer. Initial filling volumes were evaluated via CBCT. The samples were randomly divided into two experimental groups (n = 18) according to the file used for retreatment. The net active instrumentation time was recorded. Post-retreatment CBCT scans were performed to measure the volume and percentage of remaining filling materials. Data were statistically analyzed at a significance level of p ≤ 0.05.",
+        "Results: Both systems significantly reduced the filling volume (p < 0.0001). No significant difference was found in the initial filling volumes between groups (p = 0.616). However, the RC group demonstrated a significantly lower mean volume (0.474 ± 0.313 mm3) and percentage (5.52 ± 1.97%) of remaining filling material compared to the PR group (1.735 ± 0.753 mm3 and 20.72 ± 2.93%, respectively; p < 0.0001). Furthermore, the RC group required significantly less active instrumentation time (48.69 ± 4.98 s) than the PR group (68.49 ± 5.43 s, p < 0.0001).",
+        "Conclusion: Within the limitations of this in vitro study, neither mechanical retreatment protocol completely removed CeraSeal sealer and gutta-percha from oval root canals. However, the single-file RC protocol was significantly more effective and time-efficient than the multi-file PR protocol. The superior performance of the RC protocol reflects the combined effect of its matched apical size (size 40 vs. size 20), single-file sequence, cross-sectional design, and reciprocating kinematics, rather than kinematic motion alone."
+      ],
+      "journal": "Frontiers in dental medicine",
+      "date": "2026",
+      "authors": [
+        "Zorek A",
+        "Mahran AH",
+        "Nabeel M",
+        "Elsewify T"
+      ],
+      "gmu_authors": [
+        "Tarek Elsewify"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fdmed.2026.1926115",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952724/",
+      "first_seen": "2026-10-30"
     },
     {
       "pmid": "42947872",
@@ -859,73 +922,6 @@
       ],
       "doi": "10.1055/s-0046-1819725",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42057369/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "41902510",
-      "title": "Assessing job satisfaction among academic radiographers in the UAE: Balancing clinical and educational responsibilities",
-      "topic": "Public health",
-      "abstract": [
-        "BackgroundJob satisfaction among academic radiographers affects patient care quality, staff retention, and institutional success. In the UAE, these professionals face challenges such as high workloads, occupational risks, and the need to balance dual clinical and academic responsibilities.ObjectiveTo identify key demographic and professional factors influencing job satisfaction among academic radiographers in the UAE.MethodsA cross-sectional survey was conducted among 40 academic radiographers using an online questionnaire. The survey collected data on demographics, motivation, career progression, and workplace benefits. Categorical data were analyzed using Chi-square and Monte Carlo tests. Quantitative data were assessed using the Shapiro-Wilk test.ResultsGender and education level significantly influenced job satisfaction. Female participants reported higher satisfaction with salary, workload, and workplace respect than males. PhD holders experienced greater decision-making autonomy and workplace harmony compared to BSc holders. Respondents in private academic institutions received more skill-based rewards. Those in private hospitals reported better recognition and work environments.ConclusionsTo enhance job satisfaction, institutions should adopt gender-sensitive policies, ensure equitable promotions, and effectively manage workloads. Increased autonomy and recognition, especially for PhD holders, can lower stress and boost productivity. These actions can strengthen staff retention and enhance both healthcare and educational outcomes in the UAE."
-      ],
-      "journal": "Work (Reading, Mass.)",
-      "date": "Oct 2026",
-      "authors": [
-        "Rawashdeh M",
-        "El-Sayed MZ",
-        "Almbaid R",
-        "Bulooshi AA",
-        "Shetty N",
-        "Alawdhi E",
-        "Khalaf A",
-        "Ali MA"
-      ],
-      "gmu_authors": [
-        "Mohammad Rawashdeh",
-        "Rama Almbaid",
-        "Abeer Al Bulooshi",
-        "Nikhitha Shetty",
-        "Magdi A Ali"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.1177/10519815261435565",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41902510/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "41817655",
-      "title": "Advancement in therapeutic application of quantum dots in amyotrophic lateral sclerosis: current opportunities and challenges",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Despite advancements in healthcare settings in developed countries, the early detection and higher mortality rate associated with amyotrophic lateral sclerosis (ALS), a fatal motor neuronal disorder, remain challenging. Recently, quantum dots (QDs) have emerged as a promising nanocarrier in the prognosis and treatment of ALS owing to their unique multifunctional properties. QDs, through their photoluminescence properties upon excitation, can facilitate the identification and real-time monitoring of disease biomarkers. They also act as a nanocarrier for the targeted delivery of therapeutics, avoiding accumulation at the non-targeted sites and minimising toxicity. QDs can be fabricated to conjugate with protein biomarkers linked to ALS, such as specific proteins, nucleic acids, or genetic variants, for the diagnosis of the disease. Such fabrication could lead to enhanced identification and diagnostic patterns of ALS, thereby contributing to improved therapeutic intervention strategies. Furthermore, these tiny structures could be applied in combined biosensor formats to identify ALS-associated biomarkers in body fluids, which would be a highly sensitive diagnostic system. Subsequently, comprehensive multiomics techniques have demonstrated improved identification of newer protein targets associated with neurological complications. Overall, QDs can be explored as a potential tool to identify biomarkers relevant to ALS, diagnose the disease at its early stages, and track the effectiveness of the treatment. The integration of QD with omic-based strategies and network analysis can potentially catalyse a breakthrough in the management of ALS. Therefore, this review aims to explore the application of QDs in ALS diagnosis and management, advancements in research, clinical trials, and patents."
-      ],
-      "journal": "Drug delivery and translational research",
-      "date": "Oct 2026",
-      "authors": [
-        "Bakshi V",
-        "Pathak B",
-        "Majie A",
-        "Ghosh A",
-        "Gupta A",
-        "Jain N",
-        "Pandey M",
-        "Nair AB",
-        "Jacob S",
-        "Mazumder PM",
-        "Sharma N",
-        "Kumari N",
-        "Gorain B"
-      ],
-      "gmu_authors": [
-        "Shery Jacob"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1007/s13346-026-02082-0",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41817655/",
       "first_seen": "2026-10-12"
     },
     {
@@ -2792,6 +2788,39 @@
       "first_seen": "2026-10-12"
     },
     {
+      "pmid": "41902510",
+      "title": "Assessing job satisfaction among academic radiographers in the UAE: Balancing clinical and educational responsibilities",
+      "topic": "Public health",
+      "abstract": [
+        "BackgroundJob satisfaction among academic radiographers affects patient care quality, staff retention, and institutional success. In the UAE, these professionals face challenges such as high workloads, occupational risks, and the need to balance dual clinical and academic responsibilities.ObjectiveTo identify key demographic and professional factors influencing job satisfaction among academic radiographers in the UAE.MethodsA cross-sectional survey was conducted among 40 academic radiographers using an online questionnaire. The survey collected data on demographics, motivation, career progression, and workplace benefits. Categorical data were analyzed using Chi-square and Monte Carlo tests. Quantitative data were assessed using the Shapiro-Wilk test.ResultsGender and education level significantly influenced job satisfaction. Female participants reported higher satisfaction with salary, workload, and workplace respect than males. PhD holders experienced greater decision-making autonomy and workplace harmony compared to BSc holders. Respondents in private academic institutions received more skill-based rewards. Those in private hospitals reported better recognition and work environments.ConclusionsTo enhance job satisfaction, institutions should adopt gender-sensitive policies, ensure equitable promotions, and effectively manage workloads. Increased autonomy and recognition, especially for PhD holders, can lower stress and boost productivity. These actions can strengthen staff retention and enhance both healthcare and educational outcomes in the UAE."
+      ],
+      "journal": "Work (Reading, Mass.)",
+      "date": "Oct 2026",
+      "authors": [
+        "Rawashdeh M",
+        "El-Sayed MZ",
+        "Almbaid R",
+        "Bulooshi AA",
+        "Shetty N",
+        "Alawdhi E",
+        "Khalaf A",
+        "Ali MA"
+      ],
+      "gmu_authors": [
+        "Mohammad Rawashdeh",
+        "Rama Almbaid",
+        "Abeer Al Bulooshi",
+        "Nikhitha Shetty",
+        "Magdi A Ali"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.1177/10519815261435565",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41902510/",
+      "first_seen": "2026-10-12"
+    },
+    {
       "pmid": "41884789",
       "title": "Short-term surgical outcomes for patients with non-functional pancreatic neuroendocrine tumors are unaffected by chronological age",
       "topic": "Surgery and anaesthesia",
@@ -2862,6 +2891,40 @@
       ],
       "doi": "10.3389/fphar.2026.1745220",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41859341/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "41817655",
+      "title": "Advancement in therapeutic application of quantum dots in amyotrophic lateral sclerosis: current opportunities and challenges",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Despite advancements in healthcare settings in developed countries, the early detection and higher mortality rate associated with amyotrophic lateral sclerosis (ALS), a fatal motor neuronal disorder, remain challenging. Recently, quantum dots (QDs) have emerged as a promising nanocarrier in the prognosis and treatment of ALS owing to their unique multifunctional properties. QDs, through their photoluminescence properties upon excitation, can facilitate the identification and real-time monitoring of disease biomarkers. They also act as a nanocarrier for the targeted delivery of therapeutics, avoiding accumulation at the non-targeted sites and minimising toxicity. QDs can be fabricated to conjugate with protein biomarkers linked to ALS, such as specific proteins, nucleic acids, or genetic variants, for the diagnosis of the disease. Such fabrication could lead to enhanced identification and diagnostic patterns of ALS, thereby contributing to improved therapeutic intervention strategies. Furthermore, these tiny structures could be applied in combined biosensor formats to identify ALS-associated biomarkers in body fluids, which would be a highly sensitive diagnostic system. Subsequently, comprehensive multiomics techniques have demonstrated improved identification of newer protein targets associated with neurological complications. Overall, QDs can be explored as a potential tool to identify biomarkers relevant to ALS, diagnose the disease at its early stages, and track the effectiveness of the treatment. The integration of QD with omic-based strategies and network analysis can potentially catalyse a breakthrough in the management of ALS. Therefore, this review aims to explore the application of QDs in ALS diagnosis and management, advancements in research, clinical trials, and patents."
+      ],
+      "journal": "Drug delivery and translational research",
+      "date": "Oct 2026",
+      "authors": [
+        "Bakshi V",
+        "Pathak B",
+        "Majie A",
+        "Ghosh A",
+        "Gupta A",
+        "Jain N",
+        "Pandey M",
+        "Nair AB",
+        "Jacob S",
+        "Mazumder PM",
+        "Sharma N",
+        "Kumari N",
+        "Gorain B"
+      ],
+      "gmu_authors": [
+        "Shery Jacob"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1007/s13346-026-02082-0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41817655/",
       "first_seen": "2026-10-12"
     },
     {
