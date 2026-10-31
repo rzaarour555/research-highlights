@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30 02:39 UTC",
+  "updated": "2026-10-31 02:39 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -266,6 +266,40 @@
       "doi": "10.1177/13872877261496277",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42921916/",
       "first_seen": "2026-10-26"
+    },
+    {
+      "pmid": "42958285",
+      "title": "Development of an evidence-informed doctoral curriculum framework in physical therapy sciences: an international benchmarking and expert validation study",
+      "topic": "Medical education",
+      "abstract": [
+        "Background: The expanding scope of Physical Therapy research, coupled with rapid advances in digital health, artificial intelligence, implementation science, and evidence-based rehabilitation, has increased the demand for doctoral graduates with advanced research, leadership, and interdisciplinary competencies. Despite this evolution, published guidance describing systematic and evidence-informed approaches to developing doctoral curricula in Physical Therapy Sciences remains limited. This study aimed to develop and externally validate an evidence-informed doctoral curriculum framework through systematic needs assessment, international benchmarking, competency mapping, and constructive alignment.",
+        "Methods: A multiphase evidence-informed curriculum development methodology was employed. The study comprised seven sequential phases: (1) needs assessment and environmental analysis; (2) international benchmarking; (3) comparative curriculum analysis; (4) competency mapping ; (5) Curriculum framework development; (6) Curriculum refinement and quality assurance; and (7) external expert content validation. Twenty-four doctoral programmes from research-intensive universities in the United Kingdom, United States, Canada, and Australia were screened, of which eighteen met the predefined inclusion criteria for benchmarking. The proposed curriculum was subsequently evaluated by an international panel of twelve experts using a structured validation instrument, and content validity was assessed using item-level and scale-level Content Validity Indices.",
+        "Results: Benchmarking demonstrated substantial consistency across international doctoral programmes in advanced research methodology, biostatistics, research ethics, scientific writing, proposal development, and independent dissertation research. Comparative analysis further identified increasing emphasis on digital health, artificial intelligence, implementation science, interdisciplinary collaboration, research leadership, and knowledge translation as emerging doctoral competencies. These findings informed the development of a competency-based doctoral curriculum aligned with internationally recognised educational frameworks. External expert validation demonstrated high perceived relevance, competency alignment, curriculum structure, content appropriateness, and implementation feasibility of the proposed framework, with domain-specific agreement ranging from 92% to 100%. Minor recommendations related to curriculum sequencing and emerging digital competencies were incorporated without altering the overall doctoral curriculum framework.",
+        "Conclusions: This study presents an evidence-informed and high perceived relevance, alignment, and feasibility among an international expert panel that aligns Physical Therapy Sciences education with contemporary international educational standards and evolving rehabilitation research priorities. The proposed framework offers a transparent methodology for curriculum development that integrates systematic benchmarking, competency mapping, and expert validation, providing a practical model to inform the development or revision of doctoral programmes in Physical Therapy and related health professions. Future implementation studies are warranted to evaluate its educational effectiveness across diverse institutional settings."
+      ],
+      "journal": "BMC medical education",
+      "date": "Oct 19, 2026",
+      "authors": [
+        "Hazari A",
+        "Kandakurti PK",
+        "Amaravadi SK",
+        "Agouris I",
+        "Jaiswal VC",
+        "Venkatramana M"
+      ],
+      "gmu_authors": [
+        "Animesh Hazari",
+        "Praveen Kumar Kandakurti",
+        "Varoon C Jaiswal",
+        "Manda Venkatramana"
+      ],
+      "colleges": [
+        "College of Health Sciences",
+        "College of Medicine"
+      ],
+      "doi": "10.1186/s12909-026-10581-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958285/",
+      "first_seen": "2026-10-31"
     },
     {
       "pmid": "42942844",
@@ -896,32 +930,6 @@
       ],
       "doi": "10.1016/j.jjcc.2026.06.004",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42269861/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42057369",
-      "title": "Circular RNAs in Oral Squamous Cell Carcinoma: A Systematic Review of Emerging Diagnostic and Prognostic Biomarkers",
-      "topic": "Cancer research",
-      "abstract": [
-        "Oral squamous cell carcinoma (OSCC) remains a major global health burden, with poor survival rates due to late diagnosis and limited prognostic precision. Circular RNAs (circRNAs) are a novel class of non-coding RNAs characterized by their covalently closed loop structure, conferring stability and tissue specificity. Recent evidence suggests circRNAs hold promise as diagnostic and prognostic biomarkers in OSCC. This article aims to systematically evaluate the diagnostic accuracy, prognostic value, and expression profiles of circRNAs in OSCC. We searched PubMed, Scopus, EBSCO, and Google Scholar databases (inception-August 2025) for studies assessing circRNAs in OSCC. Eligible studies reported diagnostic metrics (sensitivity, specificity, and AUC), prognostic outcomes (hazard ratios [HRs]), or differential expression data. Risk of bias was assessed using QUADAS-2 and NOS. Data were synthesized qualitatively. A total of 29 studies were included. Tissue-based circRNAs showed moderate diagnostic performance (AUC: 0.74-0.81), while saliva- and plasma-derived circRNAs demonstrated higher accuracy (AUC up to 0.922). Prognostic studies revealed oncogenic circRNAs were associated with poor overall survival (pooled OS HR ≈ 2.38), whereas tumor-suppressor circRNAs predicted favorable outcomes (pooled OS HR ≈ 0.43). Exosomal circRNAs, particularly circ-0000199, emerged as independent predictors of recurrence and mortality. CircRNAs exhibit strong potential as diagnostic and prognostic biomarkers in OSCC, particularly in liquid biopsy applications. However, heterogeneity, small sample sizes, and lack of multicenter validation limit immediate clinical translation. Larger, standardized studies are warranted to confirm their utility."
-      ],
-      "journal": "European journal of dentistry",
-      "date": "Oct 2026",
-      "authors": [
-        "Abdul Qader OAJ",
-        "Uthman A",
-        "Elsayed W",
-        "Al-Rawi N"
-      ],
-      "gmu_authors": [
-        "Asmaa Uthman",
-        "Walid Elsayed"
-      ],
-      "colleges": [
-        "College of Dentistry"
-      ],
-      "doi": "10.1055/s-0046-1819725",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42057369/",
       "first_seen": "2026-10-12"
     },
     {
@@ -2709,6 +2717,32 @@
       ],
       "doi": "10.3389/fimmu.2026.1798481",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42064067/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42057369",
+      "title": "Circular RNAs in Oral Squamous Cell Carcinoma: A Systematic Review of Emerging Diagnostic and Prognostic Biomarkers",
+      "topic": "Cancer research",
+      "abstract": [
+        "Oral squamous cell carcinoma (OSCC) remains a major global health burden, with poor survival rates due to late diagnosis and limited prognostic precision. Circular RNAs (circRNAs) are a novel class of non-coding RNAs characterized by their covalently closed loop structure, conferring stability and tissue specificity. Recent evidence suggests circRNAs hold promise as diagnostic and prognostic biomarkers in OSCC. This article aims to systematically evaluate the diagnostic accuracy, prognostic value, and expression profiles of circRNAs in OSCC. We searched PubMed, Scopus, EBSCO, and Google Scholar databases (inception-August 2025) for studies assessing circRNAs in OSCC. Eligible studies reported diagnostic metrics (sensitivity, specificity, and AUC), prognostic outcomes (hazard ratios [HRs]), or differential expression data. Risk of bias was assessed using QUADAS-2 and NOS. Data were synthesized qualitatively. A total of 29 studies were included. Tissue-based circRNAs showed moderate diagnostic performance (AUC: 0.74-0.81), while saliva- and plasma-derived circRNAs demonstrated higher accuracy (AUC up to 0.922). Prognostic studies revealed oncogenic circRNAs were associated with poor overall survival (pooled OS HR ≈ 2.38), whereas tumor-suppressor circRNAs predicted favorable outcomes (pooled OS HR ≈ 0.43). Exosomal circRNAs, particularly circ-0000199, emerged as independent predictors of recurrence and mortality. CircRNAs exhibit strong potential as diagnostic and prognostic biomarkers in OSCC, particularly in liquid biopsy applications. However, heterogeneity, small sample sizes, and lack of multicenter validation limit immediate clinical translation. Larger, standardized studies are warranted to confirm their utility."
+      ],
+      "journal": "European journal of dentistry",
+      "date": "Oct 2026",
+      "authors": [
+        "Abdul Qader OAJ",
+        "Uthman A",
+        "Elsayed W",
+        "Al-Rawi N"
+      ],
+      "gmu_authors": [
+        "Asmaa Uthman",
+        "Walid Elsayed"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.1055/s-0046-1819725",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42057369/",
       "first_seen": "2026-10-12"
     },
     {
