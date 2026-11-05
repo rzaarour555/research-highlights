@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31 02:39 UTC",
+  "updated": "2026-11-05 02:47 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -123,6 +123,46 @@
       "doi": "10.1227/neuprac.0000000000000293",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42910382/",
       "first_seen": "2026-10-24"
+    },
+    {
+      "pmid": "42976684",
+      "title": "Significant knowledge gaps in pediatric contrast media administration: Exploratory insights from radiographers",
+      "topic": "Public health",
+      "abstract": [
+        "Purpose: This study assessed radiographers' knowledge of iodinated contrast media (ICM) use in pediatric computed tomography (CT). Pediatric patients require customized contrast administration due to distinct anatomical and physiological traits. Optimizing ICM use is key to ensuring diagnostic accuracy, patient safety, and efficient resource use.",
+        "Approach: A cross-sectional online survey using a convenience/snowball sampling approach was administered to 103 CT radiographers at international healthcare institutions. The questionnaire gathered data on demographics, education, clinical experience, ICM training, and knowledge of pediatric-specific contrast practices. Knowledge scores were divided into five performance levels. Descriptive and comparative analyses were used to identify trends and gaps.",
+        "Results: Most participants (75.7%) scored below 60%. None achieved an \"Excellent\" score, and only 1.9% scored \"Very Good\". Major gaps included weight-based dosing, injection-rate selection, extravasation response, and power-injector safety. Despite this, 93.2% felt confident modifying protocols. Knowledge scores were significantly associated with years of professional experience (p = 0.017), modification of pediatric CT contrast protocols according to patient weight (p = 0.012), and self-reported confidence in modifying contrast media delivery (p = 0.012).",
+        "Conclusion: This study identified important gaps in radiographers' knowledge of pediatric contrast media administration despite high self-reported confidence. These findings highlight the need to strengthen pediatric-specific knowledge and support safer, more consistent contrast administration practices. practices.",
+        "Plain language summary: Contrast dye is often used during CT scans in children to improve image quality, but children need doses and injection methods that are carefully adjusted for their size and needs. This study surveyed CT radiographers about their knowledge of contrast dye use in children and the practices they use in clinical care. This study found that many radiographers lacked knowledge in important safety and dosing areas, even though most felt confident about making changes to contrast protocols. This matters because better training can help improve safety and ensure children receive the right amount of contrast dye for their scans."
+      ],
+      "journal": "Journal of medical imaging and radiation sciences",
+      "date": "Nov 03, 2026",
+      "authors": [
+        "Rawashdeh M",
+        "Bouhssine Z",
+        "Muneer S",
+        "Ali RM",
+        "Kashabash D",
+        "Ali SI",
+        "Saade C",
+        "El-Sayed MZ",
+        "Ali MA"
+      ],
+      "gmu_authors": [
+        "Mohammad Rawashdeh",
+        "Zakaria Bouhssine",
+        "Sumayya Muneer",
+        "Reem Mohamed Ali",
+        "Daniah Kashabash",
+        "Shima Ibrahim Ali",
+        "Magdi A Ali"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.1016/j.jmir.2026.102612",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42976684/",
+      "first_seen": "2026-11-05"
     },
     {
       "pmid": "41467884",
@@ -896,40 +936,6 @@
       ],
       "doi": "10.1016/j.jjcc.2026.06.009",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42303223/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42269861",
-      "title": "Does early catheter ablation (<1 year) reduce atrial fibrillation recurrence compared with delayed ablation: A systematic review and meta-analysis",
-      "topic": "Heart and circulation",
-      "abstract": [
-        "Background: Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide. Catheter ablation (CA) is an effective therapy for symptomatic AF. Emerging evidence indicates that early CA may attenuate disease progression and reduce major adverse cardiovascular and cerebrovascular events (MACCE). There is a lack of high-quality pooled data comparing clinical outcomes of early versus delayed CA using a standardized diagnosis-to-ablation time. This meta-analysis evaluates whether early CA (<12 months) versus delayed CA (>12 months) after AF diagnosis is linked to differences in clinical outcomes, including AF/atrial arrhythmia recurrence, mortality, AF-related hospitalization, and MACCE.",
-        "Methods: A systematic literature search of PubMed, EMBASE, Scopus and the Cochrane Central Register of Controlled Trials and observational cohort studies until December 1, 2025, was conducted. The primary outcome was AF recurrence.",
-        "Results: A total of 10 studies including 22,748 patients were analyzed. For the primary outcome, early CA (<12 months) was associated with a significantly lower risk of AF recurrence compared with delayed ablation (>12 months) (RR 0.69; 95% CI, 0.54-0.88; p = 0.007, I2 = 92). Subgroup analyses suggested a consistent benefit in persistent AF populations. For secondary outcomes, early ablation was associated with a reduced risk of AF-related hospitalization (RR 0.58; 95% CI 0.39-0.86; p = 0.04; I2 = 0%) and repeat electrical cardioversion (RR 0.66; 95% CI 0.48-0.91; p = 0.03; I2 = 34%). No significant differences were observed for all-cause mortality, repeat ablation, MACCE, cardiovascular hospitalization, antiarrhythmic drug use, stroke/transient ischemic attack, or all-cause hospitalization.",
-        "Conclusion: Early CA (<12 months) was associated with significantly lower rates of AF recurrence, electrical cardioversion, and AF-related hospitalizations compared with delayed CA (>12 months). Future randomized controlled trials are needed to evaluate potential long-term benefits and to identify patient subgroups most likely to benefit from early CA."
-      ],
-      "journal": "Journal of cardiology",
-      "date": "Oct 2026",
-      "authors": [
-        "Bradach D",
-        "Ajith S",
-        "Sheik T",
-        "Qadri SA",
-        "Ugbodaga C",
-        "Alshammari F",
-        "Vanderpuye AF",
-        "Tahir M",
-        "Ramakrishnan SV",
-        "Omaruddin L"
-      ],
-      "gmu_authors": [
-        "Thuslim Sheik"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1016/j.jjcc.2026.06.004",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42269861/",
       "first_seen": "2026-10-12"
     },
     {
@@ -2567,6 +2573,40 @@
       ],
       "doi": "10.3390/curroncol33070405",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42505207/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42269861",
+      "title": "Does early catheter ablation (<1 year) reduce atrial fibrillation recurrence compared with delayed ablation: A systematic review and meta-analysis",
+      "topic": "Heart and circulation",
+      "abstract": [
+        "Background: Atrial fibrillation (AF) is the most common cardiac arrhythmia worldwide. Catheter ablation (CA) is an effective therapy for symptomatic AF. Emerging evidence indicates that early CA may attenuate disease progression and reduce major adverse cardiovascular and cerebrovascular events (MACCE). There is a lack of high-quality pooled data comparing clinical outcomes of early versus delayed CA using a standardized diagnosis-to-ablation time. This meta-analysis evaluates whether early CA (<12 months) versus delayed CA (>12 months) after AF diagnosis is linked to differences in clinical outcomes, including AF/atrial arrhythmia recurrence, mortality, AF-related hospitalization, and MACCE.",
+        "Methods: A systematic literature search of PubMed, EMBASE, Scopus and the Cochrane Central Register of Controlled Trials and observational cohort studies until December 1, 2025, was conducted. The primary outcome was AF recurrence.",
+        "Results: A total of 10 studies including 22,748 patients were analyzed. For the primary outcome, early CA (<12 months) was associated with a significantly lower risk of AF recurrence compared with delayed ablation (>12 months) (RR 0.69; 95% CI, 0.54-0.88; p = 0.007, I2 = 92). Subgroup analyses suggested a consistent benefit in persistent AF populations. For secondary outcomes, early ablation was associated with a reduced risk of AF-related hospitalization (RR 0.58; 95% CI 0.39-0.86; p = 0.04; I2 = 0%) and repeat electrical cardioversion (RR 0.66; 95% CI 0.48-0.91; p = 0.03; I2 = 34%). No significant differences were observed for all-cause mortality, repeat ablation, MACCE, cardiovascular hospitalization, antiarrhythmic drug use, stroke/transient ischemic attack, or all-cause hospitalization.",
+        "Conclusion: Early CA (<12 months) was associated with significantly lower rates of AF recurrence, electrical cardioversion, and AF-related hospitalizations compared with delayed CA (>12 months). Future randomized controlled trials are needed to evaluate potential long-term benefits and to identify patient subgroups most likely to benefit from early CA."
+      ],
+      "journal": "Journal of cardiology",
+      "date": "Oct 2026",
+      "authors": [
+        "Bradach D",
+        "Ajith S",
+        "Sheik T",
+        "Qadri SA",
+        "Ugbodaga C",
+        "Alshammari F",
+        "Vanderpuye AF",
+        "Tahir M",
+        "Ramakrishnan SV",
+        "Omaruddin L"
+      ],
+      "gmu_authors": [
+        "Thuslim Sheik"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1016/j.jjcc.2026.06.004",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42269861/",
       "first_seen": "2026-10-12"
     },
     {
