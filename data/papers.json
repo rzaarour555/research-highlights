@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05 02:47 UTC",
+  "updated": "2026-11-06 02:46 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -306,6 +306,44 @@
       "doi": "10.1177/13872877261496277",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42921916/",
       "first_seen": "2026-10-26"
+    },
+    {
+      "pmid": "42984639",
+      "title": "The mediating role of self-esteem in the association between locus of control and fear of failure and hope for success among women in five Arab countries",
+      "topic": "Public health",
+      "abstract": [
+        "Background: Achievement motivation is commonly described through two related but distinct tendencies: hope for success and fear of failure. Locus of control may be associated with these achievement motives through self-esteem, but these relationships have been examined mainly in Western and individualist contexts. This study examined whether self-esteem statistically mediates the association between locus of control and achievement motives among Arab women, within the broader context of collectivist values, relational self-construal and gendered family socialization.",
+        "Methods: A multinational cross-sectional online survey was conducted between July 2024 and March 2025 among native Arabic-speaking women aged 18 years or older residing in Lebanon, Egypt, Oman, Palestine and Morocco. Participants were recruited using convenience and snowball sampling. Locus of control was measured using the Internal-External Locus of Control Short Scale, self-esteem using the Single-Item Self-Esteem Scale and achievement motives using the Revised Achievement Motives Scale. Mediation analyses examined indirect associations through self-esteem. Bivariate analyses were used to examine perceived parental son preference in relation to achievement motives.",
+        "Results: A total of 1,963 women completed the questionnaire (mean age = 27.42 years). Self-esteem statistically mediated the association between internal locus of control and hope for success (indirect effect B = 0.22, 95% bootstrap CI [0.17 to 0.27]) and the association between internal locus of control and fear of failure (B = -0.06, 95% bootstrap CI [-0.10, -0.02]). For external locus of control, self-esteem statistically mediated its association with hope for success (B = -0.08, 95% bootstrap CI [-0.13 to -0.03]), while no indirect association was observed for fear of failure (B = 0.001, 95% bootstrap CI [-0.01 to 0.01]).",
+        "Conclusion: In this cross-sectional convenience sample of Arab women, self-esteem statistically accounted for part of the associations between locus of control and achievement motives, particularly hope for success. The bivariate associations involving perceived parental male preference suggest that family gender socialization may be relevant to women's achievement motivation, but these findings should be interpreted cautiously and separately from the mediation models. Because of the cross-sectional design, convenience and snowball sampling, and low internal consistency of the brief locus-of-control subscales, the findings should be understood as preliminary associations rather than causal evidence. Further studies using longitudinal and stronger measures are needed."
+      ],
+      "journal": "Frontiers in psychology",
+      "date": "2026",
+      "authors": [
+        "Gedeon E",
+        "El Zoghbi C",
+        "Awarkeh L",
+        "Salameh C",
+        "Geagea A",
+        "Malaeb D",
+        "Alhuwailah A",
+        "Helmy M",
+        "Rashid T",
+        "Barakat M",
+        "Fekih-Romdhane F",
+        "Hallit S",
+        "Obeid S",
+        "El Khoury MA"
+      ],
+      "gmu_authors": [
+        "Diana Malaeb"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.3389/fpsyg.2026.1890383",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42984639/",
+      "first_seen": "2026-11-06"
     },
     {
       "pmid": "42958285",
@@ -703,6 +741,33 @@
       "first_seen": "2026-10-12"
     },
     {
+      "pmid": "42985000",
+      "title": "Paraplegia Following Decompression Sickness (Caisson Disease): A Journey to Near-Complete Recovery",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Decompression sickness (DCS), also known as \"Caisson disease,\" is a potentially life-threatening condition caused by the formation of inert gas bubbles during rapid decompression, most commonly affecting deep-sea divers. Neurological involvement, particularly spinal cord injury leading to paraplegia, represents one of the most severe manifestations. We report the case of a 44-year-old Filipino male professional diver who developed acute paraplegia following a routine dive. Despite adherence to decompression protocols, he experienced sudden-onset bilateral lower limb weakness during ascent. Initial management included oxygen therapy followed by hyperbaric oxygen therapy, after which he was referred for intensive multidisciplinary rehabilitation within a few days. At presentation, the patient exhibited significant motor weakness with Medical Research Council grading of 2/5 in the left lower limb and 3/5 in the right lower limb, sensory loss below the T8 level, impaired bladder and bowel control, and complete dependence for mobility. Over a period of approximately three months of structured physiotherapy, including conventional therapy, robotic-assisted rehabilitation, neuromuscular stimulation, and gait training, he demonstrated remarkable functional recovery. Muscle strength improved to 4/5, with restoration of independent ambulation, improved sensory function, and regained bladder control. This case highlights the importance of early recognition, prompt hyperbaric therapy, and intensive rehabilitation in achieving near-complete recovery following severe neurological DCS."
+      ],
+      "journal": "Cureus",
+      "date": "Oct 2026",
+      "authors": [
+        "Michel M L",
+        "Kumar K",
+        "Eashak Ali SB",
+        "Ghanbari R",
+        "Khan R",
+        "Mahjoor K"
+      ],
+      "gmu_authors": [
+        "Rifa Khan"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.7759/cureus.117461",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985000/",
+      "first_seen": "2026-11-06"
+    },
+    {
       "pmid": "42835369",
       "title": "Mediating Effect of Perceived Ageism Experiences Between TikTok Addiction Symptoms and Psychological Distress: A Cross-Sectional Study",
       "topic": "Mental health",
@@ -863,79 +928,6 @@
       ],
       "doi": "10.1016/j.mtbio.2026.103569",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42662413/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42598601",
-      "title": "Microwave ablation as a minimally invasive treatment for primary hyperparathyroidism: A case report and literature review",
-      "topic": "Surgery and anaesthesia",
-      "abstract": [
-        "Primary hyperparathyroidism (PHPT) is commonly caused by a solitary parathyroid adenoma and results in elevated parathyroid hormone (PTH) and calcium levels. While parathyroidectomy remains the gold standard, some patients are unsuitable for surgery due to comorbidities or personal preference. Percutaneous microwave ablation has emerged as a minimally invasive alternative in select cases. Microwave ablation uses thermal energy to induce localized necrosis of hyperfunctioning parathyroid tissue. Recent studies report cure rates exceeding 85%, with lower complication rates and faster recovery compared to surgery. We report a 33-year-old woman with biochemically confirmed PHPT who presented with fatigue, muscle weakness, and hypercalcemia. Despite meeting criteria for surgical intervention, the patient declined operative management. She underwent ultrasound-guided microwave ablation targeting a suspected parathyroid adenoma localized on a PET choline, Tc-99m Sestamibi Scintigraphy and 4D CT. The procedure was well-tolerated without complications. The microwave ablation was performed in October 2022. Postablation monitoring demonstrated normalization of serum calcium and PTH levels, with sustained biochemical remission and resolution of symptoms at follow-up. Over a 3-year follow-up period, she has maintained normocalcemia and normal PTH levels without recurrence of symptoms or need for surgery. Our findings suggest that microwave ablation is a feasible and promising option for managing PHPT in selected patients unwilling or unable to undergo parathyroidectomy, with a successful long-term biochemical response achieved in this patient after surgery was declined. This case adds to the expanding literature on microwave ablation as a viable alternative to surgery, particularly in individuals seeking less invasive treatment. Ongoing research and long-term data are needed to further define its role in clinical practice."
-      ],
-      "journal": "Radiology case reports",
-      "date": "Oct 2026",
-      "authors": [
-        "Alfahad AS",
-        "Ibrar IH",
-        "Alhilo A",
-        "Ansari AK",
-        "Aoun P"
-      ],
-      "gmu_authors": [
-        "Ibrahim Hassan Ibrar",
-        "Ali Alhilo",
-        "Ayham K Ansari"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1016/j.radcr.2026.07.023",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42598601/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42303223",
-      "title": "Comparative outcomes of balloon-expandable and self-expanding valves in transcatheter aortic valve replacement: A systematic review and meta-analysis",
-      "topic": "Heart and circulation",
-      "abstract": [
-        "Background: Balloon-expandable valves (BEVs) and self-expanding valves (SEVs) are the two primary platforms for transcatheter aortic valve replacement (TAVR), differing in design, deployment, and hemodynamic performance. Comparative evidence on their clinical and procedural outcomes remains limited and inconsistent.",
-        "Methods: A systematic review and meta-analysis were conducted, searching PubMed, Scopus, Web of Science, and Cochrane Library up to July 2025 for studies comparing BEVs and SEVs in adults with severe aortic stenosis undergoing transfemoral TAVR. Outcomes included all-cause mortality, cardiovascular mortality, stroke, permanent pacemaker implantation, hemodynamic parameters, device success, and safety endpoints. Dichotomous and continuous outcomes were pooled as risk ratios (RR) and mean differences (MD) with corresponding 95% confidence intervals (CI) using a random-effects model.",
-        "Results: Fifty-three studies (n = 157,921) were included (6 randomized controlled trials, 12 prospective, and 35 retrospective cohorts). BEVs showed significant early survival benefits at 1 month (RR = 0.75, 95% CI 0.57-0.97, p = 0.03) and 6 months (RR = 0.33, 95%CI0.18-0.60, p < 0.001), with reduced cardiovascular mortality at 12 months (RR = 0.88, 95% CI 0.79-0.99, p = 0.03). Permanent pacemaker implantation rates were consistently lower with BEVs (e.g. RR = 0.75, 95% CI 0.64-0.88, p < 0.001 at 1 month). SEVs exhibited superior hemodynamics, with lower mean gradients (MD = -3.16 to -7.77 mmHg) and larger aortic valve areas (MD = +0.11 to +0.13 cm2). Long-term mortality and safety outcomes, including major bleeding, vascular complications, and myocardial infarction, were comparable.",
-        "Conclusion: BEVs offer early survival and conduction preservation advantages, while SEVs provide superior hemodynamic performance. These findings highlight the importance of individualized valve selection based on patient-specific factors. Further randomized trials with extended follow-up are needed to evaluate long-term durability and outcomes in diverse patient populations."
-      ],
-      "journal": "Journal of cardiology",
-      "date": "Oct 2026",
-      "authors": [
-        "Hafez A",
-        "Sobhy A",
-        "Elshahat A",
-        "Bruce D",
-        "Saad OA",
-        "Ashour M",
-        "Ali K",
-        "Shebl MA",
-        "Bolla AK",
-        "Usmani R",
-        "Aboudabash M",
-        "Arafa A",
-        "Shehata SA",
-        "Abdellatif N",
-        "Alagab A",
-        "Eldessouki A",
-        "Riccelli R",
-        "Gir D",
-        "Elzewiei GYA",
-        "Toraih EA",
-        "Aiash H"
-      ],
-      "gmu_authors": [
-        "Nouran Abdellatif"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1016/j.jjcc.2026.06.009",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42303223/",
       "first_seen": "2026-10-12"
     },
     {
@@ -2520,6 +2512,34 @@
       "first_seen": "2026-10-12"
     },
     {
+      "pmid": "42598601",
+      "title": "Microwave ablation as a minimally invasive treatment for primary hyperparathyroidism: A case report and literature review",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Primary hyperparathyroidism (PHPT) is commonly caused by a solitary parathyroid adenoma and results in elevated parathyroid hormone (PTH) and calcium levels. While parathyroidectomy remains the gold standard, some patients are unsuitable for surgery due to comorbidities or personal preference. Percutaneous microwave ablation has emerged as a minimally invasive alternative in select cases. Microwave ablation uses thermal energy to induce localized necrosis of hyperfunctioning parathyroid tissue. Recent studies report cure rates exceeding 85%, with lower complication rates and faster recovery compared to surgery. We report a 33-year-old woman with biochemically confirmed PHPT who presented with fatigue, muscle weakness, and hypercalcemia. Despite meeting criteria for surgical intervention, the patient declined operative management. She underwent ultrasound-guided microwave ablation targeting a suspected parathyroid adenoma localized on a PET choline, Tc-99m Sestamibi Scintigraphy and 4D CT. The procedure was well-tolerated without complications. The microwave ablation was performed in October 2022. Postablation monitoring demonstrated normalization of serum calcium and PTH levels, with sustained biochemical remission and resolution of symptoms at follow-up. Over a 3-year follow-up period, she has maintained normocalcemia and normal PTH levels without recurrence of symptoms or need for surgery. Our findings suggest that microwave ablation is a feasible and promising option for managing PHPT in selected patients unwilling or unable to undergo parathyroidectomy, with a successful long-term biochemical response achieved in this patient after surgery was declined. This case adds to the expanding literature on microwave ablation as a viable alternative to surgery, particularly in individuals seeking less invasive treatment. Ongoing research and long-term data are needed to further define its role in clinical practice."
+      ],
+      "journal": "Radiology case reports",
+      "date": "Oct 2026",
+      "authors": [
+        "Alfahad AS",
+        "Ibrar IH",
+        "Alhilo A",
+        "Ansari AK",
+        "Aoun P"
+      ],
+      "gmu_authors": [
+        "Ibrahim Hassan Ibrar",
+        "Ali Alhilo",
+        "Ayham K Ansari"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1016/j.radcr.2026.07.023",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42598601/",
+      "first_seen": "2026-10-12"
+    },
+    {
       "pmid": "42511740",
       "title": "Hypoxia Differentially Regulates Ferroptosis Sensitivity and Tumor Cell-Intrinsic Type I Interferon Signaling in Pancreatic Ductal Adenocarcinoma Cells",
       "topic": "Cancer research",
@@ -2573,6 +2593,51 @@
       ],
       "doi": "10.3390/curroncol33070405",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42505207/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42303223",
+      "title": "Comparative outcomes of balloon-expandable and self-expanding valves in transcatheter aortic valve replacement: A systematic review and meta-analysis",
+      "topic": "Heart and circulation",
+      "abstract": [
+        "Background: Balloon-expandable valves (BEVs) and self-expanding valves (SEVs) are the two primary platforms for transcatheter aortic valve replacement (TAVR), differing in design, deployment, and hemodynamic performance. Comparative evidence on their clinical and procedural outcomes remains limited and inconsistent.",
+        "Methods: A systematic review and meta-analysis were conducted, searching PubMed, Scopus, Web of Science, and Cochrane Library up to July 2025 for studies comparing BEVs and SEVs in adults with severe aortic stenosis undergoing transfemoral TAVR. Outcomes included all-cause mortality, cardiovascular mortality, stroke, permanent pacemaker implantation, hemodynamic parameters, device success, and safety endpoints. Dichotomous and continuous outcomes were pooled as risk ratios (RR) and mean differences (MD) with corresponding 95% confidence intervals (CI) using a random-effects model.",
+        "Results: Fifty-three studies (n = 157,921) were included (6 randomized controlled trials, 12 prospective, and 35 retrospective cohorts). BEVs showed significant early survival benefits at 1 month (RR = 0.75, 95% CI 0.57-0.97, p = 0.03) and 6 months (RR = 0.33, 95%CI0.18-0.60, p < 0.001), with reduced cardiovascular mortality at 12 months (RR = 0.88, 95% CI 0.79-0.99, p = 0.03). Permanent pacemaker implantation rates were consistently lower with BEVs (e.g. RR = 0.75, 95% CI 0.64-0.88, p < 0.001 at 1 month). SEVs exhibited superior hemodynamics, with lower mean gradients (MD = -3.16 to -7.77 mmHg) and larger aortic valve areas (MD = +0.11 to +0.13 cm2). Long-term mortality and safety outcomes, including major bleeding, vascular complications, and myocardial infarction, were comparable.",
+        "Conclusion: BEVs offer early survival and conduction preservation advantages, while SEVs provide superior hemodynamic performance. These findings highlight the importance of individualized valve selection based on patient-specific factors. Further randomized trials with extended follow-up are needed to evaluate long-term durability and outcomes in diverse patient populations."
+      ],
+      "journal": "Journal of cardiology",
+      "date": "Oct 2026",
+      "authors": [
+        "Hafez A",
+        "Sobhy A",
+        "Elshahat A",
+        "Bruce D",
+        "Saad OA",
+        "Ashour M",
+        "Ali K",
+        "Shebl MA",
+        "Bolla AK",
+        "Usmani R",
+        "Aboudabash M",
+        "Arafa A",
+        "Shehata SA",
+        "Abdellatif N",
+        "Alagab A",
+        "Eldessouki A",
+        "Riccelli R",
+        "Gir D",
+        "Elzewiei GYA",
+        "Toraih EA",
+        "Aiash H"
+      ],
+      "gmu_authors": [
+        "Nouran Abdellatif"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1016/j.jjcc.2026.06.009",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42303223/",
       "first_seen": "2026-10-12"
     },
     {
