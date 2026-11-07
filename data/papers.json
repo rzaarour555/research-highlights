@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 02:46 UTC",
+  "updated": "2026-11-07 02:40 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -123,6 +123,34 @@
       "doi": "10.1227/neuprac.0000000000000293",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42910382/",
       "first_seen": "2026-10-24"
+    },
+    {
+      "pmid": "42991533",
+      "title": "Transposition of the Mandibular Right Second Premolar Into the First Molar Space: A Case Report",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Background: Tooth transposition is an uncommon dental anomaly involving the positional interchange of two adjacent teeth within the same quadrant. Transpositions affecting posterior teeth in the mandible, particularly a premolar and a molar, are rarely reported, and their diagnosis and management can be challenging.",
+        "Case presentation: A 39-year-old man presented with difficulty in mastication related to multiple edentulous spaces in both arches. Clinical examination revealed poor oral hygiene, generalized gingival recession, Fordyce granules, a fissured tongue, and spacing of the maxillary anterior teeth. The mandibular right second premolar was found positioned within the first molar region, an incidental finding on intraoral examination. Periapical and panoramic radiographs confirmed the anomalous position of the premolar and demonstrated generalized alveolar bone loss. No reliable history could establish whether the first molar had previously been extracted, was congenitally absent, or had failed to erupt, and no family history of similar dental anomalies was reported. Management addressed the patient's primary complaint through scaling and oral hygiene instruction, restoration of carious teeth, and prosthetic rehabilitation of edentulous spaces; no intervention was directed at the positional anomaly itself, as it was asymptomatic and of no functional or esthetic concern to the patient.",
+        "Conclusion: This case illustrates a rare mandibular premolar-molar positional anomaly discovered incidentally in an adult, a presentation most consistent with tooth transposition. It highlights the value of thorough clinical and radiographic examination in identifying atypical dental findings and the importance of longitudinal or cross-sectional imaging in confidently distinguishing true transposition from other causes of anomalous tooth position, such as postextraction migration."
+      ],
+      "journal": "Case reports in dentistry",
+      "date": "2026",
+      "authors": [
+        "Albayati SAAF",
+        "Al Hilwani MI",
+        "Abdoh FM"
+      ],
+      "gmu_authors": [
+        "Sura Ali Ahmed Fuoad Albayati",
+        "Mohammed Issam Al Hilwani",
+        "Faris Mohammad Abdoh"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.1155/crid/3829192",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42991533/",
+      "first_seen": "2026-11-07"
     },
     {
       "pmid": "42976684",
@@ -900,34 +928,6 @@
       ],
       "doi": "10.4103/RPS.RPS_195_25",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42836184/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42662413",
-      "title": "From neuroinflammation to immune reprogramming: Nanozyme-Integrated nanoplatforms for neuroimmune modulation in Parkinson's disease",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Parkinson's disease (PD) is a progressive neuroimmune disorder in which dysregulated neuron-glia-immune crosstalk drives chronic neuroinflammation, α-synuclein pathology, blood-brain barrier dysfunction, and mitochondrial failure, establishing interconnected neuroimmune pathways as therapeutic targets. Aberrant neuron-immune crosstalk promotes chronic neuroinflammation, oxidative stress, mitochondrial dysfunction, blood-brain barrier (BBB) disruption, and α-synuclein pathology, thereby accelerating neurodegeneration. Understanding these interconnected mechanisms has identified multiple neuroimmune pathways as promising therapeutic targets. This review summarizes the cellular and molecular basis of physiological and pathological neuron-immune communication in PD, highlighting the roles of microglial activation, astrocyte reactivity, adaptive immune responses, inflammatory signaling networks, and neurovascular dysfunction. We further discuss emerging neuroimmune-targeted interventions aimed at restoring immune homeostasis and slowing disease progression. Particular emphasis is placed on nanozyme-integrated nanoplatforms that function simultaneously as nanozymatic catalysts and immunomodulatory adjuvants, including enzyme-mimetic nanozymes (SOD/CAT/GPx-like), single-atom catalysts, and nanozyme-integrated nanoplatforms. These platforms not only scavenge reactive oxygen species, degrade α-synuclein aggregates, and reinforce BBB integrity through localized catalytic reactions, but also reprogram innate and adaptive immune responses by modulating microglial polarization toward neuroprotective phenotypes, suppressing pro-inflammatory cytokine cascades (TNF-α, IL-1β, IL-6), and supporting regulatory T cell (Treg) responses. We examine how these nanozyme-integrated nanoplatforms can be combined with lipid-based nanoparticles, polymeric carriers, biomimetic systems, and extracellular vesicles (EVs) to achieve synergistic targeted drug delivery, gene modulation, neuroprotection, and neural repair. Finally, we address the translational challenges and prospects for merging neuroimmunology, nanocatalysis, and adjuvant engineering in PD therapy."
-      ],
-      "journal": "Materials today. Bio",
-      "date": "Oct 2026",
-      "authors": [
-        "Zhu S",
-        "Wang Z",
-        "Shi X",
-        "Zhong S",
-        "Ashraf GM",
-        "Fu K",
-        "Li Y"
-      ],
-      "gmu_authors": [
-        "Ghulam Md Ashraf"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1016/j.mtbio.2026.103569",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42662413/",
       "first_seen": "2026-10-12"
     },
     {
@@ -2509,6 +2509,34 @@
       ],
       "doi": "10.1039/d6ra04813g",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42689187/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42662413",
+      "title": "From neuroinflammation to immune reprogramming: Nanozyme-Integrated nanoplatforms for neuroimmune modulation in Parkinson's disease",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Parkinson's disease (PD) is a progressive neuroimmune disorder in which dysregulated neuron-glia-immune crosstalk drives chronic neuroinflammation, α-synuclein pathology, blood-brain barrier dysfunction, and mitochondrial failure, establishing interconnected neuroimmune pathways as therapeutic targets. Aberrant neuron-immune crosstalk promotes chronic neuroinflammation, oxidative stress, mitochondrial dysfunction, blood-brain barrier (BBB) disruption, and α-synuclein pathology, thereby accelerating neurodegeneration. Understanding these interconnected mechanisms has identified multiple neuroimmune pathways as promising therapeutic targets. This review summarizes the cellular and molecular basis of physiological and pathological neuron-immune communication in PD, highlighting the roles of microglial activation, astrocyte reactivity, adaptive immune responses, inflammatory signaling networks, and neurovascular dysfunction. We further discuss emerging neuroimmune-targeted interventions aimed at restoring immune homeostasis and slowing disease progression. Particular emphasis is placed on nanozyme-integrated nanoplatforms that function simultaneously as nanozymatic catalysts and immunomodulatory adjuvants, including enzyme-mimetic nanozymes (SOD/CAT/GPx-like), single-atom catalysts, and nanozyme-integrated nanoplatforms. These platforms not only scavenge reactive oxygen species, degrade α-synuclein aggregates, and reinforce BBB integrity through localized catalytic reactions, but also reprogram innate and adaptive immune responses by modulating microglial polarization toward neuroprotective phenotypes, suppressing pro-inflammatory cytokine cascades (TNF-α, IL-1β, IL-6), and supporting regulatory T cell (Treg) responses. We examine how these nanozyme-integrated nanoplatforms can be combined with lipid-based nanoparticles, polymeric carriers, biomimetic systems, and extracellular vesicles (EVs) to achieve synergistic targeted drug delivery, gene modulation, neuroprotection, and neural repair. Finally, we address the translational challenges and prospects for merging neuroimmunology, nanocatalysis, and adjuvant engineering in PD therapy."
+      ],
+      "journal": "Materials today. Bio",
+      "date": "Oct 2026",
+      "authors": [
+        "Zhu S",
+        "Wang Z",
+        "Shi X",
+        "Zhong S",
+        "Ashraf GM",
+        "Fu K",
+        "Li Y"
+      ],
+      "gmu_authors": [
+        "Ghulam Md Ashraf"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1016/j.mtbio.2026.103569",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42662413/",
       "first_seen": "2026-10-12"
     },
     {
