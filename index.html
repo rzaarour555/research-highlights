@@ -291,7 +291,14 @@ let filter = "All", college = "All colleges", current = stories[0], shownCount =
 /* photo: IMAGES/<PubMed number>.jpg if you uploaded one for that paper, otherwise
    IMAGES/<subject>.jpg, otherwise the coloured block */
 const slug = t => t.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-const img = s => `<img alt="" loading="lazy" src="IMAGES/${s.pmid ? esc(s.pmid) : slug(s.topic)}.jpg" data-alt="IMAGES/${slug(s.topic)}.jpg" onerror="if(this.dataset.alt&&!this.src.endsWith(this.dataset.alt)){this.src=this.dataset.alt}else{this.remove()}">`;
+/* Photo rules: when a paper's title contains one of these words, use this photo in place of the subject photo.
+   Add a line to add a rule; the photo goes in the IMAGES folder. */
+const PHOTO_RULES = [
+  { words: ["sperm", "semen", "male infertility", "male fertility"], photo: "male-fertility" },
+];
+const ruled = s => { const t = (s.orig ? s.orig.title + " " : "") + s.title; const r = PHOTO_RULES.find(r => r.words.some(w => t.toLowerCase().includes(w))); return r ? r.photo : null; };
+const fallback = s => ruled(s) || slug(s.topic);
+const img = s => `<img alt="" loading="lazy" src="IMAGES/${s.pmid ? esc(s.pmid) : fallback(s)}.jpg" data-alt="IMAGES/${fallback(s)}.jpg" data-alt2="IMAGES/${slug(s.topic)}.jpg" onerror="if(this.dataset.alt&&!this.src.endsWith(this.dataset.alt)){this.src=this.dataset.alt}else if(this.dataset.alt2&&!this.src.endsWith(this.dataset.alt2)){this.src=this.dataset.alt2}else{this.remove()}">`;
 const $ = id => document.getElementById(id);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const readMins = s => Math.max(1, Math.round(s.body.join(" ").split(/\s+/).length / 180 + 2));
