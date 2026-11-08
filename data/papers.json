@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07 02:40 UTC",
+  "updated": "2026-11-08 02:43 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -123,6 +123,30 @@
       "doi": "10.1227/neuprac.0000000000000293",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42910382/",
       "first_seen": "2026-10-24"
+    },
+    {
+      "pmid": "42994758",
+      "title": "Lactate in cardiovascular-kidney-metabolic syndrome: an evidence synthesis and a hypothesis-generating framework for dynamic assessment",
+      "topic": "Diabetes and metabolism",
+      "abstract": [
+        "Cardiovascular-kidney-metabolic (CKM) syndrome is staged with measures that capture organ-specific abnormality rather than integrated metabolic reserve under stress. Lactate is a circulating fuel and signal exchanged among every organ the syndrome names. We synthesise the human evidence on lactate handling across adipose tissue, skeletal muscle, kidney, liver and myocardium, and on what resting and dynamic lactate measurement has shown. That evidence contains two negative findings: in ARIC, the association of resting lactate with incident diabetes was lost after adjustment for fasting glucose and insulin, and the only direct comparison with cardiorespiratory fitness in metabolic syndrome found no independent lactate signal. Against this evidence we propose lactate resilience - blood-lactate excursion and recovery relative to standardised external work - as a hypothesis-generating framework only; it is not a biomarker, score, diagnosis or treatment target and does not alter CKM management. The contribution of this framework is not a demonstration of clinical value but a falsifiable specification: prespecified abandonment criteria (redundancy with peak oxygen uptake, ventilatory threshold and measured physical activity) and negative controls (tracking of renal function alone; attenuation after adjustment for glycaemia and fitness) against which the construct can be tested and, if necessary, discarded."
+      ],
+      "journal": "Diabetes research and clinical practice",
+      "date": "Nov 06, 2026",
+      "authors": [
+        "Mishra A",
+        "Mishra P",
+        "Mishra V"
+      ],
+      "gmu_authors": [
+        "Vinaytosh Mishra"
+      ],
+      "colleges": [
+        "College of Management and AI in Healthcare"
+      ],
+      "doi": "10.1016/j.diabres.2026.113641",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994758/",
+      "first_seen": "2026-11-08"
     },
     {
       "pmid": "42991533",
@@ -900,37 +924,6 @@
       "first_seen": "2026-10-12"
     },
     {
-      "pmid": "42836184",
-      "title": "Synthesis, in vitro and in silico evaluation of quinazoline and triazoloquinazoline derivatives as PDE7A inhibitors",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Background and purpose: Phosphodiesterase 7A (PDE7A) is an attractive therapeutic target for the treatment of inflammatory, autoimmune, and neurodegenerative disorders through modulation of intracellular cAMP levels. However, the development of highly potent and selective PDE7A inhibitors remains challenging. This study aimed to design, synthesize, and evaluate 2-chloroquinazoline and fused 1,2,4-triazolo[4,3-c]quinazoline derivatives as potential PDE7A inhibitors, supported by molecular docking, molecular dynamics simulations, and in silico toxicity prediction.",
-        "Experimental approach: A series of 2-chloroquinazoline derivatives 4a-f and their fused 1,2,4-triazolo[4,3-c]quinazoline counterparts 5a-d were synthesized as phosphodiesterase 7A (PDE7A) inhibitors. The synthesized compounds were evaluated for their in vitro inhibitory activity against phosphodiesterase 7A (PDE7A) and were compared with theophylline and BRL50481, a selective PDE7 inhibitor.",
-        "Findings/results: All compounds demonstrated enzyme inhibition ranging from 0.062 to 1.35 μM;. Derivatives 5c and 5d exhibited the most potent inhibitory effects, with IC50 values of 0.076 and 0.062 μM;, respectively, and were not significantly different from BRL50481 (IC50 = 0.034 μM;), while being significantly more potent than theophylline (IC50 = 0.539 μM;). These compounds, together with 4c and 5a, showed superior inhibitory activity compared with theophylline. Molecular docking and molecular dynamics studies were performed to investigate binding interactions and stability within the PDE7A active site.",
-        "Conclusion and implications: Compounds 5c and 5d displayed high binding affinity and stability within the active site. Their interactions with key amino acid residues support their potential as effective PDE7A inhibitors. Predicted toxicity data indicated a favorable safety profile across 30 toxicity endpoints, supporting their further development."
-      ],
-      "journal": "Research in pharmaceutical sciences",
-      "date": "Oct 2026",
-      "authors": [
-        "El-Malah AA",
-        "Gineinah MM",
-        "Khayat MT",
-        "Neamatallah T",
-        "Sonousi A",
-        "Mahmoud Z",
-        "Hassan RA"
-      ],
-      "gmu_authors": [
-        "Amr Sonousi"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.4103/RPS.RPS_195_25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42836184/",
-      "first_seen": "2026-10-12"
-    },
-    {
       "pmid": "42876967",
       "title": "Antibiotic prescribing appropriateness among critically ill patients at a single tertiary care center in the United Arab Emirates: a retrospective cohort study",
       "topic": "Infectious disease",
@@ -1095,6 +1088,37 @@
       ],
       "doi": "10.3389/fimmu.2026.1942424",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840142/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42836184",
+      "title": "Synthesis, in vitro and in silico evaluation of quinazoline and triazoloquinazoline derivatives as PDE7A inhibitors",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Background and purpose: Phosphodiesterase 7A (PDE7A) is an attractive therapeutic target for the treatment of inflammatory, autoimmune, and neurodegenerative disorders through modulation of intracellular cAMP levels. However, the development of highly potent and selective PDE7A inhibitors remains challenging. This study aimed to design, synthesize, and evaluate 2-chloroquinazoline and fused 1,2,4-triazolo[4,3-c]quinazoline derivatives as potential PDE7A inhibitors, supported by molecular docking, molecular dynamics simulations, and in silico toxicity prediction.",
+        "Experimental approach: A series of 2-chloroquinazoline derivatives 4a-f and their fused 1,2,4-triazolo[4,3-c]quinazoline counterparts 5a-d were synthesized as phosphodiesterase 7A (PDE7A) inhibitors. The synthesized compounds were evaluated for their in vitro inhibitory activity against phosphodiesterase 7A (PDE7A) and were compared with theophylline and BRL50481, a selective PDE7 inhibitor.",
+        "Findings/results: All compounds demonstrated enzyme inhibition ranging from 0.062 to 1.35 μM;. Derivatives 5c and 5d exhibited the most potent inhibitory effects, with IC50 values of 0.076 and 0.062 μM;, respectively, and were not significantly different from BRL50481 (IC50 = 0.034 μM;), while being significantly more potent than theophylline (IC50 = 0.539 μM;). These compounds, together with 4c and 5a, showed superior inhibitory activity compared with theophylline. Molecular docking and molecular dynamics studies were performed to investigate binding interactions and stability within the PDE7A active site.",
+        "Conclusion and implications: Compounds 5c and 5d displayed high binding affinity and stability within the active site. Their interactions with key amino acid residues support their potential as effective PDE7A inhibitors. Predicted toxicity data indicated a favorable safety profile across 30 toxicity endpoints, supporting their further development."
+      ],
+      "journal": "Research in pharmaceutical sciences",
+      "date": "Oct 2026",
+      "authors": [
+        "El-Malah AA",
+        "Gineinah MM",
+        "Khayat MT",
+        "Neamatallah T",
+        "Sonousi A",
+        "Mahmoud Z",
+        "Hassan RA"
+      ],
+      "gmu_authors": [
+        "Amr Sonousi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.4103/RPS.RPS_195_25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42836184/",
       "first_seen": "2026-10-12"
     },
     {
