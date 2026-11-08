@@ -32,7 +32,12 @@
   nav.views button{font-weight:500;border:0;background:none;padding:8px 12px;font-size:16px;color:var(--ink);border-radius:999px}
   nav.views button:hover{color:var(--accent)}
   nav.views button[aria-pressed="true"]{background:var(--accent);color:#fff;padding:8px 18px}
-  .hero{background:linear-gradient(rgba(20,10,10,.62),rgba(20,10,10,.62)),url("IMAGES/other-research.jpg") center/cover;color:#fff;text-align:center;padding:52px 16px 46px}
+  .hero{position:relative;overflow:hidden;background:#3a2020;color:#fff;text-align:center;padding:52px 16px 46px}
+  .hero .slide{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transition:opacity 1.5s ease}
+  .hero .slide.on{opacity:1}
+  .hero::after{content:"";position:absolute;inset:0;background:rgba(20,10,10,.62)}
+  .hero > h1,.hero > hr,.hero > p{position:relative;z-index:1}
+  @media (prefers-reduced-motion: reduce){ .hero .slide{transition:none} }
   .hero h1{font-family:var(--serif);font-size:44px;margin:0 0 14px;font-weight:600}
   .hero hr{width:120px;border:0;border-top:3px solid #fff;margin:0 auto 14px}
   .hero p{margin:0;font-size:16px;opacity:.95}
@@ -150,7 +155,7 @@
   </div>
 </header>
 
-<div class="hero"><h1>Research Highlights</h1><hr><p>New discoveries from Gulf Medical University's colleges and institutes</p></div>
+<div class="hero" id="hero"><h1>Research Highlights</h1><hr><p>New discoveries from Gulf Medical University's colleges and institutes</p></div>
 
 <main class="wrap">
 
@@ -472,6 +477,27 @@ function paperToStory(p, i, written){
     by: authors ? "Paper by " + authors : "", body: st ? st.body : p.abstract, pmid: p.pmid, gmu: p.gmu_authors || [], colleges: p.colleges || [],
     source: "Source paper: " + [p.journal, p.date].filter(Boolean).join(", ") + ".", url: p.url };
 }
+/* Banner photos: shown in turn, changing every 6 seconds. Add a file name to add a photo
+   (the photo goes in the IMAGES folder). Names that are missing are skipped. */
+const BANNER_PHOTOS = ["other-research.jpg", "cancer-research.jpg", "infectious-disease.jpg", "banner-pipette.jpg", "banner-lab.jpg", "banner-dish.jpg"];
+(function(){
+  const hero = $("hero"), slides = [];
+  BANNER_PHOTOS.forEach(name => {
+    const probe = new Image();
+    probe.onload = () => {
+      const d = document.createElement("div"); d.className = "slide"; d.style.backgroundImage = `url("IMAGES/${name}")`;
+      hero.insertBefore(d, hero.firstChild); slides.push(d);
+      if (slides.length === 1) d.classList.add("on");
+    };
+    probe.src = "IMAGES/" + name;
+  });
+  let i = 0;
+  const reduce = window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (!reduce) setInterval(() => {
+    if (slides.length < 2 || document.hidden) return;
+    slides[i].classList.remove("on"); i = (i + 1) % slides.length; slides[i].classList.add("on");
+  }, 6000);
+})();
 renderHome();
 const getJson = url => fetch(url, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
 Promise.all([getJson("data/papers.json"), getJson("data/stories.json")]).then(([d, written]) => {
