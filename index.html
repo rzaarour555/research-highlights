@@ -4,6 +4,10 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Research Highlights – Concept Demo</title>
+<meta property="og:title" content="Gulf Medical University – Research Highlights (concept demo)">
+<meta property="og:description" content="Plain-language stories about new research from Gulf Medical University.">
+<meta property="og:image" content="https://rzaarour555.github.io/research-highlights/IMAGES/other-research.jpg">
+<meta property="og:type" content="article">
 <style>
   :root{
     --ink:#14212b; --muted:#5b6b78; --line:#dfe5ea; --paper:#f7f5f0; --card:#ffffff;
@@ -84,6 +88,9 @@
   details.orig{border:1px solid var(--line);border-radius:8px;background:var(--card);padding:10px 14px;font-size:14px}
   details.orig summary{cursor:pointer;font-weight:600}
   details.orig p{margin:10px 0 0;color:var(--muted)}
+  .li-share{display:inline-flex;align-items:center;gap:6px;background:#0a66c2;color:#fff;border:0;border-radius:6px;padding:7px 12px;font-size:14px;text-decoration:none;font-weight:600}
+  .li-share:hover{background:#004182}
+  .li-share.small{padding:2px 8px;font-size:12px;margin-top:6px}
   .back{background:none;border:0;color:var(--accent);padding:0;margin-bottom:14px;font-size:14px}
   .note{font-size:13px;color:var(--muted);margin-top:8px}
 
@@ -162,6 +169,7 @@
       <h1 id="s-title"></h1>
       <p class="dek" id="s-dek"></p>
       <div class="byline" id="s-byline"></div>
+      <p><a class="li-share" id="s-share" target="_blank" rel="noopener">Share on LinkedIn</a></p>
       <div class="gmu" id="s-gmu"></div>
       <div class="photo" id="s-photo">Photo placeholder</div>
       <div class="credit" id="s-credit">Photo credit goes here</div>
@@ -279,11 +287,21 @@ function show(view){
   window.scrollTo(0,0);
 }
 document.querySelectorAll("nav.views button").forEach(b => b.onclick = () => { if (b.dataset.view === "story") openStory(current.id); else show(b.dataset.view); });
-$("back").onclick = () => show("home");
+$("back").onclick = () => { show("home"); try { history.replaceState(null, "", location.pathname); } catch(e){} };
+
+/* LinkedIn: each story has its own address (?story=PubMed number) that can be shared */
+const storyUrl = s => location.origin + location.pathname + "?story=" + encodeURIComponent(s.pmid || s.id);
+const shareUrl = s => "https://www.linkedin.com/sharing/share-offsite/?url=" + encodeURIComponent(storyUrl(s));
+const shareLink = s => `<a class="li-share small" href="${shareUrl(s)}" target="_blank" rel="noopener">Share on LinkedIn</a>`;
 
 function renderHome(){
-  const topics = ["All", ...new Set(stories.map(s => s.topic))];
-  $("filters").innerHTML = topics.map(t => `<button class="${t===filter?"on":""}" data-t="${esc(t)}">${esc(t)}</button>`).join("");
+  /* subjects: only those with papers in the selected college, with counts */
+  const inCollege = stories.filter(s => college === "All colleges" || (s.colleges || []).includes(college));
+  const counts = {}; inCollege.forEach(s => counts[s.topic] = (counts[s.topic] || 0) + 1);
+  const topics = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b));
+  if (filter !== "All" && !counts[filter]) filter = "All";
+  $("filters").innerHTML = [`<button class="${filter==="All"?"on":""}" data-t="All">All (${inCollege.length})</button>`]
+    .concat(topics.map(t => `<button class="${t===filter?"on":""}" data-t="${esc(t)}">${esc(t)} (${counts[t]})</button>`)).join("");
   $("filters").querySelectorAll("button").forEach(b => b.onclick = () => { filter = b.dataset.t; shownCount = 12; renderHome(); });
   const colleges = ["All colleges", ...[...new Set(stories.flatMap(s => s.colleges || []))].sort()];
   $("college-row").style.display = colleges.length > 1 ? "" : "none";
@@ -298,14 +316,17 @@ function renderHome(){
       <div class="meta" style="margin-top:10px"><b style="color:var(--accent)">${esc(lead.topic)}</b> · ${esc(lead.date)}<span class="chip">🔊 Audio</span>${flag(lead)}</div>
       <h3>${esc(lead.title)}</h3>
       <p>${esc(lead.dek)}</p>
-    </button>` : `<p class="meta">No papers match these filters yet.</p>`;
+    </button>${shareLink(lead)}` : `<p class="meta">No papers match these filters yet.</p>`;
   $("list").innerHTML = rest.slice(0, shownCount).map(s => `
     <div class="item">
       <div class="photo ${s.photo}">${img(s)}</div>
+      <div>
       <button class="story-link" data-id="${s.id}">
         <h3>${esc(s.title)}</h3>
         <div class="meta"><b style="color:var(--accent)">${esc(s.topic)}</b> · ${esc(s.date)}<span class="chip">🔊 Audio</span>${flag(s)}</div>
       </button>
+      ${shareLink(s)}
+      </div>
     </div>`).join("") + (rest.length > shownCount ? `<button class="btn ghost" id="more" style="margin-top:12px">Show more (${rest.length - shownCount} more)</button>` : "");
   if ($("more")) $("more").onclick = () => { shownCount += 12; renderHome(); };
   document.querySelectorAll(".story-link").forEach(b => b.onclick = () => openStory(+b.dataset.id));
@@ -333,7 +354,9 @@ function openStory(id){
   $("p-title").textContent = s.title;
   $("p-time").textContent = `${s.body.length + 1} parts`;
   $("p-bar").style.width = "0";
+  $("s-share").href = shareUrl(s);
   show("story");
+  try { history.replaceState(null, "", "?story=" + encodeURIComponent(s.pmid || s.id)); } catch(e){}
 }
 
 /* audio: browser speech as a stand-in for a recorded MP3 */
@@ -434,6 +457,10 @@ Promise.all([getJson("data/papers.json"), getJson("data/stories.json")]).then(([
   $("ribbon").textContent = "Concept demo only. Not an official university page. Papers are found automatically on PubMed (last update " + d.updated + "). "
     + (written ? "Stories are AI-drafted summaries of the authors' abstracts and have not yet been reviewed." : "The text shown is the authors' own abstract.");
   renderHome();
+  /* opened from a shared link: go straight to that story */
+  const wanted = new URLSearchParams(location.search).get("story");
+  const hit = wanted && stories.find(s => s.pmid === wanted);
+  if (hit) openStory(hit.id);
 });
 </script>
 </body>
