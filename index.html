@@ -10,8 +10,8 @@
 <meta property="og:type" content="article">
 <style>
   :root{
-    --ink:#14212b; --muted:#5b6b78; --line:#dfe5ea; --paper:#f7f5f0; --card:#ffffff;
-    --accent:#0b6e6e; --accent-soft:#e2f1f0; --warn:#8a5a00; --warn-bg:#fff4d6;
+    --ink:#1d1d1f; --muted:#5f6368; --line:#e6e1dc; --paper:#f6f3ef; --card:#ffffff;
+    --accent:#d2232a; --accent-soft:#fbe9ea; --gold:#9d803c; --warn:#8a5a00; --warn-bg:#fff4d6;
     --serif: Georgia, "Times New Roman", serif;
     --sans: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
   }
@@ -20,13 +20,26 @@
   button{font:inherit;cursor:pointer}
   .wrap{max-width:1080px;margin:0 auto;padding:0 16px}
   .ribbon{background:var(--warn-bg);color:var(--warn);font-size:13px;padding:8px 0;text-align:center;border-bottom:1px solid #ecd9a0}
-  header.site{background:var(--card);border-bottom:1px solid var(--line)}
-  header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:14px;padding-bottom:14px;flex-wrap:wrap}
-  .brand{font-family:var(--serif);font-size:20px}
-  .brand small{display:block;font-family:var(--sans);font-size:12px;color:var(--muted);letter-spacing:.04em;text-transform:uppercase}
-  nav.views{display:flex;gap:6px;flex-wrap:wrap}
-  nav.views button{border:1px solid var(--line);background:var(--card);padding:7px 12px;border-radius:999px;font-size:14px;color:var(--ink)}
-  nav.views button[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .topbar{background:var(--accent);color:#fff;font-size:14px;font-weight:500}
+  .topbar .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;min-height:40px;flex-wrap:wrap}
+  .topbar span{opacity:.92}
+  header.site{background:var(--card);box-shadow:0 2px 10px rgba(0,0,0,.06);position:relative;z-index:2}
+  header.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:16px;padding-top:14px;padding-bottom:14px;flex-wrap:wrap}
+  .brand{display:flex;align-items:center;gap:16px}
+  .brand img{height:56px;width:auto;display:block}
+  .brand .sub{border-left:2px solid var(--line);padding-left:16px;font-size:13px;color:var(--gold);letter-spacing:.06em;text-transform:uppercase;font-weight:600;line-height:1.3}
+  nav.views{display:flex;gap:4px;flex-wrap:wrap;align-items:center}
+  nav.views button{font-weight:500;border:0;background:none;padding:8px 12px;font-size:16px;color:var(--ink);border-radius:999px}
+  nav.views button:hover{color:var(--accent)}
+  nav.views button[aria-pressed="true"]{background:var(--accent);color:#fff;padding:8px 18px}
+  .hero{background:linear-gradient(rgba(20,10,10,.62),rgba(20,10,10,.62)),url("IMAGES/other-research.jpg") center/cover;color:#fff;text-align:center;padding:52px 16px 46px}
+  .hero h1{font-family:var(--serif);font-size:44px;margin:0 0 14px;font-weight:600}
+  .hero hr{width:120px;border:0;border-top:3px solid #fff;margin:0 auto 14px}
+  .hero p{margin:0;font-size:16px;opacity:.95}
+  footer.site{background:#fff;border-top:1px solid var(--line);margin-top:20px}
+  footer.site .wrap{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;padding-top:18px;padding-bottom:18px;font-size:13px;color:var(--muted)}
+  footer.site img{height:40px;width:auto}
+  @media (max-width:760px){ .brand img{height:42px} .brand .sub{display:none} .topbar span+span{display:none} .hero h1{font-size:30px} }
   section.view{display:none;padding:28px 0 56px}
   section.view.on{display:block}
   .eyebrow{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);font-weight:600}
@@ -124,9 +137,11 @@
 
 <div class="ribbon"><div class="wrap" id="ribbon">Concept demo only. Not an official university page. All stories, names and findings are sample placeholder text.</div></div>
 
+<div class="topbar"><div class="wrap"><span>🎓 Research Highlights</span><span>Gulf Medical University · Ajman, UAE</span></div></div>
+
 <header class="site">
   <div class="wrap">
-    <div class="brand">Gulf Medical University<small>Research highlights · concept</small></div>
+    <div class="brand"><img src="IMAGES/gmu-logo.png" alt="Gulf Medical University"><div class="sub">Research<br>Highlights</div></div>
     <nav class="views" aria-label="Demo views">
       <button data-view="home" aria-pressed="true">1. Banner</button>
       <button data-view="story" aria-pressed="false">2. Story page</button>
@@ -135,13 +150,12 @@
   </div>
 </header>
 
+<div class="hero"><h1>Research Highlights</h1><hr><p>New discoveries from Gulf Medical University's colleges and institutes</p></div>
+
 <main class="wrap">
 
   <!-- VIEW 1 -->
   <section class="view on" id="view-home">
-    <div class="eyebrow">Placement option</div>
-    <h2 class="sec">A research banner for the front page or the Research tab</h2>
-    <p class="lede">The block below is self-contained. It can sit on the existing front page under the main slider, or open the Research tab. Select any story to see the story page.</p>
 
     <div class="banner">
       <div class="banner-head">
@@ -223,6 +237,8 @@
 
 </main>
 
+<footer class="site"><div class="wrap"><span>Concept demo · Papers found automatically on PubMed · Not an official university page</span><img src="IMAGES/thumbay-logo.png" alt="Thumbay Group"></div></footer>
+
 <script>
 let stories = [
   { id:1, topic:"Precision medicine", photo:"p1", date:"Oct 8, 2026",
@@ -284,6 +300,7 @@ function show(view){
   stopAudio();
   document.querySelectorAll("section.view").forEach(s => s.classList.toggle("on", s.id === "view-" + view));
   document.querySelectorAll("nav.views button").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === view));
+  document.querySelector(".hero").style.display = view === "home" ? "" : "none";
   window.scrollTo(0,0);
 }
 document.querySelectorAll("nav.views button").forEach(b => b.onclick = () => { if (b.dataset.view === "story") openStory(current.id); else show(b.dataset.view); });
