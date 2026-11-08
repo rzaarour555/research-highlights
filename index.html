@@ -54,7 +54,7 @@
 
   /* banner */
   .banner{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px}
-  .banner-head{display:flex;justify-content:space-between;align-items:end;gap:16px;flex-wrap:wrap;margin-bottom:18px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+  .banner-head{display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:18px;padding-bottom:16px;border-bottom:1px solid var(--line)}
   .filters{display:flex;gap:6px;flex-wrap:wrap}
   .filters button{border:1px solid var(--line);background:#fff;border-radius:999px;padding:4px 10px;font-size:13px;color:var(--muted)}
   .filters button.on{background:var(--accent-soft);border-color:var(--accent);color:var(--accent)}
@@ -76,10 +76,11 @@
   .photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
   .pickers{display:flex;gap:12px;flex-wrap:wrap}
   .pickers label{display:flex;flex-direction:column;gap:3px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
-  .pickers select{font:inherit;font-size:14px;letter-spacing:0;text-transform:none;font-weight:500;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:999px;padding:7px 34px 7px 14px;min-width:200px;max-width:300px;cursor:pointer;appearance:none;
+  .pickers select{font:inherit;font-size:14px;letter-spacing:0;text-transform:none;font-weight:500;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:999px;padding:7px 34px 7px 14px;width:320px;cursor:pointer;appearance:none;
     background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23d2232a' stroke-width='2'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 14px center}
+  #colleges{width:410px}
   .pickers select:focus{outline:2px solid var(--accent);outline-offset:1px}
-  @media (max-width:760px){ .pickers{width:100%} .pickers label{flex:1} .pickers select{min-width:0;width:100%} }
+  @media (max-width:760px){ .pickers{width:100%} .pickers label{flex:1} .pickers select,#colleges{min-width:0;width:100%} }
   .frow > span{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);width:64px;flex:none}
   .filterbox{margin-bottom:16px;padding-bottom:8px;border-bottom:1px solid var(--line)}
   .gmu{font-size:14px;margin-bottom:16px;padding:10px 12px;background:var(--accent-soft);border-radius:8px}
