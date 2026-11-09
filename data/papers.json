@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08 02:43 UTC",
+  "updated": "2026-11-09 02:45 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -94,6 +94,36 @@
       "first_seen": "2026-10-12"
     },
     {
+      "pmid": "42999643",
+      "title": "Impact of BMI on Ramadan fasting in individuals with type 2 diabetes mellitus: Insights from the DaR Global Surveys 2020-2022",
+      "topic": "Diabetes and metabolism",
+      "abstract": [
+        "Introduction: Fasting during the holy month of Ramadan is a central religious practice for Muslims worldwide, including individuals living with type 2 diabetes mellitus (T2DM). Managing diabetes during prolonged fasting presents significant clinical challenges, particularly balancing glycemic control and preventing complications such as hypoglycemia. The body mass index (BMI) is a widely used surrogate marker for metabolic status and may significantly influence the physiological response and tolerance to fasting in individuals with T2DM. However, data are limited regarding the relationship between BMI and fasting experiences among diabetic individuals in diverse Muslim-majority populations. This study used data from the Diabetes and Ramadan (DaR) Global Survey, conducted via SurveyMonkey, to examine the associations between BMI and fasting-related outcomes among adults with T2DM in Muslim-majority countries. The findings may support more personalized risk stratification and clinical guidance for safe fasting practices in this population.",
+        "Methods: Using a specifically designed SurveyMonkey questionnaire, Muslim individuals with T2DM were surveyed in several countries in different geographical regions and stratified by BMI. Basic demographic, clinical, and fasting-related data were collected and analyzed using descriptive and inferential statistics to explore differences between subgroups.",
+        "Results: Among 6530 participants, 42.4% were overweight and 37.7% were obese, and obesity was more prevalent in females and the Gulf region. Individuals with obesity were younger and had a slightly longer duration of diabetes. Glycemic control (mean HbA1c ∼ 8.2-8.4%) was similar among BMI groups. Obesity was associated with higher systolic blood pressure, hypertension, hyperlipidemia, and microalbuminuria. Pharmacologic management patterns varied little, although use of GLP-1 receptor agonists was greater among individuals with obesity, and Ramadan fasting intentions and practices remained consistent across BMI groups. Self-reported hypoglycemia and hyperglycemia rates were comparable, although overweight participants had higher rates of emergency visits (p = 0.01). Most participants received Ramadan-specific diabetes education, but self-monitoring of blood glucose adherence varied.",
+        "Conclusion: Individuals with T2DM in all BMI categories were able to fast safely during Ramadan, with no significant differences in fasting behavior or adverse events. Despite a higher burden of cardiometabolic comorbidities among obese participants, glycemic control and complication rates during fasting were comparable. These findings highlight the importance of structured education and individualized care for supporting safe fasting among people with diabetes, regardless of BMI."
+      ],
+      "journal": "Journal of Taibah University Medical Sciences",
+      "date": "Dec 2026",
+      "authors": [
+        "Alzaman N",
+        "Habib M",
+        "Uddin F",
+        "Rosandi R",
+        "Shaikh S",
+        "Hassanein M"
+      ],
+      "gmu_authors": [
+        "Mohamed Hassanein"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1016/j.jtumed.2026.10.002",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999643/",
+      "first_seen": "2026-11-09"
+    },
+    {
       "pmid": "42910382",
       "title": "Styloidogenic Jugular Venous Compression Syndrome: A Rare Vascular Variant of Eagle Syndrome",
       "topic": "Heart and circulation",
@@ -123,6 +153,37 @@
       "doi": "10.1227/neuprac.0000000000000293",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42910382/",
       "first_seen": "2026-10-24"
+    },
+    {
+      "pmid": "42999971",
+      "title": "Cognitive disengagement syndrome and alexisomia: examining the moderating role of anxiety-depression symptoms, stress, and insomnia symptoms among a sample of Lebanese adults",
+      "topic": "Mental health",
+      "abstract": [
+        "Background: The interplay between body and mind is at the heart of processing bodily states. Alexisomia refers to the lack of somatic awareness, whereas cognitive disengagement syndrome (CDS) is a cluster of symptoms that reflect mental sluggishness, daydreaming, and hypoactivity. Given that interoceptive accuracy relies on attention to internal signals, the hypoactive characteristics of CDS may attenuate interoceptive processing; therefore, individuals with higher CDS traits might show diminished awareness of bodily states. This study investigates the association between CDS and alexisomia, as well as the moderating effect of anxiety-depression symptoms, stress, and insomnia symptoms.",
+        "Method: A cross-sectional study was conducted among 877 Lebanese adults aged 18-70 years, recruited through snowball sampling. Data were collected using a Google Forms questionnaire that included the Adult Concentration Inventory, the Shitsu Taikan Sho Scale, the Stress Numerical Rating Scale, the Patient Health Questionnaire-4, and the Insomnia Severity Index. Of the participants, 64.3% were female, and 35.7% were male.",
+        "Results: The interaction models were adjusted over the following variables: marital status, education, and living situation. The CDS × anxiety-depression (B = -0.04, p = .011) and CDS × insomnia (B = -0.03, p = .002) interactions were significantly associated with alexisomia, whereas the CDS × stress interaction (B = -0.03, p = .076) was not statistically significant after applying heteroscedasticity-consistent standard errors. At low (-1 SD), mean, and high (+1 SD) levels of anxiety - depression and insomnia, higher CDS levels were significantly associated with higher levels of alexisomia. Additionally, higher levels of anxiety-depression and insomnia symptoms attenuated the positive association between CDS traits and alexisomia.",
+        "Conclusion: Findings highlight an interplay between symptoms of cognitive disengagement and reduced somatic awareness, while emphasizing the importance of accounting for psychological distress and sleep disturbance when studying this relationship. Understanding these interactions provides a foundation for future longitudinal research to further clarify the nature and temporal relationships among these constructs."
+      ],
+      "journal": "Psychology, health & medicine",
+      "date": "Nov 08, 2026",
+      "authors": [
+        "Atieh N",
+        "Malaeb D",
+        "Sakr F",
+        "Dabbous M",
+        "Obeid S",
+        "Fekih-Romdhane F",
+        "Hallit S"
+      ],
+      "gmu_authors": [
+        "Diana Malaeb"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1080/13548506.2026.2759978",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999971/",
+      "first_seen": "2026-11-09"
     },
     {
       "pmid": "42994758",
@@ -215,6 +276,31 @@
       "doi": "10.1016/j.jmir.2026.102612",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42976684/",
       "first_seen": "2026-11-05"
+    },
+    {
+      "pmid": "42997072",
+      "title": "Bilateral, Asynchronous, Inferior Shoulder Dislocation in a Multidisabled Patient: A Case Report and Review of the Literature",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Introduction: Inferior glenohumeral dislocation, or luxatio erecta humeri (LEH), is an exceptionally rare injury accounting for approximately 0.5% of all shoulder dislocations. It typically results from high-energy trauma through hyperabduction or direct axial loading, forcing the humeral head inferiorly and locking the arm in abduction. While unilateral presentation is rare, bilateral occurrence is extraordinary. Diagnostic or therapeutic delays can cause severe, permanent neurovascular and musculoskeletal sequelae.",
+        "Case report: A 42-year-old male with profound neurodevelopmental disabilities - including cerebral palsy, intellectual disability, total blindness, and epilepsy - residing in a long-term care facility presented with an acute right LEH. Attempted closed reduction at an orthopedic center was unsuccessful, and the patient was discharged against medical advice without definitive intervention. Four years later, at age 46, the patient presented with a neglected, chronic left LEH. Due to the chronic, fixed nature of the bilateral injuries, the dislocations were deemed un-reducible, resulting in a profound and permanent accumulation of orthopedic disability.",
+        "Conclusion: Managing LEH in patients with severe developmental disabilities presents unique diagnostic and therapeutic challenges. Cognitive and communication barriers often cause diagnostic overshadowing, leading to missed or severely delayed presentations. Furthermore, management is frequently complicated by patient uncooperativeness, high-risk anesthesia profiles, and increased risks of operative failure."
+      ],
+      "journal": "Journal of orthopaedic case reports",
+      "date": "Nov 2026",
+      "authors": [
+        "Ali FE",
+        "Ali YF"
+      ],
+      "gmu_authors": [
+        "Yasmina F Ali"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.13107/jocr.2026.v16.i11.8404",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42997072/",
+      "first_seen": "2026-11-09"
     },
     {
       "pmid": "41467884",
@@ -820,110 +906,6 @@
       "first_seen": "2026-11-06"
     },
     {
-      "pmid": "42835369",
-      "title": "Mediating Effect of Perceived Ageism Experiences Between TikTok Addiction Symptoms and Psychological Distress: A Cross-Sectional Study",
-      "topic": "Mental health",
-      "abstract": [
-        "Background and aims: TikTok addiction has been linked to depression and anxiety, yet mechanisms underlying this relationship remain underexplored. Based on the Social Comparison and Uses and Gratifications theories, this study examined whether perceived ageism experiences mediate the relationship between TikTok addiction and depression and anxiety among Lebanese adults. The research also explores, as a theoretical possibility, whether TikTok's algorithm may be associated with greater perceived ageism experiences, which in turn would relate to psychological distress.",
-        "Methods: A cross-sectional survey was conducted among 855 participants (mean age 24.39; 76.7% females) using the TikTok Addiction Test, WHO Ageism Scale, and PHQ-4. Data were analyzed using SPSS and mediation analysis via PROCESS Macro controlling for demographic and health covariates, such as gender, education level and a history of mental health diagnosis. The mediation analysis included 735 participants with complete data for all variables entered into the model.",
-        "Results: TikTok addiction was positively associated with psychological distress. Perceived ageism experiences partially mediated this relationship (unstandardized indirect effect: B = 0.0149, BootSE = 0.005, 95% percentile bootstrapped CI [0.0058, 0.0255]). Higher TikTok addiction symptoms were associated with greater perceived ageism experiences, which were in turn associated with higher psychological distress levels. Demographic analysis showed that females, those with lower levels of education and individuals with a history of mental health diagnosis reported higher psychological distress. Age was negatively correlated with psychological distress, showcasing higher vulnerability among younger individuals.",
-        "Conclusion: Findings highlight perceived ageism experiences as a small but statistically significant mediator between addictive digital media use and psychological distress. The study emphasizes the need for culturally sensitive mental health and digital literacy interventions, as they aim to support the deconstruction of idealized youthful standards, particularly with the Lebanese context where digital media serves as escapism."
-      ],
-      "journal": "Health science reports",
-      "date": "Oct 2026",
-      "authors": [
-        "Rizk A",
-        "Kheir N",
-        "Hallit R",
-        "Iskandar K",
-        "Malaeb D",
-        "Barakat M",
-        "Sakr F",
-        "Dabbous M",
-        "Harb F",
-        "Obeid S",
-        "Hallit S",
-        "Fekih-Romdhane F"
-      ],
-      "gmu_authors": [
-        "Diana Malaeb"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1002/hsr2.73341",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42835369/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42862668",
-      "title": "Three-Point Bedside Congestion Score (IJV Collapsibility + IVC Collapsibility + Central Venous Pressure) in Elective Mitral Valve Surgery: A Prospective Observational Study",
-      "topic": "Surgery and anaesthesia",
-      "abstract": [
-        "Background: Systemic venous congestion and right-ventricular (RV) dysfunction are key drivers of postoperative hemodynamic instability, prolonged ventilation, and acute kidney injury (AKI) after mitral valve surgery. Comprehensive echocardiography is informative but may be impractical in high-throughput pre-anesthesia workflows. We evaluated a pragmatic three-point bedside congestion score combining internal jugular vein (IJV) collapsibility, inferior vena cava (IVC) collapsibility, and invasively measured central venous pressure (CVP) for preoperative risk stratification.",
-        "Methods: In this prospective, observational, single-center study, 100 consecutive adults (>18 years) undergoing elective mitral valve surgery for mitral stenosis were enrolled. A bedside ultrasound was performed in the preoperative area with patients in a 45° head-elevated position during quiet, spontaneous respiration. One point was assigned for each abnormal component (IJV collapsibility <18%, IVC collapsibility <25%, and CVP >12 mmHg), yielding a total score of 0 to 3. Tricuspid annular plane systolic excursion (TAPSE) was dichotomized at 17 mm. Outcomes included vasoactive-inotropic score (VIS), ventilation duration, intensive care unit (ICU) and hospital length of stay, AKI, and in-hospital mortality. Discrimination for AKI and mortality was evaluated using a 5-fold cross-validated receiver operating characteristic (ROC) area under the curve (AUC) with bootstrap 95% confidence intervals. Calibration was assessed using recalibration intercept and slope, and decision curve analysis was used to explore clinical net benefit across threshold probabilities.",
-        "Results: The observed score distribution concentrated at 0 to 2 and 3; therefore, patients were analyzed as low score (0 to 2; n = 50) versus high score (3; n = 50). Compared with low-score patients, high-score patients had higher postoperative VIS (median 18.0 vs 10.0), longer ventilation (31.5 vs 22.0 hours), longer ICU stay (10.0 vs 5.5 days), and longer hospital stay (23.0 vs 12.5 days). AKI occurred in 40% versus 20%, and mortality in 10% versus 2% in high- versus low-score groups. In the combined 2 × 2 stratification, low score with normal TAPSE had no AKI or mortality, whereas high score with abnormal TAPSE had AKI in 55.6% and mortality in 14.8%. The combined score + TAPSE model showed moderate discrimination (AUC 0.77 for AKI; AUC 0.782 for mortality) with near-ideal calibration in this dataset. Decision curve analysis suggested a higher net benefit for the combined model than single-predictor models across threshold probabilities of approximately 0.05 to 0.30.",
-        "Conclusions: A simple three-point bedside congestion score stratifies postoperative risk after elective mitral valve surgery. Incorporating TAPSE into preoperative assessment provided a rapid and reliable means of excluding significant RV dysfunction, thereby reinforcing the validity of the threepoint scoring system. Multicenter external validation and evaluation of score-guided perioperative protocols are warranted."
-      ],
-      "journal": "Annals of cardiac anaesthesia",
-      "date": "Oct 01, 2026",
-      "authors": [
-        "Sharma M",
-        "Rajesh VSP",
-        "RamKiran KS",
-        "Trivedi V",
-        "Kanjani V",
-        "Patel K",
-        "Pandya H"
-      ],
-      "gmu_authors": [
-        "K S RamKiran"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.4103/aca.aca_138_26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42862668/",
-      "first_seen": "2026-10-13"
-    },
-    {
-      "pmid": "42841695",
-      "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
-      "topic": "Heart and circulation",
-      "abstract": [
-        "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
-        "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
-        "Results: Four randomized trials including 2,793 patients were analyzed. Indigenous stents demonstrated comparable rates of composite endpoints, myocardial infarction, repeat revascularization, and stent thrombosis across studies, with no consistent differences between groups.",
-        "Conclusion: The available RCT evidence shows no consistent signal of superiority or inferiority between indigenous and international thin-strut DES. However, heterogeneity and limited trial numbers warrant larger studies with long-term follow-up and real-world materiovigilance.",
-        "Protocol registration: CRD420251240469."
-      ],
-      "journal": "Expert review of medical devices",
-      "date": "Oct 2026",
-      "authors": [
-        "Bhosale A",
-        "Pratima P",
-        "Sinha AK",
-        "Karattuthodi MS",
-        "Gangachannaiah S",
-        "Thunga G",
-        "Kumar B",
-        "Ramachandran P",
-        "Kalaiselvan V",
-        "Shelke A",
-        "Murti K",
-        "Radhakrishnan R"
-      ],
-      "gmu_authors": [
-        "Mohammed Salim Karattuthodi"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1080/17434440.2026.2746135",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/",
-      "first_seen": "2026-10-12"
-    },
-    {
       "pmid": "42876967",
       "title": "Antibiotic prescribing appropriateness among critically ill patients at a single tertiary care center in the United Arab Emirates: a retrospective cohort study",
       "topic": "Infectious disease",
@@ -989,6 +971,37 @@
       "first_seen": "2026-10-14"
     },
     {
+      "pmid": "42862668",
+      "title": "Three-Point Bedside Congestion Score (IJV Collapsibility + IVC Collapsibility + Central Venous Pressure) in Elective Mitral Valve Surgery: A Prospective Observational Study",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Background: Systemic venous congestion and right-ventricular (RV) dysfunction are key drivers of postoperative hemodynamic instability, prolonged ventilation, and acute kidney injury (AKI) after mitral valve surgery. Comprehensive echocardiography is informative but may be impractical in high-throughput pre-anesthesia workflows. We evaluated a pragmatic three-point bedside congestion score combining internal jugular vein (IJV) collapsibility, inferior vena cava (IVC) collapsibility, and invasively measured central venous pressure (CVP) for preoperative risk stratification.",
+        "Methods: In this prospective, observational, single-center study, 100 consecutive adults (>18 years) undergoing elective mitral valve surgery for mitral stenosis were enrolled. A bedside ultrasound was performed in the preoperative area with patients in a 45° head-elevated position during quiet, spontaneous respiration. One point was assigned for each abnormal component (IJV collapsibility <18%, IVC collapsibility <25%, and CVP >12 mmHg), yielding a total score of 0 to 3. Tricuspid annular plane systolic excursion (TAPSE) was dichotomized at 17 mm. Outcomes included vasoactive-inotropic score (VIS), ventilation duration, intensive care unit (ICU) and hospital length of stay, AKI, and in-hospital mortality. Discrimination for AKI and mortality was evaluated using a 5-fold cross-validated receiver operating characteristic (ROC) area under the curve (AUC) with bootstrap 95% confidence intervals. Calibration was assessed using recalibration intercept and slope, and decision curve analysis was used to explore clinical net benefit across threshold probabilities.",
+        "Results: The observed score distribution concentrated at 0 to 2 and 3; therefore, patients were analyzed as low score (0 to 2; n = 50) versus high score (3; n = 50). Compared with low-score patients, high-score patients had higher postoperative VIS (median 18.0 vs 10.0), longer ventilation (31.5 vs 22.0 hours), longer ICU stay (10.0 vs 5.5 days), and longer hospital stay (23.0 vs 12.5 days). AKI occurred in 40% versus 20%, and mortality in 10% versus 2% in high- versus low-score groups. In the combined 2 × 2 stratification, low score with normal TAPSE had no AKI or mortality, whereas high score with abnormal TAPSE had AKI in 55.6% and mortality in 14.8%. The combined score + TAPSE model showed moderate discrimination (AUC 0.77 for AKI; AUC 0.782 for mortality) with near-ideal calibration in this dataset. Decision curve analysis suggested a higher net benefit for the combined model than single-predictor models across threshold probabilities of approximately 0.05 to 0.30.",
+        "Conclusions: A simple three-point bedside congestion score stratifies postoperative risk after elective mitral valve surgery. Incorporating TAPSE into preoperative assessment provided a rapid and reliable means of excluding significant RV dysfunction, thereby reinforcing the validity of the threepoint scoring system. Multicenter external validation and evaluation of score-guided perioperative protocols are warranted."
+      ],
+      "journal": "Annals of cardiac anaesthesia",
+      "date": "Oct 01, 2026",
+      "authors": [
+        "Sharma M",
+        "Rajesh VSP",
+        "RamKiran KS",
+        "Trivedi V",
+        "Kanjani V",
+        "Patel K",
+        "Pandya H"
+      ],
+      "gmu_authors": [
+        "K S RamKiran"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.4103/aca.aca_138_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862668/",
+      "first_seen": "2026-10-13"
+    },
+    {
       "pmid": "42856932",
       "title": "Tooth surface loss associated with unshelled sunflower seed consumption: a scoping review",
       "topic": "Dentistry and oral health",
@@ -1051,6 +1064,43 @@
       ],
       "doi": "10.3389/fpsyt.2026.1934224",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42852021/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42841695",
+      "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
+      "topic": "Heart and circulation",
+      "abstract": [
+        "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
+        "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
+        "Results: Four randomized trials including 2,793 patients were analyzed. Indigenous stents demonstrated comparable rates of composite endpoints, myocardial infarction, repeat revascularization, and stent thrombosis across studies, with no consistent differences between groups.",
+        "Conclusion: The available RCT evidence shows no consistent signal of superiority or inferiority between indigenous and international thin-strut DES. However, heterogeneity and limited trial numbers warrant larger studies with long-term follow-up and real-world materiovigilance.",
+        "Protocol registration: CRD420251240469."
+      ],
+      "journal": "Expert review of medical devices",
+      "date": "Oct 2026",
+      "authors": [
+        "Bhosale A",
+        "Pratima P",
+        "Sinha AK",
+        "Karattuthodi MS",
+        "Gangachannaiah S",
+        "Thunga G",
+        "Kumar B",
+        "Ramachandran P",
+        "Kalaiselvan V",
+        "Shelke A",
+        "Murti K",
+        "Radhakrishnan R"
+      ],
+      "gmu_authors": [
+        "Mohammed Salim Karattuthodi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1080/17434440.2026.2746135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/",
       "first_seen": "2026-10-12"
     },
     {
@@ -1147,6 +1197,42 @@
       ],
       "doi": "10.3389/fvets.2026.1920393",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42835725/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42835369",
+      "title": "Mediating Effect of Perceived Ageism Experiences Between TikTok Addiction Symptoms and Psychological Distress: A Cross-Sectional Study",
+      "topic": "Mental health",
+      "abstract": [
+        "Background and aims: TikTok addiction has been linked to depression and anxiety, yet mechanisms underlying this relationship remain underexplored. Based on the Social Comparison and Uses and Gratifications theories, this study examined whether perceived ageism experiences mediate the relationship between TikTok addiction and depression and anxiety among Lebanese adults. The research also explores, as a theoretical possibility, whether TikTok's algorithm may be associated with greater perceived ageism experiences, which in turn would relate to psychological distress.",
+        "Methods: A cross-sectional survey was conducted among 855 participants (mean age 24.39; 76.7% females) using the TikTok Addiction Test, WHO Ageism Scale, and PHQ-4. Data were analyzed using SPSS and mediation analysis via PROCESS Macro controlling for demographic and health covariates, such as gender, education level and a history of mental health diagnosis. The mediation analysis included 735 participants with complete data for all variables entered into the model.",
+        "Results: TikTok addiction was positively associated with psychological distress. Perceived ageism experiences partially mediated this relationship (unstandardized indirect effect: B = 0.0149, BootSE = 0.005, 95% percentile bootstrapped CI [0.0058, 0.0255]). Higher TikTok addiction symptoms were associated with greater perceived ageism experiences, which were in turn associated with higher psychological distress levels. Demographic analysis showed that females, those with lower levels of education and individuals with a history of mental health diagnosis reported higher psychological distress. Age was negatively correlated with psychological distress, showcasing higher vulnerability among younger individuals.",
+        "Conclusion: Findings highlight perceived ageism experiences as a small but statistically significant mediator between addictive digital media use and psychological distress. The study emphasizes the need for culturally sensitive mental health and digital literacy interventions, as they aim to support the deconstruction of idealized youthful standards, particularly with the Lebanese context where digital media serves as escapism."
+      ],
+      "journal": "Health science reports",
+      "date": "Oct 2026",
+      "authors": [
+        "Rizk A",
+        "Kheir N",
+        "Hallit R",
+        "Iskandar K",
+        "Malaeb D",
+        "Barakat M",
+        "Sakr F",
+        "Dabbous M",
+        "Harb F",
+        "Obeid S",
+        "Hallit S",
+        "Fekih-Romdhane F"
+      ],
+      "gmu_authors": [
+        "Diana Malaeb"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1002/hsr2.73341",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835369/",
       "first_seen": "2026-10-12"
     },
     {
