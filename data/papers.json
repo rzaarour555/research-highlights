@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09 02:45 UTC",
+  "updated": "2026-11-11 02:41 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -350,6 +350,34 @@
       "doi": "10.1177/08919887251414658",
       "url": "https://pubmed.ncbi.nlm.nih.gov/41467884/",
       "first_seen": "2026-10-18"
+    },
+    {
+      "pmid": "43005134",
+      "title": "Surviving the glocal ecosystem: Academic dissonance, cultural adaptation, and coping among international medical students in the Caribbean",
+      "topic": "Medical education",
+      "abstract": [
+        "Introduction: The globalization of medical education has increased international student mobility, with many students choosing to study abroad to gain exposure to different healthcare systems and cultural environments. Despite this global trend, limited research exists on the experiences of international students attending newly established medical schools in developing regions. This study aims to explore the decision-making process, motivations, challenges, and adaptation strategies of international medical students at a brand-new medical school founded in 2023 in the Caribbean.",
+        "Methods: A qualitative, descriptive phenomenological approach was employed to explore students' lived experiences. Semi-structured interviews were conducted with 12 international students of various backgrounds and demographics. The interview questions focused on decision-making, perceived benefits, academic and cultural challenges, and coping strategies. Thematic analysis was used to identify key patterns and themes.",
+        "Results: Students were primarily motivated by the ability to begin their medical education without delays, citing flexible admissions, immediate program availability, and small class sizes. Challenges included academic rigor, adjusting to the flipped classroom model, cultural differences, homesickness, limited island resources, and concerns about the school's newness. Adaptation strategies included personalized study methods, mindfulness, physical activity, social support networks, and environmental resourcefulness.",
+        "Discussion: International students chose Caribbean medical schools for accessible admissions, personalized education, and career alignment despite financial, social, and reputational challenges. They faced academic, cultural, and emotional pressures but used resilience and adaptive coping, achieving partial integration and academic progress, consistent with theoretical frameworks. These findings highlight the need for a comprehensive student support programme addressing academic, cultural, emotional, logistical, and reputational needs to promote well-being, retention, and successful adaptation."
+      ],
+      "journal": "Frontiers in medicine",
+      "date": "2026",
+      "authors": [
+        "Al-Eraky MM",
+        "Belogubova S",
+        "Kondratiuk M",
+        "Taylor D"
+      ],
+      "gmu_authors": [
+        "David Taylor"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fmed.2026.1937943",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005134/",
+      "first_seen": "2026-11-11"
     },
     {
       "pmid": "42934775",
