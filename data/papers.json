@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11 02:41 UTC",
+  "updated": "2026-11-12 09:20 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -278,6 +278,47 @@
       "first_seen": "2026-11-05"
     },
     {
+      "pmid": "43012368",
+      "title": "Redox and Inflammatory Mechanisms in PMOS and Endometriosis: A Critical Review of Microbial and Plant-Derived Interventions",
+      "topic": "Mental health",
+      "abstract": [
+        "Background: Polycystic ovary syndrome (PCOS) or polyendocrine metabolic ovarian syndrome (PMOS) and endometriosis arise from different endocrine and tissue disturbances, yet oxidative stress (OS) and inflammation connect their initiating processes to reproductive dysfunction.",
+        "Objective: In PMOS, redox-inflammatory signaling intersects with insulin resistance, androgen excess, and follicular dysfunction; in endometriosis, it supports estrogen-dependent lesion persistence, angiogenesis, and fibrosis. This narrative review examines these interactions and evaluates microbial and plant-derived interventions according to their mechanistic targets and clinical evidence.",
+        "Key findings: Selected probiotic, synbiotic, and phytochemical trials in PMOS report improvements in metabolic, endocrine, and oxidative-inflammatory measures. In endometriosis, human intervention findings are concentrated in pain outcomes, while evidence for modulation of lesion biology remains predominantly experimental. Across both disorders, formulation, biological compartment, baseline phenotype, and concomitant treatment influence interpretation of therapeutic effects. Microbial metabolism offers a potential link between the two intervention classes by modifying phytochemical exposure and generating bioactive metabolites.",
+        "Conclusions: The evidence-informed comparative framework identifies where mechanistic findings have reached clinical evaluation and where further translation is needed. Future trials should connect standardized interventions and disease-specific clinical outcomes with measurements of microbial function and redox signaling to establish which patients benefit and through which pathways."
+      ],
+      "journal": "Immunity, inflammation and disease",
+      "date": "Nov 2026",
+      "authors": [
+        "Hussain AA",
+        "Ali SM",
+        "Naser RSA",
+        "Abdullah SS",
+        "Barakat MI",
+        "Dutta S",
+        "Sengupta P",
+        "Chaitanya MVNL",
+        "Hegde P",
+        "Chakrabarti S",
+        "Rosas IM",
+        "Roychoudhury S"
+      ],
+      "gmu_authors": [
+        "Afnan Athar Hussain",
+        "Shafna Mohamed Ali",
+        "Ruaa Safwan Al Naser",
+        "Sahar Safari Abdullah",
+        "Mohamad Imadeddin Barakat",
+        "Pallav Sengupta"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1002/iid3.70581",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43012368/",
+      "first_seen": "2026-11-12"
+    },
+    {
       "pmid": "42997072",
       "title": "Bilateral, Asynchronous, Inferior Shoulder Dislocation in a Multidisabled Patient: A Case Report and Review of the Literature",
       "topic": "Brain and nervous system",
@@ -303,993 +344,6 @@
       "first_seen": "2026-11-09"
     },
     {
-      "pmid": "41467884",
-      "title": "Knowledge and Attitudes Toward Dementia Among Healthcare Professionals in the MENA Region: A Multinational Survey",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "BackgroundDementia is an escalating public health challenge in the MENA region, where primary healthcare professionals' (HCPs) knowledge and preparedness remain underexplored. Understanding their knowledge and attitudes is vital for early diagnosis, quality care, and effective awareness strategies.MethodsWe conducted a cross-sectional study of 1224 HCPs across several Arab countries, primarily in primary care settings. Data were collected via an online survey using two validated instruments: the Dementia Knowledge Assessment Scale (DKAS) and the Dementia Attitudes Scale (DAS).ResultsMost participants demonstrated moderate knowledge (68.5%), while 19.9% demonstrated poor knowledge and 11.5% demonstrated good knowledge. Attitudes were largely neutral to positive (44.1%). Multivariate analysis revealed that higher age predicted better knowledge (OR = 1.04, 95% CI: 1.02-1.06, P < .001), while positive attitudes were significantly associated with older age (OR = 1.02, 95% CI: 1.01-1.04, P = .002), female gender (OR = 1.44, 95% CI: 1.14-1.84, P = .003), and higher knowledge scores (OR = 1.23, 95% CI: 1.17-1.28, P < .001).Conclusionmoderate knowledge and generally positive attitudes, important gaps persist. Tailored education, particularly for younger and male HCPs, is needed to improve dementia literacy and care."
-      ],
-      "journal": "Journal of geriatric psychiatry and neurology",
-      "date": "Nov 2026",
-      "authors": [
-        "Dahshan A",
-        "Hassan RM",
-        "Doma ES",
-        "Abdelfatah D",
-        "Khalil MIM",
-        "Abdullahi NM",
-        "Al-Yafeai TM",
-        "Selim TM",
-        "Salameh B",
-        "Al-Nawaja'a IAK",
-        "Wahba NMI",
-        "Hammooz A",
-        "Sultan HM",
-        "Kareem WM",
-        "Ahmed WM",
-        "Hermis AH",
-        "Al-Jabri MM",
-        "Khraisat AMS",
-        "Hweissa NA",
-        "AlGhaithi A",
-        "Tarhuni E",
-        "Abdulhamza A",
-        "Hallaj F",
-        "Abd El Ghany NKAEF",
-        "Mousa EFS",
-        "Mohamed OEE",
-        "El-Lawaty WMAE",
-        "Khedr D"
-      ],
-      "gmu_authors": [
-        "Hosny Maher Sultan"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1177/08919887251414658",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41467884/",
-      "first_seen": "2026-10-18"
-    },
-    {
-      "pmid": "43005134",
-      "title": "Surviving the glocal ecosystem: Academic dissonance, cultural adaptation, and coping among international medical students in the Caribbean",
-      "topic": "Medical education",
-      "abstract": [
-        "Introduction: The globalization of medical education has increased international student mobility, with many students choosing to study abroad to gain exposure to different healthcare systems and cultural environments. Despite this global trend, limited research exists on the experiences of international students attending newly established medical schools in developing regions. This study aims to explore the decision-making process, motivations, challenges, and adaptation strategies of international medical students at a brand-new medical school founded in 2023 in the Caribbean.",
-        "Methods: A qualitative, descriptive phenomenological approach was employed to explore students' lived experiences. Semi-structured interviews were conducted with 12 international students of various backgrounds and demographics. The interview questions focused on decision-making, perceived benefits, academic and cultural challenges, and coping strategies. Thematic analysis was used to identify key patterns and themes.",
-        "Results: Students were primarily motivated by the ability to begin their medical education without delays, citing flexible admissions, immediate program availability, and small class sizes. Challenges included academic rigor, adjusting to the flipped classroom model, cultural differences, homesickness, limited island resources, and concerns about the school's newness. Adaptation strategies included personalized study methods, mindfulness, physical activity, social support networks, and environmental resourcefulness.",
-        "Discussion: International students chose Caribbean medical schools for accessible admissions, personalized education, and career alignment despite financial, social, and reputational challenges. They faced academic, cultural, and emotional pressures but used resilience and adaptive coping, achieving partial integration and academic progress, consistent with theoretical frameworks. These findings highlight the need for a comprehensive student support programme addressing academic, cultural, emotional, logistical, and reputational needs to promote well-being, retention, and successful adaptation."
-      ],
-      "journal": "Frontiers in medicine",
-      "date": "2026",
-      "authors": [
-        "Al-Eraky MM",
-        "Belogubova S",
-        "Kondratiuk M",
-        "Taylor D"
-      ],
-      "gmu_authors": [
-        "David Taylor"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.3389/fmed.2026.1937943",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43005134/",
-      "first_seen": "2026-11-11"
-    },
-    {
-      "pmid": "42934775",
-      "title": "Smartphone-derived mobility metrics identify distinct recovery phenotypes following ACL reconstruction: associations with function, pain, and psychological health",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Background: Recovery after anterior cruciate ligament (ACL) reconstruction is typically monitored through patient-reported outcomes and periodic clinical assessments, which may not fully capture real-world functional performance. Smartphone-derived mobility data provide a passive and objective approach for evaluating daily activity and recovery.",
-        "Purpose: To examine associations between smartphone-derived mobility metrics and recovery outcomes in adults 3-12 months after primary ACL reconstruction and to identify distinct recovery phenotypes using mobility-based clustering.",
-        "Methods: This cross-sectional study included 120 adults who were 3-12 months post-primary ACL reconstruction and had at least 14 days of retrospective smartphone mobility data. Mobility variables included daily step count, activity volume and intensity (e.g., active minutes and walking bout duration), sedentary behavior, and walking-related metrics. Outcomes included pain (Numeric Rating Scale [NRS]), functional status (Knee Injury and Osteoarthritis Outcome Score [KOOS] Pain, Activities of Daily Living, and Sport/Recreation subscales), knee-related quality of life (ACL Quality of Life questionnaire [ACL-QoL]), and psychological measures including the Pain Catastrophizing Scale (PCS), Patient Health Questionnaire-9 (PHQ-9), and Generalized Anxiety Disorder-7 (GAD-7). Associations were evaluated using Pearson correlation and multivariable linear regression analyses. Recovery phenotypes were identified using unsupervised k-means clustering of mobility metrics.",
-        "Results: Higher daily step counts were independently associated with better KOOS-ADL scores (β = 0.48, p < 0.001), higher ACL-QoL scores (β = 0.45, p < 0.001), and lower pain intensity (β = - 0.39, p = 0.001). Three recovery phenotypes emerged: a high-activity/low-pain phenotype with superior function and minimal psychological distress, a moderate-activity/moderate-pain phenotype with intermediate outcomes, and a low-activity/high-pain phenotype characterized by reduced mobility, poorer function, greater pain, and higher pain catastrophizing. Significant gradients were observed across phenotypes for pain (NRS: 1.72-5.01), function (KOOS-Pain: 88.94-62.37), and pain catastrophizing (PCS: 8.52-24.91; all p < 0.001).",
-        "Conclusions: Smartphone-derived mobility metrics were significantly associated with recovery outcomes following ACL reconstruction. Mobility-based clustering identified distinct recovery phenotypes associated with meaningful differences in pain, function, and pain catastrophizing, highlighting the potential of passive mobility monitoring to support personalized rehabilitation strategies. However, given the variability in evaluation periods and uncontrolled surgical factors, future research employing standardized, long-term follow-ups is warranted."
-      ],
-      "journal": "Knee surgery & related research",
-      "date": "Oct 26, 2026",
-      "authors": [
-        "Kandakurti PK",
-        "Koura GM",
-        "Reddy RS",
-        "Kardm S",
-        "Gautam AP",
-        "Elshiwi AMF",
-        "Ali ZA",
-        "Alali RS",
-        "El Melhat AM"
-      ],
-      "gmu_authors": [
-        "Praveen Kumar Kandakurti"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.1186/s43019-026-00353-1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934775/",
-      "first_seen": "2026-10-28"
-    },
-    {
-      "pmid": "42953391",
-      "title": "Clinicopathological Profile, Treatment Patterns and Documented Clinical Outcomes of Women with Breast Cancer at Shendi Hospital, Sudan: A Retrospective, Single-Center, Hospital-Based Cross-Sectional Study",
-      "topic": "Cancer research",
-      "abstract": [
-        "Background: Breast cancer is the most common cancer in Sudan, yet hospital-based data from outside Khartoum are scarce. We described the clinicopathological profile, treatment and documented outcomes of women with breast cancer at Shendi Hospital and explored factors associated with recurrence, distant metastasis and global well-being.",
-        "Methods: In this retrospective, single-center, cross-sectional review, we abstracted records of 100 women with histologically confirmed invasive breast cancer managed in 2021-2025. Distant metastasis was defined as documented extranodal disease, and global well-being as a single good/fair/poor rating recorded in clinical notes. Associations were examined with exact tests and three pre-specified Firth penalized logistic regression models (four covariates each) with bootstrap validation; all inferential analyses were exploratory.",
-        "Results: Median age was 50 years (IQR 44-55). Stage III/IV disease was recorded in 72%, tumors >2 cm in 97% and nodal involvement in 73%. Receptor status was undocumented in 69%; all 31 documented results were hormone-receptor-negative (18 triple-negative, 13 HER2-positive), yet 16 of these women had recorded hormonal therapy. Mastectomy was performed in 65%; chemotherapy, radiotherapy and hormonal therapy were recorded in 99%, 48% and 45%. Recurrence was documented in 19/98 women (19%) and extranodal metastasis in 30/93 (32%); no deaths were recorded and follow-up duration was unknown. Tumors >5 cm were associated with recurrence (adjusted odds ratio 3.81, 95% CI 1.28-11.61), and extranodal metastasis with a fair well-being rating (5.64, 2.01-17.20); nodal status, economic status and age were not associated with any outcome after adjustment. Recorded treatment co-occurred with recurrence, but treatment timing was undocumented, precluding causal interpretation.",
-        "Conclusion: Women at this center presented with advanced disease, and receptor documentation was largely absent and internally inconsistent. These exploratory associations need confirmation in prospective studies with complete receptor testing, dated treatment records and active follow-up."
-      ],
-      "journal": "Breast cancer (Dove Medical Press)",
-      "date": "2026",
-      "authors": [
-        "Ali EI",
-        "Abusail Mustafa S",
-        "Elzein HO",
-        "Andarawi MO",
-        "Zaroog MS",
-        "Abass AE",
-        "Attaelmanan GA",
-        "Yasin FMO",
-        "Alfeel AH",
-        "Ismail M"
-      ],
-      "gmu_authors": [
-        "Ayman Hussein Alfeel",
-        "Marwan Ismail"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.2147/BCTT.S650507",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42953391/",
-      "first_seen": "2026-10-30"
-    },
-    {
-      "pmid": "42921916",
-      "title": "Targeting the gut-brain axis with Bifidobacterium breve in neurodegeneration: A comprehensive narrative review of current evidence in Alzheimer's disease and cognitive aging",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder arising from the interplay of amyloid, tau, neuroimmune, oxidative stress, metabolic, vascular, and synaptic processes, ultimately resulting in neurodegeneration across multiple brain regions and progressive memory and cognitive impairment. Gut dysfunction may contribute to the initiation and progression of AD-related processes through the gut-brain axis, whereby alterations in the gut microbiota can influence brain function through chemical, neuronal, immune, and metabolic pathways. Growing interest in the microbiota-gut-brain axis has consequently prompted investigation of strain-specific probiotics as potential adjunctive approaches to restoring gut microbial homeostasis. This comprehensive narrative review critically integrates preclinical and human evidence on Bifidobacterium breve in AD-related pathology and age-associated cognitive impairment. Targeted searches of PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar were conducted through April 2026 and supplemented by reference-list searching. The evidence base comprised 13 preclinical publications and five human publications representing four independent clinical cohorts. Preclinical studies, predominantly conducted in rodent models, reported strain-dependent effects on cognition, amyloid- and tau-related measures, synaptic proteins, neuroinflammation, oxidative stress, microbial composition, and metabolite profiles. Human evidence was limited to B. breve MCC1274 (A1) and primarily involved Japanese adults with memory complaints or suspected mild cognitive impairment. Overall, current evidence supports a mechanistic rationale for the potential role of B. breve as a gut-brain modulator; however, the heterogeneity of preclinical findings and the small, geographically concentrated clinical evidence base highlight the need for further well-designed studies to more clearly define clinical efficacy and long-term safety."
-      ],
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "date": "Oct 22, 2026",
-      "authors": [
-        "Hamzeh O",
-        "Halaji M",
-        "Rostami A",
-        "Md Ashraf G"
-      ],
-      "gmu_authors": [
-        "Ghulam Md Ashraf"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1177/13872877261496277",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921916/",
-      "first_seen": "2026-10-26"
-    },
-    {
-      "pmid": "42984639",
-      "title": "The mediating role of self-esteem in the association between locus of control and fear of failure and hope for success among women in five Arab countries",
-      "topic": "Public health",
-      "abstract": [
-        "Background: Achievement motivation is commonly described through two related but distinct tendencies: hope for success and fear of failure. Locus of control may be associated with these achievement motives through self-esteem, but these relationships have been examined mainly in Western and individualist contexts. This study examined whether self-esteem statistically mediates the association between locus of control and achievement motives among Arab women, within the broader context of collectivist values, relational self-construal and gendered family socialization.",
-        "Methods: A multinational cross-sectional online survey was conducted between July 2024 and March 2025 among native Arabic-speaking women aged 18 years or older residing in Lebanon, Egypt, Oman, Palestine and Morocco. Participants were recruited using convenience and snowball sampling. Locus of control was measured using the Internal-External Locus of Control Short Scale, self-esteem using the Single-Item Self-Esteem Scale and achievement motives using the Revised Achievement Motives Scale. Mediation analyses examined indirect associations through self-esteem. Bivariate analyses were used to examine perceived parental son preference in relation to achievement motives.",
-        "Results: A total of 1,963 women completed the questionnaire (mean age = 27.42 years). Self-esteem statistically mediated the association between internal locus of control and hope for success (indirect effect B = 0.22, 95% bootstrap CI [0.17 to 0.27]) and the association between internal locus of control and fear of failure (B = -0.06, 95% bootstrap CI [-0.10, -0.02]). For external locus of control, self-esteem statistically mediated its association with hope for success (B = -0.08, 95% bootstrap CI [-0.13 to -0.03]), while no indirect association was observed for fear of failure (B = 0.001, 95% bootstrap CI [-0.01 to 0.01]).",
-        "Conclusion: In this cross-sectional convenience sample of Arab women, self-esteem statistically accounted for part of the associations between locus of control and achievement motives, particularly hope for success. The bivariate associations involving perceived parental male preference suggest that family gender socialization may be relevant to women's achievement motivation, but these findings should be interpreted cautiously and separately from the mediation models. Because of the cross-sectional design, convenience and snowball sampling, and low internal consistency of the brief locus-of-control subscales, the findings should be understood as preliminary associations rather than causal evidence. Further studies using longitudinal and stronger measures are needed."
-      ],
-      "journal": "Frontiers in psychology",
-      "date": "2026",
-      "authors": [
-        "Gedeon E",
-        "El Zoghbi C",
-        "Awarkeh L",
-        "Salameh C",
-        "Geagea A",
-        "Malaeb D",
-        "Alhuwailah A",
-        "Helmy M",
-        "Rashid T",
-        "Barakat M",
-        "Fekih-Romdhane F",
-        "Hallit S",
-        "Obeid S",
-        "El Khoury MA"
-      ],
-      "gmu_authors": [
-        "Diana Malaeb"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.3389/fpsyg.2026.1890383",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42984639/",
-      "first_seen": "2026-11-06"
-    },
-    {
-      "pmid": "42958285",
-      "title": "Development of an evidence-informed doctoral curriculum framework in physical therapy sciences: an international benchmarking and expert validation study",
-      "topic": "Medical education",
-      "abstract": [
-        "Background: The expanding scope of Physical Therapy research, coupled with rapid advances in digital health, artificial intelligence, implementation science, and evidence-based rehabilitation, has increased the demand for doctoral graduates with advanced research, leadership, and interdisciplinary competencies. Despite this evolution, published guidance describing systematic and evidence-informed approaches to developing doctoral curricula in Physical Therapy Sciences remains limited. This study aimed to develop and externally validate an evidence-informed doctoral curriculum framework through systematic needs assessment, international benchmarking, competency mapping, and constructive alignment.",
-        "Methods: A multiphase evidence-informed curriculum development methodology was employed. The study comprised seven sequential phases: (1) needs assessment and environmental analysis; (2) international benchmarking; (3) comparative curriculum analysis; (4) competency mapping ; (5) Curriculum framework development; (6) Curriculum refinement and quality assurance; and (7) external expert content validation. Twenty-four doctoral programmes from research-intensive universities in the United Kingdom, United States, Canada, and Australia were screened, of which eighteen met the predefined inclusion criteria for benchmarking. The proposed curriculum was subsequently evaluated by an international panel of twelve experts using a structured validation instrument, and content validity was assessed using item-level and scale-level Content Validity Indices.",
-        "Results: Benchmarking demonstrated substantial consistency across international doctoral programmes in advanced research methodology, biostatistics, research ethics, scientific writing, proposal development, and independent dissertation research. Comparative analysis further identified increasing emphasis on digital health, artificial intelligence, implementation science, interdisciplinary collaboration, research leadership, and knowledge translation as emerging doctoral competencies. These findings informed the development of a competency-based doctoral curriculum aligned with internationally recognised educational frameworks. External expert validation demonstrated high perceived relevance, competency alignment, curriculum structure, content appropriateness, and implementation feasibility of the proposed framework, with domain-specific agreement ranging from 92% to 100%. Minor recommendations related to curriculum sequencing and emerging digital competencies were incorporated without altering the overall doctoral curriculum framework.",
-        "Conclusions: This study presents an evidence-informed and high perceived relevance, alignment, and feasibility among an international expert panel that aligns Physical Therapy Sciences education with contemporary international educational standards and evolving rehabilitation research priorities. The proposed framework offers a transparent methodology for curriculum development that integrates systematic benchmarking, competency mapping, and expert validation, providing a practical model to inform the development or revision of doctoral programmes in Physical Therapy and related health professions. Future implementation studies are warranted to evaluate its educational effectiveness across diverse institutional settings."
-      ],
-      "journal": "BMC medical education",
-      "date": "Oct 19, 2026",
-      "authors": [
-        "Hazari A",
-        "Kandakurti PK",
-        "Amaravadi SK",
-        "Agouris I",
-        "Jaiswal VC",
-        "Venkatramana M"
-      ],
-      "gmu_authors": [
-        "Animesh Hazari",
-        "Praveen Kumar Kandakurti",
-        "Varoon C Jaiswal",
-        "Manda Venkatramana"
-      ],
-      "colleges": [
-        "College of Health Sciences",
-        "College of Medicine"
-      ],
-      "doi": "10.1186/s12909-026-10581-4",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42958285/",
-      "first_seen": "2026-10-31"
-    },
-    {
-      "pmid": "42942844",
-      "title": "Cell Membrane-Coated Nanoparticles as Biomimetic Drug Delivery Systems: Design, Therapeutic Applications, and Translational Challenges",
-      "topic": "Pharmacy and drug research",
-      "abstract": [
-        "Biomimetic cell membrane-coated nanoparticles (CM-NPs) have emerged as a promising class of nanocarriers that integrate the tunable physicochemical properties of engineered nanoparticles with selected biological features of naturally derived cell membranes. By retaining membrane-associated proteins, lipids, glycans, and receptors, CM-NPs have demonstrated the potential to modulate immune recognition, prolong systemic circulation, improve biocompatibility, and facilitate disease-specific targeting; however, these effects depend on the membrane source, nanoparticle composition, coating integrity, fabrication method, and biological context. This review critically examines major membrane-engineering strategies, including lipid insertion, covalent conjugation, metabolic glycoengineering, and genetic modification, together with fabrication methods such as extrusion, sonication, electroporation, in situ polymerization, and microfluidics. Particular emphasis is placed on nanoparticles coated with erythrocyte, platelet, stem cell, immune cell, bacterial, cancer cell, and hybrid membranes. Their therapeutic applications are critically evaluated, with a primary focus on cancer therapy, including photothermal and photodynamic approaches, alongside applications in cardiovascular, neurological, infectious, inflammatory, and regenerative diseases. Recent CM-NP platforms are systematically summarized according to membrane source, therapeutic cargo or nanoparticle core, disease application, and major outcomes, while recent patents are discussed to highlight emerging technological and translational developments. Despite encouraging preclinical findings, clinical translation remains constrained by challenges in membrane isolation and purification, batch reproducibility, manufacturing scalability, preservation of membrane integrity and functionality, quality control, long-term stability, biosafety, and regulatory standardization. Advances in membrane engineering, hybrid membrane systems, scalable manufacturing, standardized characterization, and rigorous safety evaluation will be important for advancing CM-NPs toward clinical translation."
-      ],
-      "journal": "Pharmaceutics",
-      "date": "Oct 16, 2026",
-      "authors": [
-        "Jacob S",
-        "Varkey NR",
-        "Rao R",
-        "Shinu P",
-        "Khanam R"
-      ],
-      "gmu_authors": [
-        "Shery Jacob",
-        "Namitha Raichel Varkey",
-        "Razia Khanam"
-      ],
-      "colleges": [
-        "College of Pharmacy",
-        "College of Medicine"
-      ],
-      "doi": "10.3390/pharmaceutics18101314",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42942844/",
-      "first_seen": "2026-10-28"
-    },
-    {
-      "pmid": "42880817",
-      "title": "Exploring emotion identification and categorisation in simulated central vision loss: an event-related potential study",
-      "topic": "Other research",
-      "abstract": [
-        "Objective: This study investigated how simulated central vision loss (SimCVL) affected emotion identification and categorisation in individuals with normal vision.",
-        "Methods and analysis: The study recruited 29 healthy volunteers, including young adults (YA: 20–35 years) (n=10), mid-aged (MA: 40–55 years) (n=10) and older adults (60–75 years) (n=9). The participants were presented with human faces displaying three emotions, neutral, happy and sad, as stimuli. SimCVL was simulated using custom-made MATLAB programming. The study developed two experiments to investigate emotion identification (experiment 1: oddball design) and categorisation (experiment 2: equiprobable design). The behavioural responses and event-related potential (ERP) waveforms were analysed using E-prime and electroencephalogram laboratory toolbox in MATLAB, and the data was analysed using SPSS V.20.",
-        "Results: Emotion identification was present for both happy and sad in the Oddball (P300) paradigm. However, reduced amplitudes and delayed latencies were observed in OAs, particularly in simulated conditions (p<0.01). OAs had delayed reaction times and reduced accuracy in the simulated condition compared with MA and YA (p<0.01). No or minimal differences in amplitudes and latencies were found for early visual processing (P100) and encoding of facial features (N170) across age groups in simulated conditions. Delayed latencies and reduced amplitudes were observed in OAs when decoding (N250) facial features.",
-        "Conclusion: Emotion identification and categorisation are affected in older individuals with SimCVL compared with young and MA adults. Negative emotions had reduced performance index than happy across age groups, and this effect was maximum in OAs. The study suggests that further research is needed to explore the neural basis of emotional processing in patients with CVL using event-related potentials."
-      ],
-      "journal": "BMJ open ophthalmology",
-      "date": "Oct 15, 2026",
-      "authors": [
-        "Madheswaran G",
-        "S Ve R",
-        "Ganeshrao SB",
-        "Raman R",
-        "Palaniswamy HP"
-      ],
-      "gmu_authors": [
-        "Gopinath Madheswaran"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.1136/bmjophth-2025-002689",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42880817/",
-      "first_seen": "2026-10-26"
-    },
-    {
-      "pmid": "42952724",
-      "title": "Efficacy of a single-file reciprocating protocol vs. a multi-file rotary protocol on the removal of gutta-percha and ceraSeal sealer from oval canals: a volumetric and active instrumentation time analysis",
-      "topic": "Public health",
-      "abstract": [
-        "Objective: To evaluate and compare the overall efficacy and time efficiency of two complete manufacturer-recommended retreatment protocols, a single-file reciprocating protocol, Reciproc (RC), vs. a multi-file continuous rotary protocol, ProTaper Universal Retreatment (PR), in removing gutta-percha and CeraSeal sealer from oval-shaped root canals.",
-        "Methodology: Thirty-six single-rooted human mandibular premolars with single oval canals were selected, instrumented, and obturated with a matching cone gutta-percha and CeraSeal sealer. Initial filling volumes were evaluated via CBCT. The samples were randomly divided into two experimental groups (n = 18) according to the file used for retreatment. The net active instrumentation time was recorded. Post-retreatment CBCT scans were performed to measure the volume and percentage of remaining filling materials. Data were statistically analyzed at a significance level of p ≤ 0.05.",
-        "Results: Both systems significantly reduced the filling volume (p < 0.0001). No significant difference was found in the initial filling volumes between groups (p = 0.616). However, the RC group demonstrated a significantly lower mean volume (0.474 ± 0.313 mm3) and percentage (5.52 ± 1.97%) of remaining filling material compared to the PR group (1.735 ± 0.753 mm3 and 20.72 ± 2.93%, respectively; p < 0.0001). Furthermore, the RC group required significantly less active instrumentation time (48.69 ± 4.98 s) than the PR group (68.49 ± 5.43 s, p < 0.0001).",
-        "Conclusion: Within the limitations of this in vitro study, neither mechanical retreatment protocol completely removed CeraSeal sealer and gutta-percha from oval root canals. However, the single-file RC protocol was significantly more effective and time-efficient than the multi-file PR protocol. The superior performance of the RC protocol reflects the combined effect of its matched apical size (size 40 vs. size 20), single-file sequence, cross-sectional design, and reciprocating kinematics, rather than kinematic motion alone."
-      ],
-      "journal": "Frontiers in dental medicine",
-      "date": "2026",
-      "authors": [
-        "Zorek A",
-        "Mahran AH",
-        "Nabeel M",
-        "Elsewify T"
-      ],
-      "gmu_authors": [
-        "Tarek Elsewify"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.3389/fdmed.2026.1926115",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42952724/",
-      "first_seen": "2026-10-30"
-    },
-    {
-      "pmid": "42947872",
-      "title": "Prevalence, patterns, perceptions, and sociodemographic determinants of dietary supplement use among adults in the United Arab Emirates",
-      "topic": "Public health",
-      "abstract": [
-        "Background: Previous studies have documented dietary supplement use in the United Arab Emirates (UAE), but many have focused on specific populations, supplement categories, geographical settings, or particular contexts. Evidence integrating overall supplement use, patterns and experiences of use, perceptions, and associated sociodemographic and health-related factors among adult UAE residents remains limited. This study aimed to determine the prevalence and patterns of dietary supplement use, assess supplement-related perceptions, and identify factors associated with supplement use and perceptions among adults residing in the UAE.",
-        "Methods: A cross-sectional, questionnaire-based study was conducted among 600 adults aged ≥18 years residing in the UAE (58.8% male, 41.2% female). Participants were recruited using convenience sampling through an anonymous electronic survey distributed through university-linked networks, community groups, and public online platforms. A structured questionnaire assessed sociodemographic and health characteristics, dietary supplement use and related practices, and four perceptions regarding supplement necessity, safety, disease prevention, and promotion by healthcare professionals. Associations were examined using Pearson's chi-square test and binary logistic regression. Adjusted odds ratios (AORs) with 95% confidence intervals (CIs) were reported.",
-        "Results: Overall, 287 participants (47.8%) reported ever using dietary supplements; among them, 58.9% were current users. Vitamins (70.6%), minerals (57.8%), and protein supplements (47.4%) were the most commonly reported categories. Managing nutritional deficiencies (38.0%) and improving fitness (35.3%) were the leading reasons for use, while healthcare professionals were the most frequently reported source of recommendation (40.1%). In the adjusted analysis, undergraduate/postgraduate education (AOR 18.32, 95% CI 9.09-36.89; p < 0.001), female sex (AOR 3.13, 95% CI 1.76-5.58; p < 0.001), Expat Arab nationality compared with UAE nationality (AOR 4.58, 95% CI 2.14-9.82; p < 0.001), and chronic medical conditions (AOR 2.15, 95% CI 1.27-3.64; p = 0.004) were associated with higher odds of supplement use, whereas employment compared with student status was associated with lower odds (AOR 0.28, 95% CI 0.13-0.61; p = 0.001). Ever supplement use was the only factor consistently associated with all four favorable perception outcomes (all p < 0.001).",
-        "Conclusion: The findings highlight the need for evidence-based nutrition education and individualized professional guidance to support informed and appropriate use of dietary supplements. Incorporating supplement-use history into clinical assessment may help address inappropriate use, misconceptions, and potential supplement-drug interactions. Longitudinal and population-representative studies with documented geographic coverage across the UAE are needed to confirm these associations and clarify the relationship between supplement use and perceptions."
-      ],
-      "journal": "Frontiers in nutrition",
-      "date": "2026",
-      "authors": [
-        "Alkhayat A",
-        "Khan NS"
-      ],
-      "gmu_authors": [
-        "Ali Alkhayat",
-        "Nelofar Sami Khan"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.3389/fnut.2026.1955988",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42947872/",
-      "first_seen": "2026-10-29"
-    },
-    {
-      "pmid": "42872747",
-      "title": "A Standardized In Vitro Protocol for Evaluating Human Dental Pulp Stem Cell Differentiation and Proliferation on Nanomaterial Scaffolds",
-      "topic": "Dentistry and oral health",
-      "abstract": [
-        "Reliable assessment of osteogenic and odontogenic differentiation, as well as stem cell proliferation, is fundamental to evaluating the biological performance of scaffold-based regenerative strategies. However, variability in experimental protocols, assay selection, and data interpretation often limits reproducibility and inter-study comparison. The protocol described in this article presents a standardized, reproducible workflow for the in vitro evaluation of osteogenic and odontogenic differentiation, as well as proliferative capacity, of stem cells cultured on biomaterial scaffolds. Osteogenic commitment is evaluated by alkaline phosphatase (ALP) enzymatic activity and Receptor Activator of Nuclear Factor κB Ligand (RANKL) immunofluorescence, while odontogenic commitment is assessed by DMP-1 (dentin matrix protein-1) immunofluorescence; both protein endpoints are quantified using standardized H-score methodology. Critical experimental parameters, including cell seeding density, induction timelines, assay conditions, normalization strategies (including protein-normalized ALP activity, cell-normalized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) viability, and immunofluorescence H-score), and data analysis approaches, are detailed, along with troubleshooting guidance to minimize technical variability. The methodology has been applied as a standardized framework across multiple scaffold-based experimental studies, demonstrating robustness and reproducibility. By providing a comprehensive, validated framework, this article aims to facilitate standardized assessment of stem cell-scaffold interactions and improve comparability across preclinical regenerative studies."
-      ],
-      "journal": "Journal of visualized experiments : JoVE",
-      "date": "Oct 13, 2026",
-      "authors": [
-        "Makawi DM",
-        "Mahran AH",
-        "Elgendy AA",
-        "Yehia TA",
-        "Amer YH",
-        "Elsewify TM"
-      ],
-      "gmu_authors": [
-        "Dina M Makawi",
-        "Yahya H Amer",
-        "Tarek M Elsewify"
-      ],
-      "colleges": [
-        "College of Dentistry"
-      ],
-      "doi": "10.3791/71983",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42872747/",
-      "first_seen": "2026-10-15"
-    },
-    {
-      "pmid": "42941816",
-      "title": "In Vitro Anti-Proliferative and Cisplatin-Modulating Effects of Cedrus libani A. Rich Leaf Essential Oil on H460 and HT-29 Human Cancer Cell Lines",
-      "topic": "Cancer research",
-      "abstract": [
-        "Cedrus libani A. Rich is a coniferous tree native to the eastern Mediterranean region that is known for exhibiting pharmacological properties. In the present study, we investigated the anti-proliferative effect of C. libani leaf essential oil (EO) against H460 and HT-29, as well as evaluated its chemo-modulatory effect with cisplatin (CIS). The EO chemical profile was analyzed via GC-MS. Cell viability was assessed using MTT, while trypan blue exclusion and Annexin V/Propidium Iodide staining were employed to detect cell death. Colony biomass and wound closure were evaluated using crystal violet staining and a scratch assay, respectively. Nuclear morphology and reactive oxygen species (ROS) were assessed using DAPI staining and an NBT assay, respectively. EO and CIS individually reduced cell viability in a time- and concentration-dependent manner with combination treatments demonstrating synergistic/additive/antagonistic interactions depending on the combination ratio, cell line and time point. EO alone does not exhibit significant cell death, whereas CIS demonstrated significant apoptosis and necrosis. The combination (IC50:IC50) enhanced cell death, particularly in HT-29. Both EO and CIS reduced colony biomass and wound closure, with the combination showing higher inhibitory effect on colony biomass in both cell lines and enhanced wound closure inhibitory effect in HT-29 but reduced effect in H460. CIS and combination caused more notable nuclear alterations compared to EO alone, whereas an early increase in NBT reduction followed by a subsequent decrease was observed for individual treatments as well as the combination. This study provides insights into the antiproliferative and chemo-modulatory potential of C. libani leaf essential oil, although further studies are needed to elucidate the underlying molecular mechanisms."
-      ],
-      "journal": "International journal of molecular sciences",
-      "date": "Oct 12, 2026",
-      "authors": [
-        "Younes H",
-        "Azakir B",
-        "Zaarour R",
-        "Hayeck N",
-        "Borjac J"
-      ],
-      "gmu_authors": [
-        "Rania Zaarour"
-      ],
-      "colleges": [
-        "Thumbay Research Institute for Precision Medicine"
-      ],
-      "doi": "10.3390/ijms27209044",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42941816/",
-      "first_seen": "2026-10-28"
-    },
-    {
-      "pmid": "42853362",
-      "title": "A causal atlas for sperm DNA fragmentation: separating \"programmed\" breaks from \"acquired\" injury across the male tract",
-      "topic": "Reproductive health",
-      "abstract": [
-        "Sperm DNA fragmentation (SDF) is still treated as a single metric despite converging evidence that it is a composite of mechanistically distinct break classes. We argue for a 'causal atlas' that maps when and where damage is introduced, from spermiogenesis to epididymal transit to ejaculation, and partitions SDF into programmed vulnerability created by faulty chromatin remodeling/topoisomerase-associated events and abortive apoptosis, versus acquired injury from oxidative/enzymatic attack during transit. Although current assays cannot definitively assign SDF to a particular mechanism or anatomical stage, integrating complementary measures may support mechanistically informed patient stratification and guide the development of more targeted interventions."
-      ],
-      "journal": "Journal of assisted reproduction and genetics",
-      "date": "Oct 09, 2026",
-      "authors": [
-        "Dutta S",
-        "Sengupta P"
-      ],
-      "gmu_authors": [
-        "Pallav Sengupta"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1007/s10815-026-04046-2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853362/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42884169",
-      "title": "Waterpipe Smoke Condensate Impairs p53 Nuclear Localization in Association with HIF-1α Stabilization",
-      "topic": "Cancer research",
-      "abstract": [
-        "Waterpipe (shisha or hookah) smoking is recognized as a risk factor for lung cancer; however, its interference with hypoxia stress and tumor suppressor pathways in non-small cell lung cancer (NSCLC) is poorly defined. In this study, NSCLC cell lines (A549, H460, H226 with endogenous wild-type p53, and H1299 transiently expressing wild-type or p53 mutants) were exposed to waterpipe smoke condensate (WPSC) under normoxic and/or hypoxic conditions. WPSC induced HIF-1α stabilization under normoxic conditions, accompanied by predominantly cytoplasmic localization and without corresponding induction of the canonical HIF-1 target genes examined. In parallel, WPSC transiently reduced nuclear p53 localization without altering total p53 protein levels. In A549 cells, WPSC pretreatment attenuated irradiation-induced expression of the p53 target genes cyclin-dependent kinase inhibitor 1A (CDKN1A) and BTG anti-proliferation factor 2 (BTG2). Pharmacological inhibition of HIF-1α partially restored nuclear p53 localization, supporting the involvement of HIF-1α in this response. Co-immunoprecipitation demonstrated an association between HIF-1α and p53 following WPSC exposure. Collectively, these findings show that WPSC-induced HIF-1α stabilization under normoxic conditions is associated with transient alterations in p53 localization and transcriptional response, supporting an involvement of HIF-1α in this process."
-      ],
-      "journal": "International journal of molecular sciences",
-      "date": "Oct 08, 2026",
-      "authors": [
-        "Nawafleh H",
-        "Thiery J",
-        "Elsayed Y",
-        "Abdou A",
-        "Chouaib S",
-        "Zaarour RF"
-      ],
-      "gmu_authors": [
-        "Husam Nawafleh",
-        "Salem Chouaib",
-        "Rania F Zaarour"
-      ],
-      "colleges": [
-        "College of Medicine",
-        "Thumbay Research Institute for Precision Medicine"
-      ],
-      "doi": "10.3390/ijms27198927",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42884169/",
-      "first_seen": "2026-10-17"
-    },
-    {
-      "pmid": "42851888",
-      "title": "Direct and Indirect Associations Between War-Related Nightmares, Anxiety-Depression Symptoms, and Somatization in a Sample of Displaced Lebanese Adults During the 2024-2025 Lebanese War: A Cross-Sectional Study",
-      "topic": "Mental health",
-      "abstract": [
-        "Background and aims: Somatization, the physical manifestation of emotional and psychological distress, is a prevalent issue in populations exposed to war and trauma. War-related nightmares are common among displaced individuals and are linked to depression, anxiety, and somatization. Yet, the indirect role of depression-anxiety in the association between war-related nightmares and somatization remains underexplored, particularly in the Lebanese context during the 2024-2025 war. This study aimed to examine whether war-related nightmares were associated with somatization both directly and indirectly through anxiety and depression considered simultaneously as parallel mediators among a sample of displaced Lebanese adults.",
-        "Methods: This cross-sectional study enrolled 294 displaced Lebanese adults (mean age 25.4 years; 72.1% female) through a convenience and snowball sampling technique (October 2024-March 2025) that made this study prone to selection bias. A parallel indirect-effect analysis was conducted using SPSS version 27 and PROCESS macro version 5.0, Model 4, with anxiety and depression entered simultaneously as parallel mediators. The model was adjusted for gender, occupation, and number of bombing exposures, and indirect effects were estimated using 5000 percentile-bootstrap samples.",
-        "Results: A significant total indirect association between war-related nightmares and somatization through anxiety and depression was observed (indirect effect: B = 0.14; Bootstrapped Standard Error = 0.04; Bootstrapped 95% Confidence Interval [0.07, 0.21]). The specific indirect association through depression was significant (B = 0.07; BootSE = 0.04; 95% Bootstrapped Confidence Interval [0.01; 0.15]), whereas the specific indirect association through anxiety was not significant (B = 0.06; BootSE = 0.04; 95% Bootstrapped Confidence Interval [-0.01; 0.14]). More frequent war-related nightmares were significantly associated with higher anxiety (B = 0.13; SE = 0.01, p < 0.001; 95% Confidence Interval [0.10, 0.16]) and higher depression (B = 0.12; SE = 0.01, p < 0.001; 95% Confidence Interval [0.09, 0.15]). When both mediators were entered simultaneously, depression was significantly associated with higher somatization (B = 0.58; SE = 0.28, p = 0.040; 95% Confidence Interval [0.03, 1.14]), whereas anxiety was not independently associated with somatization (B = 0.50; SE = 0.29, p = 0.088; 95% Confidence Interval [-0.07, 1.06]). War-related nightmares remained directly associated with somatization after accounting for both mediators (B = 0.42; SE = 0.06, p < 0.001; 95% Confidence Interval [0.30, 0.55]). The total association between war-related nightmares and somatization was B = 0.56 (SE = 0.06 p < 0.001; 95% Confidence Interval 0.45, 0.67).",
-        "Conclusion: War-related nightmares were associated with somatization both directly and indirectly through anxiety and depression collectively among a sample of displaced Lebanese adults. The specific indirect association through depression was significant, whereas the specific indirect association through anxiety was not. Although findings should be interpreted within the context of interrelated trauma symptoms and the cross-sectional design, which precludes temporal or causal conclusions, these results suggest a need for integrated mental health interventions addressing war-related nightmares, anxiety, depression, and somatic symptoms in war-affected populations."
-      ],
-      "journal": "Health science reports",
-      "date": "Oct 2026",
-      "authors": [
-        "Saadeh N",
-        "Atallah E",
-        "Fawaz M",
-        "Hallit R",
-        "Malaeb D",
-        "Hallit S",
-        "Fekih-Romdhane F",
-        "Obeid S"
-      ],
-      "gmu_authors": [
-        "Diana Malaeb"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1002/hsr2.73350",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42851888/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42842184",
-      "title": "Neuraxial Medication Administration Errors During Anaesthesia and Perioperative Management, Consequences, Contributing Human and Systemic Factors and Their Prevention: A Systematic Review",
-      "topic": "Surgery and anaesthesia",
-      "abstract": [
-        "Introduction: This systematic review aimed to investigate neuraxial administration errors, examine their contributing factors, and evaluate clinical outcomes using a novel harm scale.",
-        "Methods: The author searched PubMed, Web of Science, Scopus, EBSCOhost, and Google Scholar for reports from 1981 to 2025 in any language. Exclusions were reviews, overdose incidents, and non-neuraxial administrations. Harm was classified using a novel five-level scale, and contributing factors were identified using the Human and Systemic Factors Analysis Classification System (HFACS).",
-        "Results: The search revealed 50 reports (54 patients), mainly involving the epidural route (38 vs 16 intrathecal), non-obstetric patients (35 vs 17 obstetric), and female gender (73%). Medications were grouped into nine divisions: IV fluids/total parenteral nutrition/insulin, anticholinergics, antiseptics, antiemetics, anticoagulants, non-steroidal anti-inflammatory drugs, opioids, Syntocinon, and others. Atropine (6 patients) was the most common, followed by remifentanil (4), Syntocinon (4), chlorhexidine (3), and water (3). Level 4 events (irreversible paraplegia or quadriplegia, 4 patients) and level 5 events (death, 4 patients) were mostly due to accidental antiseptic bolus administration. Inadvertent neuraxial drug administration occurred at different locations and during various stages of clinical care. The Human Factors Analysis Classification System (HFACS) identified unsafe acts related to skill-based errors and misidentification of routinely used objects. Additional deficiencies included organisational processes, resources, supervision, and task execution for neuraxial anaesthesia or analgesia.",
-        "Conclusions: Level 4 and 5 harm was mainly associated with the administration of antiseptic solutions. The HFACS framework-based analysis suggested multiple modifiable institutional and individual deficiencies. Multidisciplinary improvements of organisational safety procedures, relevant preconditions, and neuraxial clinical practices may help prevent these serious incidents."
-      ],
-      "journal": "Pain and therapy",
-      "date": "Oct 07, 2026",
-      "authors": [
-        "Patel S"
-      ],
-      "gmu_authors": [
-        "Santosh Patel"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1007/s40122-026-00889-w",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42903513",
-      "title": "AI-assisted peer review: efficiency for reviewers, burden for authors-a narrative review",
-      "topic": "Other research",
-      "abstract": [
-        "Artificial intelligence (AI) in scholarly peer review has the potential to simplify the work of editors and reviewers through faster triage, automated reporting completeness checks, and scalable synthesis of reviewer comments. However, it also presents practical, ethical, and technical limitations that may place implementation burdens on authors. I examine bias arising from training data and model architecture, confidentiality risks from commercial AI deployment, accountability gaps when human judgment is displaced, and the growing threat of hallucinated citations to scientific integrity. I further analyze how poorly governed AI integration shifts remediation and formatting burdens onto authors-particularly those from under-resourced or non-Western institutions. I propose hybrid human-AI workflows, mandatory disclosure standards, and equity-conscious implementation frameworks to address these harms. Responsible AI integration in peer review requires transparency, human accountability, and deliberate protection of the diversity of voices represented in scientific literature. These considerations also extend beyond individual actors to recursive feedback loops in which AI-assisted manuscripts are evaluated by AI-assisted review systems, reinforcing the need for human contextual stewardship."
-      ],
-      "journal": "Frontiers in artificial intelligence",
-      "date": "2026",
-      "authors": [
-        "Babker AM"
-      ],
-      "gmu_authors": [
-        "Asaad Ma Babker"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.3389/frai.2026.1968385",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903513/",
-      "first_seen": "2026-10-23"
-    },
-    {
-      "pmid": "42859675",
-      "title": "Physical Activity, Myokine-Adipokine Signatures and Haemoglobin Glycation Index in Adults with Type 2 Diabetes",
-      "topic": "Diabetes and metabolism",
-      "abstract": [
-        "Background: The Hemoglobin Glycation Index (HGI) reflects variability in hemoglobin glycation beyond ambient glycaemia and is a marker of metabolic heterogeneity, cardiovascular risk and treatment response in type 2 diabetes mellitus (T2DM). Whether circulating myokines and adipokines are related to HGI, or whether relationships differ across exercise modalities, is unclear.",
-        "Objective: To examine associations of circulating myokines (irisin, myostatin, myonectin, IL-6, IL-15) and adipokines (leptin, adiponectin) with HGI, and whether associations differ between physically active and sedentary individuals and across exercise modalities.",
-        "Methods: Cross-sectional study of 185 adults with T2DM recruited at Thumbay Hospital, Ajman, United Arab Emirates, classified as physically active (n=98) or sedentary (n=87), with active individuals sub-grouped by predominant modality: aerobic (70), resistance (11), combined (17). Measurements were obtained after an overnight fast. HGI was calculated as the residual of HbA1c regressed on fasting plasma glucose. Mann-Whitney U, Kruskal-Wallis, Spearman correlations with false discovery rate (FDR) correction and median regression adjusted for age, sex, BMI and fasting glucose were used.",
-        "Results: Active participants had lower HGI than sedentary participants (median -0.44 vs 0.12; p = 0.001), with lower BMI, fasting glucose and HbA1c. HGI differed by modality (p < 0.001), most favourable in the combined-training group and least favourable in the aerobic-only group. IL-6 was inversely correlated with HGI in active participants and leptin in sedentary participants (both FDR p < 0.05). Physical activity remained an independent predictor of lower HGI after adjustment for age, sex and BMI (β = -0.65;p< 0.001), and persisted after adjustment for IL-15 and leptin.",
-        "Conclusion: Precludes causal inference; if confirmed prospectively, associations may inform individualized exercise prescription and HGI-based risk stratification.Distinct myokine-adipokine signatures were associated with glycation variability beyond mean glycaemia and combined aerobic-plus-resistance training with the most favourable HGI profile. The cross-sectional design precludes causal inference; if confirmed prospectively, associations may inform individualized exercise prescription and HGI-based risk stratification."
-      ],
-      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
-      "date": "2026",
-      "authors": [
-        "Ismail M",
-        "Ibrahim Hassan M",
-        "Shahzoda Fozilovna A",
-        "Mavlonov NX",
-        "Nuritdinov N",
-        "Abdelfatah E"
-      ],
-      "gmu_authors": [
-        "Marwan Ismail",
-        "Elmotaz Abdelfatah"
-      ],
-      "colleges": [
-        "College of Health Sciences",
-        "College of Medicine"
-      ],
-      "doi": "10.2147/DMSO.S621983",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42859675/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42836380",
-      "title": "Relative accuracy of intraoral photogrammetry and intraoral scanning with conventional scan-body for full-arch implants",
-      "topic": "Dentistry and oral health",
-      "abstract": [
-        "Purpose: To compare the relative accuracy of intraoral photogrammetry (IPG) and intraoral scan (IOS) with conventional scan bodies (IOS-CB) for complete-arch implant impressions, using the conventional splinted open-tray impression digitized with a laboratory scanner (COT-LS) as the reference standard.",
-        "Materials and methods: Twenty-six edentulous maxillary arches restored with four BioHorizons Tapered Internal implants supporting multiunit abutments were included. For each patient, three impressions were obtained: (1) a conventional splinted open-tray impression poured in type IV dental stone and scanned with a laboratory extraoral scanner to generate the COT-LS dataset; (2) an IOS-CB using the Aoralscan Elite, with scan bodies present from the outset of a single continuous scanning pass; and (3) an IPG scan using the same device in photogrammetry mode with dedicated scan flags mounted on the multiunit abutments. STL files were analyzed in Geomagic Control X, with the COT-LS dataset used as the reference. Relative accuracy was quantified as centroid-based linear deviation from COT-LS following best-fit alignment. Measurement reproducibility was assessed using intraclass correlation coefficients (ICC) from two independent examiners analyzing the same datasets. The IOS-CB and IPG datasets were superimposed to calculate linear and three-dimensional positional deviations (µm). A repeated-measures two-way ANOVA with Tukey post hoc testing was performed (p < 0.05).",
-        "Results: IPG demonstrated significantly lower deviations than IOS-CB in the full-arch, anterior right, and anterior left regions (p < 0.001). IOS-CB showed significantly lower deviations than IPG in both posterior right and posterior left regions (p < 0.001). The full-arch mean deviation was lower for IPG (39.2 µm) than IOS-CB (45.1 µm). All deviations for both techniques remained within the clinically acceptable threshold for passive fit. ICC values for measurement reproducibility exceeded 0.95 for both techniques.",
-        "Conclusions: Within the limitations of this clinical study, IPG demonstrated a lower full-arch mean deviation than IOS-CB when evaluated against the COT-LS reference. However, as the inherent dimensional error of the COT-LS reference may approach or exceed the 5.9 µm between-technique difference, this finding should be considered hypothesis-generating rather than confirmatory evidence of a trueness advantage. Measurement reproducibility was high for both techniques (ICC >0.95)."
-      ],
-      "journal": "Journal of prosthodontics : official journal of the American College of Prosthodontists",
-      "date": "Oct 06, 2026",
-      "authors": [
-        "Sadek SA",
-        "Gaber MS",
-        "Mostafa MH",
-        "Zamzam H"
-      ],
-      "gmu_authors": [
-        "Sherif Aly Sadek"
-      ],
-      "colleges": [
-        "College of Dentistry"
-      ],
-      "doi": "10.1111/jopr.70237",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42836380/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42985000",
-      "title": "Paraplegia Following Decompression Sickness (Caisson Disease): A Journey to Near-Complete Recovery",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Decompression sickness (DCS), also known as \"Caisson disease,\" is a potentially life-threatening condition caused by the formation of inert gas bubbles during rapid decompression, most commonly affecting deep-sea divers. Neurological involvement, particularly spinal cord injury leading to paraplegia, represents one of the most severe manifestations. We report the case of a 44-year-old Filipino male professional diver who developed acute paraplegia following a routine dive. Despite adherence to decompression protocols, he experienced sudden-onset bilateral lower limb weakness during ascent. Initial management included oxygen therapy followed by hyperbaric oxygen therapy, after which he was referred for intensive multidisciplinary rehabilitation within a few days. At presentation, the patient exhibited significant motor weakness with Medical Research Council grading of 2/5 in the left lower limb and 3/5 in the right lower limb, sensory loss below the T8 level, impaired bladder and bowel control, and complete dependence for mobility. Over a period of approximately three months of structured physiotherapy, including conventional therapy, robotic-assisted rehabilitation, neuromuscular stimulation, and gait training, he demonstrated remarkable functional recovery. Muscle strength improved to 4/5, with restoration of independent ambulation, improved sensory function, and regained bladder control. This case highlights the importance of early recognition, prompt hyperbaric therapy, and intensive rehabilitation in achieving near-complete recovery following severe neurological DCS."
-      ],
-      "journal": "Cureus",
-      "date": "Oct 2026",
-      "authors": [
-        "Michel M L",
-        "Kumar K",
-        "Eashak Ali SB",
-        "Ghanbari R",
-        "Khan R",
-        "Mahjoor K"
-      ],
-      "gmu_authors": [
-        "Rifa Khan"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.7759/cureus.117461",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985000/",
-      "first_seen": "2026-11-06"
-    },
-    {
-      "pmid": "42876967",
-      "title": "Antibiotic prescribing appropriateness among critically ill patients at a single tertiary care center in the United Arab Emirates: a retrospective cohort study",
-      "topic": "Infectious disease",
-      "abstract": [
-        "Objective: Despite expanding antimicrobial stewardship initiatives, evidence evaluating the appropriateness of antibiotic prescribing and its clinical implications in intensive care settings in the United Arab Emirates remains limited. This study aimed to assess the appropriateness of antibiotic prescribing among intensive care unit patients, identify factors associated with appropriate antibiotic therapy, and examine its association with clinical outcomes.",
-        "Method: A retrospective cohort study was conducted in the intensive care unit of a tertiary care hospital in the Emirate of Abu Dhabi. Adult patients aged 18 years or older who were admitted between January 2023 and December 2024, had a length of stay exceeding 24 h but less than 30 days, received at least one systemic antibiotic, and had complete medical records were included. Data were extracted from electronic medical records and a regional health information exchange platform. Antibiotic appropriateness was evaluated against institutional or Infectious Diseases Society of America guidelines.",
-        "Results: Overall, 36% of patients received inappropriate antibiotic therapy. The most common reason for inappropriateness was the absence of a clear indication, particularly for postoperative prophylaxis (44.4%). At the individual agent level, cefepime (48.2%), metronidazole (36.2%), and cefazolin (33.9%) exhibited the highest rates of inappropriate use. Multivariable logistic regression identified positive microbiological culture results (AOR = 3.34, p < 0.001) and sepsis (AOR = 2.12, p = 0.002) as factors independently associated with higher odds of appropriate antibiotic use. Conversely, the presence of a central venous catheter (AOR = 0.30, p = 0.003) was associated with lower odds of appropriate antibiotic use. Appropriate antibiotic therapy was associated with higher odds of organ dysfunction (AOR = 1.69, p = 0.032), nosocomial infection (AOR = 2.28, p = 0.005), and persistent infection despite therapy (AOR = 2.13, p = 0.005).",
-        "Conclusion: Approximately one-third of patients received inappropriate antibiotic therapy, representing a substantial antimicrobial stewardship concern despite the observed strengths in culture-guided therapy and infection-focused management."
-      ],
-      "journal": "Frontiers in health services",
-      "date": "2026",
-      "authors": [
-        "Kassis I",
-        "Al Balas M",
-        "Rashid SHH",
-        "Gulam SM",
-        "Myalil Lucca J",
-        "McKeirnan KC",
-        "Menon V"
-      ],
-      "gmu_authors": [
-        "Inas Kassis",
-        "Shabaz Mohiuddin Gulam",
-        "Jisha Myalil Lucca",
-        "Vineetha Menon"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.3389/frhs.2026.1900610",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42876967/",
-      "first_seen": "2026-10-16"
-    },
-    {
-      "pmid": "42866318",
-      "title": "Recent advances in targeted therapies and immunotherapies for triple-negative breast cancer",
-      "topic": "Cancer research",
-      "abstract": [
-        "This comprehensive review explores advancements in the treatment of Triple-Negative Breast Cancer (TNBC), emphasizing the transformative impact of targeted therapies and immunotherapies. Given TNBC's aggressive nature and limited therapeutic options, this review provides an in-depth analysis of emerging strategies that aim to enhance patient outcomes. Within targeted therapies, we discuss molecular subtypes and evaluate the efficacy of PARP inhibitors, EGFR inhibitors, and PI3K inhibitors, integrating insights from clinical trials. The immunotherapy landscape is examined through immune checkpoint inhibitors, Chimeric Antigen Receptor (CAR) T-cell therapy, and novel vaccine-based approaches. Combination strategies are assessed, focusing on clinical efficacy, safety, and resistance mechanisms. Additionally, we highlight emerging therapeutic innovations, including bispecific antibodies, advanced drug delivery systems, and personalized medicine approaches. Beyond treatment modalities, the review addresses key challenges such as therapy resistance, biomarker-driven treatment selection, and the integration of Artificial Intelligence in TNBC management. Future directions emphasize ongoing clinical trials and evolving therapeutic paradigms aimed at improving survival and quality of life for TNBC patients. As the field progresses, a multidisciplinary approach integrating precision oncology, innovative therapeutics, and patient-centered care will be critical. In conclusion, this review encapsulates current breakthroughs and envisions a future where targeted and immune-based interventions redefine TNBC treatment, offering new hope for patients and clinicians alike."
-      ],
-      "journal": "Frontiers in oncology",
-      "date": "2026",
-      "authors": [
-        "Rashid G",
-        "Elsori D",
-        "Naqvi Z",
-        "Zehra T",
-        "Selamoglu Z",
-        "Mr S",
-        "Abbas AM",
-        "Mohideen AP",
-        "Hafez W",
-        "Babker A"
-      ],
-      "gmu_authors": [
-        "Asaad Babker"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.3389/fonc.2026.1804620",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42866318/",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "pmid": "42862668",
-      "title": "Three-Point Bedside Congestion Score (IJV Collapsibility + IVC Collapsibility + Central Venous Pressure) in Elective Mitral Valve Surgery: A Prospective Observational Study",
-      "topic": "Surgery and anaesthesia",
-      "abstract": [
-        "Background: Systemic venous congestion and right-ventricular (RV) dysfunction are key drivers of postoperative hemodynamic instability, prolonged ventilation, and acute kidney injury (AKI) after mitral valve surgery. Comprehensive echocardiography is informative but may be impractical in high-throughput pre-anesthesia workflows. We evaluated a pragmatic three-point bedside congestion score combining internal jugular vein (IJV) collapsibility, inferior vena cava (IVC) collapsibility, and invasively measured central venous pressure (CVP) for preoperative risk stratification.",
-        "Methods: In this prospective, observational, single-center study, 100 consecutive adults (>18 years) undergoing elective mitral valve surgery for mitral stenosis were enrolled. A bedside ultrasound was performed in the preoperative area with patients in a 45° head-elevated position during quiet, spontaneous respiration. One point was assigned for each abnormal component (IJV collapsibility <18%, IVC collapsibility <25%, and CVP >12 mmHg), yielding a total score of 0 to 3. Tricuspid annular plane systolic excursion (TAPSE) was dichotomized at 17 mm. Outcomes included vasoactive-inotropic score (VIS), ventilation duration, intensive care unit (ICU) and hospital length of stay, AKI, and in-hospital mortality. Discrimination for AKI and mortality was evaluated using a 5-fold cross-validated receiver operating characteristic (ROC) area under the curve (AUC) with bootstrap 95% confidence intervals. Calibration was assessed using recalibration intercept and slope, and decision curve analysis was used to explore clinical net benefit across threshold probabilities.",
-        "Results: The observed score distribution concentrated at 0 to 2 and 3; therefore, patients were analyzed as low score (0 to 2; n = 50) versus high score (3; n = 50). Compared with low-score patients, high-score patients had higher postoperative VIS (median 18.0 vs 10.0), longer ventilation (31.5 vs 22.0 hours), longer ICU stay (10.0 vs 5.5 days), and longer hospital stay (23.0 vs 12.5 days). AKI occurred in 40% versus 20%, and mortality in 10% versus 2% in high- versus low-score groups. In the combined 2 × 2 stratification, low score with normal TAPSE had no AKI or mortality, whereas high score with abnormal TAPSE had AKI in 55.6% and mortality in 14.8%. The combined score + TAPSE model showed moderate discrimination (AUC 0.77 for AKI; AUC 0.782 for mortality) with near-ideal calibration in this dataset. Decision curve analysis suggested a higher net benefit for the combined model than single-predictor models across threshold probabilities of approximately 0.05 to 0.30.",
-        "Conclusions: A simple three-point bedside congestion score stratifies postoperative risk after elective mitral valve surgery. Incorporating TAPSE into preoperative assessment provided a rapid and reliable means of excluding significant RV dysfunction, thereby reinforcing the validity of the threepoint scoring system. Multicenter external validation and evaluation of score-guided perioperative protocols are warranted."
-      ],
-      "journal": "Annals of cardiac anaesthesia",
-      "date": "Oct 01, 2026",
-      "authors": [
-        "Sharma M",
-        "Rajesh VSP",
-        "RamKiran KS",
-        "Trivedi V",
-        "Kanjani V",
-        "Patel K",
-        "Pandya H"
-      ],
-      "gmu_authors": [
-        "K S RamKiran"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.4103/aca.aca_138_26",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42862668/",
-      "first_seen": "2026-10-13"
-    },
-    {
-      "pmid": "42856932",
-      "title": "Tooth surface loss associated with unshelled sunflower seed consumption: a scoping review",
-      "topic": "Dentistry and oral health",
-      "abstract": [
-        "Objectives: The consumption of unshelled sunflower seeds (USS) is a common, culturally embedded dietary habit in many parts of the world. However, the dental findings associated with this practice have not been comprehensively synthesised. This scoping review aimed to map the available evidence on the reported dental findings associated with USS consumption and to identify gaps in existing literature.",
-        "Materials and methods: Following the PRISMA Extension for Scoping Reviews (PRISMA-ScR) guidelines, a comprehensive search of PubMed, MEDLINE, Scopus, Embase, Web of Science, and Google Scholar was conducted for studies published from inception to August 2026. Eligibility was based on the Population, Concept, and Context(PCC) framework. English-language peer-reviewed cross-sectional studies, case series, case reports, and narrative reviews reporting dental findings associated with USS consumption were included and descriptively synthesized.",
-        "Results: Eight articles (two cross-sectional studies, three case reports, two case series, and one narrative review with a previously unpublished case) met the inclusion criteria. Tooth surface loss (TSL), presenting as characteristic incisal notching of the anterior teeth was the primary finding associated among the included studies. Infrequently reported findings included incisal fractures, dentinal hypersensitivity, gingival recession, widening of the periodontal ligament space, and localized inflammatory peri-implant disease associated with food impaction. Temporomandibular joint (TMJ) symptoms and masticatory muscle tenderness were reported only in a single case series.",
-        "Conclusion: USS consumption may be associated with TSL, commonly presenting as characteristic incisal notching of the anterior teeth. Reported periodontal and TMJ findings can be considered as exploratory observations. Although TSL has been reported in association with USS consumption, the current evidence is insufficient to establish a causal relationship. Further epidemiological and longitudinal studies are needed to clarify these associations and determine the prevalence, progression, and clinical significance of the reported oral findings."
-      ],
-      "journal": "Frontiers in oral health",
-      "date": "2026",
-      "authors": [
-        "Veerabhadrappa SK",
-        "Ramachandra SS",
-        "Yadav S",
-        "Adtani P",
-        "Porntaveetus T"
-      ],
-      "gmu_authors": [
-        "Pooja Adtani"
-      ],
-      "colleges": [
-        "College of Dentistry"
-      ],
-      "doi": "10.3389/froh.2026.1889799",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42856932/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42852021",
-      "title": "Prevalence of positive screens for depression, anxiety, and PTSD symptoms among parents of infants admitted to a NICU: a pilot study",
-      "topic": "Mental health",
-      "abstract": [
-        "Introduction: Parents of infants admitted to the Neonatal Intensive Care Unit (NICU) may experience substantial psychological distress. This study aimed to assess the prevalence of positive screens for depressive, anxiety, and post-traumatic stress disorder (PTSD) symptoms and to explore their associations with gender, education level, and parental age. The study also described the coping strategies reported by participants.",
-        "Methods: This cross-sectional pilot study assessed 82 parents of infants admitted to the NICU at Thumbay University Hospital, Ajman. Parents who were primary caregivers and provided consent were included. Data were collected from March to July 2025 using self-administered questionnaires; Patient Health Questionnaire-9 (PHQ-9), Generalized Anxiety Disorder-7 (GAD-7), and PTSD Checklist for DSM-5 (PCL-5). They were then grouped based on whether they met the positive or negative screen criteria for the respective psychiatric symptoms.",
-        "Results: Out of the 82 parents who had participated, 22% screened positive for anxiety symptoms, 13.4% for depression symptoms, and 9.8% for PTSD symptoms. Female participants had a higher proportion of positive screen for depressive symptoms than male participants (20.5% vs. 4.8% in men, p = 0.043), and younger participants (≤30 years) had a higher proportion of positive screens for PTSD symptoms than those aged >30 years (17.5% vs. 2.4%; Fisher's exact p = 0.027), although the small number of positive cases warrants cautious interpretation. No significant associations were found with education level. The most reported coping strategies were religious/spiritual (34.8%) and physical/behavioral (26.1%) methods.",
-        "Conclusion: A notable proportion of parents of infants admitted to the NICU in this UAE pilot cross-sectional study screened positive for symptoms of depression, anxiety, and PTSD, with female participants and younger participants showing higher proportions of positive screening for depressive and PTSD symptoms, respectively. These findings support consideration of mental health screening, promotion of a socially supportive environment, and culturally appropriate psychosocial support for parents of NICU-admitted infants."
-      ],
-      "journal": "Frontiers in psychiatry",
-      "date": "2026",
-      "authors": [
-        "Ahmadiazad A",
-        "Saif Mohammed Nasir Ali M",
-        "Ali HFA",
-        "Ibrahim TA",
-        "Abdalla AA",
-        "Elkhair ME",
-        "Sreejith A"
-      ],
-      "gmu_authors": [
-        "Adnan Ahmadiazad",
-        "Mohammed Saif Mohammed Nasir Ali",
-        "Hadeel Fathelrahman Ahmed Ali",
-        "Tahlil Abdalmahmoud Ibrahim",
-        "Ahmed Abdalla Abdalla",
-        "Anusha Sreejith"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.3389/fpsyt.2026.1934224",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42852021/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42841695",
-      "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
-      "topic": "Heart and circulation",
-      "abstract": [
-        "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
-        "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
-        "Results: Four randomized trials including 2,793 patients were analyzed. Indigenous stents demonstrated comparable rates of composite endpoints, myocardial infarction, repeat revascularization, and stent thrombosis across studies, with no consistent differences between groups.",
-        "Conclusion: The available RCT evidence shows no consistent signal of superiority or inferiority between indigenous and international thin-strut DES. However, heterogeneity and limited trial numbers warrant larger studies with long-term follow-up and real-world materiovigilance.",
-        "Protocol registration: CRD420251240469."
-      ],
-      "journal": "Expert review of medical devices",
-      "date": "Oct 2026",
-      "authors": [
-        "Bhosale A",
-        "Pratima P",
-        "Sinha AK",
-        "Karattuthodi MS",
-        "Gangachannaiah S",
-        "Thunga G",
-        "Kumar B",
-        "Ramachandran P",
-        "Kalaiselvan V",
-        "Shelke A",
-        "Murti K",
-        "Radhakrishnan R"
-      ],
-      "gmu_authors": [
-        "Mohammed Salim Karattuthodi"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1080/17434440.2026.2746135",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42840142",
-      "title": "Hypoxic cancer stem cell-immune niches in the tumor microenvironment: a Systematic Review of mechanisms and therapeutic implications",
-      "topic": "Cancer research",
-      "abstract": [
-        "Background: Hypoxia, cancer stem cell (CSC) plasticity, and immune suppression are established features of the tumor microenvironment, but their integration within the same biological systems has not been comprehensively synthesized. This systematic review evaluated whether hypoxia or hypoxia-associated signaling coordinates CSC or stemness phenotypes with immune-related mechanisms.",
-        "Methods: PubMed, Embase, Scopus, Web of Science, and Google Scholar were searched for English-language studies published from 1 January 2010 to 31 January 2026. Eligible studies were required to evaluate hypoxia or hypoxia-associated signaling, CSC or stemness phenotypes, and immune-related outcomes within the same experimental or translational study. Of 1,569 records identified, 39 reports underwent full-text assessment and 14 studies were included.",
-        "Results: Hypoxia-associated conditions were recurrently linked to CSC enrichment, self-renewal, epithelial-to-mesenchymal transition, tumorigenicity, metastatic potential, immune suppression, and therapeutic resistance. Four context-dependent patterns emerged: impaired natural killer, cytokine-induced killer, and CD8-positive T-cell function; myeloid- and macrophage-mediated reinforcement of CSC states through polarization, cytokine signaling, extracellular vesicles, cellular transfer, and stromal or vascular remodeling; checkpoint-associated and adaptive immune suppression involving PD-L1, CD47, regulatory T cells, and myeloid-derived suppressor cells; and an integrated hypoxic CSC-immune niche phenotype. Preclinical intervention studies indicated that selected pathways may be therapeutically modifiable, although the evidence remained predominantly experimental.",
-        "Conclusions: Hypoxia appears to act as a coordinating microenvironmental pressure linking CSC plasticity with immune dysfunction in selected tumor contexts. The proposed hypoxic CSC-immune niche is a mechanistic framework rather than evidence of a universal pathway and requires validation using spatially resolved human tumors, patient-derived immune models, and treatment-response-linked cohorts.",
-        "Systematic review registration: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261287704, identifier CRD420261287704."
-      ],
-      "journal": "Frontiers in immunology",
-      "date": "2026",
-      "authors": [
-        "Appiya Premvignesh P",
-        "Mohamed Hameed AS",
-        "Mustufa Topiwala I",
-        "Shaji MN",
-        "Alsaad L",
-        "Mohamed Abdelkhalek SM",
-        "Rahamathullah N",
-        "Chouaib S"
-      ],
-      "gmu_authors": [
-        "Prasanna Appiya Premvignesh",
-        "Safaa Mahmoud Mohamed Abdelkhalek",
-        "Nazeerullah Rahamathullah",
-        "Salem Chouaib"
-      ],
-      "colleges": [
-        "College of Medicine",
-        "Thumbay Research Institute for Precision Medicine"
-      ],
-      "doi": "10.3389/fimmu.2026.1942424",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42840142/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42836184",
-      "title": "Synthesis, in vitro and in silico evaluation of quinazoline and triazoloquinazoline derivatives as PDE7A inhibitors",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Background and purpose: Phosphodiesterase 7A (PDE7A) is an attractive therapeutic target for the treatment of inflammatory, autoimmune, and neurodegenerative disorders through modulation of intracellular cAMP levels. However, the development of highly potent and selective PDE7A inhibitors remains challenging. This study aimed to design, synthesize, and evaluate 2-chloroquinazoline and fused 1,2,4-triazolo[4,3-c]quinazoline derivatives as potential PDE7A inhibitors, supported by molecular docking, molecular dynamics simulations, and in silico toxicity prediction.",
-        "Experimental approach: A series of 2-chloroquinazoline derivatives 4a-f and their fused 1,2,4-triazolo[4,3-c]quinazoline counterparts 5a-d were synthesized as phosphodiesterase 7A (PDE7A) inhibitors. The synthesized compounds were evaluated for their in vitro inhibitory activity against phosphodiesterase 7A (PDE7A) and were compared with theophylline and BRL50481, a selective PDE7 inhibitor.",
-        "Findings/results: All compounds demonstrated enzyme inhibition ranging from 0.062 to 1.35 μM;. Derivatives 5c and 5d exhibited the most potent inhibitory effects, with IC50 values of 0.076 and 0.062 μM;, respectively, and were not significantly different from BRL50481 (IC50 = 0.034 μM;), while being significantly more potent than theophylline (IC50 = 0.539 μM;). These compounds, together with 4c and 5a, showed superior inhibitory activity compared with theophylline. Molecular docking and molecular dynamics studies were performed to investigate binding interactions and stability within the PDE7A active site.",
-        "Conclusion and implications: Compounds 5c and 5d displayed high binding affinity and stability within the active site. Their interactions with key amino acid residues support their potential as effective PDE7A inhibitors. Predicted toxicity data indicated a favorable safety profile across 30 toxicity endpoints, supporting their further development."
-      ],
-      "journal": "Research in pharmaceutical sciences",
-      "date": "Oct 2026",
-      "authors": [
-        "El-Malah AA",
-        "Gineinah MM",
-        "Khayat MT",
-        "Neamatallah T",
-        "Sonousi A",
-        "Mahmoud Z",
-        "Hassan RA"
-      ],
-      "gmu_authors": [
-        "Amr Sonousi"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.4103/RPS.RPS_195_25",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42836184/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42835725",
-      "title": "Endocrine-metabolic modulators in sperm biotechnology: cross-species mechanisms and translational priorities",
-      "topic": "Reproductive health",
-      "abstract": [
-        "Endocrine-metabolic dysregulation is increasingly recognized as a determinant of male reproductive competence. Its implications for sperm biotechnology remain under-integrated. This review advances a systems framework in which insulin resistance (IR), adipokine imbalance, and vitamin D-calcium signaling converge on core sperm functional modules, i.e., membrane lipid architecture, mitochondrial efficiency, redox stability, and capacitation kinetics. Across species, metabolic strain is associated with oxidative vulnerability and altered substrate handling - amplifying damage during cooling, cryopreservation, and sorting. Adipokines emerge as biomarkers of energy-inflammatory state and as functional modulators within seminal plasma and at the sperm surface, with dose- and context-dependent effects on motility and survival. The vitamin D axis, through Ca2+-gated signaling, intersects with motility architecture and activation timing, suggesting compatibility constraints during selection and post-thaw use. By mapping endocrine inputs onto specific biotechnology \"pinch-points\", we propose an endotype-driven model for donor stratification and protocol customization. Stress-response phenotyping, function-rich endpoints beyond conventional motility, and standardized reporting of processing metadata are emphasized to enable cross-study comparability. Stratified trials, process-aware outcome measures, and reverse translation of functional assays between animal and human contexts are translational priorities. Current evidence supports further investigation of donor-stratified metabolic phenotyping as a potential approach to sperm processing, with the aim of reducing sublethal dysfunction and improving predictability of fertility under real-world assisted reproduction workflows. In veterinary reproduction, this framework is especially relevant to artificial insemination-center donor stratification, cryobank intake, chilled-semen transport, and quality control of frozen or sex-sorted semen doses."
-      ],
-      "journal": "Frontiers in veterinary science",
-      "date": "2026",
-      "authors": [
-        "Sengupta P",
-        "Dutta S",
-        "Alaee S",
-        "Mishra D",
-        "Panner Selvam MK",
-        "Maldonado Rosas I",
-        "Roychoudhury S"
-      ],
-      "gmu_authors": [
-        "Pallav Sengupta"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.3389/fvets.2026.1920393",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42835725/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42835369",
-      "title": "Mediating Effect of Perceived Ageism Experiences Between TikTok Addiction Symptoms and Psychological Distress: A Cross-Sectional Study",
-      "topic": "Mental health",
-      "abstract": [
-        "Background and aims: TikTok addiction has been linked to depression and anxiety, yet mechanisms underlying this relationship remain underexplored. Based on the Social Comparison and Uses and Gratifications theories, this study examined whether perceived ageism experiences mediate the relationship between TikTok addiction and depression and anxiety among Lebanese adults. The research also explores, as a theoretical possibility, whether TikTok's algorithm may be associated with greater perceived ageism experiences, which in turn would relate to psychological distress.",
-        "Methods: A cross-sectional survey was conducted among 855 participants (mean age 24.39; 76.7% females) using the TikTok Addiction Test, WHO Ageism Scale, and PHQ-4. Data were analyzed using SPSS and mediation analysis via PROCESS Macro controlling for demographic and health covariates, such as gender, education level and a history of mental health diagnosis. The mediation analysis included 735 participants with complete data for all variables entered into the model.",
-        "Results: TikTok addiction was positively associated with psychological distress. Perceived ageism experiences partially mediated this relationship (unstandardized indirect effect: B = 0.0149, BootSE = 0.005, 95% percentile bootstrapped CI [0.0058, 0.0255]). Higher TikTok addiction symptoms were associated with greater perceived ageism experiences, which were in turn associated with higher psychological distress levels. Demographic analysis showed that females, those with lower levels of education and individuals with a history of mental health diagnosis reported higher psychological distress. Age was negatively correlated with psychological distress, showcasing higher vulnerability among younger individuals.",
-        "Conclusion: Findings highlight perceived ageism experiences as a small but statistically significant mediator between addictive digital media use and psychological distress. The study emphasizes the need for culturally sensitive mental health and digital literacy interventions, as they aim to support the deconstruction of idealized youthful standards, particularly with the Lebanese context where digital media serves as escapism."
-      ],
-      "journal": "Health science reports",
-      "date": "Oct 2026",
-      "authors": [
-        "Rizk A",
-        "Kheir N",
-        "Hallit R",
-        "Iskandar K",
-        "Malaeb D",
-        "Barakat M",
-        "Sakr F",
-        "Dabbous M",
-        "Harb F",
-        "Obeid S",
-        "Hallit S",
-        "Fekih-Romdhane F"
-      ],
-      "gmu_authors": [
-        "Diana Malaeb"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1002/hsr2.73341",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42835369/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42828068",
-      "title": "Mechanism-aware and safety-validated AI for drug repurposing: a critical review and translational pharmacology framework",
-      "topic": "Pharmacy and drug research",
-      "abstract": [
-        "Background: Artificial intelligence (AI)-assisted drug repurposing seeks to identify new therapeutic applications for existing drugs. Nevertheless, most of the existing studies are centered on prediction scores and candidate ranking, and there is still relatively little attention paid to the pharmacological mechanisms, safety and translational validation.",
-        "Objective: This critical review summarizes existing AI approaches to drug repurposing, identifies their mechanistic, safety, and translational barriers, and incorporates the emerging evidence gaps into a mechanism-driven and safety-proven translational pharmacology model.",
-        "Findings: The literature reviewed shows that machine learning, deep learning, network medicine, knowledge graphs, graph neural networks, and foundation models have the potential to significantly increase the number of candidates identified, but they have marked variations in terms of interpretability, biological support, safety integration, external validation, and clinical applicability. In all of these strategies, common shortcomings are inadequate mechanism validation, poor causal evidence, incomplete dose and safety evaluation, weak pharmacovigilance integration, and reliance on internal validation, and varying experimental or real-world confirmatory evidence. These persistent evidence gaps were incorporated into a sequence of steps that incorporates candidate predictions, mechanism mapping, determination of causal plausibility, safety and toxicity evaluation, pharmacovigilance, real-world validation, expert pharmacology review and evidence-based candidate prioritization.",
-        "Conclusion: AI-driven drug repurposing presents huge potential in the field of therapeutic innovation, but current applications require more clinical evidence and pharmacological mechanisms demonstrating safety, as well as clinical relevance. The proposed framework can support the more reliable prioritization of candidates for experimental testing, real world validation and future clinical testing."
-      ],
-      "journal": "Frontiers in pharmacology",
-      "date": "2026",
-      "authors": [
-        "Hazra M",
-        "Anandaram H"
-      ],
-      "gmu_authors": [
-        "Harishchander Anandaram"
-      ],
-      "colleges": [
-        "College of Nursing"
-      ],
-      "doi": "10.3389/fphar.2026.1915973",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42828068/",
-      "first_seen": "2026-10-12"
-    },
-    {
       "pmid": "42814432",
       "title": "Global, Regional, and National Burden of Heart Failure, 1990-2023: A Systematic Analysis for the Global Burden of Disease Study 2023",
       "topic": "Heart and circulation",
@@ -1303,7 +357,7 @@
         "Conclusions and relevance: Heart failure is a significant global public health burden, and the impact is likely to increase as populations age. However, most HF etiologies can be prevented by interventions that reduce exposure to modifiable risk factors, such as elevated blood pressure, excessive alcohol consumption, and tobacco use. Etiology- and location-specific estimates can provide necessary information for public health officials to determine how best to prioritize interventions to reduce HF disease burden."
       ],
       "journal": "JAMA cardiology",
-      "date": "Sep 30, 2026",
+      "date": "Nov 01, 2026",
       "authors": [
         "Johnson CO",
         "Abbasi M",
@@ -2456,6 +1510,1020 @@
       ],
       "doi": "10.1001/jamacardio.2026.4068",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42814432/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "41467884",
+      "title": "Knowledge and Attitudes Toward Dementia Among Healthcare Professionals in the MENA Region: A Multinational Survey",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "BackgroundDementia is an escalating public health challenge in the MENA region, where primary healthcare professionals' (HCPs) knowledge and preparedness remain underexplored. Understanding their knowledge and attitudes is vital for early diagnosis, quality care, and effective awareness strategies.MethodsWe conducted a cross-sectional study of 1224 HCPs across several Arab countries, primarily in primary care settings. Data were collected via an online survey using two validated instruments: the Dementia Knowledge Assessment Scale (DKAS) and the Dementia Attitudes Scale (DAS).ResultsMost participants demonstrated moderate knowledge (68.5%), while 19.9% demonstrated poor knowledge and 11.5% demonstrated good knowledge. Attitudes were largely neutral to positive (44.1%). Multivariate analysis revealed that higher age predicted better knowledge (OR = 1.04, 95% CI: 1.02-1.06, P < .001), while positive attitudes were significantly associated with older age (OR = 1.02, 95% CI: 1.01-1.04, P = .002), female gender (OR = 1.44, 95% CI: 1.14-1.84, P = .003), and higher knowledge scores (OR = 1.23, 95% CI: 1.17-1.28, P < .001).Conclusionmoderate knowledge and generally positive attitudes, important gaps persist. Tailored education, particularly for younger and male HCPs, is needed to improve dementia literacy and care."
+      ],
+      "journal": "Journal of geriatric psychiatry and neurology",
+      "date": "Nov 2026",
+      "authors": [
+        "Dahshan A",
+        "Hassan RM",
+        "Doma ES",
+        "Abdelfatah D",
+        "Khalil MIM",
+        "Abdullahi NM",
+        "Al-Yafeai TM",
+        "Selim TM",
+        "Salameh B",
+        "Al-Nawaja'a IAK",
+        "Wahba NMI",
+        "Hammooz A",
+        "Sultan HM",
+        "Kareem WM",
+        "Ahmed WM",
+        "Hermis AH",
+        "Al-Jabri MM",
+        "Khraisat AMS",
+        "Hweissa NA",
+        "AlGhaithi A",
+        "Tarhuni E",
+        "Abdulhamza A",
+        "Hallaj F",
+        "Abd El Ghany NKAEF",
+        "Mousa EFS",
+        "Mohamed OEE",
+        "El-Lawaty WMAE",
+        "Khedr D"
+      ],
+      "gmu_authors": [
+        "Hosny Maher Sultan"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1177/08919887251414658",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41467884/",
+      "first_seen": "2026-10-18"
+    },
+    {
+      "pmid": "43005134",
+      "title": "Surviving the glocal ecosystem: Academic dissonance, cultural adaptation, and coping among international medical students in the Caribbean",
+      "topic": "Medical education",
+      "abstract": [
+        "Introduction: The globalization of medical education has increased international student mobility, with many students choosing to study abroad to gain exposure to different healthcare systems and cultural environments. Despite this global trend, limited research exists on the experiences of international students attending newly established medical schools in developing regions. This study aims to explore the decision-making process, motivations, challenges, and adaptation strategies of international medical students at a brand-new medical school founded in 2023 in the Caribbean.",
+        "Methods: A qualitative, descriptive phenomenological approach was employed to explore students' lived experiences. Semi-structured interviews were conducted with 12 international students of various backgrounds and demographics. The interview questions focused on decision-making, perceived benefits, academic and cultural challenges, and coping strategies. Thematic analysis was used to identify key patterns and themes.",
+        "Results: Students were primarily motivated by the ability to begin their medical education without delays, citing flexible admissions, immediate program availability, and small class sizes. Challenges included academic rigor, adjusting to the flipped classroom model, cultural differences, homesickness, limited island resources, and concerns about the school's newness. Adaptation strategies included personalized study methods, mindfulness, physical activity, social support networks, and environmental resourcefulness.",
+        "Discussion: International students chose Caribbean medical schools for accessible admissions, personalized education, and career alignment despite financial, social, and reputational challenges. They faced academic, cultural, and emotional pressures but used resilience and adaptive coping, achieving partial integration and academic progress, consistent with theoretical frameworks. These findings highlight the need for a comprehensive student support programme addressing academic, cultural, emotional, logistical, and reputational needs to promote well-being, retention, and successful adaptation."
+      ],
+      "journal": "Frontiers in medicine",
+      "date": "2026",
+      "authors": [
+        "Al-Eraky MM",
+        "Belogubova S",
+        "Kondratiuk M",
+        "Taylor D"
+      ],
+      "gmu_authors": [
+        "David Taylor"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fmed.2026.1937943",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43005134/",
+      "first_seen": "2026-11-11"
+    },
+    {
+      "pmid": "42934775",
+      "title": "Smartphone-derived mobility metrics identify distinct recovery phenotypes following ACL reconstruction: associations with function, pain, and psychological health",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Background: Recovery after anterior cruciate ligament (ACL) reconstruction is typically monitored through patient-reported outcomes and periodic clinical assessments, which may not fully capture real-world functional performance. Smartphone-derived mobility data provide a passive and objective approach for evaluating daily activity and recovery.",
+        "Purpose: To examine associations between smartphone-derived mobility metrics and recovery outcomes in adults 3-12 months after primary ACL reconstruction and to identify distinct recovery phenotypes using mobility-based clustering.",
+        "Methods: This cross-sectional study included 120 adults who were 3-12 months post-primary ACL reconstruction and had at least 14 days of retrospective smartphone mobility data. Mobility variables included daily step count, activity volume and intensity (e.g., active minutes and walking bout duration), sedentary behavior, and walking-related metrics. Outcomes included pain (Numeric Rating Scale [NRS]), functional status (Knee Injury and Osteoarthritis Outcome Score [KOOS] Pain, Activities of Daily Living, and Sport/Recreation subscales), knee-related quality of life (ACL Quality of Life questionnaire [ACL-QoL]), and psychological measures including the Pain Catastrophizing Scale (PCS), Patient Health Questionnaire-9 (PHQ-9), and Generalized Anxiety Disorder-7 (GAD-7). Associations were evaluated using Pearson correlation and multivariable linear regression analyses. Recovery phenotypes were identified using unsupervised k-means clustering of mobility metrics.",
+        "Results: Higher daily step counts were independently associated with better KOOS-ADL scores (β = 0.48, p < 0.001), higher ACL-QoL scores (β = 0.45, p < 0.001), and lower pain intensity (β = - 0.39, p = 0.001). Three recovery phenotypes emerged: a high-activity/low-pain phenotype with superior function and minimal psychological distress, a moderate-activity/moderate-pain phenotype with intermediate outcomes, and a low-activity/high-pain phenotype characterized by reduced mobility, poorer function, greater pain, and higher pain catastrophizing. Significant gradients were observed across phenotypes for pain (NRS: 1.72-5.01), function (KOOS-Pain: 88.94-62.37), and pain catastrophizing (PCS: 8.52-24.91; all p < 0.001).",
+        "Conclusions: Smartphone-derived mobility metrics were significantly associated with recovery outcomes following ACL reconstruction. Mobility-based clustering identified distinct recovery phenotypes associated with meaningful differences in pain, function, and pain catastrophizing, highlighting the potential of passive mobility monitoring to support personalized rehabilitation strategies. However, given the variability in evaluation periods and uncontrolled surgical factors, future research employing standardized, long-term follow-ups is warranted."
+      ],
+      "journal": "Knee surgery & related research",
+      "date": "Oct 26, 2026",
+      "authors": [
+        "Kandakurti PK",
+        "Koura GM",
+        "Reddy RS",
+        "Kardm S",
+        "Gautam AP",
+        "Elshiwi AMF",
+        "Ali ZA",
+        "Alali RS",
+        "El Melhat AM"
+      ],
+      "gmu_authors": [
+        "Praveen Kumar Kandakurti"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.1186/s43019-026-00353-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934775/",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "pmid": "42953391",
+      "title": "Clinicopathological Profile, Treatment Patterns and Documented Clinical Outcomes of Women with Breast Cancer at Shendi Hospital, Sudan: A Retrospective, Single-Center, Hospital-Based Cross-Sectional Study",
+      "topic": "Cancer research",
+      "abstract": [
+        "Background: Breast cancer is the most common cancer in Sudan, yet hospital-based data from outside Khartoum are scarce. We described the clinicopathological profile, treatment and documented outcomes of women with breast cancer at Shendi Hospital and explored factors associated with recurrence, distant metastasis and global well-being.",
+        "Methods: In this retrospective, single-center, cross-sectional review, we abstracted records of 100 women with histologically confirmed invasive breast cancer managed in 2021-2025. Distant metastasis was defined as documented extranodal disease, and global well-being as a single good/fair/poor rating recorded in clinical notes. Associations were examined with exact tests and three pre-specified Firth penalized logistic regression models (four covariates each) with bootstrap validation; all inferential analyses were exploratory.",
+        "Results: Median age was 50 years (IQR 44-55). Stage III/IV disease was recorded in 72%, tumors >2 cm in 97% and nodal involvement in 73%. Receptor status was undocumented in 69%; all 31 documented results were hormone-receptor-negative (18 triple-negative, 13 HER2-positive), yet 16 of these women had recorded hormonal therapy. Mastectomy was performed in 65%; chemotherapy, radiotherapy and hormonal therapy were recorded in 99%, 48% and 45%. Recurrence was documented in 19/98 women (19%) and extranodal metastasis in 30/93 (32%); no deaths were recorded and follow-up duration was unknown. Tumors >5 cm were associated with recurrence (adjusted odds ratio 3.81, 95% CI 1.28-11.61), and extranodal metastasis with a fair well-being rating (5.64, 2.01-17.20); nodal status, economic status and age were not associated with any outcome after adjustment. Recorded treatment co-occurred with recurrence, but treatment timing was undocumented, precluding causal interpretation.",
+        "Conclusion: Women at this center presented with advanced disease, and receptor documentation was largely absent and internally inconsistent. These exploratory associations need confirmation in prospective studies with complete receptor testing, dated treatment records and active follow-up."
+      ],
+      "journal": "Breast cancer (Dove Medical Press)",
+      "date": "2026",
+      "authors": [
+        "Ali EI",
+        "Abusail Mustafa S",
+        "Elzein HO",
+        "Andarawi MO",
+        "Zaroog MS",
+        "Abass AE",
+        "Attaelmanan GA",
+        "Yasin FMO",
+        "Alfeel AH",
+        "Ismail M"
+      ],
+      "gmu_authors": [
+        "Ayman Hussein Alfeel",
+        "Marwan Ismail"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.2147/BCTT.S650507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953391/",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "pmid": "42921916",
+      "title": "Targeting the gut-brain axis with Bifidobacterium breve in neurodegeneration: A comprehensive narrative review of current evidence in Alzheimer's disease and cognitive aging",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder arising from the interplay of amyloid, tau, neuroimmune, oxidative stress, metabolic, vascular, and synaptic processes, ultimately resulting in neurodegeneration across multiple brain regions and progressive memory and cognitive impairment. Gut dysfunction may contribute to the initiation and progression of AD-related processes through the gut-brain axis, whereby alterations in the gut microbiota can influence brain function through chemical, neuronal, immune, and metabolic pathways. Growing interest in the microbiota-gut-brain axis has consequently prompted investigation of strain-specific probiotics as potential adjunctive approaches to restoring gut microbial homeostasis. This comprehensive narrative review critically integrates preclinical and human evidence on Bifidobacterium breve in AD-related pathology and age-associated cognitive impairment. Targeted searches of PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar were conducted through April 2026 and supplemented by reference-list searching. The evidence base comprised 13 preclinical publications and five human publications representing four independent clinical cohorts. Preclinical studies, predominantly conducted in rodent models, reported strain-dependent effects on cognition, amyloid- and tau-related measures, synaptic proteins, neuroinflammation, oxidative stress, microbial composition, and metabolite profiles. Human evidence was limited to B. breve MCC1274 (A1) and primarily involved Japanese adults with memory complaints or suspected mild cognitive impairment. Overall, current evidence supports a mechanistic rationale for the potential role of B. breve as a gut-brain modulator; however, the heterogeneity of preclinical findings and the small, geographically concentrated clinical evidence base highlight the need for further well-designed studies to more clearly define clinical efficacy and long-term safety."
+      ],
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "date": "Oct 22, 2026",
+      "authors": [
+        "Hamzeh O",
+        "Halaji M",
+        "Rostami A",
+        "Md Ashraf G"
+      ],
+      "gmu_authors": [
+        "Ghulam Md Ashraf"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1177/13872877261496277",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42921916/",
+      "first_seen": "2026-10-26"
+    },
+    {
+      "pmid": "42984639",
+      "title": "The mediating role of self-esteem in the association between locus of control and fear of failure and hope for success among women in five Arab countries",
+      "topic": "Public health",
+      "abstract": [
+        "Background: Achievement motivation is commonly described through two related but distinct tendencies: hope for success and fear of failure. Locus of control may be associated with these achievement motives through self-esteem, but these relationships have been examined mainly in Western and individualist contexts. This study examined whether self-esteem statistically mediates the association between locus of control and achievement motives among Arab women, within the broader context of collectivist values, relational self-construal and gendered family socialization.",
+        "Methods: A multinational cross-sectional online survey was conducted between July 2024 and March 2025 among native Arabic-speaking women aged 18 years or older residing in Lebanon, Egypt, Oman, Palestine and Morocco. Participants were recruited using convenience and snowball sampling. Locus of control was measured using the Internal-External Locus of Control Short Scale, self-esteem using the Single-Item Self-Esteem Scale and achievement motives using the Revised Achievement Motives Scale. Mediation analyses examined indirect associations through self-esteem. Bivariate analyses were used to examine perceived parental son preference in relation to achievement motives.",
+        "Results: A total of 1,963 women completed the questionnaire (mean age = 27.42 years). Self-esteem statistically mediated the association between internal locus of control and hope for success (indirect effect B = 0.22, 95% bootstrap CI [0.17 to 0.27]) and the association between internal locus of control and fear of failure (B = -0.06, 95% bootstrap CI [-0.10, -0.02]). For external locus of control, self-esteem statistically mediated its association with hope for success (B = -0.08, 95% bootstrap CI [-0.13 to -0.03]), while no indirect association was observed for fear of failure (B = 0.001, 95% bootstrap CI [-0.01 to 0.01]).",
+        "Conclusion: In this cross-sectional convenience sample of Arab women, self-esteem statistically accounted for part of the associations between locus of control and achievement motives, particularly hope for success. The bivariate associations involving perceived parental male preference suggest that family gender socialization may be relevant to women's achievement motivation, but these findings should be interpreted cautiously and separately from the mediation models. Because of the cross-sectional design, convenience and snowball sampling, and low internal consistency of the brief locus-of-control subscales, the findings should be understood as preliminary associations rather than causal evidence. Further studies using longitudinal and stronger measures are needed."
+      ],
+      "journal": "Frontiers in psychology",
+      "date": "2026",
+      "authors": [
+        "Gedeon E",
+        "El Zoghbi C",
+        "Awarkeh L",
+        "Salameh C",
+        "Geagea A",
+        "Malaeb D",
+        "Alhuwailah A",
+        "Helmy M",
+        "Rashid T",
+        "Barakat M",
+        "Fekih-Romdhane F",
+        "Hallit S",
+        "Obeid S",
+        "El Khoury MA"
+      ],
+      "gmu_authors": [
+        "Diana Malaeb"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.3389/fpsyg.2026.1890383",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42984639/",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "pmid": "42958285",
+      "title": "Development of an evidence-informed doctoral curriculum framework in physical therapy sciences: an international benchmarking and expert validation study",
+      "topic": "Medical education",
+      "abstract": [
+        "Background: The expanding scope of Physical Therapy research, coupled with rapid advances in digital health, artificial intelligence, implementation science, and evidence-based rehabilitation, has increased the demand for doctoral graduates with advanced research, leadership, and interdisciplinary competencies. Despite this evolution, published guidance describing systematic and evidence-informed approaches to developing doctoral curricula in Physical Therapy Sciences remains limited. This study aimed to develop and externally validate an evidence-informed doctoral curriculum framework through systematic needs assessment, international benchmarking, competency mapping, and constructive alignment.",
+        "Methods: A multiphase evidence-informed curriculum development methodology was employed. The study comprised seven sequential phases: (1) needs assessment and environmental analysis; (2) international benchmarking; (3) comparative curriculum analysis; (4) competency mapping ; (5) Curriculum framework development; (6) Curriculum refinement and quality assurance; and (7) external expert content validation. Twenty-four doctoral programmes from research-intensive universities in the United Kingdom, United States, Canada, and Australia were screened, of which eighteen met the predefined inclusion criteria for benchmarking. The proposed curriculum was subsequently evaluated by an international panel of twelve experts using a structured validation instrument, and content validity was assessed using item-level and scale-level Content Validity Indices.",
+        "Results: Benchmarking demonstrated substantial consistency across international doctoral programmes in advanced research methodology, biostatistics, research ethics, scientific writing, proposal development, and independent dissertation research. Comparative analysis further identified increasing emphasis on digital health, artificial intelligence, implementation science, interdisciplinary collaboration, research leadership, and knowledge translation as emerging doctoral competencies. These findings informed the development of a competency-based doctoral curriculum aligned with internationally recognised educational frameworks. External expert validation demonstrated high perceived relevance, competency alignment, curriculum structure, content appropriateness, and implementation feasibility of the proposed framework, with domain-specific agreement ranging from 92% to 100%. Minor recommendations related to curriculum sequencing and emerging digital competencies were incorporated without altering the overall doctoral curriculum framework.",
+        "Conclusions: This study presents an evidence-informed and high perceived relevance, alignment, and feasibility among an international expert panel that aligns Physical Therapy Sciences education with contemporary international educational standards and evolving rehabilitation research priorities. The proposed framework offers a transparent methodology for curriculum development that integrates systematic benchmarking, competency mapping, and expert validation, providing a practical model to inform the development or revision of doctoral programmes in Physical Therapy and related health professions. Future implementation studies are warranted to evaluate its educational effectiveness across diverse institutional settings."
+      ],
+      "journal": "BMC medical education",
+      "date": "Oct 19, 2026",
+      "authors": [
+        "Hazari A",
+        "Kandakurti PK",
+        "Amaravadi SK",
+        "Agouris I",
+        "Jaiswal VC",
+        "Venkatramana M"
+      ],
+      "gmu_authors": [
+        "Animesh Hazari",
+        "Praveen Kumar Kandakurti",
+        "Varoon C Jaiswal",
+        "Manda Venkatramana"
+      ],
+      "colleges": [
+        "College of Health Sciences",
+        "College of Medicine"
+      ],
+      "doi": "10.1186/s12909-026-10581-4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958285/",
+      "first_seen": "2026-10-31"
+    },
+    {
+      "pmid": "42942844",
+      "title": "Cell Membrane-Coated Nanoparticles as Biomimetic Drug Delivery Systems: Design, Therapeutic Applications, and Translational Challenges",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Biomimetic cell membrane-coated nanoparticles (CM-NPs) have emerged as a promising class of nanocarriers that integrate the tunable physicochemical properties of engineered nanoparticles with selected biological features of naturally derived cell membranes. By retaining membrane-associated proteins, lipids, glycans, and receptors, CM-NPs have demonstrated the potential to modulate immune recognition, prolong systemic circulation, improve biocompatibility, and facilitate disease-specific targeting; however, these effects depend on the membrane source, nanoparticle composition, coating integrity, fabrication method, and biological context. This review critically examines major membrane-engineering strategies, including lipid insertion, covalent conjugation, metabolic glycoengineering, and genetic modification, together with fabrication methods such as extrusion, sonication, electroporation, in situ polymerization, and microfluidics. Particular emphasis is placed on nanoparticles coated with erythrocyte, platelet, stem cell, immune cell, bacterial, cancer cell, and hybrid membranes. Their therapeutic applications are critically evaluated, with a primary focus on cancer therapy, including photothermal and photodynamic approaches, alongside applications in cardiovascular, neurological, infectious, inflammatory, and regenerative diseases. Recent CM-NP platforms are systematically summarized according to membrane source, therapeutic cargo or nanoparticle core, disease application, and major outcomes, while recent patents are discussed to highlight emerging technological and translational developments. Despite encouraging preclinical findings, clinical translation remains constrained by challenges in membrane isolation and purification, batch reproducibility, manufacturing scalability, preservation of membrane integrity and functionality, quality control, long-term stability, biosafety, and regulatory standardization. Advances in membrane engineering, hybrid membrane systems, scalable manufacturing, standardized characterization, and rigorous safety evaluation will be important for advancing CM-NPs toward clinical translation."
+      ],
+      "journal": "Pharmaceutics",
+      "date": "Oct 16, 2026",
+      "authors": [
+        "Jacob S",
+        "Varkey NR",
+        "Rao R",
+        "Shinu P",
+        "Khanam R"
+      ],
+      "gmu_authors": [
+        "Shery Jacob",
+        "Namitha Raichel Varkey",
+        "Razia Khanam"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "College of Medicine"
+      ],
+      "doi": "10.3390/pharmaceutics18101314",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42942844/",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "pmid": "42880817",
+      "title": "Exploring emotion identification and categorisation in simulated central vision loss: an event-related potential study",
+      "topic": "Other research",
+      "abstract": [
+        "Objective: This study investigated how simulated central vision loss (SimCVL) affected emotion identification and categorisation in individuals with normal vision.",
+        "Methods and analysis: The study recruited 29 healthy volunteers, including young adults (YA: 20–35 years) (n=10), mid-aged (MA: 40–55 years) (n=10) and older adults (60–75 years) (n=9). The participants were presented with human faces displaying three emotions, neutral, happy and sad, as stimuli. SimCVL was simulated using custom-made MATLAB programming. The study developed two experiments to investigate emotion identification (experiment 1: oddball design) and categorisation (experiment 2: equiprobable design). The behavioural responses and event-related potential (ERP) waveforms were analysed using E-prime and electroencephalogram laboratory toolbox in MATLAB, and the data was analysed using SPSS V.20.",
+        "Results: Emotion identification was present for both happy and sad in the Oddball (P300) paradigm. However, reduced amplitudes and delayed latencies were observed in OAs, particularly in simulated conditions (p<0.01). OAs had delayed reaction times and reduced accuracy in the simulated condition compared with MA and YA (p<0.01). No or minimal differences in amplitudes and latencies were found for early visual processing (P100) and encoding of facial features (N170) across age groups in simulated conditions. Delayed latencies and reduced amplitudes were observed in OAs when decoding (N250) facial features.",
+        "Conclusion: Emotion identification and categorisation are affected in older individuals with SimCVL compared with young and MA adults. Negative emotions had reduced performance index than happy across age groups, and this effect was maximum in OAs. The study suggests that further research is needed to explore the neural basis of emotional processing in patients with CVL using event-related potentials."
+      ],
+      "journal": "BMJ open ophthalmology",
+      "date": "Oct 15, 2026",
+      "authors": [
+        "Madheswaran G",
+        "S Ve R",
+        "Ganeshrao SB",
+        "Raman R",
+        "Palaniswamy HP"
+      ],
+      "gmu_authors": [
+        "Gopinath Madheswaran"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.1136/bmjophth-2025-002689",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880817/",
+      "first_seen": "2026-10-26"
+    },
+    {
+      "pmid": "42952724",
+      "title": "Efficacy of a single-file reciprocating protocol vs. a multi-file rotary protocol on the removal of gutta-percha and ceraSeal sealer from oval canals: a volumetric and active instrumentation time analysis",
+      "topic": "Public health",
+      "abstract": [
+        "Objective: To evaluate and compare the overall efficacy and time efficiency of two complete manufacturer-recommended retreatment protocols, a single-file reciprocating protocol, Reciproc (RC), vs. a multi-file continuous rotary protocol, ProTaper Universal Retreatment (PR), in removing gutta-percha and CeraSeal sealer from oval-shaped root canals.",
+        "Methodology: Thirty-six single-rooted human mandibular premolars with single oval canals were selected, instrumented, and obturated with a matching cone gutta-percha and CeraSeal sealer. Initial filling volumes were evaluated via CBCT. The samples were randomly divided into two experimental groups (n = 18) according to the file used for retreatment. The net active instrumentation time was recorded. Post-retreatment CBCT scans were performed to measure the volume and percentage of remaining filling materials. Data were statistically analyzed at a significance level of p ≤ 0.05.",
+        "Results: Both systems significantly reduced the filling volume (p < 0.0001). No significant difference was found in the initial filling volumes between groups (p = 0.616). However, the RC group demonstrated a significantly lower mean volume (0.474 ± 0.313 mm3) and percentage (5.52 ± 1.97%) of remaining filling material compared to the PR group (1.735 ± 0.753 mm3 and 20.72 ± 2.93%, respectively; p < 0.0001). Furthermore, the RC group required significantly less active instrumentation time (48.69 ± 4.98 s) than the PR group (68.49 ± 5.43 s, p < 0.0001).",
+        "Conclusion: Within the limitations of this in vitro study, neither mechanical retreatment protocol completely removed CeraSeal sealer and gutta-percha from oval root canals. However, the single-file RC protocol was significantly more effective and time-efficient than the multi-file PR protocol. The superior performance of the RC protocol reflects the combined effect of its matched apical size (size 40 vs. size 20), single-file sequence, cross-sectional design, and reciprocating kinematics, rather than kinematic motion alone."
+      ],
+      "journal": "Frontiers in dental medicine",
+      "date": "2026",
+      "authors": [
+        "Zorek A",
+        "Mahran AH",
+        "Nabeel M",
+        "Elsewify T"
+      ],
+      "gmu_authors": [
+        "Tarek Elsewify"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fdmed.2026.1926115",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952724/",
+      "first_seen": "2026-10-30"
+    },
+    {
+      "pmid": "42947872",
+      "title": "Prevalence, patterns, perceptions, and sociodemographic determinants of dietary supplement use among adults in the United Arab Emirates",
+      "topic": "Public health",
+      "abstract": [
+        "Background: Previous studies have documented dietary supplement use in the United Arab Emirates (UAE), but many have focused on specific populations, supplement categories, geographical settings, or particular contexts. Evidence integrating overall supplement use, patterns and experiences of use, perceptions, and associated sociodemographic and health-related factors among adult UAE residents remains limited. This study aimed to determine the prevalence and patterns of dietary supplement use, assess supplement-related perceptions, and identify factors associated with supplement use and perceptions among adults residing in the UAE.",
+        "Methods: A cross-sectional, questionnaire-based study was conducted among 600 adults aged ≥18 years residing in the UAE (58.8% male, 41.2% female). Participants were recruited using convenience sampling through an anonymous electronic survey distributed through university-linked networks, community groups, and public online platforms. A structured questionnaire assessed sociodemographic and health characteristics, dietary supplement use and related practices, and four perceptions regarding supplement necessity, safety, disease prevention, and promotion by healthcare professionals. Associations were examined using Pearson's chi-square test and binary logistic regression. Adjusted odds ratios (AORs) with 95% confidence intervals (CIs) were reported.",
+        "Results: Overall, 287 participants (47.8%) reported ever using dietary supplements; among them, 58.9% were current users. Vitamins (70.6%), minerals (57.8%), and protein supplements (47.4%) were the most commonly reported categories. Managing nutritional deficiencies (38.0%) and improving fitness (35.3%) were the leading reasons for use, while healthcare professionals were the most frequently reported source of recommendation (40.1%). In the adjusted analysis, undergraduate/postgraduate education (AOR 18.32, 95% CI 9.09-36.89; p < 0.001), female sex (AOR 3.13, 95% CI 1.76-5.58; p < 0.001), Expat Arab nationality compared with UAE nationality (AOR 4.58, 95% CI 2.14-9.82; p < 0.001), and chronic medical conditions (AOR 2.15, 95% CI 1.27-3.64; p = 0.004) were associated with higher odds of supplement use, whereas employment compared with student status was associated with lower odds (AOR 0.28, 95% CI 0.13-0.61; p = 0.001). Ever supplement use was the only factor consistently associated with all four favorable perception outcomes (all p < 0.001).",
+        "Conclusion: The findings highlight the need for evidence-based nutrition education and individualized professional guidance to support informed and appropriate use of dietary supplements. Incorporating supplement-use history into clinical assessment may help address inappropriate use, misconceptions, and potential supplement-drug interactions. Longitudinal and population-representative studies with documented geographic coverage across the UAE are needed to confirm these associations and clarify the relationship between supplement use and perceptions."
+      ],
+      "journal": "Frontiers in nutrition",
+      "date": "2026",
+      "authors": [
+        "Alkhayat A",
+        "Khan NS"
+      ],
+      "gmu_authors": [
+        "Ali Alkhayat",
+        "Nelofar Sami Khan"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fnut.2026.1955988",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947872/",
+      "first_seen": "2026-10-29"
+    },
+    {
+      "pmid": "42872747",
+      "title": "A Standardized In Vitro Protocol for Evaluating Human Dental Pulp Stem Cell Differentiation and Proliferation on Nanomaterial Scaffolds",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Reliable assessment of osteogenic and odontogenic differentiation, as well as stem cell proliferation, is fundamental to evaluating the biological performance of scaffold-based regenerative strategies. However, variability in experimental protocols, assay selection, and data interpretation often limits reproducibility and inter-study comparison. The protocol described in this article presents a standardized, reproducible workflow for the in vitro evaluation of osteogenic and odontogenic differentiation, as well as proliferative capacity, of stem cells cultured on biomaterial scaffolds. Osteogenic commitment is evaluated by alkaline phosphatase (ALP) enzymatic activity and Receptor Activator of Nuclear Factor κB Ligand (RANKL) immunofluorescence, while odontogenic commitment is assessed by DMP-1 (dentin matrix protein-1) immunofluorescence; both protein endpoints are quantified using standardized H-score methodology. Critical experimental parameters, including cell seeding density, induction timelines, assay conditions, normalization strategies (including protein-normalized ALP activity, cell-normalized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) viability, and immunofluorescence H-score), and data analysis approaches, are detailed, along with troubleshooting guidance to minimize technical variability. The methodology has been applied as a standardized framework across multiple scaffold-based experimental studies, demonstrating robustness and reproducibility. By providing a comprehensive, validated framework, this article aims to facilitate standardized assessment of stem cell-scaffold interactions and improve comparability across preclinical regenerative studies."
+      ],
+      "journal": "Journal of visualized experiments : JoVE",
+      "date": "Oct 13, 2026",
+      "authors": [
+        "Makawi DM",
+        "Mahran AH",
+        "Elgendy AA",
+        "Yehia TA",
+        "Amer YH",
+        "Elsewify TM"
+      ],
+      "gmu_authors": [
+        "Dina M Makawi",
+        "Yahya H Amer",
+        "Tarek M Elsewify"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.3791/71983",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872747/",
+      "first_seen": "2026-10-15"
+    },
+    {
+      "pmid": "42941816",
+      "title": "In Vitro Anti-Proliferative and Cisplatin-Modulating Effects of Cedrus libani A. Rich Leaf Essential Oil on H460 and HT-29 Human Cancer Cell Lines",
+      "topic": "Cancer research",
+      "abstract": [
+        "Cedrus libani A. Rich is a coniferous tree native to the eastern Mediterranean region that is known for exhibiting pharmacological properties. In the present study, we investigated the anti-proliferative effect of C. libani leaf essential oil (EO) against H460 and HT-29, as well as evaluated its chemo-modulatory effect with cisplatin (CIS). The EO chemical profile was analyzed via GC-MS. Cell viability was assessed using MTT, while trypan blue exclusion and Annexin V/Propidium Iodide staining were employed to detect cell death. Colony biomass and wound closure were evaluated using crystal violet staining and a scratch assay, respectively. Nuclear morphology and reactive oxygen species (ROS) were assessed using DAPI staining and an NBT assay, respectively. EO and CIS individually reduced cell viability in a time- and concentration-dependent manner with combination treatments demonstrating synergistic/additive/antagonistic interactions depending on the combination ratio, cell line and time point. EO alone does not exhibit significant cell death, whereas CIS demonstrated significant apoptosis and necrosis. The combination (IC50:IC50) enhanced cell death, particularly in HT-29. Both EO and CIS reduced colony biomass and wound closure, with the combination showing higher inhibitory effect on colony biomass in both cell lines and enhanced wound closure inhibitory effect in HT-29 but reduced effect in H460. CIS and combination caused more notable nuclear alterations compared to EO alone, whereas an early increase in NBT reduction followed by a subsequent decrease was observed for individual treatments as well as the combination. This study provides insights into the antiproliferative and chemo-modulatory potential of C. libani leaf essential oil, although further studies are needed to elucidate the underlying molecular mechanisms."
+      ],
+      "journal": "International journal of molecular sciences",
+      "date": "Oct 12, 2026",
+      "authors": [
+        "Younes H",
+        "Azakir B",
+        "Zaarour R",
+        "Hayeck N",
+        "Borjac J"
+      ],
+      "gmu_authors": [
+        "Rania Zaarour"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ijms27209044",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42941816/",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "pmid": "43011934",
+      "title": "Prevalence of Overweight and Obesity and Their Associations With Screen Time and Other Behavioral Factors Among Adolescents in the United Arab Emirates",
+      "topic": "Diabetes and metabolism",
+      "abstract": [
+        "Background Overweight and obesity among adolescents are major public health concerns. Sociodemographic, familial, dietary, and lifestyle factors, including screen time and physical activity, may be associated with excess body weight. In the United Arab Emirates (UAE), limited evidence has examined recreational screen time alongside these factors in the same adolescent population. Objective This study aimed to determine the prevalence of overweight and obesity among adolescents aged 14-18 years in the UAE and examine whether greater recreational screen time was associated with higher odds of overweight/obesity. Secondary analyses assessed associations of sociodemographic, familial, dietary, physical activity, and sleep factors with overweight/obesity. Methodology A cross-sectional study included 688 adolescents aged 14-18 years recruited from participating high schools and a university teaching hospital in the UAE between December 2023 and April 2024. Height and weight were measured by the investigators, and BMI was classified using sex- and age-specific WHO 2007 growth reference cutoffs. Participants completed a structured questionnaire assessing sociodemographic characteristics, family history, dietary habits, physical activity, screen time, and sleep. Data were analyzed using descriptive statistics, Pearson chi-square tests, and binary logistic regression. Results The prevalence of combined overweight/obesity was 39.8% (95% CI: 36.2-43.5%); 27.3% (95% CI: 24.0-30.7%) were overweight, and 12.5% (95% CI: 10.0-15.0%) were obese. Although weekend non-academic screen time was associated with overweight/obesity in the chi-square analysis (p = 0.017), no screen-time category was significant in bivariable logistic regression. In multivariable analysis, overweight/obesity was associated with male sex (AOR = 1.636, 95% CI: 1.155-2.318; p = 0.006), family history of obesity (AOR = 2.014, 95% CI: 1.197-3.389; p = 0.008), frequent eating when not hungry or bored (AOR = 1.884, 95% CI: 1.012-3.509; p = 0.046), and no participation in ≥60 minutes/day of out-of-school moderate-to-vigorous physical activity on any day of the week (AOR = 1.896, 95% CI: 1.285-2.799; p = 0.001). Conclusions Overweight and obesity were common among adolescents in this study. Recreational screen time was not associated with overweight/obesity in the regression analysis. Male gender, family history of obesity, frequent eating when not hungry or bored, and no participation in ≥60 minutes/day of out-of-school moderate-to-vigorous physical activity were associated with overweight/obesity after adjustment. Given the cross-sectional design and recruitment from participating schools and a university teaching hospital, these findings represent associations rather than causal relationships and are not nationally representative of UAE adolescents."
+      ],
+      "journal": "Cureus",
+      "date": "Oct 2026",
+      "authors": [
+        "Fatima S",
+        "Sayed Taha L",
+        "Sayed Taha S",
+        "Mohammed I",
+        "Jaber A",
+        "AlSharbatti S"
+      ],
+      "gmu_authors": [
+        "Shatha AlSharbatti"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.7759/cureus.117775",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43011934/",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "pmid": "42853362",
+      "title": "A causal atlas for sperm DNA fragmentation: separating \"programmed\" breaks from \"acquired\" injury across the male tract",
+      "topic": "Reproductive health",
+      "abstract": [
+        "Sperm DNA fragmentation (SDF) is still treated as a single metric despite converging evidence that it is a composite of mechanistically distinct break classes. We argue for a 'causal atlas' that maps when and where damage is introduced, from spermiogenesis to epididymal transit to ejaculation, and partitions SDF into programmed vulnerability created by faulty chromatin remodeling/topoisomerase-associated events and abortive apoptosis, versus acquired injury from oxidative/enzymatic attack during transit. Although current assays cannot definitively assign SDF to a particular mechanism or anatomical stage, integrating complementary measures may support mechanistically informed patient stratification and guide the development of more targeted interventions."
+      ],
+      "journal": "Journal of assisted reproduction and genetics",
+      "date": "Oct 09, 2026",
+      "authors": [
+        "Dutta S",
+        "Sengupta P"
+      ],
+      "gmu_authors": [
+        "Pallav Sengupta"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1007/s10815-026-04046-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853362/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42884169",
+      "title": "Waterpipe Smoke Condensate Impairs p53 Nuclear Localization in Association with HIF-1α Stabilization",
+      "topic": "Cancer research",
+      "abstract": [
+        "Waterpipe (shisha or hookah) smoking is recognized as a risk factor for lung cancer; however, its interference with hypoxia stress and tumor suppressor pathways in non-small cell lung cancer (NSCLC) is poorly defined. In this study, NSCLC cell lines (A549, H460, H226 with endogenous wild-type p53, and H1299 transiently expressing wild-type or p53 mutants) were exposed to waterpipe smoke condensate (WPSC) under normoxic and/or hypoxic conditions. WPSC induced HIF-1α stabilization under normoxic conditions, accompanied by predominantly cytoplasmic localization and without corresponding induction of the canonical HIF-1 target genes examined. In parallel, WPSC transiently reduced nuclear p53 localization without altering total p53 protein levels. In A549 cells, WPSC pretreatment attenuated irradiation-induced expression of the p53 target genes cyclin-dependent kinase inhibitor 1A (CDKN1A) and BTG anti-proliferation factor 2 (BTG2). Pharmacological inhibition of HIF-1α partially restored nuclear p53 localization, supporting the involvement of HIF-1α in this response. Co-immunoprecipitation demonstrated an association between HIF-1α and p53 following WPSC exposure. Collectively, these findings show that WPSC-induced HIF-1α stabilization under normoxic conditions is associated with transient alterations in p53 localization and transcriptional response, supporting an involvement of HIF-1α in this process."
+      ],
+      "journal": "International journal of molecular sciences",
+      "date": "Oct 08, 2026",
+      "authors": [
+        "Nawafleh H",
+        "Thiery J",
+        "Elsayed Y",
+        "Abdou A",
+        "Chouaib S",
+        "Zaarour RF"
+      ],
+      "gmu_authors": [
+        "Husam Nawafleh",
+        "Salem Chouaib",
+        "Rania F Zaarour"
+      ],
+      "colleges": [
+        "College of Medicine",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ijms27198927",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42884169/",
+      "first_seen": "2026-10-17"
+    },
+    {
+      "pmid": "42851888",
+      "title": "Direct and Indirect Associations Between War-Related Nightmares, Anxiety-Depression Symptoms, and Somatization in a Sample of Displaced Lebanese Adults During the 2024-2025 Lebanese War: A Cross-Sectional Study",
+      "topic": "Mental health",
+      "abstract": [
+        "Background and aims: Somatization, the physical manifestation of emotional and psychological distress, is a prevalent issue in populations exposed to war and trauma. War-related nightmares are common among displaced individuals and are linked to depression, anxiety, and somatization. Yet, the indirect role of depression-anxiety in the association between war-related nightmares and somatization remains underexplored, particularly in the Lebanese context during the 2024-2025 war. This study aimed to examine whether war-related nightmares were associated with somatization both directly and indirectly through anxiety and depression considered simultaneously as parallel mediators among a sample of displaced Lebanese adults.",
+        "Methods: This cross-sectional study enrolled 294 displaced Lebanese adults (mean age 25.4 years; 72.1% female) through a convenience and snowball sampling technique (October 2024-March 2025) that made this study prone to selection bias. A parallel indirect-effect analysis was conducted using SPSS version 27 and PROCESS macro version 5.0, Model 4, with anxiety and depression entered simultaneously as parallel mediators. The model was adjusted for gender, occupation, and number of bombing exposures, and indirect effects were estimated using 5000 percentile-bootstrap samples.",
+        "Results: A significant total indirect association between war-related nightmares and somatization through anxiety and depression was observed (indirect effect: B = 0.14; Bootstrapped Standard Error = 0.04; Bootstrapped 95% Confidence Interval [0.07, 0.21]). The specific indirect association through depression was significant (B = 0.07; BootSE = 0.04; 95% Bootstrapped Confidence Interval [0.01; 0.15]), whereas the specific indirect association through anxiety was not significant (B = 0.06; BootSE = 0.04; 95% Bootstrapped Confidence Interval [-0.01; 0.14]). More frequent war-related nightmares were significantly associated with higher anxiety (B = 0.13; SE = 0.01, p < 0.001; 95% Confidence Interval [0.10, 0.16]) and higher depression (B = 0.12; SE = 0.01, p < 0.001; 95% Confidence Interval [0.09, 0.15]). When both mediators were entered simultaneously, depression was significantly associated with higher somatization (B = 0.58; SE = 0.28, p = 0.040; 95% Confidence Interval [0.03, 1.14]), whereas anxiety was not independently associated with somatization (B = 0.50; SE = 0.29, p = 0.088; 95% Confidence Interval [-0.07, 1.06]). War-related nightmares remained directly associated with somatization after accounting for both mediators (B = 0.42; SE = 0.06, p < 0.001; 95% Confidence Interval [0.30, 0.55]). The total association between war-related nightmares and somatization was B = 0.56 (SE = 0.06 p < 0.001; 95% Confidence Interval 0.45, 0.67).",
+        "Conclusion: War-related nightmares were associated with somatization both directly and indirectly through anxiety and depression collectively among a sample of displaced Lebanese adults. The specific indirect association through depression was significant, whereas the specific indirect association through anxiety was not. Although findings should be interpreted within the context of interrelated trauma symptoms and the cross-sectional design, which precludes temporal or causal conclusions, these results suggest a need for integrated mental health interventions addressing war-related nightmares, anxiety, depression, and somatic symptoms in war-affected populations."
+      ],
+      "journal": "Health science reports",
+      "date": "Oct 2026",
+      "authors": [
+        "Saadeh N",
+        "Atallah E",
+        "Fawaz M",
+        "Hallit R",
+        "Malaeb D",
+        "Hallit S",
+        "Fekih-Romdhane F",
+        "Obeid S"
+      ],
+      "gmu_authors": [
+        "Diana Malaeb"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1002/hsr2.73350",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42851888/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42842184",
+      "title": "Neuraxial Medication Administration Errors During Anaesthesia and Perioperative Management, Consequences, Contributing Human and Systemic Factors and Their Prevention: A Systematic Review",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Introduction: This systematic review aimed to investigate neuraxial administration errors, examine their contributing factors, and evaluate clinical outcomes using a novel harm scale.",
+        "Methods: The author searched PubMed, Web of Science, Scopus, EBSCOhost, and Google Scholar for reports from 1981 to 2025 in any language. Exclusions were reviews, overdose incidents, and non-neuraxial administrations. Harm was classified using a novel five-level scale, and contributing factors were identified using the Human and Systemic Factors Analysis Classification System (HFACS).",
+        "Results: The search revealed 50 reports (54 patients), mainly involving the epidural route (38 vs 16 intrathecal), non-obstetric patients (35 vs 17 obstetric), and female gender (73%). Medications were grouped into nine divisions: IV fluids/total parenteral nutrition/insulin, anticholinergics, antiseptics, antiemetics, anticoagulants, non-steroidal anti-inflammatory drugs, opioids, Syntocinon, and others. Atropine (6 patients) was the most common, followed by remifentanil (4), Syntocinon (4), chlorhexidine (3), and water (3). Level 4 events (irreversible paraplegia or quadriplegia, 4 patients) and level 5 events (death, 4 patients) were mostly due to accidental antiseptic bolus administration. Inadvertent neuraxial drug administration occurred at different locations and during various stages of clinical care. The Human Factors Analysis Classification System (HFACS) identified unsafe acts related to skill-based errors and misidentification of routinely used objects. Additional deficiencies included organisational processes, resources, supervision, and task execution for neuraxial anaesthesia or analgesia.",
+        "Conclusions: Level 4 and 5 harm was mainly associated with the administration of antiseptic solutions. The HFACS framework-based analysis suggested multiple modifiable institutional and individual deficiencies. Multidisciplinary improvements of organisational safety procedures, relevant preconditions, and neuraxial clinical practices may help prevent these serious incidents."
+      ],
+      "journal": "Pain and therapy",
+      "date": "Oct 07, 2026",
+      "authors": [
+        "Patel S"
+      ],
+      "gmu_authors": [
+        "Santosh Patel"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1007/s40122-026-00889-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42985000",
+      "title": "Paraplegia Following Decompression Sickness (Caisson Disease): A Journey to Near-Complete Recovery",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Decompression sickness (DCS), also known as \"Caisson disease,\" is a potentially life-threatening condition caused by the formation of inert gas bubbles during rapid decompression, most commonly affecting deep-sea divers. Neurological involvement, particularly spinal cord injury leading to paraplegia, represents one of the most severe manifestations. We report the case of a 44-year-old Filipino male professional diver who developed acute paraplegia following a routine dive. Despite adherence to decompression protocols, he experienced sudden-onset bilateral lower limb weakness during ascent. Initial management included oxygen therapy followed by hyperbaric oxygen therapy, after which he was referred for intensive multidisciplinary rehabilitation within a few days. At presentation, the patient exhibited significant motor weakness with Medical Research Council grading of 2/5 in the left lower limb and 3/5 in the right lower limb, sensory loss below the T8 level, impaired bladder and bowel control, and complete dependence for mobility. Over a period of approximately three months of structured physiotherapy, including conventional therapy, robotic-assisted rehabilitation, neuromuscular stimulation, and gait training, he demonstrated remarkable functional recovery. Muscle strength improved to 4/5, with restoration of independent ambulation, improved sensory function, and regained bladder control. This case highlights the importance of early recognition, prompt hyperbaric therapy, and intensive rehabilitation in achieving near-complete recovery following severe neurological DCS."
+      ],
+      "journal": "Cureus",
+      "date": "Oct 2026",
+      "authors": [
+        "Michel M L",
+        "Kumar K",
+        "Eashak Ali SB",
+        "Ghanbari R",
+        "Khan R",
+        "Mahjoor K"
+      ],
+      "gmu_authors": [
+        "Rifa Khan"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.7759/cureus.117461",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985000/",
+      "first_seen": "2026-11-06"
+    },
+    {
+      "pmid": "42903513",
+      "title": "AI-assisted peer review: efficiency for reviewers, burden for authors-a narrative review",
+      "topic": "Other research",
+      "abstract": [
+        "Artificial intelligence (AI) in scholarly peer review has the potential to simplify the work of editors and reviewers through faster triage, automated reporting completeness checks, and scalable synthesis of reviewer comments. However, it also presents practical, ethical, and technical limitations that may place implementation burdens on authors. I examine bias arising from training data and model architecture, confidentiality risks from commercial AI deployment, accountability gaps when human judgment is displaced, and the growing threat of hallucinated citations to scientific integrity. I further analyze how poorly governed AI integration shifts remediation and formatting burdens onto authors-particularly those from under-resourced or non-Western institutions. I propose hybrid human-AI workflows, mandatory disclosure standards, and equity-conscious implementation frameworks to address these harms. Responsible AI integration in peer review requires transparency, human accountability, and deliberate protection of the diversity of voices represented in scientific literature. These considerations also extend beyond individual actors to recursive feedback loops in which AI-assisted manuscripts are evaluated by AI-assisted review systems, reinforcing the need for human contextual stewardship."
+      ],
+      "journal": "Frontiers in artificial intelligence",
+      "date": "2026",
+      "authors": [
+        "Babker AM"
+      ],
+      "gmu_authors": [
+        "Asaad Ma Babker"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.3389/frai.2026.1968385",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903513/",
+      "first_seen": "2026-10-23"
+    },
+    {
+      "pmid": "42876967",
+      "title": "Antibiotic prescribing appropriateness among critically ill patients at a single tertiary care center in the United Arab Emirates: a retrospective cohort study",
+      "topic": "Infectious disease",
+      "abstract": [
+        "Objective: Despite expanding antimicrobial stewardship initiatives, evidence evaluating the appropriateness of antibiotic prescribing and its clinical implications in intensive care settings in the United Arab Emirates remains limited. This study aimed to assess the appropriateness of antibiotic prescribing among intensive care unit patients, identify factors associated with appropriate antibiotic therapy, and examine its association with clinical outcomes.",
+        "Method: A retrospective cohort study was conducted in the intensive care unit of a tertiary care hospital in the Emirate of Abu Dhabi. Adult patients aged 18 years or older who were admitted between January 2023 and December 2024, had a length of stay exceeding 24 h but less than 30 days, received at least one systemic antibiotic, and had complete medical records were included. Data were extracted from electronic medical records and a regional health information exchange platform. Antibiotic appropriateness was evaluated against institutional or Infectious Diseases Society of America guidelines.",
+        "Results: Overall, 36% of patients received inappropriate antibiotic therapy. The most common reason for inappropriateness was the absence of a clear indication, particularly for postoperative prophylaxis (44.4%). At the individual agent level, cefepime (48.2%), metronidazole (36.2%), and cefazolin (33.9%) exhibited the highest rates of inappropriate use. Multivariable logistic regression identified positive microbiological culture results (AOR = 3.34, p < 0.001) and sepsis (AOR = 2.12, p = 0.002) as factors independently associated with higher odds of appropriate antibiotic use. Conversely, the presence of a central venous catheter (AOR = 0.30, p = 0.003) was associated with lower odds of appropriate antibiotic use. Appropriate antibiotic therapy was associated with higher odds of organ dysfunction (AOR = 1.69, p = 0.032), nosocomial infection (AOR = 2.28, p = 0.005), and persistent infection despite therapy (AOR = 2.13, p = 0.005).",
+        "Conclusion: Approximately one-third of patients received inappropriate antibiotic therapy, representing a substantial antimicrobial stewardship concern despite the observed strengths in culture-guided therapy and infection-focused management."
+      ],
+      "journal": "Frontiers in health services",
+      "date": "2026",
+      "authors": [
+        "Kassis I",
+        "Al Balas M",
+        "Rashid SHH",
+        "Gulam SM",
+        "Myalil Lucca J",
+        "McKeirnan KC",
+        "Menon V"
+      ],
+      "gmu_authors": [
+        "Inas Kassis",
+        "Shabaz Mohiuddin Gulam",
+        "Jisha Myalil Lucca",
+        "Vineetha Menon"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.3389/frhs.2026.1900610",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42876967/",
+      "first_seen": "2026-10-16"
+    },
+    {
+      "pmid": "42866318",
+      "title": "Recent advances in targeted therapies and immunotherapies for triple-negative breast cancer",
+      "topic": "Cancer research",
+      "abstract": [
+        "This comprehensive review explores advancements in the treatment of Triple-Negative Breast Cancer (TNBC), emphasizing the transformative impact of targeted therapies and immunotherapies. Given TNBC's aggressive nature and limited therapeutic options, this review provides an in-depth analysis of emerging strategies that aim to enhance patient outcomes. Within targeted therapies, we discuss molecular subtypes and evaluate the efficacy of PARP inhibitors, EGFR inhibitors, and PI3K inhibitors, integrating insights from clinical trials. The immunotherapy landscape is examined through immune checkpoint inhibitors, Chimeric Antigen Receptor (CAR) T-cell therapy, and novel vaccine-based approaches. Combination strategies are assessed, focusing on clinical efficacy, safety, and resistance mechanisms. Additionally, we highlight emerging therapeutic innovations, including bispecific antibodies, advanced drug delivery systems, and personalized medicine approaches. Beyond treatment modalities, the review addresses key challenges such as therapy resistance, biomarker-driven treatment selection, and the integration of Artificial Intelligence in TNBC management. Future directions emphasize ongoing clinical trials and evolving therapeutic paradigms aimed at improving survival and quality of life for TNBC patients. As the field progresses, a multidisciplinary approach integrating precision oncology, innovative therapeutics, and patient-centered care will be critical. In conclusion, this review encapsulates current breakthroughs and envisions a future where targeted and immune-based interventions redefine TNBC treatment, offering new hope for patients and clinicians alike."
+      ],
+      "journal": "Frontiers in oncology",
+      "date": "2026",
+      "authors": [
+        "Rashid G",
+        "Elsori D",
+        "Naqvi Z",
+        "Zehra T",
+        "Selamoglu Z",
+        "Mr S",
+        "Abbas AM",
+        "Mohideen AP",
+        "Hafez W",
+        "Babker A"
+      ],
+      "gmu_authors": [
+        "Asaad Babker"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.3389/fonc.2026.1804620",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42866318/",
+      "first_seen": "2026-10-14"
+    },
+    {
+      "pmid": "42862668",
+      "title": "Three-Point Bedside Congestion Score (IJV Collapsibility + IVC Collapsibility + Central Venous Pressure) in Elective Mitral Valve Surgery: A Prospective Observational Study",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Background: Systemic venous congestion and right-ventricular (RV) dysfunction are key drivers of postoperative hemodynamic instability, prolonged ventilation, and acute kidney injury (AKI) after mitral valve surgery. Comprehensive echocardiography is informative but may be impractical in high-throughput pre-anesthesia workflows. We evaluated a pragmatic three-point bedside congestion score combining internal jugular vein (IJV) collapsibility, inferior vena cava (IVC) collapsibility, and invasively measured central venous pressure (CVP) for preoperative risk stratification.",
+        "Methods: In this prospective, observational, single-center study, 100 consecutive adults (>18 years) undergoing elective mitral valve surgery for mitral stenosis were enrolled. A bedside ultrasound was performed in the preoperative area with patients in a 45° head-elevated position during quiet, spontaneous respiration. One point was assigned for each abnormal component (IJV collapsibility <18%, IVC collapsibility <25%, and CVP >12 mmHg), yielding a total score of 0 to 3. Tricuspid annular plane systolic excursion (TAPSE) was dichotomized at 17 mm. Outcomes included vasoactive-inotropic score (VIS), ventilation duration, intensive care unit (ICU) and hospital length of stay, AKI, and in-hospital mortality. Discrimination for AKI and mortality was evaluated using a 5-fold cross-validated receiver operating characteristic (ROC) area under the curve (AUC) with bootstrap 95% confidence intervals. Calibration was assessed using recalibration intercept and slope, and decision curve analysis was used to explore clinical net benefit across threshold probabilities.",
+        "Results: The observed score distribution concentrated at 0 to 2 and 3; therefore, patients were analyzed as low score (0 to 2; n = 50) versus high score (3; n = 50). Compared with low-score patients, high-score patients had higher postoperative VIS (median 18.0 vs 10.0), longer ventilation (31.5 vs 22.0 hours), longer ICU stay (10.0 vs 5.5 days), and longer hospital stay (23.0 vs 12.5 days). AKI occurred in 40% versus 20%, and mortality in 10% versus 2% in high- versus low-score groups. In the combined 2 × 2 stratification, low score with normal TAPSE had no AKI or mortality, whereas high score with abnormal TAPSE had AKI in 55.6% and mortality in 14.8%. The combined score + TAPSE model showed moderate discrimination (AUC 0.77 for AKI; AUC 0.782 for mortality) with near-ideal calibration in this dataset. Decision curve analysis suggested a higher net benefit for the combined model than single-predictor models across threshold probabilities of approximately 0.05 to 0.30.",
+        "Conclusions: A simple three-point bedside congestion score stratifies postoperative risk after elective mitral valve surgery. Incorporating TAPSE into preoperative assessment provided a rapid and reliable means of excluding significant RV dysfunction, thereby reinforcing the validity of the threepoint scoring system. Multicenter external validation and evaluation of score-guided perioperative protocols are warranted."
+      ],
+      "journal": "Annals of cardiac anaesthesia",
+      "date": "Oct 01, 2026",
+      "authors": [
+        "Sharma M",
+        "Rajesh VSP",
+        "RamKiran KS",
+        "Trivedi V",
+        "Kanjani V",
+        "Patel K",
+        "Pandya H"
+      ],
+      "gmu_authors": [
+        "K S RamKiran"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.4103/aca.aca_138_26",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42862668/",
+      "first_seen": "2026-10-13"
+    },
+    {
+      "pmid": "42859675",
+      "title": "Physical Activity, Myokine-Adipokine Signatures and Haemoglobin Glycation Index in Adults with Type 2 Diabetes",
+      "topic": "Diabetes and metabolism",
+      "abstract": [
+        "Background: The Hemoglobin Glycation Index (HGI) reflects variability in hemoglobin glycation beyond ambient glycaemia and is a marker of metabolic heterogeneity, cardiovascular risk and treatment response in type 2 diabetes mellitus (T2DM). Whether circulating myokines and adipokines are related to HGI, or whether relationships differ across exercise modalities, is unclear.",
+        "Objective: To examine associations of circulating myokines (irisin, myostatin, myonectin, IL-6, IL-15) and adipokines (leptin, adiponectin) with HGI, and whether associations differ between physically active and sedentary individuals and across exercise modalities.",
+        "Methods: Cross-sectional study of 185 adults with T2DM recruited at Thumbay Hospital, Ajman, United Arab Emirates, classified as physically active (n=98) or sedentary (n=87), with active individuals sub-grouped by predominant modality: aerobic (70), resistance (11), combined (17). Measurements were obtained after an overnight fast. HGI was calculated as the residual of HbA1c regressed on fasting plasma glucose. Mann-Whitney U, Kruskal-Wallis, Spearman correlations with false discovery rate (FDR) correction and median regression adjusted for age, sex, BMI and fasting glucose were used.",
+        "Results: Active participants had lower HGI than sedentary participants (median -0.44 vs 0.12; p = 0.001), with lower BMI, fasting glucose and HbA1c. HGI differed by modality (p < 0.001), most favourable in the combined-training group and least favourable in the aerobic-only group. IL-6 was inversely correlated with HGI in active participants and leptin in sedentary participants (both FDR p < 0.05). Physical activity remained an independent predictor of lower HGI after adjustment for age, sex and BMI (β = -0.65;p< 0.001), and persisted after adjustment for IL-15 and leptin.",
+        "Conclusion: Precludes causal inference; if confirmed prospectively, associations may inform individualized exercise prescription and HGI-based risk stratification.Distinct myokine-adipokine signatures were associated with glycation variability beyond mean glycaemia and combined aerobic-plus-resistance training with the most favourable HGI profile. The cross-sectional design precludes causal inference; if confirmed prospectively, associations may inform individualized exercise prescription and HGI-based risk stratification."
+      ],
+      "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "date": "2026",
+      "authors": [
+        "Ismail M",
+        "Ibrahim Hassan M",
+        "Shahzoda Fozilovna A",
+        "Mavlonov NX",
+        "Nuritdinov N",
+        "Abdelfatah E"
+      ],
+      "gmu_authors": [
+        "Marwan Ismail",
+        "Elmotaz Abdelfatah"
+      ],
+      "colleges": [
+        "College of Health Sciences",
+        "College of Medicine"
+      ],
+      "doi": "10.2147/DMSO.S621983",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42859675/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42856932",
+      "title": "Tooth surface loss associated with unshelled sunflower seed consumption: a scoping review",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Objectives: The consumption of unshelled sunflower seeds (USS) is a common, culturally embedded dietary habit in many parts of the world. However, the dental findings associated with this practice have not been comprehensively synthesised. This scoping review aimed to map the available evidence on the reported dental findings associated with USS consumption and to identify gaps in existing literature.",
+        "Materials and methods: Following the PRISMA Extension for Scoping Reviews (PRISMA-ScR) guidelines, a comprehensive search of PubMed, MEDLINE, Scopus, Embase, Web of Science, and Google Scholar was conducted for studies published from inception to August 2026. Eligibility was based on the Population, Concept, and Context(PCC) framework. English-language peer-reviewed cross-sectional studies, case series, case reports, and narrative reviews reporting dental findings associated with USS consumption were included and descriptively synthesized.",
+        "Results: Eight articles (two cross-sectional studies, three case reports, two case series, and one narrative review with a previously unpublished case) met the inclusion criteria. Tooth surface loss (TSL), presenting as characteristic incisal notching of the anterior teeth was the primary finding associated among the included studies. Infrequently reported findings included incisal fractures, dentinal hypersensitivity, gingival recession, widening of the periodontal ligament space, and localized inflammatory peri-implant disease associated with food impaction. Temporomandibular joint (TMJ) symptoms and masticatory muscle tenderness were reported only in a single case series.",
+        "Conclusion: USS consumption may be associated with TSL, commonly presenting as characteristic incisal notching of the anterior teeth. Reported periodontal and TMJ findings can be considered as exploratory observations. Although TSL has been reported in association with USS consumption, the current evidence is insufficient to establish a causal relationship. Further epidemiological and longitudinal studies are needed to clarify these associations and determine the prevalence, progression, and clinical significance of the reported oral findings."
+      ],
+      "journal": "Frontiers in oral health",
+      "date": "2026",
+      "authors": [
+        "Veerabhadrappa SK",
+        "Ramachandra SS",
+        "Yadav S",
+        "Adtani P",
+        "Porntaveetus T"
+      ],
+      "gmu_authors": [
+        "Pooja Adtani"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.3389/froh.2026.1889799",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42856932/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42852021",
+      "title": "Prevalence of positive screens for depression, anxiety, and PTSD symptoms among parents of infants admitted to a NICU: a pilot study",
+      "topic": "Mental health",
+      "abstract": [
+        "Introduction: Parents of infants admitted to the Neonatal Intensive Care Unit (NICU) may experience substantial psychological distress. This study aimed to assess the prevalence of positive screens for depressive, anxiety, and post-traumatic stress disorder (PTSD) symptoms and to explore their associations with gender, education level, and parental age. The study also described the coping strategies reported by participants.",
+        "Methods: This cross-sectional pilot study assessed 82 parents of infants admitted to the NICU at Thumbay University Hospital, Ajman. Parents who were primary caregivers and provided consent were included. Data were collected from March to July 2025 using self-administered questionnaires; Patient Health Questionnaire-9 (PHQ-9), Generalized Anxiety Disorder-7 (GAD-7), and PTSD Checklist for DSM-5 (PCL-5). They were then grouped based on whether they met the positive or negative screen criteria for the respective psychiatric symptoms.",
+        "Results: Out of the 82 parents who had participated, 22% screened positive for anxiety symptoms, 13.4% for depression symptoms, and 9.8% for PTSD symptoms. Female participants had a higher proportion of positive screen for depressive symptoms than male participants (20.5% vs. 4.8% in men, p = 0.043), and younger participants (≤30 years) had a higher proportion of positive screens for PTSD symptoms than those aged >30 years (17.5% vs. 2.4%; Fisher's exact p = 0.027), although the small number of positive cases warrants cautious interpretation. No significant associations were found with education level. The most reported coping strategies were religious/spiritual (34.8%) and physical/behavioral (26.1%) methods.",
+        "Conclusion: A notable proportion of parents of infants admitted to the NICU in this UAE pilot cross-sectional study screened positive for symptoms of depression, anxiety, and PTSD, with female participants and younger participants showing higher proportions of positive screening for depressive and PTSD symptoms, respectively. These findings support consideration of mental health screening, promotion of a socially supportive environment, and culturally appropriate psychosocial support for parents of NICU-admitted infants."
+      ],
+      "journal": "Frontiers in psychiatry",
+      "date": "2026",
+      "authors": [
+        "Ahmadiazad A",
+        "Saif Mohammed Nasir Ali M",
+        "Ali HFA",
+        "Ibrahim TA",
+        "Abdalla AA",
+        "Elkhair ME",
+        "Sreejith A"
+      ],
+      "gmu_authors": [
+        "Adnan Ahmadiazad",
+        "Mohammed Saif Mohammed Nasir Ali",
+        "Hadeel Fathelrahman Ahmed Ali",
+        "Tahlil Abdalmahmoud Ibrahim",
+        "Ahmed Abdalla Abdalla",
+        "Anusha Sreejith"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fpsyt.2026.1934224",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42852021/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42841695",
+      "title": "Safety and efficacy of indigenous ultrathin-strut versus international thin-strut drug-eluting coronary stents in percutaneous coronary intervention: a systematic review of randomized controlled trials",
+      "topic": "Heart and circulation",
+      "abstract": [
+        "Introduction: Ultrathin-strut drug-eluting stents (DES) have been developed to enhance vascular healing and reduce restenosis following percutaneous coronary intervention (PCI). Indigenous biodegradable-polymer ultrathin-strut DES are increasingly used in high-burden settings; however, comparative evidence against internationally established thin-strut DES remains limited.",
+        "Methods: This systematic review of randomized controlled trials was conducted according to PRISMA 2020 guidelines. PubMed, Embase, Scopus, Web of Science, and the Cochrane Central Register of Controlled Trials were searched from inception to December 2025. Trials comparing indigenous ultrathin-strut DES with internationally manufactured thin-strut DES in adult PCI populations were included. Primary outcomes were major adverse cardiac events/trial-defined composite endpoints. Secondary outcomes included myocardial infarction, target lesion and vessel revascularization, stent thrombosis, cardiac death, and all-cause mortality. Risk of bias was assessed using the Cochrane RoB-2 tool, and a narrative synthesis was performed.",
+        "Results: Four randomized trials including 2,793 patients were analyzed. Indigenous stents demonstrated comparable rates of composite endpoints, myocardial infarction, repeat revascularization, and stent thrombosis across studies, with no consistent differences between groups.",
+        "Conclusion: The available RCT evidence shows no consistent signal of superiority or inferiority between indigenous and international thin-strut DES. However, heterogeneity and limited trial numbers warrant larger studies with long-term follow-up and real-world materiovigilance.",
+        "Protocol registration: CRD420251240469."
+      ],
+      "journal": "Expert review of medical devices",
+      "date": "Oct 2026",
+      "authors": [
+        "Bhosale A",
+        "Pratima P",
+        "Sinha AK",
+        "Karattuthodi MS",
+        "Gangachannaiah S",
+        "Thunga G",
+        "Kumar B",
+        "Ramachandran P",
+        "Kalaiselvan V",
+        "Shelke A",
+        "Murti K",
+        "Radhakrishnan R"
+      ],
+      "gmu_authors": [
+        "Mohammed Salim Karattuthodi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1080/17434440.2026.2746135",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42841695/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42840142",
+      "title": "Hypoxic cancer stem cell-immune niches in the tumor microenvironment: a Systematic Review of mechanisms and therapeutic implications",
+      "topic": "Cancer research",
+      "abstract": [
+        "Background: Hypoxia, cancer stem cell (CSC) plasticity, and immune suppression are established features of the tumor microenvironment, but their integration within the same biological systems has not been comprehensively synthesized. This systematic review evaluated whether hypoxia or hypoxia-associated signaling coordinates CSC or stemness phenotypes with immune-related mechanisms.",
+        "Methods: PubMed, Embase, Scopus, Web of Science, and Google Scholar were searched for English-language studies published from 1 January 2010 to 31 January 2026. Eligible studies were required to evaluate hypoxia or hypoxia-associated signaling, CSC or stemness phenotypes, and immune-related outcomes within the same experimental or translational study. Of 1,569 records identified, 39 reports underwent full-text assessment and 14 studies were included.",
+        "Results: Hypoxia-associated conditions were recurrently linked to CSC enrichment, self-renewal, epithelial-to-mesenchymal transition, tumorigenicity, metastatic potential, immune suppression, and therapeutic resistance. Four context-dependent patterns emerged: impaired natural killer, cytokine-induced killer, and CD8-positive T-cell function; myeloid- and macrophage-mediated reinforcement of CSC states through polarization, cytokine signaling, extracellular vesicles, cellular transfer, and stromal or vascular remodeling; checkpoint-associated and adaptive immune suppression involving PD-L1, CD47, regulatory T cells, and myeloid-derived suppressor cells; and an integrated hypoxic CSC-immune niche phenotype. Preclinical intervention studies indicated that selected pathways may be therapeutically modifiable, although the evidence remained predominantly experimental.",
+        "Conclusions: Hypoxia appears to act as a coordinating microenvironmental pressure linking CSC plasticity with immune dysfunction in selected tumor contexts. The proposed hypoxic CSC-immune niche is a mechanistic framework rather than evidence of a universal pathway and requires validation using spatially resolved human tumors, patient-derived immune models, and treatment-response-linked cohorts.",
+        "Systematic review registration: https://www.crd.york.ac.uk/PROSPERO/view/CRD420261287704, identifier CRD420261287704."
+      ],
+      "journal": "Frontiers in immunology",
+      "date": "2026",
+      "authors": [
+        "Appiya Premvignesh P",
+        "Mohamed Hameed AS",
+        "Mustufa Topiwala I",
+        "Shaji MN",
+        "Alsaad L",
+        "Mohamed Abdelkhalek SM",
+        "Rahamathullah N",
+        "Chouaib S"
+      ],
+      "gmu_authors": [
+        "Prasanna Appiya Premvignesh",
+        "Safaa Mahmoud Mohamed Abdelkhalek",
+        "Nazeerullah Rahamathullah",
+        "Salem Chouaib"
+      ],
+      "colleges": [
+        "College of Medicine",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3389/fimmu.2026.1942424",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840142/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42836380",
+      "title": "Relative accuracy of intraoral photogrammetry and intraoral scanning with conventional scan-body for full-arch implants",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Purpose: To compare the relative accuracy of intraoral photogrammetry (IPG) and intraoral scan (IOS) with conventional scan bodies (IOS-CB) for complete-arch implant impressions, using the conventional splinted open-tray impression digitized with a laboratory scanner (COT-LS) as the reference standard.",
+        "Materials and methods: Twenty-six edentulous maxillary arches restored with four BioHorizons Tapered Internal implants supporting multiunit abutments were included. For each patient, three impressions were obtained: (1) a conventional splinted open-tray impression poured in type IV dental stone and scanned with a laboratory extraoral scanner to generate the COT-LS dataset; (2) an IOS-CB using the Aoralscan Elite, with scan bodies present from the outset of a single continuous scanning pass; and (3) an IPG scan using the same device in photogrammetry mode with dedicated scan flags mounted on the multiunit abutments. STL files were analyzed in Geomagic Control X, with the COT-LS dataset used as the reference. Relative accuracy was quantified as centroid-based linear deviation from COT-LS following best-fit alignment. Measurement reproducibility was assessed using intraclass correlation coefficients (ICC) from two independent examiners analyzing the same datasets. The IOS-CB and IPG datasets were superimposed to calculate linear and three-dimensional positional deviations (µm). A repeated-measures two-way ANOVA with Tukey post hoc testing was performed (p < 0.05).",
+        "Results: IPG demonstrated significantly lower deviations than IOS-CB in the full-arch, anterior right, and anterior left regions (p < 0.001). IOS-CB showed significantly lower deviations than IPG in both posterior right and posterior left regions (p < 0.001). The full-arch mean deviation was lower for IPG (39.2 µm) than IOS-CB (45.1 µm). All deviations for both techniques remained within the clinically acceptable threshold for passive fit. ICC values for measurement reproducibility exceeded 0.95 for both techniques.",
+        "Conclusions: Within the limitations of this clinical study, IPG demonstrated a lower full-arch mean deviation than IOS-CB when evaluated against the COT-LS reference. However, as the inherent dimensional error of the COT-LS reference may approach or exceed the 5.9 µm between-technique difference, this finding should be considered hypothesis-generating rather than confirmatory evidence of a trueness advantage. Measurement reproducibility was high for both techniques (ICC >0.95)."
+      ],
+      "journal": "Journal of prosthodontics : official journal of the American College of Prosthodontists",
+      "date": "Oct 06, 2026",
+      "authors": [
+        "Sadek SA",
+        "Gaber MS",
+        "Mostafa MH",
+        "Zamzam H"
+      ],
+      "gmu_authors": [
+        "Sherif Aly Sadek"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.1111/jopr.70237",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42836380/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42836184",
+      "title": "Synthesis, in vitro and in silico evaluation of quinazoline and triazoloquinazoline derivatives as PDE7A inhibitors",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Background and purpose: Phosphodiesterase 7A (PDE7A) is an attractive therapeutic target for the treatment of inflammatory, autoimmune, and neurodegenerative disorders through modulation of intracellular cAMP levels. However, the development of highly potent and selective PDE7A inhibitors remains challenging. This study aimed to design, synthesize, and evaluate 2-chloroquinazoline and fused 1,2,4-triazolo[4,3-c]quinazoline derivatives as potential PDE7A inhibitors, supported by molecular docking, molecular dynamics simulations, and in silico toxicity prediction.",
+        "Experimental approach: A series of 2-chloroquinazoline derivatives 4a-f and their fused 1,2,4-triazolo[4,3-c]quinazoline counterparts 5a-d were synthesized as phosphodiesterase 7A (PDE7A) inhibitors. The synthesized compounds were evaluated for their in vitro inhibitory activity against phosphodiesterase 7A (PDE7A) and were compared with theophylline and BRL50481, a selective PDE7 inhibitor.",
+        "Findings/results: All compounds demonstrated enzyme inhibition ranging from 0.062 to 1.35 μM;. Derivatives 5c and 5d exhibited the most potent inhibitory effects, with IC50 values of 0.076 and 0.062 μM;, respectively, and were not significantly different from BRL50481 (IC50 = 0.034 μM;), while being significantly more potent than theophylline (IC50 = 0.539 μM;). These compounds, together with 4c and 5a, showed superior inhibitory activity compared with theophylline. Molecular docking and molecular dynamics studies were performed to investigate binding interactions and stability within the PDE7A active site.",
+        "Conclusion and implications: Compounds 5c and 5d displayed high binding affinity and stability within the active site. Their interactions with key amino acid residues support their potential as effective PDE7A inhibitors. Predicted toxicity data indicated a favorable safety profile across 30 toxicity endpoints, supporting their further development."
+      ],
+      "journal": "Research in pharmaceutical sciences",
+      "date": "Oct 2026",
+      "authors": [
+        "El-Malah AA",
+        "Gineinah MM",
+        "Khayat MT",
+        "Neamatallah T",
+        "Sonousi A",
+        "Mahmoud Z",
+        "Hassan RA"
+      ],
+      "gmu_authors": [
+        "Amr Sonousi"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.4103/RPS.RPS_195_25",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42836184/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42835725",
+      "title": "Endocrine-metabolic modulators in sperm biotechnology: cross-species mechanisms and translational priorities",
+      "topic": "Reproductive health",
+      "abstract": [
+        "Endocrine-metabolic dysregulation is increasingly recognized as a determinant of male reproductive competence. Its implications for sperm biotechnology remain under-integrated. This review advances a systems framework in which insulin resistance (IR), adipokine imbalance, and vitamin D-calcium signaling converge on core sperm functional modules, i.e., membrane lipid architecture, mitochondrial efficiency, redox stability, and capacitation kinetics. Across species, metabolic strain is associated with oxidative vulnerability and altered substrate handling - amplifying damage during cooling, cryopreservation, and sorting. Adipokines emerge as biomarkers of energy-inflammatory state and as functional modulators within seminal plasma and at the sperm surface, with dose- and context-dependent effects on motility and survival. The vitamin D axis, through Ca2+-gated signaling, intersects with motility architecture and activation timing, suggesting compatibility constraints during selection and post-thaw use. By mapping endocrine inputs onto specific biotechnology \"pinch-points\", we propose an endotype-driven model for donor stratification and protocol customization. Stress-response phenotyping, function-rich endpoints beyond conventional motility, and standardized reporting of processing metadata are emphasized to enable cross-study comparability. Stratified trials, process-aware outcome measures, and reverse translation of functional assays between animal and human contexts are translational priorities. Current evidence supports further investigation of donor-stratified metabolic phenotyping as a potential approach to sperm processing, with the aim of reducing sublethal dysfunction and improving predictability of fertility under real-world assisted reproduction workflows. In veterinary reproduction, this framework is especially relevant to artificial insemination-center donor stratification, cryobank intake, chilled-semen transport, and quality control of frozen or sex-sorted semen doses."
+      ],
+      "journal": "Frontiers in veterinary science",
+      "date": "2026",
+      "authors": [
+        "Sengupta P",
+        "Dutta S",
+        "Alaee S",
+        "Mishra D",
+        "Panner Selvam MK",
+        "Maldonado Rosas I",
+        "Roychoudhury S"
+      ],
+      "gmu_authors": [
+        "Pallav Sengupta"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fvets.2026.1920393",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835725/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42835369",
+      "title": "Mediating Effect of Perceived Ageism Experiences Between TikTok Addiction Symptoms and Psychological Distress: A Cross-Sectional Study",
+      "topic": "Mental health",
+      "abstract": [
+        "Background and aims: TikTok addiction has been linked to depression and anxiety, yet mechanisms underlying this relationship remain underexplored. Based on the Social Comparison and Uses and Gratifications theories, this study examined whether perceived ageism experiences mediate the relationship between TikTok addiction and depression and anxiety among Lebanese adults. The research also explores, as a theoretical possibility, whether TikTok's algorithm may be associated with greater perceived ageism experiences, which in turn would relate to psychological distress.",
+        "Methods: A cross-sectional survey was conducted among 855 participants (mean age 24.39; 76.7% females) using the TikTok Addiction Test, WHO Ageism Scale, and PHQ-4. Data were analyzed using SPSS and mediation analysis via PROCESS Macro controlling for demographic and health covariates, such as gender, education level and a history of mental health diagnosis. The mediation analysis included 735 participants with complete data for all variables entered into the model.",
+        "Results: TikTok addiction was positively associated with psychological distress. Perceived ageism experiences partially mediated this relationship (unstandardized indirect effect: B = 0.0149, BootSE = 0.005, 95% percentile bootstrapped CI [0.0058, 0.0255]). Higher TikTok addiction symptoms were associated with greater perceived ageism experiences, which were in turn associated with higher psychological distress levels. Demographic analysis showed that females, those with lower levels of education and individuals with a history of mental health diagnosis reported higher psychological distress. Age was negatively correlated with psychological distress, showcasing higher vulnerability among younger individuals.",
+        "Conclusion: Findings highlight perceived ageism experiences as a small but statistically significant mediator between addictive digital media use and psychological distress. The study emphasizes the need for culturally sensitive mental health and digital literacy interventions, as they aim to support the deconstruction of idealized youthful standards, particularly with the Lebanese context where digital media serves as escapism."
+      ],
+      "journal": "Health science reports",
+      "date": "Oct 2026",
+      "authors": [
+        "Rizk A",
+        "Kheir N",
+        "Hallit R",
+        "Iskandar K",
+        "Malaeb D",
+        "Barakat M",
+        "Sakr F",
+        "Dabbous M",
+        "Harb F",
+        "Obeid S",
+        "Hallit S",
+        "Fekih-Romdhane F"
+      ],
+      "gmu_authors": [
+        "Diana Malaeb"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1002/hsr2.73341",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835369/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42828068",
+      "title": "Mechanism-aware and safety-validated AI for drug repurposing: a critical review and translational pharmacology framework",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Background: Artificial intelligence (AI)-assisted drug repurposing seeks to identify new therapeutic applications for existing drugs. Nevertheless, most of the existing studies are centered on prediction scores and candidate ranking, and there is still relatively little attention paid to the pharmacological mechanisms, safety and translational validation.",
+        "Objective: This critical review summarizes existing AI approaches to drug repurposing, identifies their mechanistic, safety, and translational barriers, and incorporates the emerging evidence gaps into a mechanism-driven and safety-proven translational pharmacology model.",
+        "Findings: The literature reviewed shows that machine learning, deep learning, network medicine, knowledge graphs, graph neural networks, and foundation models have the potential to significantly increase the number of candidates identified, but they have marked variations in terms of interpretability, biological support, safety integration, external validation, and clinical applicability. In all of these strategies, common shortcomings are inadequate mechanism validation, poor causal evidence, incomplete dose and safety evaluation, weak pharmacovigilance integration, and reliance on internal validation, and varying experimental or real-world confirmatory evidence. These persistent evidence gaps were incorporated into a sequence of steps that incorporates candidate predictions, mechanism mapping, determination of causal plausibility, safety and toxicity evaluation, pharmacovigilance, real-world validation, expert pharmacology review and evidence-based candidate prioritization.",
+        "Conclusion: AI-driven drug repurposing presents huge potential in the field of therapeutic innovation, but current applications require more clinical evidence and pharmacological mechanisms demonstrating safety, as well as clinical relevance. The proposed framework can support the more reliable prioritization of candidates for experimental testing, real world validation and future clinical testing."
+      ],
+      "journal": "Frontiers in pharmacology",
+      "date": "2026",
+      "authors": [
+        "Hazra M",
+        "Anandaram H"
+      ],
+      "gmu_authors": [
+        "Harishchander Anandaram"
+      ],
+      "colleges": [
+        "College of Nursing"
+      ],
+      "doi": "10.3389/fphar.2026.1915973",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42828068/",
       "first_seen": "2026-10-12"
     },
     {
