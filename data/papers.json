@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12 09:20 UTC",
+  "updated": "2026-11-13 09:08 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -155,6 +155,43 @@
       "first_seen": "2026-10-24"
     },
     {
+      "pmid": "43020291",
+      "title": "Irosustat and STX140 improve cognitive function and modulate amyloid, oxidative stress, and inflammatory pathways in experimental Alzheimer's disease",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Alzheimer's disease (AD) is currently the most prevalent neurodegenerative disorder affecting the geriatric population. The pathology of AD has been described as neuronal loss caused by the accumulation of beta-amyloid plaques and the formation of neurofibrillary tangles resulting from tau protein phosphorylation. This study aimed to investigate the therapeutic potential of steroid sulfatase inhibition using two drugs, the clinical steroid sulfatase inhibitor Irosustat and the multi-targeting preclinical candidate STX140, in scopolamine-induced AD in male Wistar rats compared to Donepezil as a standard drug. Behavioral tests such as the Open Field Test, Elevated Plus Maze Test, and Morris Water Maze Test were conducted to confirm the disease state and assess any improvement. At the end of the study, the animals were dissected to collect blood and brain samples for morphological, histological, immunohistochemical, biochemical, quantitative polymerase chain reaction and western blotting analyses. Treatment with Irosustat or STX140 improved learning, memory, and cognitive function compared with the disease group. The treated groups showed lowered brain tissue Aβ-40 & 42 levels, acetylcholinesterase activity, oxidative stress, and inflammatory markers. Morphological assessments showed that the drugs protected against brain atrophy and neuronal loss. Irosustat and STX140 are therefore promising therapeutic candidates for the management of Alzheimer's Disease."
+      ],
+      "journal": "Biochemical pharmacology",
+      "date": "Nov 12, 2026",
+      "authors": [
+        "Anbar HS",
+        "Lozon Y",
+        "Khodr V",
+        "Jabr R",
+        "Elnazier M",
+        "Zarzour T",
+        "Nasir R",
+        "Ahmed S",
+        "Malahifci R",
+        "El Gamal MI",
+        "Abdullatif M",
+        "Ahmed M",
+        "Dohle W",
+        "Potter BVL",
+        "Hassan HM"
+      ],
+      "gmu_authors": [
+        "Mohamed Abdullatif",
+        "Marium Ahmed"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1016/j.bcp.2026.118618",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020291/",
+      "first_seen": "2026-11-13"
+    },
+    {
       "pmid": "42999971",
       "title": "Cognitive disengagement syndrome and alexisomia: examining the moderating role of anxiety-depression symptoms, stress, and insomnia symptoms among a sample of Lebanese adults",
       "topic": "Mental health",
@@ -184,6 +221,32 @@
       "doi": "10.1080/13548506.2026.2759978",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42999971/",
       "first_seen": "2026-11-09"
+    },
+    {
+      "pmid": "43017561",
+      "title": "Leading for Medical Teacher Well-Being in Health Professions Education: Ten Evidence-Informed Actions for Sustainable Educational Leadership",
+      "topic": "Mental health",
+      "abstract": [
+        "Medical teachers work across teaching, assessment, clinical care, research, administration, and mentorship. Persistent workload pressure, insufficient recognition, moral distress, and limited institutional support can compromise faculty well-being and threaten the sustainability of health professions education. The aim of this narrative review is to synthesize leadership and organizational strategies that can support medical-teacher well-being and translate them into a practical framework for educational leaders. A targeted literature search was conducted using PubMed, Scopus, and Web of Science Core Collection to identify publications on faculty well-being, educational leadership, workload, psychological safety, mentorship, moral distress, faculty development, and organizational culture in health professions education and academic medicine. Recent reviews, systematic reviews, consensus statements, and guideline-oriented publications were emphasized, while retaining selected seminal sources for foundational concepts. The ten actions were formulated through narrative synthesis of the selected literature, contextualized by the authors' experience in medical education and faculty development. We propose ten complementary actions: institutionalize well-being as a leadership responsibility; lead with compassion and psychological safety; model sustainable boundaries and cognitive renewal; distribute workload fairly and account for hidden work; recognize teaching and educational labor; build collegiality and connection; address moral distress and compassion fatigue; invest in mentorship and career development; integrate well-being literacy into faculty development; and evaluate, learn, and adapt through participatory governance. Faculty well-being cannot be sustained through individual resilience strategies alone. Leaders must alter the conditions in which medical teachers work by combining relational leadership with fair systems, meaningful recognition, protected development, and continuous evaluation. The framework is an author-derived, evidence-informed synthesis rather than a validated or causal implementation model and requires prospective evaluation across diverse institutional and cultural settings."
+      ],
+      "journal": "Advances in medical education and practice",
+      "date": "2026",
+      "authors": [
+        "El Tarhouny S",
+        "Taylor DCM",
+        "Jan M",
+        "Mansour T",
+        "Zalat M"
+      ],
+      "gmu_authors": [
+        "David C M Taylor"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.2147/AMEP.S659736",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017561/",
+      "first_seen": "2026-11-13"
     },
     {
       "pmid": "42994758",
@@ -276,6 +339,31 @@
       "doi": "10.1016/j.jmir.2026.102612",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42976684/",
       "first_seen": "2026-11-05"
+    },
+    {
+      "pmid": "43017782",
+      "title": "Toward Precision Andrology: Advancing Semen Testing to Resolve the Enigma of 'Idiopathic' Male Infertility",
+      "topic": "Mental health",
+      "abstract": [
+        "Despite decades of advancements, conventional semen analysis continues to leave nearly 40% of infertile men labeled as 'idiopathic', denoting abnormal semen parameters in the absence of remarkable abnormalities in genital examination. The emerging discipline of precision andrology attempts to bridge this diagnostic gap by integrating advanced semen examinations that cross-examine molecular, oxidative, and structural extents of sperm function. This review critically synthesizes evidence from recent experimental and clinical studies outlining how oxidative stress assays, sperm DNA fragmentation testing, chromatin packaging evaluation, epigenetic alteration assessment, and, proteomic and metabolomic profiling, collectively redefine male infertility diagnostics. These approaches expose mechanistic defects, redox imbalance, genomic and epigenomic instability, and subtle inflammatory or immune perturbations that remain invisible to traditional microscopy. We discuss their clinical translation, standardization challenges, and interpretive drawbacks while proposing a tiered framework that couples basic and advanced assessments for stepwise phenotyping. By reclassifying 'idiopathic' infertility into detectable categories such as redox-deficient, genomic-unstable, or immune-inflammatory subtypes, such precision diagnostics promise individualized interventions, optimized assisted reproduction strategies, and improved prognostic accuracy. The review underscores the urgent need for consistent reference ranges, validated cut-offs, and phenotype-based clinical trials to translate these research-grade tools into routine andrology practice, ultimately transforming the notion of 'idiopathic' male infertility from a diagnosis of exclusion to one of measurable functional insight."
+      ],
+      "journal": "American journal of men's health",
+      "date": "2026",
+      "authors": [
+        "Sengupta P",
+        "Dutta S",
+        "Elsuity MAE",
+        "Saleh R"
+      ],
+      "gmu_authors": [
+        "Pallav Sengupta"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1177/15579883261506476",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017782/",
+      "first_seen": "2026-11-13"
     },
     {
       "pmid": "43012368",
@@ -1562,6 +1650,38 @@
       "first_seen": "2026-10-18"
     },
     {
+      "pmid": "43016510",
+      "title": "Severity, duration, and pattern of intraoperative hypotension and early postoperative cognitive decline in adults undergoing non-cardiac surgery: a prospective observational cohort study",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Introduction: Intraoperative hypotension (IOH) is known to pose risks for myocardial and renal injury, but its links to early postoperative cognitive decline (ePOCD) are ambiguous due to varying definitions of IOH across studies.",
+        "Method: This prospective observational cohort study at a tertiary teaching hospital in Ajman, United Arab Emirates, involved 261 adults undergoing elective non-cardiac surgeries under general anaesthesia. The study defined IOH as a decrease in mean arterial pressure (MAP) exceeding 20% from the pre-induction baseline and categorised it by severity (mild, moderate, severe) and duration/pattern (controlled episodes, prolonged episodes, frequent short episodes). Cognitive assessment was conducted using the Mini-Mental State Examination and Montreal Cognitive Assessment pre-surgery, immediately after, and on postoperative day 1.",
+        "Results: The results indicated that 93.1% of patients experienced IOH as defined, primarily mild and moderate cases, with no severe instances recorded. ePOCD was identified in 3.1% of patients. Scores on both cognitive assessments dropped significantly right after surgery but showed partial recovery by day 1. Notably, the presence of IOH did not correlate with ePOCD, whereas the severity and pattern of hypotension were associated with it, with higher ePOCD rates in patients with moderate hypotension and in those with a single prolonged episode or frequent short episodes than in those with a single short (controlled) episode. In addition, patients experiencing ePOCD were significantly older and had longer durations of hypotension. The findings suggest that a simple threshold of >20% relative change in MAP fails to predict ePOCD risk, whereas cumulative exposure, severity, and pattern of hypotension were associated with ePOCD in this exploratory analysis. Because all ePOCD events occurred in the oldest patients, these associations could not be separated from the effect of age and should not be interpreted as evidence that these measures predict ePOCD independently.",
+        "Discussion: These results argue against relying on binary definitions of IOH in neurocognitive studies and highlight the importance of exposure metrics. Confounding, particularly by age, prevented causal inference because of the small number of ePOCD events and collinearity between age and hypotensive exposure."
+      ],
+      "journal": "Frontiers in medicine",
+      "date": "2026",
+      "authors": [
+        "Firas Alnajjar J",
+        "Gasmalla G",
+        "Mahmoud D",
+        "Ismail M",
+        "Safadi E"
+      ],
+      "gmu_authors": [
+        "Joud Firas Alnajjar",
+        "Ghazi Gasmalla",
+        "Marwan Ismail",
+        "Ellen Safadi"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.3389/fmed.2026.1972338",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016510/",
+      "first_seen": "2026-11-13"
+    },
+    {
       "pmid": "43005134",
       "title": "Surviving the glocal ecosystem: Academic dissonance, cultural adaptation, and coping among international medical students in the Caribbean",
       "topic": "Medical education",
@@ -1951,116 +2071,6 @@
       "first_seen": "2026-11-12"
     },
     {
-      "pmid": "42853362",
-      "title": "A causal atlas for sperm DNA fragmentation: separating \"programmed\" breaks from \"acquired\" injury across the male tract",
-      "topic": "Reproductive health",
-      "abstract": [
-        "Sperm DNA fragmentation (SDF) is still treated as a single metric despite converging evidence that it is a composite of mechanistically distinct break classes. We argue for a 'causal atlas' that maps when and where damage is introduced, from spermiogenesis to epididymal transit to ejaculation, and partitions SDF into programmed vulnerability created by faulty chromatin remodeling/topoisomerase-associated events and abortive apoptosis, versus acquired injury from oxidative/enzymatic attack during transit. Although current assays cannot definitively assign SDF to a particular mechanism or anatomical stage, integrating complementary measures may support mechanistically informed patient stratification and guide the development of more targeted interventions."
-      ],
-      "journal": "Journal of assisted reproduction and genetics",
-      "date": "Oct 09, 2026",
-      "authors": [
-        "Dutta S",
-        "Sengupta P"
-      ],
-      "gmu_authors": [
-        "Pallav Sengupta"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1007/s10815-026-04046-2",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42853362/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42884169",
-      "title": "Waterpipe Smoke Condensate Impairs p53 Nuclear Localization in Association with HIF-1α Stabilization",
-      "topic": "Cancer research",
-      "abstract": [
-        "Waterpipe (shisha or hookah) smoking is recognized as a risk factor for lung cancer; however, its interference with hypoxia stress and tumor suppressor pathways in non-small cell lung cancer (NSCLC) is poorly defined. In this study, NSCLC cell lines (A549, H460, H226 with endogenous wild-type p53, and H1299 transiently expressing wild-type or p53 mutants) were exposed to waterpipe smoke condensate (WPSC) under normoxic and/or hypoxic conditions. WPSC induced HIF-1α stabilization under normoxic conditions, accompanied by predominantly cytoplasmic localization and without corresponding induction of the canonical HIF-1 target genes examined. In parallel, WPSC transiently reduced nuclear p53 localization without altering total p53 protein levels. In A549 cells, WPSC pretreatment attenuated irradiation-induced expression of the p53 target genes cyclin-dependent kinase inhibitor 1A (CDKN1A) and BTG anti-proliferation factor 2 (BTG2). Pharmacological inhibition of HIF-1α partially restored nuclear p53 localization, supporting the involvement of HIF-1α in this response. Co-immunoprecipitation demonstrated an association between HIF-1α and p53 following WPSC exposure. Collectively, these findings show that WPSC-induced HIF-1α stabilization under normoxic conditions is associated with transient alterations in p53 localization and transcriptional response, supporting an involvement of HIF-1α in this process."
-      ],
-      "journal": "International journal of molecular sciences",
-      "date": "Oct 08, 2026",
-      "authors": [
-        "Nawafleh H",
-        "Thiery J",
-        "Elsayed Y",
-        "Abdou A",
-        "Chouaib S",
-        "Zaarour RF"
-      ],
-      "gmu_authors": [
-        "Husam Nawafleh",
-        "Salem Chouaib",
-        "Rania F Zaarour"
-      ],
-      "colleges": [
-        "College of Medicine",
-        "Thumbay Research Institute for Precision Medicine"
-      ],
-      "doi": "10.3390/ijms27198927",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42884169/",
-      "first_seen": "2026-10-17"
-    },
-    {
-      "pmid": "42851888",
-      "title": "Direct and Indirect Associations Between War-Related Nightmares, Anxiety-Depression Symptoms, and Somatization in a Sample of Displaced Lebanese Adults During the 2024-2025 Lebanese War: A Cross-Sectional Study",
-      "topic": "Mental health",
-      "abstract": [
-        "Background and aims: Somatization, the physical manifestation of emotional and psychological distress, is a prevalent issue in populations exposed to war and trauma. War-related nightmares are common among displaced individuals and are linked to depression, anxiety, and somatization. Yet, the indirect role of depression-anxiety in the association between war-related nightmares and somatization remains underexplored, particularly in the Lebanese context during the 2024-2025 war. This study aimed to examine whether war-related nightmares were associated with somatization both directly and indirectly through anxiety and depression considered simultaneously as parallel mediators among a sample of displaced Lebanese adults.",
-        "Methods: This cross-sectional study enrolled 294 displaced Lebanese adults (mean age 25.4 years; 72.1% female) through a convenience and snowball sampling technique (October 2024-March 2025) that made this study prone to selection bias. A parallel indirect-effect analysis was conducted using SPSS version 27 and PROCESS macro version 5.0, Model 4, with anxiety and depression entered simultaneously as parallel mediators. The model was adjusted for gender, occupation, and number of bombing exposures, and indirect effects were estimated using 5000 percentile-bootstrap samples.",
-        "Results: A significant total indirect association between war-related nightmares and somatization through anxiety and depression was observed (indirect effect: B = 0.14; Bootstrapped Standard Error = 0.04; Bootstrapped 95% Confidence Interval [0.07, 0.21]). The specific indirect association through depression was significant (B = 0.07; BootSE = 0.04; 95% Bootstrapped Confidence Interval [0.01; 0.15]), whereas the specific indirect association through anxiety was not significant (B = 0.06; BootSE = 0.04; 95% Bootstrapped Confidence Interval [-0.01; 0.14]). More frequent war-related nightmares were significantly associated with higher anxiety (B = 0.13; SE = 0.01, p < 0.001; 95% Confidence Interval [0.10, 0.16]) and higher depression (B = 0.12; SE = 0.01, p < 0.001; 95% Confidence Interval [0.09, 0.15]). When both mediators were entered simultaneously, depression was significantly associated with higher somatization (B = 0.58; SE = 0.28, p = 0.040; 95% Confidence Interval [0.03, 1.14]), whereas anxiety was not independently associated with somatization (B = 0.50; SE = 0.29, p = 0.088; 95% Confidence Interval [-0.07, 1.06]). War-related nightmares remained directly associated with somatization after accounting for both mediators (B = 0.42; SE = 0.06, p < 0.001; 95% Confidence Interval [0.30, 0.55]). The total association between war-related nightmares and somatization was B = 0.56 (SE = 0.06 p < 0.001; 95% Confidence Interval 0.45, 0.67).",
-        "Conclusion: War-related nightmares were associated with somatization both directly and indirectly through anxiety and depression collectively among a sample of displaced Lebanese adults. The specific indirect association through depression was significant, whereas the specific indirect association through anxiety was not. Although findings should be interpreted within the context of interrelated trauma symptoms and the cross-sectional design, which precludes temporal or causal conclusions, these results suggest a need for integrated mental health interventions addressing war-related nightmares, anxiety, depression, and somatic symptoms in war-affected populations."
-      ],
-      "journal": "Health science reports",
-      "date": "Oct 2026",
-      "authors": [
-        "Saadeh N",
-        "Atallah E",
-        "Fawaz M",
-        "Hallit R",
-        "Malaeb D",
-        "Hallit S",
-        "Fekih-Romdhane F",
-        "Obeid S"
-      ],
-      "gmu_authors": [
-        "Diana Malaeb"
-      ],
-      "colleges": [
-        "College of Pharmacy"
-      ],
-      "doi": "10.1002/hsr2.73350",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42851888/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42842184",
-      "title": "Neuraxial Medication Administration Errors During Anaesthesia and Perioperative Management, Consequences, Contributing Human and Systemic Factors and Their Prevention: A Systematic Review",
-      "topic": "Surgery and anaesthesia",
-      "abstract": [
-        "Introduction: This systematic review aimed to investigate neuraxial administration errors, examine their contributing factors, and evaluate clinical outcomes using a novel harm scale.",
-        "Methods: The author searched PubMed, Web of Science, Scopus, EBSCOhost, and Google Scholar for reports from 1981 to 2025 in any language. Exclusions were reviews, overdose incidents, and non-neuraxial administrations. Harm was classified using a novel five-level scale, and contributing factors were identified using the Human and Systemic Factors Analysis Classification System (HFACS).",
-        "Results: The search revealed 50 reports (54 patients), mainly involving the epidural route (38 vs 16 intrathecal), non-obstetric patients (35 vs 17 obstetric), and female gender (73%). Medications were grouped into nine divisions: IV fluids/total parenteral nutrition/insulin, anticholinergics, antiseptics, antiemetics, anticoagulants, non-steroidal anti-inflammatory drugs, opioids, Syntocinon, and others. Atropine (6 patients) was the most common, followed by remifentanil (4), Syntocinon (4), chlorhexidine (3), and water (3). Level 4 events (irreversible paraplegia or quadriplegia, 4 patients) and level 5 events (death, 4 patients) were mostly due to accidental antiseptic bolus administration. Inadvertent neuraxial drug administration occurred at different locations and during various stages of clinical care. The Human Factors Analysis Classification System (HFACS) identified unsafe acts related to skill-based errors and misidentification of routinely used objects. Additional deficiencies included organisational processes, resources, supervision, and task execution for neuraxial anaesthesia or analgesia.",
-        "Conclusions: Level 4 and 5 harm was mainly associated with the administration of antiseptic solutions. The HFACS framework-based analysis suggested multiple modifiable institutional and individual deficiencies. Multidisciplinary improvements of organisational safety procedures, relevant preconditions, and neuraxial clinical practices may help prevent these serious incidents."
-      ],
-      "journal": "Pain and therapy",
-      "date": "Oct 07, 2026",
-      "authors": [
-        "Patel S"
-      ],
-      "gmu_authors": [
-        "Santosh Patel"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1007/s40122-026-00889-w",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
-      "first_seen": "2026-10-12"
-    },
-    {
       "pmid": "42985000",
       "title": "Paraplegia Following Decompression Sickness (Caisson Disease): A Journey to Near-Complete Recovery",
       "topic": "Brain and nervous system",
@@ -2108,6 +2118,36 @@
       "doi": "10.3389/frai.2026.1968385",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42903513/",
       "first_seen": "2026-10-23"
+    },
+    {
+      "pmid": "42884169",
+      "title": "Waterpipe Smoke Condensate Impairs p53 Nuclear Localization in Association with HIF-1α Stabilization",
+      "topic": "Cancer research",
+      "abstract": [
+        "Waterpipe (shisha or hookah) smoking is recognized as a risk factor for lung cancer; however, its interference with hypoxia stress and tumor suppressor pathways in non-small cell lung cancer (NSCLC) is poorly defined. In this study, NSCLC cell lines (A549, H460, H226 with endogenous wild-type p53, and H1299 transiently expressing wild-type or p53 mutants) were exposed to waterpipe smoke condensate (WPSC) under normoxic and/or hypoxic conditions. WPSC induced HIF-1α stabilization under normoxic conditions, accompanied by predominantly cytoplasmic localization and without corresponding induction of the canonical HIF-1 target genes examined. In parallel, WPSC transiently reduced nuclear p53 localization without altering total p53 protein levels. In A549 cells, WPSC pretreatment attenuated irradiation-induced expression of the p53 target genes cyclin-dependent kinase inhibitor 1A (CDKN1A) and BTG anti-proliferation factor 2 (BTG2). Pharmacological inhibition of HIF-1α partially restored nuclear p53 localization, supporting the involvement of HIF-1α in this response. Co-immunoprecipitation demonstrated an association between HIF-1α and p53 following WPSC exposure. Collectively, these findings show that WPSC-induced HIF-1α stabilization under normoxic conditions is associated with transient alterations in p53 localization and transcriptional response, supporting an involvement of HIF-1α in this process."
+      ],
+      "journal": "International journal of molecular sciences",
+      "date": "Oct 08, 2026",
+      "authors": [
+        "Nawafleh H",
+        "Thiery J",
+        "Elsayed Y",
+        "Abdou A",
+        "Chouaib S",
+        "Zaarour RF"
+      ],
+      "gmu_authors": [
+        "Husam Nawafleh",
+        "Salem Chouaib",
+        "Rania F Zaarour"
+      ],
+      "colleges": [
+        "College of Medicine",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ijms27198927",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42884169/",
+      "first_seen": "2026-10-17"
     },
     {
       "pmid": "42876967",
@@ -2268,6 +2308,29 @@
       "first_seen": "2026-10-12"
     },
     {
+      "pmid": "42853362",
+      "title": "A causal atlas for sperm DNA fragmentation: separating \"programmed\" breaks from \"acquired\" injury across the male tract",
+      "topic": "Reproductive health",
+      "abstract": [
+        "Sperm DNA fragmentation (SDF) is still treated as a single metric despite converging evidence that it is a composite of mechanistically distinct break classes. We argue for a 'causal atlas' that maps when and where damage is introduced, from spermiogenesis to epididymal transit to ejaculation, and partitions SDF into programmed vulnerability created by faulty chromatin remodeling/topoisomerase-associated events and abortive apoptosis, versus acquired injury from oxidative/enzymatic attack during transit. Although current assays cannot definitively assign SDF to a particular mechanism or anatomical stage, integrating complementary measures may support mechanistically informed patient stratification and guide the development of more targeted interventions."
+      ],
+      "journal": "Journal of assisted reproduction and genetics",
+      "date": "Oct 09, 2026",
+      "authors": [
+        "Dutta S",
+        "Sengupta P"
+      ],
+      "gmu_authors": [
+        "Pallav Sengupta"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1007/s10815-026-04046-2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42853362/",
+      "first_seen": "2026-10-12"
+    },
+    {
       "pmid": "42852021",
       "title": "Prevalence of positive screens for depression, anxiety, and PTSD symptoms among parents of infants admitted to a NICU: a pilot study",
       "topic": "Mental health",
@@ -2301,6 +2364,63 @@
       ],
       "doi": "10.3389/fpsyt.2026.1934224",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42852021/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42851888",
+      "title": "Direct and Indirect Associations Between War-Related Nightmares, Anxiety-Depression Symptoms, and Somatization in a Sample of Displaced Lebanese Adults During the 2024-2025 Lebanese War: A Cross-Sectional Study",
+      "topic": "Mental health",
+      "abstract": [
+        "Background and aims: Somatization, the physical manifestation of emotional and psychological distress, is a prevalent issue in populations exposed to war and trauma. War-related nightmares are common among displaced individuals and are linked to depression, anxiety, and somatization. Yet, the indirect role of depression-anxiety in the association between war-related nightmares and somatization remains underexplored, particularly in the Lebanese context during the 2024-2025 war. This study aimed to examine whether war-related nightmares were associated with somatization both directly and indirectly through anxiety and depression considered simultaneously as parallel mediators among a sample of displaced Lebanese adults.",
+        "Methods: This cross-sectional study enrolled 294 displaced Lebanese adults (mean age 25.4 years; 72.1% female) through a convenience and snowball sampling technique (October 2024-March 2025) that made this study prone to selection bias. A parallel indirect-effect analysis was conducted using SPSS version 27 and PROCESS macro version 5.0, Model 4, with anxiety and depression entered simultaneously as parallel mediators. The model was adjusted for gender, occupation, and number of bombing exposures, and indirect effects were estimated using 5000 percentile-bootstrap samples.",
+        "Results: A significant total indirect association between war-related nightmares and somatization through anxiety and depression was observed (indirect effect: B = 0.14; Bootstrapped Standard Error = 0.04; Bootstrapped 95% Confidence Interval [0.07, 0.21]). The specific indirect association through depression was significant (B = 0.07; BootSE = 0.04; 95% Bootstrapped Confidence Interval [0.01; 0.15]), whereas the specific indirect association through anxiety was not significant (B = 0.06; BootSE = 0.04; 95% Bootstrapped Confidence Interval [-0.01; 0.14]). More frequent war-related nightmares were significantly associated with higher anxiety (B = 0.13; SE = 0.01, p < 0.001; 95% Confidence Interval [0.10, 0.16]) and higher depression (B = 0.12; SE = 0.01, p < 0.001; 95% Confidence Interval [0.09, 0.15]). When both mediators were entered simultaneously, depression was significantly associated with higher somatization (B = 0.58; SE = 0.28, p = 0.040; 95% Confidence Interval [0.03, 1.14]), whereas anxiety was not independently associated with somatization (B = 0.50; SE = 0.29, p = 0.088; 95% Confidence Interval [-0.07, 1.06]). War-related nightmares remained directly associated with somatization after accounting for both mediators (B = 0.42; SE = 0.06, p < 0.001; 95% Confidence Interval [0.30, 0.55]). The total association between war-related nightmares and somatization was B = 0.56 (SE = 0.06 p < 0.001; 95% Confidence Interval 0.45, 0.67).",
+        "Conclusion: War-related nightmares were associated with somatization both directly and indirectly through anxiety and depression collectively among a sample of displaced Lebanese adults. The specific indirect association through depression was significant, whereas the specific indirect association through anxiety was not. Although findings should be interpreted within the context of interrelated trauma symptoms and the cross-sectional design, which precludes temporal or causal conclusions, these results suggest a need for integrated mental health interventions addressing war-related nightmares, anxiety, depression, and somatic symptoms in war-affected populations."
+      ],
+      "journal": "Health science reports",
+      "date": "Oct 2026",
+      "authors": [
+        "Saadeh N",
+        "Atallah E",
+        "Fawaz M",
+        "Hallit R",
+        "Malaeb D",
+        "Hallit S",
+        "Fekih-Romdhane F",
+        "Obeid S"
+      ],
+      "gmu_authors": [
+        "Diana Malaeb"
+      ],
+      "colleges": [
+        "College of Pharmacy"
+      ],
+      "doi": "10.1002/hsr2.73350",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42851888/",
+      "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "42842184",
+      "title": "Neuraxial Medication Administration Errors During Anaesthesia and Perioperative Management, Consequences, Contributing Human and Systemic Factors and Their Prevention: A Systematic Review",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Introduction: This systematic review aimed to investigate neuraxial administration errors, examine their contributing factors, and evaluate clinical outcomes using a novel harm scale.",
+        "Methods: The author searched PubMed, Web of Science, Scopus, EBSCOhost, and Google Scholar for reports from 1981 to 2025 in any language. Exclusions were reviews, overdose incidents, and non-neuraxial administrations. Harm was classified using a novel five-level scale, and contributing factors were identified using the Human and Systemic Factors Analysis Classification System (HFACS).",
+        "Results: The search revealed 50 reports (54 patients), mainly involving the epidural route (38 vs 16 intrathecal), non-obstetric patients (35 vs 17 obstetric), and female gender (73%). Medications were grouped into nine divisions: IV fluids/total parenteral nutrition/insulin, anticholinergics, antiseptics, antiemetics, anticoagulants, non-steroidal anti-inflammatory drugs, opioids, Syntocinon, and others. Atropine (6 patients) was the most common, followed by remifentanil (4), Syntocinon (4), chlorhexidine (3), and water (3). Level 4 events (irreversible paraplegia or quadriplegia, 4 patients) and level 5 events (death, 4 patients) were mostly due to accidental antiseptic bolus administration. Inadvertent neuraxial drug administration occurred at different locations and during various stages of clinical care. The Human Factors Analysis Classification System (HFACS) identified unsafe acts related to skill-based errors and misidentification of routinely used objects. Additional deficiencies included organisational processes, resources, supervision, and task execution for neuraxial anaesthesia or analgesia.",
+        "Conclusions: Level 4 and 5 harm was mainly associated with the administration of antiseptic solutions. The HFACS framework-based analysis suggested multiple modifiable institutional and individual deficiencies. Multidisciplinary improvements of organisational safety procedures, relevant preconditions, and neuraxial clinical practices may help prevent these serious incidents."
+      ],
+      "journal": "Pain and therapy",
+      "date": "Oct 07, 2026",
+      "authors": [
+        "Patel S"
+      ],
+      "gmu_authors": [
+        "Santosh Patel"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1007/s40122-026-00889-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
       "first_seen": "2026-10-12"
     },
     {
