@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13 09:08 UTC",
+  "updated": "2026-11-15 08:51 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -153,6 +153,31 @@
       "doi": "10.1227/neuprac.0000000000000293",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42910382/",
       "first_seen": "2026-10-24"
+    },
+    {
+      "pmid": "42842184",
+      "title": "Neuraxial Medication Administration Errors During Anaesthesia and Perioperative Management, Consequences, Contributing Human and Systemic Factors and Their Prevention: A Systematic Review",
+      "topic": "Surgery and anaesthesia",
+      "abstract": [
+        "Introduction: This systematic review aimed to investigate neuraxial administration errors, examine their contributing factors, and evaluate clinical outcomes using a novel harm scale.",
+        "Methods: The author searched PubMed, Web of Science, Scopus, EBSCOhost, and Google Scholar for reports from 1981 to 2025 in any language. Exclusions were reviews, overdose incidents, and non-neuraxial administrations. Harm was classified using a novel five-level scale, and contributing factors were identified using the Human and Systemic Factors Analysis Classification System (HFACS).",
+        "Results: The search revealed 50 reports (54 patients), mainly involving the epidural route (38 vs 16 intrathecal), non-obstetric patients (35 vs 17 obstetric), and female gender (73%). Medications were grouped into nine divisions: IV fluids/total parenteral nutrition/insulin, anticholinergics, antiseptics, antiemetics, anticoagulants, non-steroidal anti-inflammatory drugs, opioids, Syntocinon, and others. Atropine (6 patients) was the most common, followed by remifentanil (4), Syntocinon (4), chlorhexidine (3), and water (3). Level 4 events (irreversible paraplegia or quadriplegia, 4 patients) and level 5 events (death, 4 patients) were mostly due to accidental antiseptic bolus administration. Inadvertent neuraxial drug administration occurred at different locations and during various stages of clinical care. The Human Factors Analysis Classification System (HFACS) identified unsafe acts related to skill-based errors and misidentification of routinely used objects. Additional deficiencies included organisational processes, resources, supervision, and task execution for neuraxial anaesthesia or analgesia.",
+        "Conclusions: Level 4 and 5 harm was mainly associated with the administration of antiseptic solutions. The HFACS framework-based analysis suggested multiple modifiable institutional and individual deficiencies. Multidisciplinary improvements of organisational safety procedures, relevant preconditions, and neuraxial clinical practices may help prevent these serious incidents."
+      ],
+      "journal": "Pain and therapy",
+      "date": "Dec 2026",
+      "authors": [
+        "Patel S"
+      ],
+      "gmu_authors": [
+        "Santosh Patel"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1007/s40122-026-00889-w",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
+      "first_seen": "2026-10-12"
     },
     {
       "pmid": "43020291",
@@ -1779,6 +1804,32 @@
       "first_seen": "2026-10-30"
     },
     {
+      "pmid": "43030400",
+      "title": "Macrognathia Secondary to Renal Osteodystrophy in a Hemodialysis Patient: A Case Report and Literature Review",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Background: Renal osteodystrophy (ROD) is a complex metabolic bone disorder encompassing the full spectrum of skeletal abnormalities arising from chronic kidney disease-mineral and bone disorder (CKD-MBD). Although ROD is a well-recognized systemic complication of end-stage renal disease (ESRD), its manifestation as progressive maxillofacial enlargement macrognathia is rare and may precede recognition of the underlying nephropathy in clinical dental settings. The paper aims to report a case of ROD-associated macrognathia in a patient on long-term hemodialysis and a contemporary literature review. Case Presentation: We describe a 45-year-old female patient on long-term maintenance hemodialysis for ESRD secondary to Grade I bilateral nephropathy who presented to our dental clinic with a 6-month history of progressive, painless diffuse swelling of the mandibular anterior region that subsequently involved the hard palate. Oral examination revealed bilateral jaw enlargement, severe generalised periodontitis, xerostomia, uremic fetor, and hyposalivation. Panoramic radiography demonstrated ground-glass trabecular changes, cortical thinning, and loss of the inferior cortex. Histopathology of an incisional biopsy revealed features of fibrous replacement of medullary bone, irregular osteoid mineralization, increased osteoblastic activity, and osteoclastic resorption lacunae suggestive of osteitis fibrosa cystica. Conclusions: This case illustrates the importance of the dental clinician's role in recognizing the oral and maxillofacial manifestations of systemic metabolic disease. Macrognathia should be included in the differential diagnosis of jaw enlargement in any patient with a history of CKD or ESRD. Multidisciplinary collaboration between dentists, oral pathologists, and nephrologists is essential for timely diagnosis and optimal management."
+      ],
+      "journal": "Journal of clinical medicine",
+      "date": "Oct 23, 2026",
+      "authors": [
+        "Jaber M",
+        "Ingagou MS",
+        "Elameen AM",
+        "Prasad P",
+        "Ahmed M"
+      ],
+      "gmu_authors": [
+        "Mehzabin Ahmed"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3390/jcm15218256",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43030400/",
+      "first_seen": "2026-11-15"
+    },
+    {
       "pmid": "42921916",
       "title": "Targeting the gut-brain axis with Bifidobacterium breve in neurodegeneration: A comprehensive narrative review of current evidence in Alzheimer's disease and cognitive aging",
       "topic": "Brain and nervous system",
@@ -2018,32 +2069,6 @@
       "first_seen": "2026-10-15"
     },
     {
-      "pmid": "42941816",
-      "title": "In Vitro Anti-Proliferative and Cisplatin-Modulating Effects of Cedrus libani A. Rich Leaf Essential Oil on H460 and HT-29 Human Cancer Cell Lines",
-      "topic": "Cancer research",
-      "abstract": [
-        "Cedrus libani A. Rich is a coniferous tree native to the eastern Mediterranean region that is known for exhibiting pharmacological properties. In the present study, we investigated the anti-proliferative effect of C. libani leaf essential oil (EO) against H460 and HT-29, as well as evaluated its chemo-modulatory effect with cisplatin (CIS). The EO chemical profile was analyzed via GC-MS. Cell viability was assessed using MTT, while trypan blue exclusion and Annexin V/Propidium Iodide staining were employed to detect cell death. Colony biomass and wound closure were evaluated using crystal violet staining and a scratch assay, respectively. Nuclear morphology and reactive oxygen species (ROS) were assessed using DAPI staining and an NBT assay, respectively. EO and CIS individually reduced cell viability in a time- and concentration-dependent manner with combination treatments demonstrating synergistic/additive/antagonistic interactions depending on the combination ratio, cell line and time point. EO alone does not exhibit significant cell death, whereas CIS demonstrated significant apoptosis and necrosis. The combination (IC50:IC50) enhanced cell death, particularly in HT-29. Both EO and CIS reduced colony biomass and wound closure, with the combination showing higher inhibitory effect on colony biomass in both cell lines and enhanced wound closure inhibitory effect in HT-29 but reduced effect in H460. CIS and combination caused more notable nuclear alterations compared to EO alone, whereas an early increase in NBT reduction followed by a subsequent decrease was observed for individual treatments as well as the combination. This study provides insights into the antiproliferative and chemo-modulatory potential of C. libani leaf essential oil, although further studies are needed to elucidate the underlying molecular mechanisms."
-      ],
-      "journal": "International journal of molecular sciences",
-      "date": "Oct 12, 2026",
-      "authors": [
-        "Younes H",
-        "Azakir B",
-        "Zaarour R",
-        "Hayeck N",
-        "Borjac J"
-      ],
-      "gmu_authors": [
-        "Rania Zaarour"
-      ],
-      "colleges": [
-        "Thumbay Research Institute for Precision Medicine"
-      ],
-      "doi": "10.3390/ijms27209044",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42941816/",
-      "first_seen": "2026-10-28"
-    },
-    {
       "pmid": "43011934",
       "title": "Prevalence of Overweight and Obesity and Their Associations With Screen Time and Other Behavioral Factors Among Adolescents in the United Arab Emirates",
       "topic": "Diabetes and metabolism",
@@ -2096,6 +2121,32 @@
       "doi": "10.7759/cureus.117461",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42985000/",
       "first_seen": "2026-11-06"
+    },
+    {
+      "pmid": "42941816",
+      "title": "In Vitro Anti-Proliferative and Cisplatin-Modulating Effects of Cedrus libani A. Rich Leaf Essential Oil on H460 and HT-29 Human Cancer Cell Lines",
+      "topic": "Cancer research",
+      "abstract": [
+        "Cedrus libani A. Rich is a coniferous tree native to the eastern Mediterranean region that is known for exhibiting pharmacological properties. In the present study, we investigated the anti-proliferative effect of C. libani leaf essential oil (EO) against H460 and HT-29, as well as evaluated its chemo-modulatory effect with cisplatin (CIS). The EO chemical profile was analyzed via GC-MS. Cell viability was assessed using MTT, while trypan blue exclusion and Annexin V/Propidium Iodide staining were employed to detect cell death. Colony biomass and wound closure were evaluated using crystal violet staining and a scratch assay, respectively. Nuclear morphology and reactive oxygen species (ROS) were assessed using DAPI staining and an NBT assay, respectively. EO and CIS individually reduced cell viability in a time- and concentration-dependent manner with combination treatments demonstrating synergistic/additive/antagonistic interactions depending on the combination ratio, cell line and time point. EO alone does not exhibit significant cell death, whereas CIS demonstrated significant apoptosis and necrosis. The combination (IC50:IC50) enhanced cell death, particularly in HT-29. Both EO and CIS reduced colony biomass and wound closure, with the combination showing higher inhibitory effect on colony biomass in both cell lines and enhanced wound closure inhibitory effect in HT-29 but reduced effect in H460. CIS and combination caused more notable nuclear alterations compared to EO alone, whereas an early increase in NBT reduction followed by a subsequent decrease was observed for individual treatments as well as the combination. This study provides insights into the antiproliferative and chemo-modulatory potential of C. libani leaf essential oil, although further studies are needed to elucidate the underlying molecular mechanisms."
+      ],
+      "journal": "International journal of molecular sciences",
+      "date": "Oct 12, 2026",
+      "authors": [
+        "Younes H",
+        "Azakir B",
+        "Zaarour R",
+        "Hayeck N",
+        "Borjac J"
+      ],
+      "gmu_authors": [
+        "Rania Zaarour"
+      ],
+      "colleges": [
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.3390/ijms27209044",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42941816/",
+      "first_seen": "2026-10-28"
     },
     {
       "pmid": "42903513",
@@ -2396,31 +2447,6 @@
       ],
       "doi": "10.1002/hsr2.73350",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42851888/",
-      "first_seen": "2026-10-12"
-    },
-    {
-      "pmid": "42842184",
-      "title": "Neuraxial Medication Administration Errors During Anaesthesia and Perioperative Management, Consequences, Contributing Human and Systemic Factors and Their Prevention: A Systematic Review",
-      "topic": "Surgery and anaesthesia",
-      "abstract": [
-        "Introduction: This systematic review aimed to investigate neuraxial administration errors, examine their contributing factors, and evaluate clinical outcomes using a novel harm scale.",
-        "Methods: The author searched PubMed, Web of Science, Scopus, EBSCOhost, and Google Scholar for reports from 1981 to 2025 in any language. Exclusions were reviews, overdose incidents, and non-neuraxial administrations. Harm was classified using a novel five-level scale, and contributing factors were identified using the Human and Systemic Factors Analysis Classification System (HFACS).",
-        "Results: The search revealed 50 reports (54 patients), mainly involving the epidural route (38 vs 16 intrathecal), non-obstetric patients (35 vs 17 obstetric), and female gender (73%). Medications were grouped into nine divisions: IV fluids/total parenteral nutrition/insulin, anticholinergics, antiseptics, antiemetics, anticoagulants, non-steroidal anti-inflammatory drugs, opioids, Syntocinon, and others. Atropine (6 patients) was the most common, followed by remifentanil (4), Syntocinon (4), chlorhexidine (3), and water (3). Level 4 events (irreversible paraplegia or quadriplegia, 4 patients) and level 5 events (death, 4 patients) were mostly due to accidental antiseptic bolus administration. Inadvertent neuraxial drug administration occurred at different locations and during various stages of clinical care. The Human Factors Analysis Classification System (HFACS) identified unsafe acts related to skill-based errors and misidentification of routinely used objects. Additional deficiencies included organisational processes, resources, supervision, and task execution for neuraxial anaesthesia or analgesia.",
-        "Conclusions: Level 4 and 5 harm was mainly associated with the administration of antiseptic solutions. The HFACS framework-based analysis suggested multiple modifiable institutional and individual deficiencies. Multidisciplinary improvements of organisational safety procedures, relevant preconditions, and neuraxial clinical practices may help prevent these serious incidents."
-      ],
-      "journal": "Pain and therapy",
-      "date": "Oct 07, 2026",
-      "authors": [
-        "Patel S"
-      ],
-      "gmu_authors": [
-        "Santosh Patel"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.1007/s40122-026-00889-w",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
       "first_seen": "2026-10-12"
     },
     {
