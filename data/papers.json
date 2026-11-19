@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15 08:51 UTC",
+  "updated": "2026-11-19 09:55 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -324,6 +324,41 @@
       "doi": "10.1155/crid/3829192",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42991533/",
       "first_seen": "2026-11-07"
+    },
+    {
+      "pmid": "43047886",
+      "title": "The first report on the current status of geriatric oncology in the Gulf Cooperation Council and a pragmatic roadmap for implementation",
+      "topic": "Cancer research",
+      "abstract": [
+        "Background: The Gulf Cooperation Council countries face converging demographic aging and a rising cancer burden. By 2040, new cancer cases are projected to increase by approximately 143%, and deaths by 188%; among adults aged ≥70 years, projected increases reach 540% in men and 357% in women relative to 2018. Despite advanced oncology infrastructure, routine comprehensive geriatric assessment and dedicated geriatric oncology services remain absent as a system-level standard, limiting toxicity-minimizing care for vulnerable older patients.",
+        "Objectives: To map the current status of comprehensive geriatric assessment (CGA) and geriatric oncology (GO) services across the six GCC countries, synthesize demographic and cancer-burden projections, identify implementation gaps, and propose a pragmatic, culturally adapted, stepwise roadmap with measurable performance targets for integrating CGA into routine oncology care.",
+        "Methods: This narrative review followed the SANRA framework. A structured search of PubMed/MEDLINE, Embase, and Google Scholar (inception to June 2026) used predefined terms covering geriatric oncology, CGA, GCC countries, cancer burden, and implementation science. Sources were supplemented with GLOBOCAN 2022, UN World Population Prospects 2022, national registry reports (UAE-NCR 2021-2023; QNCR 2020), and international guidelines, including the 2025 ASCO Global Guideline and 2014 SIOG consensus.",
+        "Results: In 2020, the GCC reported 42,475 new cancer cases and 19,895 deaths; breast, colorectal, and thyroid cancers comprised approximately 40% of incidence. Routine G8 screening, dedicated GO clinics, geriatric domain registry capture, and actionable CGA-guided interventions were absent across all six countries. Pilot programs at King Faisal Specialist Hospital and Tawam Hospital lack EHR integration, standardized follow-up, and performance monitoring. Indian nurse-led G8 models demonstrated feasible reductions in grade 3-5 chemotherapy toxicity (15%), offering a scalable benchmark.",
+        "Conclusion: The integration of CGA into GCC oncology is strongly supported by demographic, epidemiological, and clinical evidence. This first GCC-wide synthesis proposes a pragmatic, stepwise roadmap with ten domain-specific performance targets adapted from Western and Indian models. These targets were extrapolated from non-GCC evidence, and prospective GCC pilot studies are needed for validation."
+      ],
+      "journal": "Oncology reviews",
+      "date": "2026",
+      "authors": [
+        "Sood K",
+        "Sood T",
+        "Parikh PM",
+        "Ramaswamy A",
+        "Thampy C",
+        "Agrawal C",
+        "Rasul K",
+        "Thuruthel S",
+        "Vora A",
+        "Al-Shamsi HO"
+      ],
+      "gmu_authors": [
+        "Humaid O Al-Shamsi"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/or.2026.1939103",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047886/",
+      "first_seen": "2026-11-19"
     },
     {
       "pmid": "42976684",
@@ -2040,35 +2075,6 @@
       "first_seen": "2026-10-29"
     },
     {
-      "pmid": "42872747",
-      "title": "A Standardized In Vitro Protocol for Evaluating Human Dental Pulp Stem Cell Differentiation and Proliferation on Nanomaterial Scaffolds",
-      "topic": "Dentistry and oral health",
-      "abstract": [
-        "Reliable assessment of osteogenic and odontogenic differentiation, as well as stem cell proliferation, is fundamental to evaluating the biological performance of scaffold-based regenerative strategies. However, variability in experimental protocols, assay selection, and data interpretation often limits reproducibility and inter-study comparison. The protocol described in this article presents a standardized, reproducible workflow for the in vitro evaluation of osteogenic and odontogenic differentiation, as well as proliferative capacity, of stem cells cultured on biomaterial scaffolds. Osteogenic commitment is evaluated by alkaline phosphatase (ALP) enzymatic activity and Receptor Activator of Nuclear Factor κB Ligand (RANKL) immunofluorescence, while odontogenic commitment is assessed by DMP-1 (dentin matrix protein-1) immunofluorescence; both protein endpoints are quantified using standardized H-score methodology. Critical experimental parameters, including cell seeding density, induction timelines, assay conditions, normalization strategies (including protein-normalized ALP activity, cell-normalized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) viability, and immunofluorescence H-score), and data analysis approaches, are detailed, along with troubleshooting guidance to minimize technical variability. The methodology has been applied as a standardized framework across multiple scaffold-based experimental studies, demonstrating robustness and reproducibility. By providing a comprehensive, validated framework, this article aims to facilitate standardized assessment of stem cell-scaffold interactions and improve comparability across preclinical regenerative studies."
-      ],
-      "journal": "Journal of visualized experiments : JoVE",
-      "date": "Oct 13, 2026",
-      "authors": [
-        "Makawi DM",
-        "Mahran AH",
-        "Elgendy AA",
-        "Yehia TA",
-        "Amer YH",
-        "Elsewify TM"
-      ],
-      "gmu_authors": [
-        "Dina M Makawi",
-        "Yahya H Amer",
-        "Tarek M Elsewify"
-      ],
-      "colleges": [
-        "College of Dentistry"
-      ],
-      "doi": "10.3791/71983",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42872747/",
-      "first_seen": "2026-10-15"
-    },
-    {
       "pmid": "43011934",
       "title": "Prevalence of Overweight and Obesity and Their Associations With Screen Time and Other Behavioral Factors Among Adolescents in the United Arab Emirates",
       "topic": "Diabetes and metabolism",
@@ -2233,6 +2239,35 @@
       "doi": "10.3389/frhs.2026.1900610",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42876967/",
       "first_seen": "2026-10-16"
+    },
+    {
+      "pmid": "42872747",
+      "title": "A Standardized In Vitro Protocol for Evaluating Human Dental Pulp Stem Cell Differentiation and Proliferation on Nanomaterial Scaffolds",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Reliable assessment of osteogenic and odontogenic differentiation, as well as stem cell proliferation, is fundamental to evaluating the biological performance of scaffold-based regenerative strategies. However, variability in experimental protocols, assay selection, and data interpretation often limits reproducibility and inter-study comparison. The protocol described in this article presents a standardized, reproducible workflow for the in vitro evaluation of osteogenic and odontogenic differentiation, as well as proliferative capacity, of stem cells cultured on biomaterial scaffolds. Osteogenic commitment is evaluated by alkaline phosphatase (ALP) enzymatic activity and Receptor Activator of Nuclear Factor κB Ligand (RANKL) immunofluorescence, while odontogenic commitment is assessed by DMP-1 (dentin matrix protein-1) immunofluorescence; both protein endpoints are quantified using standardized H-score methodology. Critical experimental parameters, including cell seeding density, induction timelines, assay conditions, normalization strategies (including protein-normalized ALP activity, cell-normalized 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) viability, and immunofluorescence H-score), and data analysis approaches, are detailed, along with troubleshooting guidance to minimize technical variability. The methodology has been applied as a standardized framework across multiple scaffold-based experimental studies, demonstrating robustness and reproducibility. By providing a comprehensive, validated framework, this article aims to facilitate standardized assessment of stem cell-scaffold interactions and improve comparability across preclinical regenerative studies."
+      ],
+      "journal": "Journal of visualized experiments : JoVE",
+      "date": "Oct 13, 2026",
+      "authors": [
+        "Makawi DM",
+        "Mahran AH",
+        "Elgendy AA",
+        "Yehia TA",
+        "Amer YH",
+        "Elsewify TM"
+      ],
+      "gmu_authors": [
+        "Dina M Makawi",
+        "Yahya H Amer",
+        "Tarek M Elsewify"
+      ],
+      "colleges": [
+        "College of Dentistry"
+      ],
+      "doi": "10.3791/71983",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42872747/",
+      "first_seen": "2026-10-15"
     },
     {
       "pmid": "42866318",
