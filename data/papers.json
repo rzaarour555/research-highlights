@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19 09:55 UTC",
+  "updated": "2026-11-23 10:21 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -178,6 +178,33 @@
       "doi": "10.1007/s40122-026-00889-w",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "43067993",
+      "title": "From Policy to Practice: A Qualitative Conceptual Framework for Leading Social Accountability in Interdisciplinary Healthcare Service Delivery in Jordan",
+      "topic": "Public health",
+      "abstract": [
+        "Background: Social accountability is increasingly relevant to healthcare systems that aim to be transparent, responsive, ethical, and trusted. However, its translation from policy and governance language into routine healthcare service delivery remains insufficiently defined, particularly regarding institutional leadership, patient and community engagement, complaint pathways, feedback systems, ethical governance, and service responsiveness. This study aims to explore how multidisciplinary healthcare professionals understand and operationalize social accountability in healthcare service delivery in Jordan.",
+        "Methods: A qualitative focus-group study was conducted across three healthcare settings in Jordan. Sixteen healthcare professionals participated, including pharmacists, nurses, physicians, and one quality assurance specialist. Focus groups were conducted bilingually in Arabic and English using a semi-structured guide. Recordings were transcribed verbatim, managed using NVivo, and analysed inductively using thematic analysis. Reporting followed the Consolidated Criteria for Reporting Qualitative Research.",
+        "Results: Five interrelated domains emerged, reflecting how social accountability is operationalized across individual, institutional, and system levels. Key elements included addressing healthcare access, enhancing patient-provider engagement, ensuring ethical governance, and establishing effective feedback and complaint mechanisms. While implementation is hindered by resource constraints, communication gaps, and workforce shortages, it is facilitated by institutional leadership, service redesign, continuous professional development, and inter-institutional collaboration. These findings grounded a leadership-oriented conceptual framework for practice.",
+        "Conclusion: Social accountability should be treated as a healthcare leadership and implementation requirement, not only a governance or ethical concept. The proposed framework offers practical direction for strengthening institutional accountability, interdisciplinary coordination, patient and community engagement, service responsiveness, ethical governance, and trust in healthcare service delivery."
+      ],
+      "journal": "Journal of healthcare leadership",
+      "date": "2026",
+      "authors": [
+        "Odeh M",
+        "Aldabobe BA",
+        "Almaaytah A"
+      ],
+      "gmu_authors": [
+        "Ammar Almaaytah"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.2147/JHL.S638129",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067993/",
+      "first_seen": "2026-11-23"
     },
     {
       "pmid": "43020291",
@@ -2048,33 +2075,6 @@
       "first_seen": "2026-10-30"
     },
     {
-      "pmid": "42947872",
-      "title": "Prevalence, patterns, perceptions, and sociodemographic determinants of dietary supplement use among adults in the United Arab Emirates",
-      "topic": "Public health",
-      "abstract": [
-        "Background: Previous studies have documented dietary supplement use in the United Arab Emirates (UAE), but many have focused on specific populations, supplement categories, geographical settings, or particular contexts. Evidence integrating overall supplement use, patterns and experiences of use, perceptions, and associated sociodemographic and health-related factors among adult UAE residents remains limited. This study aimed to determine the prevalence and patterns of dietary supplement use, assess supplement-related perceptions, and identify factors associated with supplement use and perceptions among adults residing in the UAE.",
-        "Methods: A cross-sectional, questionnaire-based study was conducted among 600 adults aged ≥18 years residing in the UAE (58.8% male, 41.2% female). Participants were recruited using convenience sampling through an anonymous electronic survey distributed through university-linked networks, community groups, and public online platforms. A structured questionnaire assessed sociodemographic and health characteristics, dietary supplement use and related practices, and four perceptions regarding supplement necessity, safety, disease prevention, and promotion by healthcare professionals. Associations were examined using Pearson's chi-square test and binary logistic regression. Adjusted odds ratios (AORs) with 95% confidence intervals (CIs) were reported.",
-        "Results: Overall, 287 participants (47.8%) reported ever using dietary supplements; among them, 58.9% were current users. Vitamins (70.6%), minerals (57.8%), and protein supplements (47.4%) were the most commonly reported categories. Managing nutritional deficiencies (38.0%) and improving fitness (35.3%) were the leading reasons for use, while healthcare professionals were the most frequently reported source of recommendation (40.1%). In the adjusted analysis, undergraduate/postgraduate education (AOR 18.32, 95% CI 9.09-36.89; p < 0.001), female sex (AOR 3.13, 95% CI 1.76-5.58; p < 0.001), Expat Arab nationality compared with UAE nationality (AOR 4.58, 95% CI 2.14-9.82; p < 0.001), and chronic medical conditions (AOR 2.15, 95% CI 1.27-3.64; p = 0.004) were associated with higher odds of supplement use, whereas employment compared with student status was associated with lower odds (AOR 0.28, 95% CI 0.13-0.61; p = 0.001). Ever supplement use was the only factor consistently associated with all four favorable perception outcomes (all p < 0.001).",
-        "Conclusion: The findings highlight the need for evidence-based nutrition education and individualized professional guidance to support informed and appropriate use of dietary supplements. Incorporating supplement-use history into clinical assessment may help address inappropriate use, misconceptions, and potential supplement-drug interactions. Longitudinal and population-representative studies with documented geographic coverage across the UAE are needed to confirm these associations and clarify the relationship between supplement use and perceptions."
-      ],
-      "journal": "Frontiers in nutrition",
-      "date": "2026",
-      "authors": [
-        "Alkhayat A",
-        "Khan NS"
-      ],
-      "gmu_authors": [
-        "Ali Alkhayat",
-        "Nelofar Sami Khan"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.3389/fnut.2026.1955988",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42947872/",
-      "first_seen": "2026-10-29"
-    },
-    {
       "pmid": "43011934",
       "title": "Prevalence of Overweight and Obesity and Their Associations With Screen Time and Other Behavioral Factors Among Adolescents in the United Arab Emirates",
       "topic": "Diabetes and metabolism",
@@ -2127,6 +2127,33 @@
       "doi": "10.7759/cureus.117461",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42985000/",
       "first_seen": "2026-11-06"
+    },
+    {
+      "pmid": "42947872",
+      "title": "Prevalence, patterns, perceptions, and sociodemographic determinants of dietary supplement use among adults in the United Arab Emirates",
+      "topic": "Public health",
+      "abstract": [
+        "Background: Previous studies have documented dietary supplement use in the United Arab Emirates (UAE), but many have focused on specific populations, supplement categories, geographical settings, or particular contexts. Evidence integrating overall supplement use, patterns and experiences of use, perceptions, and associated sociodemographic and health-related factors among adult UAE residents remains limited. This study aimed to determine the prevalence and patterns of dietary supplement use, assess supplement-related perceptions, and identify factors associated with supplement use and perceptions among adults residing in the UAE.",
+        "Methods: A cross-sectional, questionnaire-based study was conducted among 600 adults aged ≥18 years residing in the UAE (58.8% male, 41.2% female). Participants were recruited using convenience sampling through an anonymous electronic survey distributed through university-linked networks, community groups, and public online platforms. A structured questionnaire assessed sociodemographic and health characteristics, dietary supplement use and related practices, and four perceptions regarding supplement necessity, safety, disease prevention, and promotion by healthcare professionals. Associations were examined using Pearson's chi-square test and binary logistic regression. Adjusted odds ratios (AORs) with 95% confidence intervals (CIs) were reported.",
+        "Results: Overall, 287 participants (47.8%) reported ever using dietary supplements; among them, 58.9% were current users. Vitamins (70.6%), minerals (57.8%), and protein supplements (47.4%) were the most commonly reported categories. Managing nutritional deficiencies (38.0%) and improving fitness (35.3%) were the leading reasons for use, while healthcare professionals were the most frequently reported source of recommendation (40.1%). In the adjusted analysis, undergraduate/postgraduate education (AOR 18.32, 95% CI 9.09-36.89; p < 0.001), female sex (AOR 3.13, 95% CI 1.76-5.58; p < 0.001), Expat Arab nationality compared with UAE nationality (AOR 4.58, 95% CI 2.14-9.82; p < 0.001), and chronic medical conditions (AOR 2.15, 95% CI 1.27-3.64; p = 0.004) were associated with higher odds of supplement use, whereas employment compared with student status was associated with lower odds (AOR 0.28, 95% CI 0.13-0.61; p = 0.001). Ever supplement use was the only factor consistently associated with all four favorable perception outcomes (all p < 0.001).",
+        "Conclusion: The findings highlight the need for evidence-based nutrition education and individualized professional guidance to support informed and appropriate use of dietary supplements. Incorporating supplement-use history into clinical assessment may help address inappropriate use, misconceptions, and potential supplement-drug interactions. Longitudinal and population-representative studies with documented geographic coverage across the UAE are needed to confirm these associations and clarify the relationship between supplement use and perceptions."
+      ],
+      "journal": "Frontiers in nutrition",
+      "date": "2026",
+      "authors": [
+        "Alkhayat A",
+        "Khan NS"
+      ],
+      "gmu_authors": [
+        "Ali Alkhayat",
+        "Nelofar Sami Khan"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fnut.2026.1955988",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42947872/",
+      "first_seen": "2026-10-29"
     },
     {
       "pmid": "42941816",
