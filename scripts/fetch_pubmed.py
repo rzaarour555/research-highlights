@@ -66,7 +66,7 @@ EXTRA_SEARCHES = {
 # ------------------------------------------------------------------------
 
 BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
-COMMON = {"tool": "research-highlights-demo"}
+COMMON = {"tool": "gmu-research-highlights"}
 
 
 def get(endpoint, params):
