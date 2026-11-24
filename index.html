@@ -3,9 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Research Highlights – Concept Demo</title>
-<meta property="og:title" content="Gulf Medical University – Research Highlights (concept demo)">
-<meta property="og:description" content="Plain-language stories about new research from Gulf Medical University.">
+<title>Research Highlights – Gulf Medical University</title>
+<meta property="og:title" content="Gulf Medical University – Research Highlights">
+<meta property="og:description" content="New research published by Gulf Medical University's colleges and institutes.">
 <meta property="og:image" content="https://rzaarour555.github.io/research-highlights/IMAGES/other-research.jpg">
 <meta property="og:type" content="article">
 <style>
@@ -19,7 +19,6 @@
   body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.55}
   button{font:inherit;cursor:pointer}
   .wrap{max-width:1080px;margin:0 auto;padding:0 16px}
-  .ribbon{background:var(--warn-bg);color:var(--warn);font-size:13px;padding:8px 0;text-align:center;border-bottom:1px solid #ecd9a0}
   .topbar{background:var(--accent);color:#fff;font-size:14px;font-weight:500}
   .topbar .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;min-height:40px;flex-wrap:wrap}
   .topbar span{opacity:.92}
@@ -28,10 +27,6 @@
   .brand{display:flex;align-items:center;gap:16px}
   .brand img{height:56px;width:auto;display:block}
   .brand .sub{border-left:2px solid var(--line);padding-left:16px;font-size:13px;color:var(--gold);letter-spacing:.06em;text-transform:uppercase;font-weight:600;line-height:1.3}
-  nav.views{display:flex;gap:4px;flex-wrap:wrap;align-items:center}
-  nav.views button{font-weight:500;border:0;background:none;padding:8px 12px;font-size:16px;color:var(--ink);border-radius:999px}
-  nav.views button:hover{color:var(--accent)}
-  nav.views button[aria-pressed="true"]{background:var(--accent);color:#fff;padding:8px 18px}
   .hero{position:relative;overflow:hidden;background:#3a2020;color:#fff;text-align:center;padding:34px 16px 30px}
   .hero .slide{position:absolute;inset:0;background-size:cover;background-position:center;opacity:0;transition:opacity 1.5s ease}
   .hero .slide.on{opacity:1}
@@ -52,7 +47,7 @@
   h2.sec{font-size:28px;margin:4px 0 6px}
   p.lede{color:var(--muted);margin:0 0 20px;max-width:62ch}
 
-  /* banner */
+  /* home page */
   .banner{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px}
   .banner-head{display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:18px;padding-bottom:16px;border-bottom:1px solid var(--line)}
   .filters{display:flex;gap:6px;flex-wrap:wrap}
@@ -90,7 +85,7 @@
   .p3{background:linear-gradient(135deg,#3d4f8a,#7a5ea8)}
   .p4{background:linear-gradient(135deg,#2f6b3f,#8aa84a)}
 
-  /* story */
+  /* publication page */
   article{max-width:720px;margin:0 auto}
   article h1{font-size:38px;margin:8px 0 12px}
   article .dek{font-size:19px;color:var(--muted);margin:0 0 14px}
@@ -108,56 +103,29 @@
   .body p{font-family:var(--serif);font-size:18px;margin:0 0 16px}
   .body p.speaking{background:var(--accent-soft);box-shadow:0 0 0 6px var(--accent-soft);border-radius:2px}
   .source{border-left:3px solid var(--accent);background:var(--card);padding:12px 14px;font-size:14px;margin-top:24px}
-  .ainote{font-size:13px;color:var(--warn);background:var(--warn-bg);border-radius:8px;padding:8px 12px;margin:8px 0 14px}
-  details.orig{border:1px solid var(--line);border-radius:8px;background:var(--card);padding:10px 14px;font-size:14px}
-  details.orig summary{cursor:pointer;font-weight:600}
-  details.orig p{margin:10px 0 0;color:var(--muted)}
   .li-share{display:inline-flex;align-items:center;gap:6px;background:#0a66c2;color:#fff;border:0;border-radius:6px;padding:7px 12px;font-size:14px;text-decoration:none;font-weight:600}
   .li-share:hover{background:#004182}
   .li-share.small{padding:2px 8px;font-size:12px;margin-top:6px}
   .back{background:none;border:0;color:var(--accent);padding:0;margin-bottom:14px;font-size:14px}
   .note{font-size:13px;color:var(--muted);margin-top:8px}
-
-  /* pipeline */
-  .steps{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:18px 0}
-  .step{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px;opacity:.55;transition:all .3s}
-  .step.active{opacity:1;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
-  .step.done{opacity:1}
-  .step .n{font-size:12px;color:var(--muted)}
-  .step h3{font-size:17px;margin:2px 0 6px}
-  .step p{font-size:13px;color:var(--muted);margin:0}
-  .step .tool{display:inline-block;margin-top:8px;font-size:11px;letter-spacing:.04em;text-transform:uppercase;color:var(--accent)}
-  .step.done h3::after{content:" ✓";color:#17603a}
-  .console{background:#101a22;color:#cfe3e1;border-radius:10px;padding:14px;font:13px/1.6 ui-monospace,Menlo,Consolas,monospace;min-height:150px;white-space:pre-wrap}
-  .controls{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
   .btn{border:0;background:var(--accent);color:#fff;padding:9px 16px;border-radius:8px}
   .btn.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)}
-  .btn:disabled{opacity:.45;cursor:not-allowed}
-  .draft{background:var(--card);border:1px dashed var(--accent);border-radius:10px;padding:14px;margin-top:14px;display:none}
-  .draft.on{display:block}
-  .draft h3{font-size:19px;margin-bottom:6px}
+  .abs-head{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:0 0 10px}
+
 
   @media (max-width:760px){
     .grid{grid-template-columns:1fr}
-    .steps{grid-template-columns:1fr}
     article h1{font-size:29px}
   }
 </style>
 </head>
 <body>
 
-<div class="ribbon"><div class="wrap" id="ribbon">Concept demo only. Not an official university page. All stories, names and findings are sample placeholder text.</div></div>
-
 <div class="topbar"><div class="wrap"><span>🎓 Research Highlights</span><span>Gulf Medical University · Ajman, UAE</span></div></div>
 
 <header class="site">
   <div class="wrap">
     <div class="brand"><img src="IMAGES/gmu-logo.png" alt="Gulf Medical University"><div class="sub">Research<br>Highlights</div></div>
-    <nav class="views" aria-label="Demo views">
-      <button data-view="home" aria-pressed="true">1. Banner</button>
-      <button data-view="story" aria-pressed="false">2. Story page</button>
-      <button data-view="process" aria-pressed="false">3. How it works</button>
-    </nav>
   </div>
 </header>
 
@@ -165,7 +133,7 @@
 
 <main class="wrap">
 
-  <!-- VIEW 1 -->
+  <!-- Home page: list of publications -->
   <section class="view on" id="view-home">
 
     <div class="banner">
@@ -186,7 +154,7 @@
     </div>
   </section>
 
-  <!-- VIEW 2 -->
+  <!-- Publication page -->
   <section class="view" id="view-story">
     <article>
       <button class="back" id="back">← Back to research highlights</button>
@@ -196,142 +164,66 @@
       <div class="byline" id="s-byline"></div>
       <p><a class="li-share" id="s-share" target="_blank" rel="noopener">Share on LinkedIn</a></p>
       <div class="gmu" id="s-gmu"></div>
-      <div class="photo" id="s-photo">Photo placeholder</div>
-      <div class="credit" id="s-credit">Photo credit goes here</div>
+      <div class="photo" id="s-photo"></div>
+      <div class="credit" id="s-credit">Illustrative stock photo</div>
 
       <div class="player">
         <button class="play" id="play" aria-label="Play audio version">▶</button>
         <div class="info">
-          <div class="label">Listen to this story</div>
+          <div class="label">Listen to this abstract</div>
           <div class="title" id="p-title"></div>
           <div class="bar"><i id="p-bar"></i></div>
         </div>
         <div class="time" id="p-time"></div>
       </div>
 
+      <div class="abs-head">Abstract</div>
       <div class="body" id="s-body"></div>
-      <div class="ainote" id="s-ainote">AI-drafted summary of the published abstract. It has not yet been reviewed by an editor or by the researchers.</div>
-      <details class="orig" id="s-orig"><summary>Original title and abstract</summary><div id="s-origtext"></div></details>
       <div class="source" id="s-source"></div>
-      <p class="note" id="p-note">In this demo the audio is read by your browser's built-in voice. In the real version, each story gets a recorded MP3 generated once at publication, with a more natural voice.</p>
+      <p class="note" id="p-note" hidden></p>
     </article>
-  </section>
-
-  <!-- VIEW 3 -->
-  <section class="view" id="view-process">
-    <div class="eyebrow">Automation</div>
-    <h2 class="sec">From published paper to story with audio</h2>
-    <p class="lede">Run the simulation to watch one paper move through the pipeline. The only manual step is the editor's approval.</p>
-
-    <div class="steps" id="steps">
-      <div class="step"><div class="n">Step 1</div><h3>Find</h3><p>A daily check asks PubMed for new papers with our affiliation.</p><span class="tool">GitHub Actions</span></div>
-      <div class="step"><div class="n">Step 2</div><h3>Draft</h3><p>The abstract is turned into a short plain-language story and tagged with a topic.</p><span class="tool">AI summary</span></div>
-      <div class="step"><div class="n">Step 3</div><h3>Review</h3><p>An editor reads the draft, corrects it, adds a photo, and approves.</p><span class="tool">Person · WordPress</span></div>
-      <div class="step"><div class="n">Step 4</div><h3>Record</h3><p>The approved text is converted to an MP3 and attached to the story.</p><span class="tool">Text-to-speech</span></div>
-      <div class="step"><div class="n">Step 5</div><h3>Publish</h3><p>The story appears in the banner and on its own page with the player.</p><span class="tool">Website</span></div>
-    </div>
-
-    <div class="controls">
-      <button class="btn" id="run">Run the simulation</button>
-      <button class="btn ghost" id="reset">Reset</button>
-    </div>
-
-    <div class="console" id="console">Waiting. Select "Run the simulation".</div>
-
-    <div class="draft" id="draft">
-      <div class="eyebrow">Draft awaiting approval</div>
-      <h3 id="d-title"></h3>
-      <p id="d-dek" style="margin:0 0 10px;color:var(--muted)"></p>
-      <button class="btn" id="approve">Approve and publish</button>
-    </div>
   </section>
 
 </main>
 
-<footer class="site"><div class="wrap"><span>Concept demo · Papers found automatically on PubMed · Not an official university page</span><img src="IMAGES/thumbay-logo.png" alt="Thumbay Group"></div></footer>
+<footer class="site"><div class="wrap"><span id="updated">Publications are collected automatically from PubMed.</span><img src="IMAGES/thumbay-logo.png" alt="Thumbay Group"></div></footer>
 
 <script>
-let stories = [
-  { id:1, topic:"Precision medicine", photo:"p1", date:"Oct 8, 2026",
-    title:"Sample story: A blood marker that could flag diabetes risk earlier",
-    dek:"Placeholder summary of a study exploring whether a routine blood test could identify people at risk years before diagnosis.",
-    by:"By [Writer name]",
-    body:[
-      "This is placeholder text standing in for a real research story. It shows how a plain-language account of a published paper would read on the page.",
-      "The opening paragraph would explain what the researchers wanted to find out and why it matters to patients and families in the region.",
-      "The middle of the story would describe how the study was done, who took part, and what the team found, in words a general reader can follow.",
-      "A quote from the lead researcher, [Researcher name], would appear here, followed by what the team plans to study next and the limits of the current findings."
-    ],
-    source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." },
-  { id:2, topic:"Medical education", photo:"p2", date:"Oct 5, 2026",
-    title:"Sample story: Simulation training and how quickly new interns respond in emergencies",
-    dek:"Placeholder summary of an education study comparing simulation-based practice with traditional teaching.",
-    by:"By [Writer name]",
-    body:[
-      "This is placeholder text for a medical education story. A real version would open with the question the teaching team set out to answer.",
-      "It would then describe the training approach, how many learners took part, and how their performance was measured.",
-      "The findings would be reported plainly, including anything that did not work as expected.",
-      "The story would close with what this means for the curriculum and a comment from [Researcher name]."
-    ],
-    source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." },
-  { id:3, topic:"Population health", photo:"p3", date:"Sep 29, 2026",
-    title:"Sample story: What a community survey shows about vitamin D and adolescent health",
-    dek:"Placeholder summary of a population study carried out with local schools and clinics.",
-    by:"By [Writer name]",
-    body:[
-      "This is placeholder text for a population health story. A real version would start with the health question and the community involved.",
-      "It would explain how the survey was run and how many people responded.",
-      "The main results would follow, with one or two figures a reader can remember.",
-      "The story would end with practical advice from [Researcher name] and the next phase of the work."
-    ],
-    source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." }
-];
-const incoming = { id:4, topic:"Infectious disease", photo:"p4", date:"Today", isNew:true,
-  title:"Sample story: Mapping antibiotic resistance across outpatient clinics",
-  dek:"Placeholder summary of a study tracking resistance patterns in samples from community clinics.",
-  by:"By [Writer name]",
-  body:[
-    "This is placeholder text for a story that the pipeline has just created from a newly published paper.",
-    "A real version would explain which infections were studied and where the samples came from.",
-    "It would report which treatments are still working well and where resistance is rising.",
-    "The story would close with guidance for prescribers from [Researcher name]."
-  ],
-  source:"Source paper: [Journal name], 2026. Link to the publication and DOI goes here." };
+/* Publications come from data/papers.json, which the daily GitHub job updates from PubMed. */
+let stories = [];
+let filter = "All", college = "All colleges", current = null, shownCount = 12;
 
-let filter = "All", college = "All colleges", current = stories[0], shownCount = 12;
-/* photo: IMAGES/<PubMed number>.jpg if you uploaded one for that paper, otherwise
-   IMAGES/<subject>.jpg, otherwise the coloured block */
+/* Photos: IMAGES/<PubMed number>.jpg if one was uploaded for that paper, otherwise a photo-rule
+   photo (below), otherwise IMAGES/<subject>.jpg, otherwise a coloured block. */
 const slug = t => t.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 /* Photo rules: when a paper's title contains one of these words, use this photo in place of the subject photo.
    Add a line to add a rule; the photo goes in the IMAGES folder. */
 const PHOTO_RULES = [
   { words: ["sperm", "semen", "male infertility", "male fertility"], photo: "male-fertility" },
 ];
-const ruled = s => { const t = (s.orig ? s.orig.title + " " : "") + s.title; const r = PHOTO_RULES.find(r => r.words.some(w => t.toLowerCase().includes(w))); return r ? r.photo : null; };
+const ruled = s => { const r = PHOTO_RULES.find(r => r.words.some(w => s.title.toLowerCase().includes(w))); return r ? r.photo : null; };
 const fallback = s => ruled(s) || slug(s.topic);
-const img = s => `<img alt="" loading="lazy" src="IMAGES/${s.pmid ? esc(s.pmid) : fallback(s)}.jpg" data-alt="IMAGES/${fallback(s)}.jpg" data-alt2="IMAGES/${slug(s.topic)}.jpg" onerror="if(this.dataset.alt&&!this.src.endsWith(this.dataset.alt)){this.src=this.dataset.alt}else if(this.dataset.alt2&&!this.src.endsWith(this.dataset.alt2)){this.src=this.dataset.alt2}else{this.remove()}">`;
+const img = s => `<img alt="" loading="lazy" src="IMAGES/${esc(s.pmid)}.jpg" data-alt="IMAGES/${fallback(s)}.jpg" data-alt2="IMAGES/${slug(s.topic)}.jpg" onerror="if(this.dataset.alt&&!this.src.endsWith(this.dataset.alt)){this.src=this.dataset.alt}else if(this.dataset.alt2&&!this.src.endsWith(this.dataset.alt2)){this.src=this.dataset.alt2}else{this.remove()}">`;
 const $ = id => document.getElementById(id);
-const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const readMins = s => Math.max(1, Math.round(s.body.join(" ").split(/\s+/).length / 180 + 2));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const readMins = s => Math.max(1, Math.round(s.body.join(" ").split(/\s+/).length / 200));
 
 function show(view){
   stopAudio();
   document.querySelectorAll("section.view").forEach(s => s.classList.toggle("on", s.id === "view-" + view));
-  document.querySelectorAll("nav.views button").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === view));
-  document.querySelector(".hero").style.display = view === "home" ? "" : "none";
-  window.scrollTo(0,0);
+  $("hero").style.display = view === "home" ? "" : "none";
+  window.scrollTo(0, 0);
 }
-document.querySelectorAll("nav.views button").forEach(b => b.onclick = () => { if (b.dataset.view === "story") openStory(current.id); else show(b.dataset.view); });
 $("back").onclick = () => { show("home"); try { history.replaceState(null, "", location.pathname); } catch(e){} };
 
-/* LinkedIn: each story has its own address (?story=PubMed number) that can be shared */
-const storyUrl = s => location.origin + location.pathname + "?story=" + encodeURIComponent(s.pmid || s.id);
+/* LinkedIn: each publication has its own address (?story=PubMed number) that can be shared */
+const storyUrl = s => location.origin + location.pathname + "?story=" + encodeURIComponent(s.pmid);
 const shareUrl = s => "https://www.linkedin.com/sharing/share-offsite/?url=" + encodeURIComponent(storyUrl(s));
 const shareLink = s => `<a class="li-share small" href="${shareUrl(s)}" target="_blank" rel="noopener">Share on LinkedIn</a>`;
 
 function renderHome(){
   /* subjects: only those with papers in the selected college, with counts */
-  const inCollege = stories.filter(s => college === "All colleges" || (s.colleges || []).includes(college));
+  const inCollege = stories.filter(s => college === "All colleges" || s.colleges.includes(college));
   const counts = {}; inCollege.forEach(s => counts[s.topic] = (counts[s.topic] || 0) + 1);
   const topics = Object.keys(counts).sort((a, b) => counts[b] - counts[a] || a.localeCompare(b));
   if (filter !== "All" && !counts[filter]) filter = "All";
@@ -339,28 +231,27 @@ function renderHome(){
     .concat(topics.map(t => `<option value="${esc(t)}">${esc(t)} (${counts[t]})</option>`)).join("");
   $("filters").value = filter;
   $("filters").onchange = e => { filter = e.target.value; shownCount = 12; renderHome(); };
-  const colleges = ["All colleges", ...[...new Set(stories.flatMap(s => s.colleges || []))].sort()];
+  const colleges = ["All colleges", ...[...new Set(stories.flatMap(s => s.colleges))].sort()];
   $("college-row").style.display = colleges.length > 1 ? "" : "none";
   $("colleges").innerHTML = colleges.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join("");
   $("colleges").value = college;
   $("colleges").onchange = e => { college = e.target.value; shownCount = 12; renderHome(); };
-  const shown = stories.filter(s => (filter === "All" || s.topic === filter) && (college === "All colleges" || (s.colleges || []).includes(college)));
+  const shown = inCollege.filter(s => filter === "All" || s.topic === filter);
   const [lead, ...rest] = shown;
-  const flag = s => s.isNew ? `<span class="chip new-flag">New</span>` : "";
   $("lead").innerHTML = lead ? `
     <button class="story-link" data-id="${lead.id}">
-      <div class="photo ${lead.photo}">Photo placeholder${img(lead)}</div>
-      <div class="meta" style="margin-top:10px"><b style="color:var(--accent)">${esc(lead.topic)}</b> · ${esc(lead.date)}<span class="chip">🔊 Audio</span>${flag(lead)}</div>
+      <div class="photo ${lead.photo}">${img(lead)}</div>
+      <div class="meta" style="margin-top:10px"><b style="color:var(--accent)">${esc(lead.topic)}</b> · ${esc(lead.date)}<span class="chip">🔊 Audio</span></div>
       <h3>${esc(lead.title)}</h3>
       <p>${esc(lead.dek)}</p>
-    </button>${shareLink(lead)}` : `<p class="meta">No papers match these filters yet.</p>`;
+    </button>${shareLink(lead)}` : `<p class="meta">${stories.length ? "No publications match these filters." : "Loading publications…"}</p>`;
   $("list").innerHTML = rest.slice(0, shownCount).map(s => `
     <div class="item">
       <div class="photo ${s.photo}">${img(s)}</div>
       <div>
       <button class="story-link" data-id="${s.id}">
         <h3>${esc(s.title)}</h3>
-        <div class="meta"><b style="color:var(--accent)">${esc(s.topic)}</b> · ${esc(s.date)}<span class="chip">🔊 Audio</span>${flag(s)}</div>
+        <div class="meta"><b style="color:var(--accent)">${esc(s.topic)}</b> · ${esc(s.date)}<span class="chip">🔊 Audio</span></div>
       </button>
       ${shareLink(s)}
       </div>
@@ -374,29 +265,24 @@ function openStory(id){
   const s = current;
   $("s-topic").textContent = s.topic;
   $("s-title").textContent = s.title;
-  $("s-dek").textContent = s.dek;
-  $("s-byline").textContent = `${s.date} · ${readMins(s)} min read · ${s.by}`;
+  $("s-dek").style.display = "none";
+  $("s-byline").textContent = [s.date, readMins(s) + " min read", s.by].filter(Boolean).join(" · ");
   $("s-photo").className = "photo " + s.photo;
-  $("s-photo").innerHTML = "Photo placeholder" + img(s);
-  const g = s.gmu || [];
+  $("s-photo").innerHTML = img(s);
+  const g = s.gmu;
   $("s-gmu").style.display = g.length ? "" : "none";
-  $("s-gmu").innerHTML = g.length ? "<b>GMU researchers:</b> " + esc(g.join(", ")) + ((s.colleges || []).length ? "<br><b>College:</b> " + esc(s.colleges.join(", ")) : "") : "";
-  if (s.pmid) $("s-credit").textContent = "Illustrative stock photo";
-  $("s-ainote").style.display = s.ai ? "" : "none";
-  $("s-orig").style.display = s.orig ? "" : "none"; $("s-orig").open = false;
-  $("s-origtext").innerHTML = s.orig ? "<p><b>" + esc(s.orig.title) + "</b></p>" + s.orig.abstract.map(t => "<p>" + esc(t) + "</p>").join("") : "";
+  $("s-gmu").innerHTML = g.length ? "<b>GMU researchers:</b> " + esc(g.join(", ")) + (s.colleges.length ? "<br><b>College:</b> " + esc(s.colleges.join(", ")) : "") : "";
   $("s-body").innerHTML = s.body.map(p => `<p>${esc(p)}</p>`).join("");
-  if (s.url) $("s-source").innerHTML = esc(s.source) + ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">Read the paper on PubMed</a>';
-  else $("s-source").textContent = s.source;
+  $("s-source").innerHTML = esc(s.source) + (s.url ? ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">Read the paper on PubMed</a>' : "");
   $("p-title").textContent = s.title;
   $("p-time").textContent = `${s.body.length + 1} parts`;
   $("p-bar").style.width = "0";
   $("s-share").href = shareUrl(s);
   show("story");
-  try { history.replaceState(null, "", "?story=" + encodeURIComponent(s.pmid || s.id)); } catch(e){}
+  try { history.replaceState(null, "", "?story=" + encodeURIComponent(s.pmid)); } catch(e){}
 }
 
-/* audio: browser speech as a stand-in for a recorded MP3 */
+/* Listen: the title and abstract are read aloud by the browser's built-in voice */
 let playing = false, part = 0;
 const synth = window.speechSynthesis;
 function stopAudio(){
@@ -406,10 +292,10 @@ function stopAudio(){
   document.querySelectorAll(".body p").forEach(p => p.classList.remove("speaking"));
 }
 function speakNext(){
-  const parts = [current.title + ". " + current.dek, ...current.body];
+  const parts = [current.title, ...current.body];
   const paras = document.querySelectorAll("#s-body p");
   paras.forEach(p => p.classList.remove("speaking"));
-  if (!playing || part >= parts.length){ $("p-bar").style.width = part >= parts.length ? "100%" : $("p-bar").style.width; stopAudio(); return; }
+  if (!playing || part >= parts.length){ if (part >= parts.length) $("p-bar").style.width = "100%"; stopAudio(); return; }
   if (part > 0 && paras[part-1]) paras[part-1].classList.add("speaking");
   $("p-bar").style.width = (part / parts.length * 100) + "%";
   const u = new SpeechSynthesisUtterance(parts[part]);
@@ -420,71 +306,25 @@ function speakNext(){
 }
 $("play").onclick = () => {
   if (!synth || typeof SpeechSynthesisUtterance === "undefined"){
-    $("p-note").textContent = "Audio preview is not available in this viewer. Open the file in Chrome, Edge or Safari to hear it.";
+    $("p-note").textContent = "Listening is not available in this browser. Please try Chrome, Edge or Safari.";
+    $("p-note").hidden = false;
     return;
   }
   if (playing){ stopAudio(); return; }
   playing = true; part = 0; $("play").textContent = "■"; speakNext();
 };
 
-/* pipeline simulation */
-const steps = [...document.querySelectorAll(".step")];
-let published = false, running = false;
-const log = t => { $("console").textContent += "\n" + t; };
-const wait = ms => new Promise(r => setTimeout(r, ms));
-function mark(i){ steps.forEach((s, k) => { s.classList.toggle("done", k < i); s.classList.toggle("active", k === i); }); }
-
-$("run").onclick = async () => {
-  if (running || published) return;
-  running = true; $("run").disabled = true;
-  $("console").textContent = "06:00  Daily job started";
-  mark(0); await wait(900);
-  log("06:00  Asking PubMed for new papers with our affiliation…");
-  await wait(1100); log("06:01  1 new paper found. 0 already in the system.");
-  mark(1); await wait(900);
-  log("06:01  Writing plain-language draft from the abstract…");
-  await wait(1300); log("06:02  Draft saved. Topic: Infectious disease. Status: awaiting approval.");
-  mark(2);
-  log("06:02  Editor notified. Pipeline paused until a person approves.");
-  $("d-title").textContent = incoming.title;
-  $("d-dek").textContent = incoming.dek;
-  $("draft").classList.add("on");
-};
-
-$("approve").onclick = async () => {
-  $("draft").classList.remove("on");
-  log("09:14  Approved by editor.");
-  mark(3); await wait(800);
-  log("09:14  Generating audio narration…");
-  await wait(1400); log("09:15  Audio file saved and attached to the story.");
-  mark(4); await wait(800);
-  log("09:15  Published. The story now leads the research banner.");
-  steps.forEach(s => { s.classList.remove("active"); s.classList.add("done"); });
-  stories.unshift(incoming); current = incoming; published = true; running = false;
-  filter = "All"; renderHome();
-  log("\nOpen \"1. Banner\" to see the new story at the top.");
-};
-
-$("reset").onclick = () => {
-  if (published){ stories.shift(); published = false; current = stories[0]; renderHome(); }
-  running = false; $("run").disabled = false;
-  steps.forEach(s => s.classList.remove("active","done"));
-  $("draft").classList.remove("on");
-  $("console").textContent = 'Waiting. Select "Run the simulation".';
-};
-
-/* live data: papers saved by the daily GitHub job. Falls back to the samples above. */
-function paperToStory(p, i, written){
-  const st = written && written[p.pmid];
-  const first = p.abstract[0].replace(/^[A-Za-z ]{3,30}: /, "");
-  const authors = p.authors.length > 3 ? p.authors.slice(0,3).join(", ") + " et al." : p.authors.join(", ");
-  return { id: 1000 + i, topic: p.topic || p.journal || "Publication", photo: "p" + (i % 4 + 1), date: p.date,
-    title: st ? st.headline : p.title,
-    dek: st ? st.summary : first.length > 230 ? first.slice(0, 230).replace(/\s+\S*$/, "") + "…" : first,
-    ai: !!st, orig: st ? { title: p.title, abstract: p.abstract } : null,
-    by: authors ? "Paper by " + authors : "", body: st ? st.body : p.abstract, pmid: p.pmid, gmu: p.gmu_authors || [], colleges: p.colleges || [],
-    source: "Source paper: " + [p.journal, p.date].filter(Boolean).join(", ") + ".", url: p.url };
+/* turn one PubMed record into what the page shows */
+function paperToStory(p, i){
+  const first = (p.abstract[0] || "").replace(/^[A-Za-z ]{3,30}: /, "");
+  const authors = p.authors.length > 3 ? p.authors.slice(0, 3).join(", ") + " et al." : p.authors.join(", ");
+  return { id: i, pmid: p.pmid, topic: p.topic || p.journal || "Publication", photo: "p" + (i % 4 + 1), date: p.date,
+    title: p.title,
+    dek: first.length > 230 ? first.slice(0, 230).replace(/\s+\S*$/, "") + "…" : first,
+    by: authors ? "Paper by " + authors : "", body: p.abstract, gmu: p.gmu_authors || [], colleges: p.colleges || [],
+    source: "Source: " + [p.journal, p.date].filter(Boolean).join(", ") + (p.doi ? ". DOI: " + p.doi : "") + ".", url: p.url };
 }
+
 /* Banner photos: shown in turn, changing every 6 seconds. Add a file name to add a photo
    (the photo goes in the IMAGES folder). Names that are missing are skipped. */
 const BANNER_PHOTOS = ["other-research.jpg", "cancer-research.jpg", "infectious-disease.jpg", "banner-pipette.jpg", "banner-lab.jpg", "banner-dish.jpg"];
@@ -506,16 +346,15 @@ const BANNER_PHOTOS = ["other-research.jpg", "cancer-research.jpg", "infectious-
     slides[i].classList.remove("on"); i = (i + 1) % slides.length; slides[i].classList.add("on");
   }, 6000);
 })();
+
 renderHome();
-const getJson = url => fetch(url, { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null);
-Promise.all([getJson("data/papers.json"), getJson("data/stories.json")]).then(([d, written]) => {
-  if (!d || !d.papers || !d.papers.length) return;
-  const papers = d.papers.filter(p => !/^(correction|erratum|corrigendum)/i.test(p.title));
-  stories = papers.map((p, i) => paperToStory(p, i, written)); current = stories[0]; filter = "All"; college = "All colleges";
-  $("ribbon").textContent = "Concept demo only. Not an official university page. Papers are found automatically on PubMed (last update " + d.updated + "). "
-    + (written ? "Stories are AI-drafted summaries of the authors' abstracts and have not yet been reviewed." : "The text shown is the authors' own abstract.");
+fetch("data/papers.json", { cache: "no-store" }).then(r => r.ok ? r.json() : null).catch(() => null).then(d => {
+  if (!d || !d.papers || !d.papers.length){ $("lead").innerHTML = '<p class="meta">Publications could not be loaded. Please try again later.</p>'; return; }
+  const papers = d.papers.filter(p => p.abstract && p.abstract.length && !/^(correction|erratum|corrigendum)/i.test(p.title));
+  stories = papers.map(paperToStory); current = stories[0];
+  if (d.updated) $("updated").textContent = "Publications are collected automatically from PubMed. Last updated " + d.updated.slice(0, 10) + ".";
   renderHome();
-  /* opened from a shared link: go straight to that story */
+  /* opened from a shared link: go straight to that publication */
   const wanted = new URLSearchParams(location.search).get("story");
   const hit = wanted && stories.find(s => s.pmid === wanted);
   if (hit) openStory(hit.id);
