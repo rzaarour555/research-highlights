@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23 10:21 UTC",
+  "updated": "2026-11-25 10:54 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -426,6 +426,34 @@
       "doi": "10.1016/j.jmir.2026.102612",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42976684/",
       "first_seen": "2026-11-05"
+    },
+    {
+      "pmid": "43075975",
+      "title": "Comparative Binding Profiles of Co-Crystallized Ligands at Human Phosphodiesterase 1B Using Molecular Dynamics Simulations and Binding Free Energy Analysis",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Phosphodiesterases (PDEs) biochemically break down cyclic adenosine monophosphate (cAMP) and cyclic guanosine monophosphate (cGMP), which functionally regulate cyclic nucleotide signaling pathways. cAMP/cGMP signaling has been associated with neurodegenerative disorders like Alzheimer's disease (AD). The present in silico study focuses on the three co-crystallized ligands 0NY, 8HM, and 8HP bound to phosphodiesterase 1B (PDE1B), assessing structural stability via root mean square deviation (RMSD), conformational dynamics via root mean square fluctuation (RMSF), and hydrogen bonding and binding energetics by molecular mechanics-generalized Born surface area (MM-GBSA) calculations. All molecular complexes stayed stable across the 300 ns molecular dynamics (MD) simulation, with RMSF calculations indicating local flexibility in recognition loops while maintaining overall structural stability. Further, the complexes had stable radius of gyration (Rg) profiles. Nonetheless, the 8HM-PDE1B complex was the most stable and showed the lowest backbone and atomic fluctuation. Principal component analysis (PCA) illustrated that the 8HM-PDE1B complex was stable, while the 8HP-PDE1B and 0NY-PDE1B complexes elicited comparatively broader conformational states. The high binding affinity of 8HM for PDE1B (-49.93 kcal/mol) was driven by van der Waals and electrostatic forces, with the binding energy decomposition assessment identifying residues I371, L388, Q421, and F424 with vital roles in ligand interactions. Conclusively, amongst the three compounds investigated, 8HM emerged as the strongest and most stable PDE1B ligand."
+      ],
+      "journal": "Chemical biology & drug design",
+      "date": "Nov 2026",
+      "authors": [
+        "Maurya S",
+        "Mathkor DM",
+        "Haque S",
+        "Singh SK",
+        "Upadhyay HC",
+        "Ahmad F",
+        "Ashraf GM"
+      ],
+      "gmu_authors": [
+        "Ghulam M Ashraf"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1111/cbdd.70439",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43075975/",
+      "first_seen": "2026-11-25"
     },
     {
       "pmid": "43017782",
@@ -2047,34 +2075,6 @@
       "first_seen": "2026-10-26"
     },
     {
-      "pmid": "42952724",
-      "title": "Efficacy of a single-file reciprocating protocol vs. a multi-file rotary protocol on the removal of gutta-percha and ceraSeal sealer from oval canals: a volumetric and active instrumentation time analysis",
-      "topic": "Public health",
-      "abstract": [
-        "Objective: To evaluate and compare the overall efficacy and time efficiency of two complete manufacturer-recommended retreatment protocols, a single-file reciprocating protocol, Reciproc (RC), vs. a multi-file continuous rotary protocol, ProTaper Universal Retreatment (PR), in removing gutta-percha and CeraSeal sealer from oval-shaped root canals.",
-        "Methodology: Thirty-six single-rooted human mandibular premolars with single oval canals were selected, instrumented, and obturated with a matching cone gutta-percha and CeraSeal sealer. Initial filling volumes were evaluated via CBCT. The samples were randomly divided into two experimental groups (n = 18) according to the file used for retreatment. The net active instrumentation time was recorded. Post-retreatment CBCT scans were performed to measure the volume and percentage of remaining filling materials. Data were statistically analyzed at a significance level of p ≤ 0.05.",
-        "Results: Both systems significantly reduced the filling volume (p < 0.0001). No significant difference was found in the initial filling volumes between groups (p = 0.616). However, the RC group demonstrated a significantly lower mean volume (0.474 ± 0.313 mm3) and percentage (5.52 ± 1.97%) of remaining filling material compared to the PR group (1.735 ± 0.753 mm3 and 20.72 ± 2.93%, respectively; p < 0.0001). Furthermore, the RC group required significantly less active instrumentation time (48.69 ± 4.98 s) than the PR group (68.49 ± 5.43 s, p < 0.0001).",
-        "Conclusion: Within the limitations of this in vitro study, neither mechanical retreatment protocol completely removed CeraSeal sealer and gutta-percha from oval root canals. However, the single-file RC protocol was significantly more effective and time-efficient than the multi-file PR protocol. The superior performance of the RC protocol reflects the combined effect of its matched apical size (size 40 vs. size 20), single-file sequence, cross-sectional design, and reciprocating kinematics, rather than kinematic motion alone."
-      ],
-      "journal": "Frontiers in dental medicine",
-      "date": "2026",
-      "authors": [
-        "Zorek A",
-        "Mahran AH",
-        "Nabeel M",
-        "Elsewify T"
-      ],
-      "gmu_authors": [
-        "Tarek Elsewify"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.3389/fdmed.2026.1926115",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42952724/",
-      "first_seen": "2026-10-30"
-    },
-    {
       "pmid": "43011934",
       "title": "Prevalence of Overweight and Obesity and Their Associations With Screen Time and Other Behavioral Factors Among Adolescents in the United Arab Emirates",
       "topic": "Diabetes and metabolism",
@@ -2127,6 +2127,34 @@
       "doi": "10.7759/cureus.117461",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42985000/",
       "first_seen": "2026-11-06"
+    },
+    {
+      "pmid": "42952724",
+      "title": "Efficacy of a single-file reciprocating protocol vs. a multi-file rotary protocol on the removal of gutta-percha and ceraSeal sealer from oval canals: a volumetric and active instrumentation time analysis",
+      "topic": "Public health",
+      "abstract": [
+        "Objective: To evaluate and compare the overall efficacy and time efficiency of two complete manufacturer-recommended retreatment protocols, a single-file reciprocating protocol, Reciproc (RC), vs. a multi-file continuous rotary protocol, ProTaper Universal Retreatment (PR), in removing gutta-percha and CeraSeal sealer from oval-shaped root canals.",
+        "Methodology: Thirty-six single-rooted human mandibular premolars with single oval canals were selected, instrumented, and obturated with a matching cone gutta-percha and CeraSeal sealer. Initial filling volumes were evaluated via CBCT. The samples were randomly divided into two experimental groups (n = 18) according to the file used for retreatment. The net active instrumentation time was recorded. Post-retreatment CBCT scans were performed to measure the volume and percentage of remaining filling materials. Data were statistically analyzed at a significance level of p ≤ 0.05.",
+        "Results: Both systems significantly reduced the filling volume (p < 0.0001). No significant difference was found in the initial filling volumes between groups (p = 0.616). However, the RC group demonstrated a significantly lower mean volume (0.474 ± 0.313 mm3) and percentage (5.52 ± 1.97%) of remaining filling material compared to the PR group (1.735 ± 0.753 mm3 and 20.72 ± 2.93%, respectively; p < 0.0001). Furthermore, the RC group required significantly less active instrumentation time (48.69 ± 4.98 s) than the PR group (68.49 ± 5.43 s, p < 0.0001).",
+        "Conclusion: Within the limitations of this in vitro study, neither mechanical retreatment protocol completely removed CeraSeal sealer and gutta-percha from oval root canals. However, the single-file RC protocol was significantly more effective and time-efficient than the multi-file PR protocol. The superior performance of the RC protocol reflects the combined effect of its matched apical size (size 40 vs. size 20), single-file sequence, cross-sectional design, and reciprocating kinematics, rather than kinematic motion alone."
+      ],
+      "journal": "Frontiers in dental medicine",
+      "date": "2026",
+      "authors": [
+        "Zorek A",
+        "Mahran AH",
+        "Nabeel M",
+        "Elsewify T"
+      ],
+      "gmu_authors": [
+        "Tarek Elsewify"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3389/fdmed.2026.1926115",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952724/",
+      "first_seen": "2026-10-30"
     },
     {
       "pmid": "42947872",
