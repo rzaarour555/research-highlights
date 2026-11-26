@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25 10:54 UTC",
+  "updated": "2026-11-26 10:29 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -178,6 +178,45 @@
       "doi": "10.1007/s40122-026-00889-w",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42842184/",
       "first_seen": "2026-10-12"
+    },
+    {
+      "pmid": "43080771",
+      "title": "Rational Design of Benzofuran-Linked Isatin Derivatives as MTDLs Targeting MAO-B and Cholinesterases: Synthesis, in silico Insights, and Neuroprotection Studies",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Introduction: Neurodegenerative disorders are multifactorial diseases associated with oxid active stress, mitochondrial dysfunction, and neurotransmitter imbalance, leading to progressive neuronal loss. Since monoamine oxidase-B (MAO-B) contributes to dopamine metabolism and reactive oxygen species generation, it represents an attractive therapeutic target for anti-neurodegenerative drug discovery. This study aimed to develop novel benzofuran-isatin hybrids within a multitarget-directed ligand (MTDL) strategy to achieve selective MAO-B inhibition combined with cholinesterase inhibitory and neuroprotective activities.",
+        "Methods: Twelve target compounds were synthesized and characterized using 1H NMR, 13C NMR, and LRMS analyses. The synthesized compounds were evaluated for MAO-A and MAO-B inhibition, while the most promising candidate was further investigated for inhibition kinetics, cholinesterase inhibitory activity, and neuroprotective effects against Aβ1-42-induced toxicity in SH-SY5Y cells. Molecular docking, molecular dynamics simulations, and in silico ADME prediction were also performed.",
+        "Results: The synthesized compounds displayed weak-to-moderate MAO-A inhibition (IC50 = 2.56 to >40 μM) and potent MAO-B inhibition (IC50 = 0.016-2.65 μM) with excellent isoform selectivity. The 7-methyl derivatives 7e and 7k emerged as the most potent MAO-B inhibitors, displaying IC50 values of 0.016 and 0.073 μM with selectivity indices of 852.50 and 547.96, respectively. Kinetic studies demonstrated that compound 7e acts as a competitive MAO-B inhibitor (KI = 0.012 μM). Furthermore, 7e exhibited potent AChE inhibition (IC50 = 0.091 μM), comparable to donepezil, together with moderate BuChE inhibition and significant neuroprotective activity against Aβ1-42-induced toxicity in SH-SY5Y cells. Molecular docking and molecular dynamics simulations supported favorable and stable binding of the active compounds within the MAO-B and AChE active sites. In addition, in silico ADME prediction suggested acceptable drug-likeness and CNS-related pharmacokinetic properties.",
+        "Conclusion: These findings identify benzofuran-isatin hybrids, particularly compound 7e, as promising multifunctional candidates for the treatment of neurodegenerative disorders. Future studies should focus on in vivo validation of compound 7e, including its pharmacokinetic behavior, brain exposure, safety, and therapeutic efficacy in relevant models of Alzheimer's and Parkinson's diseases."
+      ],
+      "journal": "Drug design, development and therapy",
+      "date": "2026",
+      "authors": [
+        "Eldehna WM",
+        "El-Damasy AK",
+        "Lim J",
+        "Elsayed ZM",
+        "Al-Warhi T",
+        "El-Hamaky AA",
+        "Abusabaa AHA",
+        "Elbadawi MM",
+        "Paik MJ",
+        "Keum G",
+        "Elnagar MR",
+        "Negmeldin AT",
+        "Kim H",
+        "Tawfik HO"
+      ],
+      "gmu_authors": [
+        "Ahmed T Negmeldin"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "Thumbay Research Institute for Precision Medicine"
+      ],
+      "doi": "10.2147/DDDT.S641968",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080771/",
+      "first_seen": "2026-11-26"
     },
     {
       "pmid": "43067993",
@@ -1765,6 +1804,36 @@
       "first_seen": "2026-10-18"
     },
     {
+      "pmid": "43082350",
+      "title": "Artificial Intelligence in Endodontics: A Narrative Review and Critical Synthesis of Diagnostic, Predictive, and Operational Applications",
+      "topic": "Dentistry and oral health",
+      "abstract": [
+        "Background/Objectives: Artificial intelligence (AI) research in endodontics has grown quickly, but the strength of the evidence differs between applications. This narrative review with structured evidence mapping examined diagnostic imaging, canal morphology, outcome prediction, large language models (LLMs), robotics and augmented reality, and operational uses such as case-difficulty assessment, triage and scheduling. Methods: Two anchor reviews were combined with a documented PubMed search to 30 September 2026, and studies were classified by design, sample, reference standard, validation, and evidence of clinical utility. Results: Periapical lesion detection has the largest evidence base: one meta-analysis reported pooled sensitivity of 0.925 and specificity of 0.852, although most included studies were at risk of bias and none was prospective. Fracture detection relies mainly on ex vivo data and is sensitive to image resolution. Outcome models showed modest to moderate discrimination in single-centre data. LLM studies reported 40% to 100% correct, appropriate, or concordant responses across different benchmarks and scoring rules, and outputs varied on repeated querying. Difficulty-assessment and scheduling tools have appeared since 2020 but have not been evaluated prospectively in clinical workflow. Conclusions: Technical performance has not yet been shown to translate into clinical benefit, and AI in endodontics should currently be used only as clinician-supervised decision support."
+      ],
+      "journal": "Dentistry journal",
+      "date": "Oct 30, 2026",
+      "authors": [
+        "Narayanan A",
+        "Chakravarthy D",
+        "Mishra V",
+        "Mohamed B",
+        "Titus TS"
+      ],
+      "gmu_authors": [
+        "Ashwin Narayanan",
+        "Vinaytosh Mishra",
+        "Bassem Mohamed",
+        "Tina Susan Titus"
+      ],
+      "colleges": [
+        "College of Dentistry",
+        "College of Management and AI in Healthcare"
+      ],
+      "doi": "10.3390/dj14110705",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43082350/",
+      "first_seen": "2026-11-26"
+    },
+    {
       "pmid": "43016510",
       "title": "Severity, duration, and pattern of intraoperative hypotension and early postoperative cognitive decline in adults undergoing non-cardiac surgery: a prospective observational cohort study",
       "topic": "Surgery and anaesthesia",
@@ -2017,64 +2086,6 @@
       "first_seen": "2026-10-31"
     },
     {
-      "pmid": "42942844",
-      "title": "Cell Membrane-Coated Nanoparticles as Biomimetic Drug Delivery Systems: Design, Therapeutic Applications, and Translational Challenges",
-      "topic": "Pharmacy and drug research",
-      "abstract": [
-        "Biomimetic cell membrane-coated nanoparticles (CM-NPs) have emerged as a promising class of nanocarriers that integrate the tunable physicochemical properties of engineered nanoparticles with selected biological features of naturally derived cell membranes. By retaining membrane-associated proteins, lipids, glycans, and receptors, CM-NPs have demonstrated the potential to modulate immune recognition, prolong systemic circulation, improve biocompatibility, and facilitate disease-specific targeting; however, these effects depend on the membrane source, nanoparticle composition, coating integrity, fabrication method, and biological context. This review critically examines major membrane-engineering strategies, including lipid insertion, covalent conjugation, metabolic glycoengineering, and genetic modification, together with fabrication methods such as extrusion, sonication, electroporation, in situ polymerization, and microfluidics. Particular emphasis is placed on nanoparticles coated with erythrocyte, platelet, stem cell, immune cell, bacterial, cancer cell, and hybrid membranes. Their therapeutic applications are critically evaluated, with a primary focus on cancer therapy, including photothermal and photodynamic approaches, alongside applications in cardiovascular, neurological, infectious, inflammatory, and regenerative diseases. Recent CM-NP platforms are systematically summarized according to membrane source, therapeutic cargo or nanoparticle core, disease application, and major outcomes, while recent patents are discussed to highlight emerging technological and translational developments. Despite encouraging preclinical findings, clinical translation remains constrained by challenges in membrane isolation and purification, batch reproducibility, manufacturing scalability, preservation of membrane integrity and functionality, quality control, long-term stability, biosafety, and regulatory standardization. Advances in membrane engineering, hybrid membrane systems, scalable manufacturing, standardized characterization, and rigorous safety evaluation will be important for advancing CM-NPs toward clinical translation."
-      ],
-      "journal": "Pharmaceutics",
-      "date": "Oct 16, 2026",
-      "authors": [
-        "Jacob S",
-        "Varkey NR",
-        "Rao R",
-        "Shinu P",
-        "Khanam R"
-      ],
-      "gmu_authors": [
-        "Shery Jacob",
-        "Namitha Raichel Varkey",
-        "Razia Khanam"
-      ],
-      "colleges": [
-        "College of Pharmacy",
-        "College of Medicine"
-      ],
-      "doi": "10.3390/pharmaceutics18101314",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42942844/",
-      "first_seen": "2026-10-28"
-    },
-    {
-      "pmid": "42880817",
-      "title": "Exploring emotion identification and categorisation in simulated central vision loss: an event-related potential study",
-      "topic": "Other research",
-      "abstract": [
-        "Objective: This study investigated how simulated central vision loss (SimCVL) affected emotion identification and categorisation in individuals with normal vision.",
-        "Methods and analysis: The study recruited 29 healthy volunteers, including young adults (YA: 20–35 years) (n=10), mid-aged (MA: 40–55 years) (n=10) and older adults (60–75 years) (n=9). The participants were presented with human faces displaying three emotions, neutral, happy and sad, as stimuli. SimCVL was simulated using custom-made MATLAB programming. The study developed two experiments to investigate emotion identification (experiment 1: oddball design) and categorisation (experiment 2: equiprobable design). The behavioural responses and event-related potential (ERP) waveforms were analysed using E-prime and electroencephalogram laboratory toolbox in MATLAB, and the data was analysed using SPSS V.20.",
-        "Results: Emotion identification was present for both happy and sad in the Oddball (P300) paradigm. However, reduced amplitudes and delayed latencies were observed in OAs, particularly in simulated conditions (p<0.01). OAs had delayed reaction times and reduced accuracy in the simulated condition compared with MA and YA (p<0.01). No or minimal differences in amplitudes and latencies were found for early visual processing (P100) and encoding of facial features (N170) across age groups in simulated conditions. Delayed latencies and reduced amplitudes were observed in OAs when decoding (N250) facial features.",
-        "Conclusion: Emotion identification and categorisation are affected in older individuals with SimCVL compared with young and MA adults. Negative emotions had reduced performance index than happy across age groups, and this effect was maximum in OAs. The study suggests that further research is needed to explore the neural basis of emotional processing in patients with CVL using event-related potentials."
-      ],
-      "journal": "BMJ open ophthalmology",
-      "date": "Oct 15, 2026",
-      "authors": [
-        "Madheswaran G",
-        "S Ve R",
-        "Ganeshrao SB",
-        "Raman R",
-        "Palaniswamy HP"
-      ],
-      "gmu_authors": [
-        "Gopinath Madheswaran"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.1136/bmjophth-2025-002689",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42880817/",
-      "first_seen": "2026-10-26"
-    },
-    {
       "pmid": "43011934",
       "title": "Prevalence of Overweight and Obesity and Their Associations With Screen Time and Other Behavioral Factors Among Adolescents in the United Arab Emirates",
       "topic": "Diabetes and metabolism",
@@ -2184,6 +2195,35 @@
       "first_seen": "2026-10-29"
     },
     {
+      "pmid": "42942844",
+      "title": "Cell Membrane-Coated Nanoparticles as Biomimetic Drug Delivery Systems: Design, Therapeutic Applications, and Translational Challenges",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Biomimetic cell membrane-coated nanoparticles (CM-NPs) have emerged as a promising class of nanocarriers that integrate the tunable physicochemical properties of engineered nanoparticles with selected biological features of naturally derived cell membranes. By retaining membrane-associated proteins, lipids, glycans, and receptors, CM-NPs have demonstrated the potential to modulate immune recognition, prolong systemic circulation, improve biocompatibility, and facilitate disease-specific targeting; however, these effects depend on the membrane source, nanoparticle composition, coating integrity, fabrication method, and biological context. This review critically examines major membrane-engineering strategies, including lipid insertion, covalent conjugation, metabolic glycoengineering, and genetic modification, together with fabrication methods such as extrusion, sonication, electroporation, in situ polymerization, and microfluidics. Particular emphasis is placed on nanoparticles coated with erythrocyte, platelet, stem cell, immune cell, bacterial, cancer cell, and hybrid membranes. Their therapeutic applications are critically evaluated, with a primary focus on cancer therapy, including photothermal and photodynamic approaches, alongside applications in cardiovascular, neurological, infectious, inflammatory, and regenerative diseases. Recent CM-NP platforms are systematically summarized according to membrane source, therapeutic cargo or nanoparticle core, disease application, and major outcomes, while recent patents are discussed to highlight emerging technological and translational developments. Despite encouraging preclinical findings, clinical translation remains constrained by challenges in membrane isolation and purification, batch reproducibility, manufacturing scalability, preservation of membrane integrity and functionality, quality control, long-term stability, biosafety, and regulatory standardization. Advances in membrane engineering, hybrid membrane systems, scalable manufacturing, standardized characterization, and rigorous safety evaluation will be important for advancing CM-NPs toward clinical translation."
+      ],
+      "journal": "Pharmaceutics",
+      "date": "Oct 16, 2026",
+      "authors": [
+        "Jacob S",
+        "Varkey NR",
+        "Rao R",
+        "Shinu P",
+        "Khanam R"
+      ],
+      "gmu_authors": [
+        "Shery Jacob",
+        "Namitha Raichel Varkey",
+        "Razia Khanam"
+      ],
+      "colleges": [
+        "College of Pharmacy",
+        "College of Medicine"
+      ],
+      "doi": "10.3390/pharmaceutics18101314",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42942844/",
+      "first_seen": "2026-10-28"
+    },
+    {
       "pmid": "42941816",
       "title": "In Vitro Anti-Proliferative and Cisplatin-Modulating Effects of Cedrus libani A. Rich Leaf Essential Oil on H460 and HT-29 Human Cancer Cell Lines",
       "topic": "Cancer research",
@@ -2260,6 +2300,35 @@
       "doi": "10.3390/ijms27198927",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42884169/",
       "first_seen": "2026-10-17"
+    },
+    {
+      "pmid": "42880817",
+      "title": "Exploring emotion identification and categorisation in simulated central vision loss: an event-related potential study",
+      "topic": "Other research",
+      "abstract": [
+        "Objective: This study investigated how simulated central vision loss (SimCVL) affected emotion identification and categorisation in individuals with normal vision.",
+        "Methods and analysis: The study recruited 29 healthy volunteers, including young adults (YA: 20–35 years) (n=10), mid-aged (MA: 40–55 years) (n=10) and older adults (60–75 years) (n=9). The participants were presented with human faces displaying three emotions, neutral, happy and sad, as stimuli. SimCVL was simulated using custom-made MATLAB programming. The study developed two experiments to investigate emotion identification (experiment 1: oddball design) and categorisation (experiment 2: equiprobable design). The behavioural responses and event-related potential (ERP) waveforms were analysed using E-prime and electroencephalogram laboratory toolbox in MATLAB, and the data was analysed using SPSS V.20.",
+        "Results: Emotion identification was present for both happy and sad in the Oddball (P300) paradigm. However, reduced amplitudes and delayed latencies were observed in OAs, particularly in simulated conditions (p<0.01). OAs had delayed reaction times and reduced accuracy in the simulated condition compared with MA and YA (p<0.01). No or minimal differences in amplitudes and latencies were found for early visual processing (P100) and encoding of facial features (N170) across age groups in simulated conditions. Delayed latencies and reduced amplitudes were observed in OAs when decoding (N250) facial features.",
+        "Conclusion: Emotion identification and categorisation are affected in older individuals with SimCVL compared with young and MA adults. Negative emotions had reduced performance index than happy across age groups, and this effect was maximum in OAs. The study suggests that further research is needed to explore the neural basis of emotional processing in patients with CVL using event-related potentials."
+      ],
+      "journal": "BMJ open ophthalmology",
+      "date": "Oct 15, 2026",
+      "authors": [
+        "Madheswaran G",
+        "S Ve R",
+        "Ganeshrao SB",
+        "Raman R",
+        "Palaniswamy HP"
+      ],
+      "gmu_authors": [
+        "Gopinath Madheswaran"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.1136/bmjophth-2025-002689",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880817/",
+      "first_seen": "2026-10-26"
     },
     {
       "pmid": "42876967",
