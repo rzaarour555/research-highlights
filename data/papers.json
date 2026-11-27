@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 10:29 UTC",
+  "updated": "2026-11-27 10:33 UTC",
   "affiliation": "Gulf Medical University",
   "papers": [
     {
@@ -219,6 +219,84 @@
       "first_seen": "2026-11-26"
     },
     {
+      "pmid": "43093114",
+      "title": "Laboratory-Acquired Yersinia pestis Infection: Occupational Exposure, Clinical Presentation and Microbiological Identification",
+      "topic": "Infectious disease",
+      "abstract": [
+        "Laboratory work with Yersinia pestis is governed by detailed containment provisions, and laboratory-acquired infection is rare: a scoping review covering 2000 to 2021 attributed two of 309 cases to Y. pestis. Preventing exposure and recognising infection after an unidentified exposure are, however, distinct problems, and the second has received less attention. This narrative review, supported by a documented search of PubMed, PubMed Central and major biosafety and public-health agency websites to October 2026, classified evidence into seven categories and analysed them without pooling. The record that can be reconstructed in detail comprises two cases: a fatal infection reported from Chicago in 2009, in which no exposure event was identified, occupation was absent from the clinical record and the organism was identified only after death; a survived infection from a United States laboratory in 1959, in which the exposure was likewise unrecognised but the occupational context was known at admission and the organism was identified within 18 h. Evidence from naturally acquired plague documents bidirectional misidentification of Y. pestis by commercial automated and mass-spectrometry systems, attributable to reference-library composition rather than instrument performance. Recognition therefore appears to depend on information held separately by the worker, the employing institution, the treating clinician and the clinical microbiology laboratory, while many containment and response measures become operative only once exposure or plague is suspected. Post-work health monitoring and symptom reporting are specified as requirements in Russian and Canadian national documents but appear only as recommendations in the United States guidance reviewed. These observations rest on a small case record and indicate areas for evaluation rather than an established pattern."
+      ],
+      "journal": "Pathogens (Basel, Switzerland)",
+      "date": "Nov 18, 2026",
+      "authors": [
+        "Mohamed SER",
+        "Ali SM",
+        "Rahma S",
+        "Osman SM"
+      ],
+      "gmu_authors": [
+        "Salma Elnour Rahma Mohamed",
+        "Sara Mohamed Ali"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.3390/pathogens15111209",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43093114/",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "pmid": "43092539",
+      "title": "Why In Vitro Biofilm Susceptibility Data Fail to Predict In Vivo Outcomes: Five Axes of Divergence and a Proposed Minimum Reporting Set",
+      "topic": "Infectious disease",
+      "abstract": [
+        "Biofilm-associated infections impose a substantial burden on clinical practice, yet in vitro data generated to guide therapeutic development frequently fail to predict in vivo outcomes. This review advances a problem-solving argument: although host immunity, pharmacokinetics, tissue penetration, and infection-site biology also shape clinical outcomes, a major and modifiable contributor to this predictive failure is the systematic simplification of the measured object away from the resistance mechanisms operating within the infection microenvironment. Across five axes of divergence (surface, medium conditioning, operational steps, timing, and readout with controls), we identify gaps and failure modes that weaken the link between bench data and clinical outcome. Recent evidence shows that crystal violet and XTT staining report different biological parameters and agree with each other, and with viable counts, only under defined conditions; standardized parameters for minimum biofilm eradication concentration testing remain absent, and that growth mode, aggregation propensity, and growth rate, which vary between strains, strongly influence biofilm formation and resistance in ways conventional assays poorly capture. We propose a research agenda centered on physiologically conditioned platforms, multi-endpoint readouts, confounding controls, maturity-indexed endpoints, and growth-mode heterogeneity, offering a proposed, as yet unvalidated, minimum reporting framework intended to make assay conditions auditable and results comparable across studies, as a prerequisite for, rather than a demonstration of, clinical predictive validity."
+      ],
+      "journal": "Microorganisms",
+      "date": "Nov 18, 2026",
+      "authors": [
+        "Saeed MI",
+        "Ali SM",
+        "Mohamed SER"
+      ],
+      "gmu_authors": [
+        "Mohammed Ibrahim Saeed",
+        "Sara Mohamed Ali",
+        "Salma Elnour Rahma Mohamed"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.3390/microorganisms14112675",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43092539/",
+      "first_seen": "2026-11-27"
+    },
+    {
+      "pmid": "43093400",
+      "title": "Weed-Derived Secondary Metabolites in Polycystic Ovary Syndrome: Target Engagement, Exposure Plausibility and a Safety-Gated Framework for Candidate Prioritization",
+      "topic": "Pharmacy and drug research",
+      "abstract": [
+        "Background/Objectives: Existing PCOS reviews largely catalogue natural products and reported molecular pathways. This structured critical review asks a different translational question: which constituents from weed, ruderal and invasive taxa remain credible candidates when target engagement, pharmacological direction, realistic exposure and safety are considered together. Methods: PubMed/MEDLINE, Web of Science Core Collection and CAB Abstracts were searched from inception to 2 September 2026, with CABI resources used to verify weed status. Eligible pharmacological, pharmacokinetic and toxicological evidence was critically appraised using a T1-T4 mechanistic evidence hierarchy and evaluated for exposure plausibility, methodological quality and citation integrity. Results: No positive mechanistic claim reached T3 or T4. Urtica dioica L. lignans demonstrably displace dihydrotestosterone from SHBG in vitro, but the predicted consequence for free androgen exposure in vivo remains untested; flavonoid aromatase effects are assay- and context-dependent; and several widely cited systemic mechanisms are not supported by current exposure data. Silybin exposure supports a narrower liver-directed hypothesis, whereas non-absorbed inulin-type fructans provide a luminal gut-axis case in which systemic exposure is not required. Mentha spicata L. provides a reproducible human endocrine signal but no defined active constituent or molecular target. Conclusions: The principal barrier to clinical translation is not a shortage of activity signals but the absence of demonstrated in vivo target engagement, target-site pharmacokinetics and reproductive-safety qualification. No candidate currently clears all five gates. Silybum marianum flavonolignans and Cichorium intybus inulin-type fructans are therefore only provisionally prioritized for node-specific nonclinical development, while M. spicata is a mechanism-resolution research signal rather than a pharmacological lead. The framework prioritizes the experiments needed to establish development readiness; it does not infer PCOS-specific efficacy from the existing evidence."
+      ],
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "date": "Nov 16, 2026",
+      "authors": [
+        "Chaitanya MVNL",
+        "Priya P",
+        "Mittal A",
+        "Dutta S",
+        "Sengupta P"
+      ],
+      "gmu_authors": [
+        "Pallav Sengupta"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3390/ph19111816",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43093400/",
+      "first_seen": "2026-11-27"
+    },
+    {
       "pmid": "43067993",
       "title": "From Policy to Practice: A Qualitative Conceptual Framework for Leading Social Accountability in Interdisciplinary Healthcare Service Delivery in Jordan",
       "topic": "Public health",
@@ -244,6 +322,32 @@
       "doi": "10.2147/JHL.S638129",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43067993/",
       "first_seen": "2026-11-23"
+    },
+    {
+      "pmid": "43090955",
+      "title": "Factors Associated with Depressive Symptoms Among Children with Type 1 Diabetes Mellitus in Jordan",
+      "topic": "Mental health",
+      "abstract": [
+        "Background: Type 1 diabetes mellitus (T1DM) is a chronic condition that commonly affects children and requires lifelong insulin treatment. The demands of diabetes management and its associated psychosocial burden may increase the risk of depressive symptoms among children with T1DM. Objective: The objective of this study was to assess the prevalence and severity of depressive symptoms and their association with selected sociodemographic and clinical factors among children with T1DM in Jordan. Methods: A cross-sectional study was conducted among 150 children aged 8-14 years with T1DM attending the outpatient diabetes clinic at the Royal Medical Services (RMS) Queen Rania Al Abdullah Hospital for Children. Sociodemographic and clinical data were collected using a structured questionnaire, and depressive symptoms were assessed using the Arabic version of the Children's Depression Inventory (CDI). Associations between depressive symptoms status and selected factors were assessed using appropriate statistical tests. Statistical significance was set at p < 0.05. Results: Of the 150 children with T1DM, 73 (48.7%) had depressive symptoms. Among these, 13 (17.8%) had mild, 37 (50.7%) had moderate, and 23 (31.5%) had severe depressive symptoms. In the multivariable logistic regression analysis, family income above JD 500 (AOR = 0.168, 95% CI: 0.050-0.564, p = 0.004) and controlled glycemic status (AOR = 0.078, 95%CI: 0.015-0.399, p = 0.002) were significantly associated with lower odds of depressive symptoms, whereas a higher frequency of hypoglycemic episodes in the previous month was associated with higher odds of depressive symptoms (AOR = 1.766, 95% CI: 1.199-2.600, p = 0.004). No other variables in the adjusted model were significantly associated with depressive symptoms (p > 0.05). Conclusions: Depressive symptoms were highly prevalent among children with T1DM in Jordan, with most affected children having moderate or severe symptoms. Routine screening and appropriate psychological support should be considered as part of the comprehensive follow-up of children with T1DM."
+      ],
+      "journal": "Journal of clinical medicine",
+      "date": "Nov 14, 2026",
+      "authors": [
+        "Akasha MH",
+        "Al-Shatnawi SF",
+        "Mukattash TL",
+        "Abu-Farha RK",
+        "Khalifeh MS"
+      ],
+      "gmu_authors": [
+        "Mohammad S Khalifeh"
+      ],
+      "colleges": [
+        "College of Veterinary Medicine"
+      ],
+      "doi": "10.3390/jcm15228922",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43090955/",
+      "first_seen": "2026-11-27"
     },
     {
       "pmid": "43020291",
@@ -465,6 +569,42 @@
       "doi": "10.1016/j.jmir.2026.102612",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42976684/",
       "first_seen": "2026-11-05"
+    },
+    {
+      "pmid": "43093328",
+      "title": "Deferasirox, an Oral Iron Chelator, Confers Antidepressant and Procognitive Effects in a Rat Model of Depression: Hippocampal Ferroptosis, Synaptopathy, and Neurodegeneration",
+      "topic": "Mental health",
+      "abstract": [
+        "Background: Disrupted iron homeostasis is increasingly perceived as a key driver of major depressive disorder pathogenesis; hence, targeting ferroptotic cascades may reveal novel therapeutic targets. This study evaluated the neuroprotective potential of the oral iron chelator deferasirox (DEF) against chronic unpredictable mild stress (CUMS)-induced depressive-like behaviors and cognitive deficits in Wistar rats. Methods: We specifically explored whether DEF could provide neuroprotection by targeting ferroptotic and oxidative stress pathways. Male Wistar rats were exposed to a 6-week CUMS protocol and treated with DEF (10, 20, or 40 mg/kg). Results: CUMS-exposed rats exhibited significant anhedonia, behavioral despair, and impaired spatial and recognition memory. Further analyses revealed a reduction in colonic and choroid plexus occludin, reflecting compromised structural integrity of both the intestinal and blood-CSF barriers, accompanied by enhanced hippocampal iron accumulation with increased Acyl-CoA synthetase long-chain family member 4 (ACSL4), Acyl-CoA synthetase family member 2 (ACSF2), and citrate synthase expression, alongside exaggerated oxidative stress and deficient neuroprotective mediators, specifically BDNF and synaptophysin, and increased neurofibrillary tangle (NFT) deposition, collectively exacerbating neurodegenerative pathology. DEF treatment ameliorated most of these effects, significantly reducing iron deposition, attenuating ferroptosis-related signaling, reducing oxidative stress, diminishing the ongoing neurodegeneration, and replenishing the depleted pool of BDNF and synaptophysin, which was accompanied by a reduction in depressive-like symptoms and improved cognitive functions. Conclusions: These findings support a link between ferroptosis-related signaling and depression-like phenotypes, reinforcing the concept of a metal-driven component in depression pathophysiology and offering a mechanistic rationale for further exploring targeting ferroptotic pathways and central iron regulation as potential targeted strategies in depression management."
+      ],
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "date": "Nov 02, 2026",
+      "authors": [
+        "Aboul-Fotouh S",
+        "Habib MZ",
+        "Elnahas EM",
+        "Aboul-Ela YM",
+        "Abdel-Latif GA",
+        "Abbas SS",
+        "Elshaffei IM",
+        "El Magdoub HM",
+        "Sadek DR",
+        "Eid DM",
+        "Elsyade RH",
+        "Mohamed SMY",
+        "Elshaer MMAR",
+        "Mahmoud Y",
+        "Khedr LH"
+      ],
+      "gmu_authors": [
+        "Yasmin M Aboul-Ela"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3390/ph19111743",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43093328/",
+      "first_seen": "2026-11-27"
     },
     {
       "pmid": "43075975",
@@ -1834,6 +1974,30 @@
       "first_seen": "2026-11-26"
     },
     {
+      "pmid": "43092333",
+      "title": "Regional Heterogeneity in Carbapenemase Gene Epidemiology (OXA-48, NDM, and IMP) Among Gulf Cooperation Council Countries: A Comparative Mini-Review",
+      "topic": "Public health",
+      "abstract": [
+        "Carbapenemase-producing Pseudomonas aeruginosa and Klebsiella pneumoniae are a leading cause of difficult-to-treat infections in the Gulf Cooperation Council (GCC) region, yet the contribution of the three principal carbapenemase gene families (blaOXA-48, blaNDM, and blaIMP) is often assumed to be uniform across neighboring countries. This mini-review synthesizes facility-level, national, and genomic surveillance data from the United Arab Emirates (UAE), Qatar, Oman, Kuwait, Bahrain, and Saudi Arabia, anchored by a recent cohort from University Hospital Sharjah, UAE. blaOXA-48-like genes were the most frequently reported family regionally (51.7% in a 720-genome Arabian Peninsula study), but this dominance was not universal: OXA-181 predominated in Kuwaiti ICU isolates (89.3%), blaNDM-1 co-occurred in 95.8% of a small Bahraini series, and UAE national surveillance (2010-2021) found blaOXA-48 rarely, in contrast to 65-67% at Sharjah. Saudi data showed a comparable regional gradient, and the dominant determinant shifted over time in Oman and Kuwait. High-risk clones, including hypervirulent ST383, circulated across countries, while carbapenemase-positive P. aeruginosa carried mainly VIM- and GES-type enzymes. Heterogeneity, at the facility and country levels, is the defining feature of GCC carbapenemase epidemiology; acute-care laboratories therefore need molecular panels covering blaOXA-48-like, blaNDM, blaVIM, blaIMP, and blaKPC, and facility-level antibiograms warrant at least annual review."
+      ],
+      "journal": "Microorganisms",
+      "date": "Oct 29, 2026",
+      "authors": [
+        "Mohamed SER",
+        "Ali SM"
+      ],
+      "gmu_authors": [
+        "Salma Elnour Rahma Mohamed",
+        "Sara Mohamed Ali"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.3390/microorganisms14112468",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43092333/",
+      "first_seen": "2026-11-27"
+    },
+    {
       "pmid": "43016510",
       "title": "Severity, duration, and pattern of intraoperative hypotension and early postoperative cognitive decline in adults undergoing non-cardiac surgery: a prospective observational cohort study",
       "topic": "Surgery and anaesthesia",
@@ -1894,75 +2058,6 @@
       "first_seen": "2026-11-11"
     },
     {
-      "pmid": "42934775",
-      "title": "Smartphone-derived mobility metrics identify distinct recovery phenotypes following ACL reconstruction: associations with function, pain, and psychological health",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Background: Recovery after anterior cruciate ligament (ACL) reconstruction is typically monitored through patient-reported outcomes and periodic clinical assessments, which may not fully capture real-world functional performance. Smartphone-derived mobility data provide a passive and objective approach for evaluating daily activity and recovery.",
-        "Purpose: To examine associations between smartphone-derived mobility metrics and recovery outcomes in adults 3-12 months after primary ACL reconstruction and to identify distinct recovery phenotypes using mobility-based clustering.",
-        "Methods: This cross-sectional study included 120 adults who were 3-12 months post-primary ACL reconstruction and had at least 14 days of retrospective smartphone mobility data. Mobility variables included daily step count, activity volume and intensity (e.g., active minutes and walking bout duration), sedentary behavior, and walking-related metrics. Outcomes included pain (Numeric Rating Scale [NRS]), functional status (Knee Injury and Osteoarthritis Outcome Score [KOOS] Pain, Activities of Daily Living, and Sport/Recreation subscales), knee-related quality of life (ACL Quality of Life questionnaire [ACL-QoL]), and psychological measures including the Pain Catastrophizing Scale (PCS), Patient Health Questionnaire-9 (PHQ-9), and Generalized Anxiety Disorder-7 (GAD-7). Associations were evaluated using Pearson correlation and multivariable linear regression analyses. Recovery phenotypes were identified using unsupervised k-means clustering of mobility metrics.",
-        "Results: Higher daily step counts were independently associated with better KOOS-ADL scores (β = 0.48, p < 0.001), higher ACL-QoL scores (β = 0.45, p < 0.001), and lower pain intensity (β = - 0.39, p = 0.001). Three recovery phenotypes emerged: a high-activity/low-pain phenotype with superior function and minimal psychological distress, a moderate-activity/moderate-pain phenotype with intermediate outcomes, and a low-activity/high-pain phenotype characterized by reduced mobility, poorer function, greater pain, and higher pain catastrophizing. Significant gradients were observed across phenotypes for pain (NRS: 1.72-5.01), function (KOOS-Pain: 88.94-62.37), and pain catastrophizing (PCS: 8.52-24.91; all p < 0.001).",
-        "Conclusions: Smartphone-derived mobility metrics were significantly associated with recovery outcomes following ACL reconstruction. Mobility-based clustering identified distinct recovery phenotypes associated with meaningful differences in pain, function, and pain catastrophizing, highlighting the potential of passive mobility monitoring to support personalized rehabilitation strategies. However, given the variability in evaluation periods and uncontrolled surgical factors, future research employing standardized, long-term follow-ups is warranted."
-      ],
-      "journal": "Knee surgery & related research",
-      "date": "Oct 26, 2026",
-      "authors": [
-        "Kandakurti PK",
-        "Koura GM",
-        "Reddy RS",
-        "Kardm S",
-        "Gautam AP",
-        "Elshiwi AMF",
-        "Ali ZA",
-        "Alali RS",
-        "El Melhat AM"
-      ],
-      "gmu_authors": [
-        "Praveen Kumar Kandakurti"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.1186/s43019-026-00353-1",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934775/",
-      "first_seen": "2026-10-28"
-    },
-    {
-      "pmid": "42953391",
-      "title": "Clinicopathological Profile, Treatment Patterns and Documented Clinical Outcomes of Women with Breast Cancer at Shendi Hospital, Sudan: A Retrospective, Single-Center, Hospital-Based Cross-Sectional Study",
-      "topic": "Cancer research",
-      "abstract": [
-        "Background: Breast cancer is the most common cancer in Sudan, yet hospital-based data from outside Khartoum are scarce. We described the clinicopathological profile, treatment and documented outcomes of women with breast cancer at Shendi Hospital and explored factors associated with recurrence, distant metastasis and global well-being.",
-        "Methods: In this retrospective, single-center, cross-sectional review, we abstracted records of 100 women with histologically confirmed invasive breast cancer managed in 2021-2025. Distant metastasis was defined as documented extranodal disease, and global well-being as a single good/fair/poor rating recorded in clinical notes. Associations were examined with exact tests and three pre-specified Firth penalized logistic regression models (four covariates each) with bootstrap validation; all inferential analyses were exploratory.",
-        "Results: Median age was 50 years (IQR 44-55). Stage III/IV disease was recorded in 72%, tumors >2 cm in 97% and nodal involvement in 73%. Receptor status was undocumented in 69%; all 31 documented results were hormone-receptor-negative (18 triple-negative, 13 HER2-positive), yet 16 of these women had recorded hormonal therapy. Mastectomy was performed in 65%; chemotherapy, radiotherapy and hormonal therapy were recorded in 99%, 48% and 45%. Recurrence was documented in 19/98 women (19%) and extranodal metastasis in 30/93 (32%); no deaths were recorded and follow-up duration was unknown. Tumors >5 cm were associated with recurrence (adjusted odds ratio 3.81, 95% CI 1.28-11.61), and extranodal metastasis with a fair well-being rating (5.64, 2.01-17.20); nodal status, economic status and age were not associated with any outcome after adjustment. Recorded treatment co-occurred with recurrence, but treatment timing was undocumented, precluding causal interpretation.",
-        "Conclusion: Women at this center presented with advanced disease, and receptor documentation was largely absent and internally inconsistent. These exploratory associations need confirmation in prospective studies with complete receptor testing, dated treatment records and active follow-up."
-      ],
-      "journal": "Breast cancer (Dove Medical Press)",
-      "date": "2026",
-      "authors": [
-        "Ali EI",
-        "Abusail Mustafa S",
-        "Elzein HO",
-        "Andarawi MO",
-        "Zaroog MS",
-        "Abass AE",
-        "Attaelmanan GA",
-        "Yasin FMO",
-        "Alfeel AH",
-        "Ismail M"
-      ],
-      "gmu_authors": [
-        "Ayman Hussein Alfeel",
-        "Marwan Ismail"
-      ],
-      "colleges": [
-        "College of Health Sciences"
-      ],
-      "doi": "10.2147/BCTT.S650507",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42953391/",
-      "first_seen": "2026-10-30"
-    },
-    {
       "pmid": "43030400",
       "title": "Macrognathia Secondary to Renal Osteodystrophy in a Hemodialysis Patient: A Case Report and Literature Review",
       "topic": "Dentistry and oral health",
@@ -1989,29 +2084,58 @@
       "first_seen": "2026-11-15"
     },
     {
-      "pmid": "42921916",
-      "title": "Targeting the gut-brain axis with Bifidobacterium breve in neurodegeneration: A comprehensive narrative review of current evidence in Alzheimer's disease and cognitive aging",
-      "topic": "Brain and nervous system",
+      "pmid": "43011934",
+      "title": "Prevalence of Overweight and Obesity and Their Associations With Screen Time and Other Behavioral Factors Among Adolescents in the United Arab Emirates",
+      "topic": "Diabetes and metabolism",
       "abstract": [
-        "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder arising from the interplay of amyloid, tau, neuroimmune, oxidative stress, metabolic, vascular, and synaptic processes, ultimately resulting in neurodegeneration across multiple brain regions and progressive memory and cognitive impairment. Gut dysfunction may contribute to the initiation and progression of AD-related processes through the gut-brain axis, whereby alterations in the gut microbiota can influence brain function through chemical, neuronal, immune, and metabolic pathways. Growing interest in the microbiota-gut-brain axis has consequently prompted investigation of strain-specific probiotics as potential adjunctive approaches to restoring gut microbial homeostasis. This comprehensive narrative review critically integrates preclinical and human evidence on Bifidobacterium breve in AD-related pathology and age-associated cognitive impairment. Targeted searches of PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar were conducted through April 2026 and supplemented by reference-list searching. The evidence base comprised 13 preclinical publications and five human publications representing four independent clinical cohorts. Preclinical studies, predominantly conducted in rodent models, reported strain-dependent effects on cognition, amyloid- and tau-related measures, synaptic proteins, neuroinflammation, oxidative stress, microbial composition, and metabolite profiles. Human evidence was limited to B. breve MCC1274 (A1) and primarily involved Japanese adults with memory complaints or suspected mild cognitive impairment. Overall, current evidence supports a mechanistic rationale for the potential role of B. breve as a gut-brain modulator; however, the heterogeneity of preclinical findings and the small, geographically concentrated clinical evidence base highlight the need for further well-designed studies to more clearly define clinical efficacy and long-term safety."
+        "Background Overweight and obesity among adolescents are major public health concerns. Sociodemographic, familial, dietary, and lifestyle factors, including screen time and physical activity, may be associated with excess body weight. In the United Arab Emirates (UAE), limited evidence has examined recreational screen time alongside these factors in the same adolescent population. Objective This study aimed to determine the prevalence of overweight and obesity among adolescents aged 14-18 years in the UAE and examine whether greater recreational screen time was associated with higher odds of overweight/obesity. Secondary analyses assessed associations of sociodemographic, familial, dietary, physical activity, and sleep factors with overweight/obesity. Methodology A cross-sectional study included 688 adolescents aged 14-18 years recruited from participating high schools and a university teaching hospital in the UAE between December 2023 and April 2024. Height and weight were measured by the investigators, and BMI was classified using sex- and age-specific WHO 2007 growth reference cutoffs. Participants completed a structured questionnaire assessing sociodemographic characteristics, family history, dietary habits, physical activity, screen time, and sleep. Data were analyzed using descriptive statistics, Pearson chi-square tests, and binary logistic regression. Results The prevalence of combined overweight/obesity was 39.8% (95% CI: 36.2-43.5%); 27.3% (95% CI: 24.0-30.7%) were overweight, and 12.5% (95% CI: 10.0-15.0%) were obese. Although weekend non-academic screen time was associated with overweight/obesity in the chi-square analysis (p = 0.017), no screen-time category was significant in bivariable logistic regression. In multivariable analysis, overweight/obesity was associated with male sex (AOR = 1.636, 95% CI: 1.155-2.318; p = 0.006), family history of obesity (AOR = 2.014, 95% CI: 1.197-3.389; p = 0.008), frequent eating when not hungry or bored (AOR = 1.884, 95% CI: 1.012-3.509; p = 0.046), and no participation in ≥60 minutes/day of out-of-school moderate-to-vigorous physical activity on any day of the week (AOR = 1.896, 95% CI: 1.285-2.799; p = 0.001). Conclusions Overweight and obesity were common among adolescents in this study. Recreational screen time was not associated with overweight/obesity in the regression analysis. Male gender, family history of obesity, frequent eating when not hungry or bored, and no participation in ≥60 minutes/day of out-of-school moderate-to-vigorous physical activity were associated with overweight/obesity after adjustment. Given the cross-sectional design and recruitment from participating schools and a university teaching hospital, these findings represent associations rather than causal relationships and are not nationally representative of UAE adolescents."
       ],
-      "journal": "Journal of Alzheimer's disease : JAD",
-      "date": "Oct 22, 2026",
+      "journal": "Cureus",
+      "date": "Oct 2026",
       "authors": [
-        "Hamzeh O",
-        "Halaji M",
-        "Rostami A",
-        "Md Ashraf G"
+        "Fatima S",
+        "Sayed Taha L",
+        "Sayed Taha S",
+        "Mohammed I",
+        "Jaber A",
+        "AlSharbatti S"
       ],
       "gmu_authors": [
-        "Ghulam Md Ashraf"
+        "Shatha AlSharbatti"
       ],
       "colleges": [
         "College of Medicine"
       ],
-      "doi": "10.1177/13872877261496277",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42921916/",
-      "first_seen": "2026-10-26"
+      "doi": "10.7759/cureus.117775",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43011934/",
+      "first_seen": "2026-11-12"
+    },
+    {
+      "pmid": "42985000",
+      "title": "Paraplegia Following Decompression Sickness (Caisson Disease): A Journey to Near-Complete Recovery",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Decompression sickness (DCS), also known as \"Caisson disease,\" is a potentially life-threatening condition caused by the formation of inert gas bubbles during rapid decompression, most commonly affecting deep-sea divers. Neurological involvement, particularly spinal cord injury leading to paraplegia, represents one of the most severe manifestations. We report the case of a 44-year-old Filipino male professional diver who developed acute paraplegia following a routine dive. Despite adherence to decompression protocols, he experienced sudden-onset bilateral lower limb weakness during ascent. Initial management included oxygen therapy followed by hyperbaric oxygen therapy, after which he was referred for intensive multidisciplinary rehabilitation within a few days. At presentation, the patient exhibited significant motor weakness with Medical Research Council grading of 2/5 in the left lower limb and 3/5 in the right lower limb, sensory loss below the T8 level, impaired bladder and bowel control, and complete dependence for mobility. Over a period of approximately three months of structured physiotherapy, including conventional therapy, robotic-assisted rehabilitation, neuromuscular stimulation, and gait training, he demonstrated remarkable functional recovery. Muscle strength improved to 4/5, with restoration of independent ambulation, improved sensory function, and regained bladder control. This case highlights the importance of early recognition, prompt hyperbaric therapy, and intensive rehabilitation in achieving near-complete recovery following severe neurological DCS."
+      ],
+      "journal": "Cureus",
+      "date": "Oct 2026",
+      "authors": [
+        "Michel M L",
+        "Kumar K",
+        "Eashak Ali SB",
+        "Ghanbari R",
+        "Khan R",
+        "Mahjoor K"
+      ],
+      "gmu_authors": [
+        "Rifa Khan"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.7759/cureus.117461",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985000/",
+      "first_seen": "2026-11-06"
     },
     {
       "pmid": "42984639",
@@ -2086,58 +2210,39 @@
       "first_seen": "2026-10-31"
     },
     {
-      "pmid": "43011934",
-      "title": "Prevalence of Overweight and Obesity and Their Associations With Screen Time and Other Behavioral Factors Among Adolescents in the United Arab Emirates",
-      "topic": "Diabetes and metabolism",
+      "pmid": "42953391",
+      "title": "Clinicopathological Profile, Treatment Patterns and Documented Clinical Outcomes of Women with Breast Cancer at Shendi Hospital, Sudan: A Retrospective, Single-Center, Hospital-Based Cross-Sectional Study",
+      "topic": "Cancer research",
       "abstract": [
-        "Background Overweight and obesity among adolescents are major public health concerns. Sociodemographic, familial, dietary, and lifestyle factors, including screen time and physical activity, may be associated with excess body weight. In the United Arab Emirates (UAE), limited evidence has examined recreational screen time alongside these factors in the same adolescent population. Objective This study aimed to determine the prevalence of overweight and obesity among adolescents aged 14-18 years in the UAE and examine whether greater recreational screen time was associated with higher odds of overweight/obesity. Secondary analyses assessed associations of sociodemographic, familial, dietary, physical activity, and sleep factors with overweight/obesity. Methodology A cross-sectional study included 688 adolescents aged 14-18 years recruited from participating high schools and a university teaching hospital in the UAE between December 2023 and April 2024. Height and weight were measured by the investigators, and BMI was classified using sex- and age-specific WHO 2007 growth reference cutoffs. Participants completed a structured questionnaire assessing sociodemographic characteristics, family history, dietary habits, physical activity, screen time, and sleep. Data were analyzed using descriptive statistics, Pearson chi-square tests, and binary logistic regression. Results The prevalence of combined overweight/obesity was 39.8% (95% CI: 36.2-43.5%); 27.3% (95% CI: 24.0-30.7%) were overweight, and 12.5% (95% CI: 10.0-15.0%) were obese. Although weekend non-academic screen time was associated with overweight/obesity in the chi-square analysis (p = 0.017), no screen-time category was significant in bivariable logistic regression. In multivariable analysis, overweight/obesity was associated with male sex (AOR = 1.636, 95% CI: 1.155-2.318; p = 0.006), family history of obesity (AOR = 2.014, 95% CI: 1.197-3.389; p = 0.008), frequent eating when not hungry or bored (AOR = 1.884, 95% CI: 1.012-3.509; p = 0.046), and no participation in ≥60 minutes/day of out-of-school moderate-to-vigorous physical activity on any day of the week (AOR = 1.896, 95% CI: 1.285-2.799; p = 0.001). Conclusions Overweight and obesity were common among adolescents in this study. Recreational screen time was not associated with overweight/obesity in the regression analysis. Male gender, family history of obesity, frequent eating when not hungry or bored, and no participation in ≥60 minutes/day of out-of-school moderate-to-vigorous physical activity were associated with overweight/obesity after adjustment. Given the cross-sectional design and recruitment from participating schools and a university teaching hospital, these findings represent associations rather than causal relationships and are not nationally representative of UAE adolescents."
+        "Background: Breast cancer is the most common cancer in Sudan, yet hospital-based data from outside Khartoum are scarce. We described the clinicopathological profile, treatment and documented outcomes of women with breast cancer at Shendi Hospital and explored factors associated with recurrence, distant metastasis and global well-being.",
+        "Methods: In this retrospective, single-center, cross-sectional review, we abstracted records of 100 women with histologically confirmed invasive breast cancer managed in 2021-2025. Distant metastasis was defined as documented extranodal disease, and global well-being as a single good/fair/poor rating recorded in clinical notes. Associations were examined with exact tests and three pre-specified Firth penalized logistic regression models (four covariates each) with bootstrap validation; all inferential analyses were exploratory.",
+        "Results: Median age was 50 years (IQR 44-55). Stage III/IV disease was recorded in 72%, tumors >2 cm in 97% and nodal involvement in 73%. Receptor status was undocumented in 69%; all 31 documented results were hormone-receptor-negative (18 triple-negative, 13 HER2-positive), yet 16 of these women had recorded hormonal therapy. Mastectomy was performed in 65%; chemotherapy, radiotherapy and hormonal therapy were recorded in 99%, 48% and 45%. Recurrence was documented in 19/98 women (19%) and extranodal metastasis in 30/93 (32%); no deaths were recorded and follow-up duration was unknown. Tumors >5 cm were associated with recurrence (adjusted odds ratio 3.81, 95% CI 1.28-11.61), and extranodal metastasis with a fair well-being rating (5.64, 2.01-17.20); nodal status, economic status and age were not associated with any outcome after adjustment. Recorded treatment co-occurred with recurrence, but treatment timing was undocumented, precluding causal interpretation.",
+        "Conclusion: Women at this center presented with advanced disease, and receptor documentation was largely absent and internally inconsistent. These exploratory associations need confirmation in prospective studies with complete receptor testing, dated treatment records and active follow-up."
       ],
-      "journal": "Cureus",
-      "date": "Oct 2026",
+      "journal": "Breast cancer (Dove Medical Press)",
+      "date": "2026",
       "authors": [
-        "Fatima S",
-        "Sayed Taha L",
-        "Sayed Taha S",
-        "Mohammed I",
-        "Jaber A",
-        "AlSharbatti S"
+        "Ali EI",
+        "Abusail Mustafa S",
+        "Elzein HO",
+        "Andarawi MO",
+        "Zaroog MS",
+        "Abass AE",
+        "Attaelmanan GA",
+        "Yasin FMO",
+        "Alfeel AH",
+        "Ismail M"
       ],
       "gmu_authors": [
-        "Shatha AlSharbatti"
+        "Ayman Hussein Alfeel",
+        "Marwan Ismail"
       ],
       "colleges": [
-        "College of Medicine"
+        "College of Health Sciences"
       ],
-      "doi": "10.7759/cureus.117775",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43011934/",
-      "first_seen": "2026-11-12"
-    },
-    {
-      "pmid": "42985000",
-      "title": "Paraplegia Following Decompression Sickness (Caisson Disease): A Journey to Near-Complete Recovery",
-      "topic": "Brain and nervous system",
-      "abstract": [
-        "Decompression sickness (DCS), also known as \"Caisson disease,\" is a potentially life-threatening condition caused by the formation of inert gas bubbles during rapid decompression, most commonly affecting deep-sea divers. Neurological involvement, particularly spinal cord injury leading to paraplegia, represents one of the most severe manifestations. We report the case of a 44-year-old Filipino male professional diver who developed acute paraplegia following a routine dive. Despite adherence to decompression protocols, he experienced sudden-onset bilateral lower limb weakness during ascent. Initial management included oxygen therapy followed by hyperbaric oxygen therapy, after which he was referred for intensive multidisciplinary rehabilitation within a few days. At presentation, the patient exhibited significant motor weakness with Medical Research Council grading of 2/5 in the left lower limb and 3/5 in the right lower limb, sensory loss below the T8 level, impaired bladder and bowel control, and complete dependence for mobility. Over a period of approximately three months of structured physiotherapy, including conventional therapy, robotic-assisted rehabilitation, neuromuscular stimulation, and gait training, he demonstrated remarkable functional recovery. Muscle strength improved to 4/5, with restoration of independent ambulation, improved sensory function, and regained bladder control. This case highlights the importance of early recognition, prompt hyperbaric therapy, and intensive rehabilitation in achieving near-complete recovery following severe neurological DCS."
-      ],
-      "journal": "Cureus",
-      "date": "Oct 2026",
-      "authors": [
-        "Michel M L",
-        "Kumar K",
-        "Eashak Ali SB",
-        "Ghanbari R",
-        "Khan R",
-        "Mahjoor K"
-      ],
-      "gmu_authors": [
-        "Rifa Khan"
-      ],
-      "colleges": [
-        "College of Medicine"
-      ],
-      "doi": "10.7759/cureus.117461",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985000/",
-      "first_seen": "2026-11-06"
+      "doi": "10.2147/BCTT.S650507",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42953391/",
+      "first_seen": "2026-10-30"
     },
     {
       "pmid": "42952724",
@@ -2248,6 +2353,65 @@
       "doi": "10.3390/ijms27209044",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42941816/",
       "first_seen": "2026-10-28"
+    },
+    {
+      "pmid": "42934775",
+      "title": "Smartphone-derived mobility metrics identify distinct recovery phenotypes following ACL reconstruction: associations with function, pain, and psychological health",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Background: Recovery after anterior cruciate ligament (ACL) reconstruction is typically monitored through patient-reported outcomes and periodic clinical assessments, which may not fully capture real-world functional performance. Smartphone-derived mobility data provide a passive and objective approach for evaluating daily activity and recovery.",
+        "Purpose: To examine associations between smartphone-derived mobility metrics and recovery outcomes in adults 3-12 months after primary ACL reconstruction and to identify distinct recovery phenotypes using mobility-based clustering.",
+        "Methods: This cross-sectional study included 120 adults who were 3-12 months post-primary ACL reconstruction and had at least 14 days of retrospective smartphone mobility data. Mobility variables included daily step count, activity volume and intensity (e.g., active minutes and walking bout duration), sedentary behavior, and walking-related metrics. Outcomes included pain (Numeric Rating Scale [NRS]), functional status (Knee Injury and Osteoarthritis Outcome Score [KOOS] Pain, Activities of Daily Living, and Sport/Recreation subscales), knee-related quality of life (ACL Quality of Life questionnaire [ACL-QoL]), and psychological measures including the Pain Catastrophizing Scale (PCS), Patient Health Questionnaire-9 (PHQ-9), and Generalized Anxiety Disorder-7 (GAD-7). Associations were evaluated using Pearson correlation and multivariable linear regression analyses. Recovery phenotypes were identified using unsupervised k-means clustering of mobility metrics.",
+        "Results: Higher daily step counts were independently associated with better KOOS-ADL scores (β = 0.48, p < 0.001), higher ACL-QoL scores (β = 0.45, p < 0.001), and lower pain intensity (β = - 0.39, p = 0.001). Three recovery phenotypes emerged: a high-activity/low-pain phenotype with superior function and minimal psychological distress, a moderate-activity/moderate-pain phenotype with intermediate outcomes, and a low-activity/high-pain phenotype characterized by reduced mobility, poorer function, greater pain, and higher pain catastrophizing. Significant gradients were observed across phenotypes for pain (NRS: 1.72-5.01), function (KOOS-Pain: 88.94-62.37), and pain catastrophizing (PCS: 8.52-24.91; all p < 0.001).",
+        "Conclusions: Smartphone-derived mobility metrics were significantly associated with recovery outcomes following ACL reconstruction. Mobility-based clustering identified distinct recovery phenotypes associated with meaningful differences in pain, function, and pain catastrophizing, highlighting the potential of passive mobility monitoring to support personalized rehabilitation strategies. However, given the variability in evaluation periods and uncontrolled surgical factors, future research employing standardized, long-term follow-ups is warranted."
+      ],
+      "journal": "Knee surgery & related research",
+      "date": "Oct 26, 2026",
+      "authors": [
+        "Kandakurti PK",
+        "Koura GM",
+        "Reddy RS",
+        "Kardm S",
+        "Gautam AP",
+        "Elshiwi AMF",
+        "Ali ZA",
+        "Alali RS",
+        "El Melhat AM"
+      ],
+      "gmu_authors": [
+        "Praveen Kumar Kandakurti"
+      ],
+      "colleges": [
+        "College of Health Sciences"
+      ],
+      "doi": "10.1186/s43019-026-00353-1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934775/",
+      "first_seen": "2026-10-28"
+    },
+    {
+      "pmid": "42921916",
+      "title": "Targeting the gut-brain axis with Bifidobacterium breve in neurodegeneration: A comprehensive narrative review of current evidence in Alzheimer's disease and cognitive aging",
+      "topic": "Brain and nervous system",
+      "abstract": [
+        "Alzheimer's disease (AD) is a multifactorial neurodegenerative disorder arising from the interplay of amyloid, tau, neuroimmune, oxidative stress, metabolic, vascular, and synaptic processes, ultimately resulting in neurodegeneration across multiple brain regions and progressive memory and cognitive impairment. Gut dysfunction may contribute to the initiation and progression of AD-related processes through the gut-brain axis, whereby alterations in the gut microbiota can influence brain function through chemical, neuronal, immune, and metabolic pathways. Growing interest in the microbiota-gut-brain axis has consequently prompted investigation of strain-specific probiotics as potential adjunctive approaches to restoring gut microbial homeostasis. This comprehensive narrative review critically integrates preclinical and human evidence on Bifidobacterium breve in AD-related pathology and age-associated cognitive impairment. Targeted searches of PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar were conducted through April 2026 and supplemented by reference-list searching. The evidence base comprised 13 preclinical publications and five human publications representing four independent clinical cohorts. Preclinical studies, predominantly conducted in rodent models, reported strain-dependent effects on cognition, amyloid- and tau-related measures, synaptic proteins, neuroinflammation, oxidative stress, microbial composition, and metabolite profiles. Human evidence was limited to B. breve MCC1274 (A1) and primarily involved Japanese adults with memory complaints or suspected mild cognitive impairment. Overall, current evidence supports a mechanistic rationale for the potential role of B. breve as a gut-brain modulator; however, the heterogeneity of preclinical findings and the small, geographically concentrated clinical evidence base highlight the need for further well-designed studies to more clearly define clinical efficacy and long-term safety."
+      ],
+      "journal": "Journal of Alzheimer's disease : JAD",
+      "date": "Oct 22, 2026",
+      "authors": [
+        "Hamzeh O",
+        "Halaji M",
+        "Rostami A",
+        "Md Ashraf G"
+      ],
+      "gmu_authors": [
+        "Ghulam Md Ashraf"
+      ],
+      "colleges": [
+        "College of Medicine"
+      ],
+      "doi": "10.1177/13872877261496277",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42921916/",
+      "first_seen": "2026-10-26"
     },
     {
       "pmid": "42903513",
